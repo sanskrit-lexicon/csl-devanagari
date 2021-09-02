@@ -35,7 +35,7 @@ def run_code(dictcode):
 	fout = codecs.open(fileout, 'w', 'utf-8')
 	if dictcode in ['vcp', 'skd']:
 		data = convert_to_devanagari(data)
-	elif dictcode in ['lan']:
+	elif dictcode in ['lan', 'gra']:
 		data = convert_partially_to_devanagari('{@', ',@}', 'iast', data)
 	elif dictcode in ['md']:
 		data = convert_partially_to_devanagari('{#', '#}', 'slp1', data)
