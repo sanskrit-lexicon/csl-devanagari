@@ -15,6 +15,17 @@ def convert_to_devanagari(data):
 			result.append(sanscript.transliterate(lin, 'slp1', 'devanagari'))
 	return '\n'.join(result)
 
+def convert_partially_to_devanagari(startMark, endMark, data):
+	reg = startMark + '.*?' + endMark
+	splt = re.split(r'(' + reg + ')', data)
+	result = []
+	for i in range(len(splt)):
+		if i % 2 == 0:
+			result.append(splt[i])
+		else:
+			result.append(sanscript.transliterate(splt[i], 'slp1', 'devanagari'))
+	return ''.join(result)
+
 def run_code(dictcode):
 	filein = os.path.join('..', '..', 'csl-orig', 'v02', dictcode, dictcode + '.txt')
 	fin = codecs.open(filein, 'r', 'utf-8')
@@ -22,7 +33,10 @@ def run_code(dictcode):
 	fin.close()
 	fileout = os.path.join('..', 'v02', dictcode, dictcode + '.txt')
 	fout = codecs.open(fileout, 'w', 'utf-8')
-	data = convert_to_devanagari(data)
+	if dictcode in ['vcp', 'skd']:
+		data = convert_to_devanagari(data)
+	else:
+		data = convert_partially_to_devanagari('{#', '#}', data)
 	fout.write(data)
 	fout.close()
 	

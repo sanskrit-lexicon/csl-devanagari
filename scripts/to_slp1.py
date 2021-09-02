@@ -15,6 +15,19 @@ def convert_to_slp1(data):
 			result.append(sanscript.transliterate(lin, 'devanagari', 'slp1'))
 	return '\n'.join(result)
 
+
+def convert_partially_to_slp1(startMark, endMark, data):
+	reg = startMark + '.*?' + endMark
+	splt = re.split(r'(' + reg + ')', data)
+	result = []
+	for i in range(len(splt)):
+		if i % 2 == 0:
+			result.append(splt[i])
+		else:
+			result.append(sanscript.transliterate(splt[i], 'devanagari', 'slp1'))
+	return ''.join(result)
+
+
 def run_code(dictcode):
 	filein = os.path.join('..', 'v02', dictcode, dictcode + '.txt')
 	fin = codecs.open(filein, 'r', 'utf-8')
@@ -22,7 +35,10 @@ def run_code(dictcode):
 	fin.close()
 	fileout = os.path.join('..', 'slp1', dictcode + '.txt')
 	fout = codecs.open(fileout, 'w', 'utf-8')
-	data = convert_to_slp1(data)
+	if dictcode in ['vcp', 'skd']:
+		data = convert_to_slp1(data)
+	else:
+		data = convert_partially_to_slp1('{#', '#}', data)
 	fout.write(data)
 	fout.close()
 	
