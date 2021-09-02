@@ -44,7 +44,7 @@ def run_code(dictcode):
 		data = convert_partially_to_slp1('{@', ',@}', 'iast', data)
 	elif dictcode in ['mw']:
 		data = convert_partially_to_slp1('<s>', '</s>', 'slp1', data)
-	elif dictcode in ['ap90']:
+	elif dictcode in ['ap90', 'mwe']:
 		data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
 	else:
 		data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
