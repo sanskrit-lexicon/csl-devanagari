@@ -20,7 +20,7 @@ def run_code(dictcode):
 	fin = codecs.open(filein, 'r', 'utf-8')
 	data = fin.read()
 	fin.close()
-	fileout = os.path.join('..', 'slp1', dictcode, dictcode + '.txt')
+	fileout = os.path.join('..', 'slp1', dictcode + '.txt')
 	fout = codecs.open(fileout, 'w', 'utf-8')
 	data = convert_to_slp1(data)
 	fout.write(data)
