@@ -15,7 +15,7 @@ def convert_to_devanagari(data):
 			result.append(sanscript.transliterate(lin, 'slp1', 'devanagari'))
 	return '\n'.join(result)
 
-def convert_partially_to_devanagari(startMark, endMark, data):
+def convert_partially_to_devanagari(startMark, endMark, inputTranslit, data):
 	reg = startMark + '.*?' + endMark
 	splt = re.split(r'(' + reg + ')', data)
 	result = []
@@ -23,7 +23,7 @@ def convert_partially_to_devanagari(startMark, endMark, data):
 		if i % 2 == 0:
 			result.append(splt[i])
 		else:
-			result.append(sanscript.transliterate(splt[i], 'slp1', 'devanagari'))
+			result.append(sanscript.transliterate(splt[i], inputTranslit, 'devanagari'))
 	return ''.join(result)
 
 def run_code(dictcode):
@@ -36,7 +36,8 @@ def run_code(dictcode):
 	if dictcode in ['vcp', 'skd']:
 		data = convert_to_devanagari(data)
 	else:
-		data = convert_partially_to_devanagari('{#', '#}', data)
+		data = convert_partially_to_devanagari('{#', '#}', 'slp1', data)
+		data = convert_partially_to_devanagari('{%', '%}', 'iast', data)
 	fout.write(data)
 	fout.close()
 	
