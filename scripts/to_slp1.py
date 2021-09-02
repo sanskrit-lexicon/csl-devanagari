@@ -6,14 +6,14 @@ import re
 from indic_transliteration import sanscript
 
 def convert_to_slp1(data):
-	result = ''
+	result = []
 	lines = data.split('\n')
 	for lin in lines:
 		if lin.startswith('[Page') or lin.startswith('<H>') or lin.startswith('<L>') or lin.startswith('<LEND>'):
-			result += lin + '\n'
+			result.append(lin)
 		else:
-			result += sanscript.transliterate(lin, 'devanagari', 'slp1') + '\n'
-	return result
+			result.append(sanscript.transliterate(lin, 'devanagari', 'slp1'))
+	return '\n'.join(result)
 
 def run_code(dictcode):
 	filein = os.path.join('..', 'v02', dictcode, dictcode + '.txt')
