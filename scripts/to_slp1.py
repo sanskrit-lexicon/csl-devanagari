@@ -35,7 +35,7 @@ def run_code(dictcode):
 	fin.close()
 	fileout = os.path.join('..', 'slp1', dictcode + '.txt')
 	fout = codecs.open(fileout, 'w', 'utf-8')
-	if dictcode in ['vcp', 'skd']:
+	if dictcode in ['vcp', 'skd', 'armh']:
 		data = convert_to_slp1(data)
 	elif dictcode in ['lan', 'gra']:
 		data = convert_partially_to_slp1('{@', ',@}', 'iast', data)
