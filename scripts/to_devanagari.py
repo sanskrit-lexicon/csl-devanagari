@@ -40,7 +40,7 @@ def run_code(dictcode):
 	elif dictcode in ['md']:
 		data = convert_partially_to_devanagari('{#', '#}', 'slp1', data)
 		data = convert_partially_to_devanagari('{@', ',@}', 'iast', data)
-	elif dictcode in ['ap90', 'mwe', 'bor', 'ae', 'pwg', 'pw', 'ccs', 'mw72', 'bop', 'inm', 'vei', 'pui', 'bhs', 'acc', 'ieg']:
+	elif dictcode in ['ap90', 'mwe', 'bor', 'ae', 'pwg', 'pw', 'ccs', 'mw72', 'bop', 'inm', 'vei', 'pui', 'bhs', 'acc', 'ieg', 'snp']:
 		data = convert_partially_to_devanagari('{#', '#}', 'slp1', data)
 	elif dictcode in ['mw', 'krm']:
 		data = convert_partially_to_devanagari('<s>', '</s>', 'slp1', data)
