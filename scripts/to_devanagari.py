@@ -37,6 +37,9 @@ def run_code(dictcode):
 		data = convert_to_devanagari(data)
 	elif dictcode in ['lan']:
 		data = convert_partially_to_devanagari('{@', ',@}', 'iast', data)
+	elif dictcode in ['md']:
+		data = convert_partially_to_devanagari('{#', '#}', 'slp1', data)
+		data = convert_partially_to_devanagari('{@', ',@}', 'iast', data)
 	else:
 		data = convert_partially_to_devanagari('{#', '#}', 'slp1', data)
 		data = convert_partially_to_devanagari('{%', '%}', 'iast', data)

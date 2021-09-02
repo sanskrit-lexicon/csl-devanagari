@@ -37,10 +37,14 @@ def run_code(dictcode):
 	fout = codecs.open(fileout, 'w', 'utf-8')
 	if dictcode in ['vcp', 'skd']:
 		data = convert_to_slp1(data)
+	elif dictcode in ['lan']:
+		data = convert_partially_to_slp1('{@', ',@}', 'iast', data)
+	elif dictcode in ['md']:
+		data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
+		data = convert_partially_to_slp1('{@', ',@}', 'iast', data)
 	else:
 		data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
 		data = convert_partially_to_slp1('{%', '%}', 'iast', data)
-		data = convert_partially_to_slp1('{@', ',@}', 'iast', data)
 	fout.write(data)
 	fout.close()
 	

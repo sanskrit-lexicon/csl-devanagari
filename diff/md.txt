@@ -1,0 +1,4884 @@
+735c735
+< {#akz#}¦AKṢ, reach: {%pp.%} {@aṣṭa| nis,@} unman.
+---
+> {#akz#}¦AKṢ, reach: {%pp.%} {@aṣṭa. nis,@} unman.
+1260c1260
+< <>{@-caya@}, {@m|,@} {@-cayana@}, {%n.%} heaping up the fire-altar; <lbinfo n="4"/>
+---
+> <>{@-caya@}, {@m.,@} {@-cayana@}, {%n.%} heaping up the fire-altar; <lbinfo n="4"/>
+1610c1610
+< {#aGnya#}¦ághnya ({%also%} {@-yá@}), {%m|%} bull; {@ā,@} {%f.%} cow.
+---
+> {#aGnya#}¦ághnya ({%also%} {@-yá@}), {%m.%} bull; {@ā,@} {%f.%} cow.
+1941c1941
+< <>{@añcaya@}, p| produce, cause| {@anu,@} follow, -- one 
+---
+> <>{@añcaya@}, P. produce, cause. {@anu,@} follow, -- one 
+1945c1945
+< <>raise up: {%pp.%} {@-akta| ni,@} bend down; sink, hang 
+---
+> <>raise up: {%pp.%} {@-akta. ni,@} bend down; sink, hang 
+2528c2528
+< <>{@ni,@} hide among ({@antar@})| {@vi,@} beautify; manifest, <lbinfo n="4"/>
+---
+> <>{@ni,@} hide among ({@antar@}). {@vi,@} beautify; manifest, <lbinfo n="4"/>
+2657c2657
+< <>egg; {@-kośa@}, {%m|%} mundane egg, universe; {@-gata,@} 
+---
+> <>egg; {@-kośa@}, {%m.%} mundane egg, universe; {@-gata,@} 
+3310c3310
+< <>{@-śānta@}, {%pp|%} completely allayed; {@-sakta,@} {%pp.%} 
+---
+> <>{@-śānta@}, {%pp.%} completely allayed; {@-sakta,@} {%pp.%} 
+3333c3333
+< <>{@ā@} {%f| n| of a spell%}; {@-balin,@} {%a. id.%}; {@-baliyas,@} {%cpv.%} 
+---
+> <>{@ā@} {%f. N. of a spell%}; {@-balin,@} {%a. id.%}; {@-baliyas,@} {%cpv.%} 
+3497c3497
+< <> {@-vallabha@} {%a|%} very dear: {@-tā,@} {%f.,%} {@-tva,@} {%n. %}
+---
+> <> {@-vallabha@} {%a.%} very dear: {@-tā,@} {%f.,%} {@-tva,@} {%n. %}
+3547c3547
+< <>{@-tīrṇa@}, {%pp|%} too extensive; {@-vihvala,@} {%a.%} very 
+---
+> <>{@-tīrṇa@}, {%pp.%} too extensive; {@-vihvala,@} {%a.%} very 
+3568c3568
+< <>{@-vṛṣṭi@}, {%f|%} excessive rain: {@-da,@} {%a.%} giving --.
+---
+> <>{@-vṛṣṭi@}, {%f.%} excessive rain: {@-da,@} {%a.%} giving --.
+4088c4088
+< <>{@-kaṭa@}, {%a|%} excessive, extraordinary; {@-uttama,@} 
+---
+> <>{@-kaṭa@}, {%a.%} excessive, extraordinary; {@-uttama,@} 
+4367c4367
+< {#adAyAda#}¦a-dāyādá, ({@î@}; {%c|%} {@ā,@}) {%a.%} not entitled 
+---
+> {#adAyAda#}¦a-dāyādá, ({@î@}; {%C.%} {@ā,@}) {%a.%} not entitled 
+4719c4719
+< <>-°); {@-ceṣṭa@}, {%a|%} acting meanly; {@-dhī,@} {%a.%} of 
+---
+> <>-°); {@-ceṣṭa@}, {%a.%} acting meanly; {@-dhī,@} {%a.%} of 
+4773c4773
+< <>{@-daṇḍana@}, {%n|%} unjust punishment; {@-bhīru,@} {%a.%} 
+---
+> <>{@-daṇḍana@}, {%n.%} unjust punishment; {@-bhīru,@} {%a.%} 
+4810c4810
+< <>{@-śayyā@}, {%f|%} sleeping on the ground: {@-āsanin,@} 
+---
+> <>{@-śayyā@}, {%f.%} sleeping on the ground: {@-āsanin,@} 
+4894c4894
+< <>({%gr.%}); {@-maṇḍapa@}, {%n|%} law-court; {@-lekhaka,@} {%m.%} 
+---
+> <>({%gr.%}); {@-maṇḍapa@}, {%n.%} law-court; {@-lekhaka,@} {%m.%} 
+5092c5092
+< <>emperor; {@-rājá@}, {%m| id|%}: {@-tā,@} {%f.%} supreme rule 
+---
+> <>emperor; {@-rājá@}, {%m. id.%}: {@-tā,@} {%f.%} supreme rule 
+5632c5632
+< <>Ś{%iva's eye%}); {@-krīḍa@}, {%f|%} dalliance; {@-tva,@} {%n.%} bodilessness; <lbinfo n="4"/>
+---
+> <>Ś{%iva's eye%}); {@-krīḍa@}, {%f.%} dalliance; {@-tva,@} {%n.%} bodilessness; <lbinfo n="4"/>
+5971c5971
+< <>{% shell%}; {@-śakti@}, {%m| n|%}; {@-sīra,@} {%m. N.%}.
+---
+> <>{% shell%}; {@-śakti@}, {%m. N.%}; {@-sīra,@} {%m. N.%}.
+6466c6466
+< <>{@-paṇḍita@}, {%a|%} skilled in mischief; {@-antara,@} 
+---
+> <>{@-paṇḍita@}, {%a.%} skilled in mischief; {@-antara,@} 
+6641c6641
+< <>{@-citta@}, {%a|%} unsteady-minded: {@-tva,@} {%n.%} -ness.
+---
+> <>{@-citta@}, {%a.%} unsteady-minded: {@-tva,@} {%n.%} -ness.
+7892c7892
+< <>showing kindness; {@-ja@}, {%f|%}, {@-tva,@} {%n.%} favour; proneness; 
+---
+> <>showing kindness; {@-ja@}, {%f.%}, {@-tva,@} {%n.%} favour; proneness; 
+7928c7928
+< <>sympathy with ({@prati@}; {%g|, lc|%}, -°): {@-vat,@} {%a.%} 
+---
+> <>sympathy with ({@prati@}; {%g., lc.%}, -°): {@-vat,@} {%a.%} 
+7954c7954
+< <>{@hīta@}, {%pp|%} favoured, obliged; {@-godam,@} {%ad.%} on 
+---
+> <>{@hīta@}, {%pp.%} favoured, obliged; {@-godam,@} {%ad.%} on 
+7960c7960
+< <>satisfaction; {@-ṇa@}, {%n|%} showing favour; {@-artham,@} 
+---
+> <>satisfaction; {@-ṇa@}, {%n.%} showing favour; {@-artham,@} 
+8302c8302
+< <>{@-bhāṣitṛ@}, {%a|%} addressing; {@-bhūta,@} {%pp.%} experienced, <lbinfo n="2"/>
+---
+> <>{@-bhāṣitṛ@}, {%a.%} addressing; {@-bhūta,@} {%pp.%} experienced, <lbinfo n="2"/>
+8330c8330
+< <>followed; {@-yātṛ@}, {%m|%} companion; {@-yātra,@} {%n.,%} 
+---
+> <>followed; {@-yātṛ@}, {%m.%} companion; {@-yātra,@} {%n.,%} 
+8370c8370
+< <>{@-ja@}, {%a|%} born of such a union; {@-lomana,@} {%a.%} putting <lbinfo n="3"/>
+---
+> <>{@-ja@}, {%a.%} born of such a union; {@-lomana,@} {%a.%} putting <lbinfo n="3"/>
+8430c8430
+< <>{@-ṇa@}, {%n|%} repeated recitation; {@-vyāhāra,@} {%m.%} 
+---
+> <>{@-ṇa@}, {%n.%} repeated recitation; {@-vyāhāra,@} {%m.%} 
+8443c8443
+< <>({%of a bargain%}): {@-vat@}, {%a|%} penitent; {@-ākṣepa,@} 
+---
+> <>({%of a bargain%}): {@-vat@}, {%a.%} penitent; {@-ākṣepa,@} 
+8504c8504
+< <> to: {@-ṇa@}, {%n|%} following, pursuing; {@-sānu,@} 
+---
+> <> to: {@-ṇa@}, {%n.%} following, pursuing; {@-sānu,@} 
+8976c8976
+< <>{%N.%}); {@-janman@}, {%a| id|%}: {@-tā,@} {%f. abst. %}
+---
+> <>{%N.%}); {@-janman@}, {%a. id.%}: {@-tā,@} {%f. abst. %}
+9068c9068
+< <>{@-bhaṭṭa@}, {%m| n| of an author%}; {@-maya,@} {%a.%} consisting <lbinfo n="3"/>
+---
+> <>{@-bhaṭṭa@}, {%m. N. of an author%}; {@-maya,@} {%a.%} consisting <lbinfo n="3"/>
+9243c9243
+< <>{@-kṛtya@}, {%n| pl|%} reciprocal services; {@-gata,@} {%pp.%} 
+---
+> <>{@-kṛtya@}, {%n. pl.%} reciprocal services; {@-gata,@} {%pp.%} 
+9347c9347
+< <>{@-kartṛ@}, {%m|%} injurer; {@-karman,@} {%n.%} delivery; 
+---
+> <>{@-kartṛ@}, {%m.%} injurer; {@-karman,@} {%n.%} delivery; 
+9365c9365
+< {#apakrama#}¦apa-kramá, {%m.,%} {@-ṇa@}, {%n|,%} {@-krānti,@} {%f.%} 
+---
+> {#apakrama#}¦apa-kramá, {%m.,%} {@-ṇa@}, {%n.,%} {@-krānti,@} {%f.%} 
+9739c9739
+< <>{@-gaṇayat@}, {%pr| pt|%} unreflecting; {@-gata,@} {%pp.%} unknown, <lbinfo n="2"/>
+---
+> <>{@-gaṇayat@}, {%pr. pt.%} unreflecting; {@-gata,@} {%pp.%} unknown, <lbinfo n="2"/>
+9993c9993
+< <>{@-hṛti@}, {%f|%} taking away, removing; {@-hnava,@} 
+---
+> <>{@-hṛti@}, {%f.%} taking away, removing; {@-hnava,@} 
+10032c10032
+< <>of the eye; {@-dṛṣṭi@}, {%f|%} side-glance; {@-netra,@} 
+---
+> <>of the eye; {@-dṛṣṭi@}, {%f.%} side-glance; {@-netra,@} 
+10222c10222
+< <>{@-bhāj@}, {%a|%} unfortunate; {@-vat,@} {%a. id.%}.
+---
+> <>{@-bhāj@}, {%a.%} unfortunate; {@-vat,@} {%a. id.%}.
+10429c10429
+< <>{@-kāśita@}, {%pp|%} no manifested; {@-ketá,@} {%a.%} indistinguishable, <lbinfo n="5"/>
+---
+> <>{@-kāśita@}, {%pp.%} no manifested; {@-ketá,@} {%a.%} indistinguishable, <lbinfo n="5"/>
+10633c10633
+< <>{@-kṛ@}, not to treat ({%ac|%}) as an authority; {@-māda,@} 
+---
+> <>{@-kṛ@}, not to treat ({%ac.%}) as an authority; {@-māda,@} 
+10973c10973
+< <>{@-jīvin@}, {%m|%} fisherman; {@-tanaya,@} {%m. du.%} the 
+---
+> <>{@-jīvin@}, {%m.%} fisherman; {@-tanaya,@} {%m. du.%} the 
+11058c11058
+< <>{@-ṇā@}, {%f|%} promise of security; {@-datta,@} {%m. N. of a %}
+---
+> <>{@-ṇā@}, {%f.%} promise of security; {@-datta,@} {%m. N. of a %}
+11148c11148
+< <>{@-maṇa@}, {%n|%} going up to; {@-krā́nti,@} {%f.%} overcoming.
+---
+> <>{@-maṇa@}, {%n.%} going up to; {@-krā́nti,@} {%f.%} overcoming.
+11281c11281
+< <>announced, {@-tṛ@}, {%m|%} one who speaks, {@-na,@} {%n.%} 
+---
+> <>announced, {@-tṛ@}, {%m.%} one who speaks, {@-na,@} {%n.%} 
+11473c11473
+< <> {@-yoktṛ@}, {%m|%} assailant; plaintiff; {@-yoga,@} 
+---
+> <> {@-yoktṛ@}, {%m.%} assailant; plaintiff; {@-yoga,@} 
+11673c11673
+< <>{@-hati,@} {%f.%} impact; {@-haraṇa@}, {%n|%} conveying; {@-hita,@} 
+---
+> <>{@-hati,@} {%f.%} impact; {@-haraṇa@}, {%n.%} conveying; {@-hita,@} 
+11968c11968
+< <>{@-jayini@}, {%ad|%} towards ujjayinī; {@-utthāna,@} 
+---
+> <>{@-jayini@}, {%ad.%} towards Ujjayinī; {@-utthāna,@} 
+12234c12234
+< <>{@-vihaṃgama@}, {%m|%} swan; {@-patatrin,@} {%m.%} goose, 
+---
+> <>{@-vihaṃgama@}, {%m.%} swan; {@-patatrin,@} {%m.%} goose, 
+12374c12374
+< <>{@-aṇa@}, {%a|%} tormenting enemies; {@-ghātin,@} {%m.%} 
+---
+> <>{@-aṇa@}, {%a.%} tormenting enemies; {@-ghātin,@} {%m.%} 
+12495c12495
+< <> of nectar; {@-raśmi@}, {%m|%} moon; {@-rasa,@} {%m.%} 
+---
+> <> of nectar; {@-raśmi@}, {%m.%} moon; {@-rasa,@} {%m.%} 
+12614c12614
+< <>{@-muc@}, {%m|%} cloud; {@-raya,@} {%m.%} current; {@-rāśi@}, {%m.%} 
+---
+> <>{@-muc@}, {%m.%} cloud; {@-raya,@} {%m.%} current; {@-rāśi@}, {%m.%} 
+12634c12634
+< <>{@-da|@} {%m|%} cloud; {@-dhara,@} {%m. id.%}; {@-dhi,@} {%m.%} sea; 
+---
+> <>{@-da.@} {%m.%} cloud; {@-dhara,@} {%m. id.%}; {@-dhi,@} {%m.%} sea; 
+12888c12888
+< <>{@-ja@}, {%a|%} not born of the womb: {@-tva,@} {%n. abst. N.%}; 
+---
+> <>{@-ja@}, {%a.%} not born of the womb: {@-tva,@} {%n. abst. N.%}; 
+12945c12945
+< <>wild {@-jīva@}, {%a| id|%}; {@-dharma,@} {%m.%} savage state, 
+---
+> <>wild {@-jīva@}, {%a. id.%}; {@-dharma,@} {%m.%} savage state, 
+13337c13337
+< <>{@arjaya@}, p| ā| {%id|%} {@upa,@} {%cs. id.%}.
+---
+> <>{@arjaya@}, P. Ā. {%id.%} {@upa,@} {%cs. id.%}.
+13398c13398
+< <> {@-kṛtya@}, {%n|,%} {@ā,@} {%f.%} accomplishment of an 
+---
+> <> {@-kṛtya@}, {%n.,%} {@ā,@} {%f.%} accomplishment of an 
+13444c13444
+< <>{%d., lc., or%} {@-artham@})| {@pra,@} desire; ask one 
+---
+> <>{%d., lc., or%} {@-artham@}). {@pra,@} desire; ask one 
+13601c13601
+< <>{@galá@}, {%n|%} half a piece; {@-bhakṣita,@} {%pp.%} half-eaten; <lbinfo n="4"/>
+---
+> <>{@galá@}, {%n.%} half a piece; {@-bhakṣita,@} {%pp.%} half-eaten; <lbinfo n="4"/>
+13779,13780c13779,13780
+< <>{@-ṇa@}, {%a|%} claiming (-°); {%n|%} honouring: {@ā,@} {%f.%} 
+< <>honour; {@-ṇīya@}, {%fp|%} deserving of honour; {@-tva,@} 
+---
+> <>{@-ṇa@}, {%a.%} claiming (-°); {%n.%} honouring: {@ā,@} {%f.%} 
+> <>honour; {@-ṇīya@}, {%fp.%} deserving of honour; {@-tva,@} 
+14105c14105
+< <> of time; {@-jña@}, {%a|%} knowing little: {@-tva,@} 
+---
+> <> of time; {@-jña@}, {%a.%} knowing little: {@-tva,@} 
+14108c14108
+< <>{@-tejas@}, {%a|%} of little energy; {@-dhana,@} {%a.%} of small 
+---
+> <>{@-tejas@}, {%a.%} of little energy; {@-dhana,@} {%a.%} of small 
+14148c14148
+< <>slight lustre; {@-avaśiṣṭa@}, {%pp|%} little left: {@-tva,@} 
+---
+> <>slight lustre; {@-avaśiṣṭa@}, {%pp.%} little left: {@-tva,@} 
+14239,14240c14239,14240
+< <>in (-°); {@-guṇṭhana@}, {%n|%} veiling; veil: {@-vat,@} {%a.%} 
+< <>veiled; {@-gūraṇa@}, {%n|%} roaring, raging; {@-graha,@} 
+---
+> <>in (-°); {@-guṇṭhana@}, {%n.%} veiling; veil: {@-vat,@} {%a.%} 
+> <>veiled; {@-gūraṇa@}, {%n.%} roaring, raging; {@-graha,@} 
+14245c14245
+< <>{@-ṇa@}, {%n|%} rubbing off; {@-ghāta,@} {%m.%} blow; unhusking <lbinfo n="2"/>
+---
+> <>{@-ṇa@}, {%n.%} rubbing off; {@-ghāta,@} {%m.%} blow; unhusking <lbinfo n="2"/>
+14262c14262
+< <>{@-cāraṇa@}, {%n|%} treatment, application: {@i-ya,@} {%fp.%} 
+---
+> <>{@-cāraṇa@}, {%n.%} treatment, application: {@i-ya,@} {%fp.%} 
+14491c14491
+< <>{@-ana@}, {%n|%} breaking, tearing off; {@-bhās-a,@} {%m.%} 
+---
+> <>{@-ana@}, {%n.%} breaking, tearing off; {@-bhās-a,@} {%m.%} 
+14502c14502
+< <>{@-mantṛ@}, {%m|%} scorner (of, {%ac|%}); {@-manya-ka,@} {%a.%} 
+---
+> <>{@-mantṛ@}, {%m.%} scorner (of, {%ac.%}); {@-manya-ka,@} {%a.%} 
+14598c14598
+< <>{@-luṇṭhana@}, {%n|%} robbing; {@-lekhana,@} {%n.%} brushing <lbinfo n="5"/>
+---
+> <>{@-luṇṭhana@}, {%n.%} robbing; {@-lekhana,@} {%n.%} brushing <lbinfo n="5"/>
+14669c14669
+< <>descent; {@-sarpiṇī@}, {%f|%} descending cycle; {@-sāda,@} 
+---
+> <>descent; {@-sarpiṇī@}, {%f.%} descending cycle; {@-sāda,@} 
+14915c14915
+< <>ignorant; {@-jña@}, {%a|%} undiscerning: {@-tā,@} {%f.%} stupidity; <lbinfo n="3"/>
+---
+> <>ignorant; {@-jña@}, {%a.%} undiscerning: {@-tā,@} {%f.%} stupidity; <lbinfo n="3"/>
+15206c15206
+< <>{@-jña@}, {%a|%} undiscriminating; {@-ita,@} {%pp.%} unspecified. <lbinfo n="5"/>
+---
+> <>{@-jña@}, {%a.%} undiscriminating; {@-ita,@} {%pp.%} unspecified. <lbinfo n="5"/>
+15212c15212
+< <> {@-śrambha@}, {%m|%} mistrust: {@-tā,@} {%f. abst. N.%}; 
+---
+> <> {@-śrambha@}, {%m.%} mistrust: {@-tā,@} {%f. abst. N.%}; 
+15653c15653
+< <>{@-pāṇi@}, {%a|%} having no sword in the hand; {@-pūta,@} 
+---
+> <>{@-pāṇi@}, {%a.%} having no sword in the hand; {@-pūta,@} 
+15725c15725
+< <>{@-bhakṣaṇa@}, {%n|%} eating impure things; {@-bhāva,@} 
+---
+> <>{@-bhakṣaṇa@}, {%n.%} eating impure things; {@-bhāva,@} 
+15806c15806
+< <>{@-kuṭṭa@}, {%a|%} crushing with a stone; {@-tā,@} {%f.%} 
+---
+> <>{@-kuṭṭa@}, {%a.%} crushing with a stone; {@-tā,@} {%f.%} 
+15925c15925
+< <>{@-na-śālā@}, {%f|%} riding-hall; {@-tama,@} {%spv.%} best horse; 
+---
+> <>{@-na-śālā@}, {%f.%} riding-hall; {@-tama,@} {%spv.%} best horse; 
+15936c15936
+< <>{@-pṛṣṭha@}, {%n|%} horseback; {@-pluta,@} {%n.%} horse's 
+---
+> <>{@-pṛṣṭha@}, {%n.%} horseback; {@-pluta,@} {%n.%} horse's 
+15946c15946
+< <>{%m.%} horseman; {@-vṛṣa@}, {%m|%} station; {@-śālā,@} 
+---
+> <>{%m.%} horseman; {@-vṛṣa@}, {%m.%} station; {@-śālā,@} 
+15965c15965
+< <>{@-ārūḍha@}, {%pp|%} mounted on horseback; {@-āroha,@} 
+---
+> <>{@-ārūḍha@}, {%pp.%} mounted on horseback; {@-āroha,@} 
+16005c16005
+< <>{%n.%} octad; {@-guṇa@}, {%a|%} eightfold; {@-taya,@} {%n.%} octad; 
+---
+> <>{%n.%} octad; {@-guṇa@}, {%a.%} eightfold; {@-taya,@} {%n.%} octad; 
+16104c16104
+< {#as#}¦AS, II.P. {@ás-ti@} (¤2¤ {%sg|%} ā| {@se,@} {%in V. %}
+---
+> {#as#}¦AS, II.P. {@ás-ti@} (¤2¤ {%sg.%} Ā. {@se,@} {%in V. %}
+16131c16131
+< <>({%only pp.%} {@asta-@})| {@adhi,@} misunderstand: {%es. %}
+---
+> <>({%only pp.%} {@asta-@}). {@adhi,@} misunderstand: {%es. %}
+16183c16183
+< <>{@-vijñāna@}, {%a|%} unintelligible; {@-vīta,@} {%pp.%} imperfectly <lbinfo n="5"/>
+---
+> <>{@-vijñāna@}, {%a.%} unintelligible; {@-vīta,@} {%pp.%} imperfectly <lbinfo n="5"/>
+16250c16250
+< <> {@-ghaṭṭa@}, {%m|%} no collision: {@-sukham,@} 
+---
+> <> {@-ghaṭṭa@}, {%m.%} no collision: {@-sukham,@} 
+16968c16968
+< <>{@-vṛṣṭi@}, {%f|%} shower of arrows; {@-agāra,@} {%n.%} 
+---
+> <>{@-vṛṣṭi@}, {%f.%} shower of arrows; {@-agāra,@} {%n.%} 
+17207c17207
+< <>{@-cetana@}, {%a|%} troubled in mind; {@-tā,@} {%f.%} indisposition; <lbinfo n="5"/>
+---
+> <>{@-cetana@}, {%a.%} troubled in mind; {@-tā,@} {%f.%} indisposition; <lbinfo n="5"/>
+17297c17297
+< <>{@-m,@} {%ad.%}; {@-niśa@}, {%n|%} day & night: {@-m,@} {%ad.%}; {@-pā-@}
+---
+> <>{@-m,@} {%ad.%}; {@-niśa@}, {%n.%} day & night: {@-m,@} {%ad.%}; {@-pā-@}
+17580c17580
+< <>{%m.%} bird; {@-deśa@}, {%m|%} region of the air; {@-patha,@} 
+---
+> <>{%m.%} bird; {@-deśa@}, {%m.%} region of the air; {@-patha,@} 
+17724c17724
+< <> {@-ṇa@}, {%a|%} ({@ī@}) raviṣing, charming; {@-rūpaka,@} 
+---
+> <> {@-ṇa@}, {%a.%} ({@ī@}) raviṣing, charming; {@-rūpaka,@} 
+17960c17960
+< <>{@ī@}, {%f|%}); {@i-ya,@} {%n.%} water for rinsing the mouth.
+---
+> <>{@ī@}, {%f.%}); {@i-ya,@} {%n.%} water for rinsing the mouth.
+18295c18295
+< <>{@-daṇḍa@}, {%a|%} grasping one's staff; {@-rati,@} {%a.%} feeling <lbinfo n="4"/>
+---
+> <>{@-daṇḍa@}, {%a.%} grasping one's staff; {@-rati,@} {%a.%} feeling <lbinfo n="4"/>
+18317c18317
+< <>crow; {@-ja@}, {%a|%} self-begotten; {%m|%} son, {@ā,@} {%f.%} daughter; <lbinfo n="5"/>
+---
+> <>crow; {@-ja@}, {%a.%} self-begotten; {%m.%} son, {@ā,@} {%f.%} daughter; <lbinfo n="5"/>
+18368c18368
+< <>{@-praśaṃsā@}, {%f|%} self-praise; {@-bodha,@} {%a.%} knowing <lbinfo n="4"/>
+---
+> <>{@-praśaṃsā@}, {%f.%} self-praise; {@-bodha,@} {%a.%} knowing <lbinfo n="4"/>
+18389c18389
+< <>{@-aṇa@}, {%n|%} self-protection; {@-lābha,@} {%m.%} one's own 
+---
+> <>{@-aṇa@}, {%n.%} self-protection; {@-lābha,@} {%m.%} one's own 
+18409c18409
+< <>{@-śliāghin@}, {%a|%} boastful; {@-saṃyoga,@} {%m.%} personal 
+---
+> <>{@-śliāghin@}, {%a.%} boastful; {@-saṃyoga,@} {%m.%} personal 
+18416c18416
+< <>{@-deha@}, {%m|%} personal risk; {@-sama,@} {%a.%} like oneself; <lbinfo n="3"/>
+---
+> <>{@-deha@}, {%m.%} personal risk; {@-sama,@} {%a.%} like oneself; <lbinfo n="3"/>
+18568c18568
+< <>{%king%}; {@-maṇḍalá@}, {%n|%} sun's orb; {@-vat,@} {%ad.%} like 
+---
+> <>{%king%}; {@-maṇḍalá@}, {%n.%} sun's orb; {@-vat,@} {%ad.%} like 
+18923c18923
+< <>homogeneousness; {@-pūrv-a,@} {%n.,%} {@-ī@} {%f|,%} {@-ya,@} {%n.%} 
+---
+> <>homogeneousness; {@-pūrv-a,@} {%n.,%} {@-ī@} {%f.,%} {@-ya,@} {%n.%} 
+19081c19081
+< <>{@-raṇa@}, {%n|%} relieving from distress; {@-gata,@} {%pp.%} 
+---
+> <>{@-raṇa@}, {%n.%} relieving from distress; {@-gata,@} {%pp.%} 
+19320c19320
+< <> {@-aṇa@}, {%n|%} conference; addressing; {@-ya,@} 
+---
+> <> {@-aṇa@}, {%n.%} conference; addressing; {@-ya,@} 
+19781c19781
+< <>{%m.,%} {@-aṇī@}, {%f|%} guardian; {@-ika,@} {%m.%} watchman: 
+---
+> <>{%m.,%} {@-aṇī@}, {%f.%} guardian; {@-ika,@} {%m.%} watchman: 
+19828c19828
+< <>beginning; {@-ruci@}, {%a|%} enterprising: {@-tā,@} {%f.%} delight <lbinfo n="2"/>
+---
+> <>beginning; {@-ruci@}, {%a.%} enterprising: {@-tā,@} {%f.%} delight <lbinfo n="2"/>
+19864c19864
+< <>{@-ṇu@}, {%a|%} adoring ({%ac|%}); {@-ya,@} {%fp.%} to be accomplished; <lbinfo n="5"/>
+---
+> <>{@-ṇu@}, {%a.%} adoring ({%ac.%}); {@-ya,@} {%fp.%} to be accomplished; <lbinfo n="5"/>
+20037c20037
+< <>{@-juṣṭa@}, {%pp|%} approved by the honourable; {@-tā,@} 
+---
+> <>{@-juṣṭa@}, {%pp.%} approved by the honourable; {@-tā,@} 
+20239c20239
+< <>{@-nīya@} {%fp|%} that may be gazed at: {@-tā,@} {%f. abst. N.%}; 
+---
+> <>{@-nīya@} {%fp.%} that may be gazed at: {@-tā,@} {%f. abst. N.%}; 
+20533c20533
+< <>{@-kravāla@}, {%n|%} encircling horizon; {@-mukha,@} {%n.%} 
+---
+> <>{@-kravāla@}, {%n.%} encircling horizon; {@-mukha,@} {%n.%} 
+21116c21116
+< <>battle; {@-(háva) -na@}, {%n|%} oblation; {@-níya,@} {%a.%} 
+---
+> <>battle; {@-(háva) -na@}, {%n.%} oblation; {@-níya,@} {%a.%} 
+21141c21141
+< <>{@-vṛtti@}, {%f|%} subsistence; {@-arthin,@} {%a.%} 
+---
+> <>{@-vṛtti@}, {%f.%} subsistence; {@-arthin,@} {%a.%} 
+21270c21270
+< <>entreat (¤2¤ {%ac.%}). {@accha@}, approach ({%ac|%})| {@ati,@} 
+---
+> <>entreat (¤2¤ {%ac.%}). {@accha@}, approach ({%ac.%}). {@ati,@} 
+21421c21421
+< <>{@-aṇa@}, {%m| n|%}; {@-śakti-mat,@} {%a.%} having the faculty 
+---
+> <>{@-aṇa@}, {%m. N.%}; {@-śakti-mat,@} {%a.%} having the faculty 
+21689c21689
+< <>{%of a princess%}; {@-rāja@}, {%m| man's n|%}; {@-lekhā,@} 
+---
+> <>{%of a princess%}; {@-rāja@}, {%m. man's N.%}; {@-lekhā,@} 
+21963c21963
+< <>{%pp.%} {@iṣitá@}; {%cs|%} {@iṣáya,@} P. Ā. speed; comfort. 
+---
+> <>{%pp.%} {@iṣitá@}; {%cs.%} {@iṣáya,@} P. Ā. speed; comfort. 
+21969c21969
+< <>{%pp.%} {@preṣita|@} {@anu-pra,@} {%cs.%} send after {%or%} 
+---
+> <>{%pp.%} {@preṣita.@} {@anu-pra,@} {%cs.%} send after {%or%} 
+21984c21984
+< <> {%pp.%} {@iṣ-ṭa@}, {%q| v|%} {@anu,@} seek, search 
+---
+> <> {%pp.%} {@iṣ-ṭa@}, {%q. v.%} {@anu,@} seek, search 
+21988c21988
+< <>{%pp.%} {@abhīṣṭa| prati,@} seek; receive (from, 
+---
+> <>{%pp.%} {@abhīṣṭa. prati,@} seek; receive (from, 
+22214c22214
+< <>{@saṃ-prati@}, {%gd|%} waiting = long| {@vi,@} gaze; 
+---
+> <>{@saṃ-prati@}, {%gd.%} waiting = long. {@vi,@} gaze; 
+22222c22222
+< <> aware of. {@abhi-saṃ-vi@}, stare at| {@sam,@} 
+---
+> <> aware of. {@abhi-saṃ-vi@}, stare at. {@sam,@} 
+22409c22409
+< <>Śiva: {@ī@}, {%f|%} princess; {@-tā,@} {%f.,%} {@-tva,@} {%n.%} rule, 
+---
+> <>Śiva: {@ī@}, {%f.%} princess; {@-tā,@} {%f.,%} {@-tva,@} {%n.%} rule, 
+22569c22569
+< <>{@-daṇḍa@}, {%a|%} stern-sceptered, relentless; {@-pūti,@} 
+---
+> <>{@-daṇḍa@}, {%a.%} stern-sceptered, relentless; {@-pūti,@} 
+22572c22572
+< <>{@-śāsana@}, {%a|%} stringent in his orders: {@-sena,@} {%m. %}
+---
+> <>{@-śāsana@}, {%a.%} stringent in his orders: {@-sena,@} {%m. %}
+22695c22695
+< <> thoroughly: {@w|@} {@bhū,@} rise.
+---
+> <> thoroughly: {@w.@} {@bhū,@} rise.
+22853c22853
+< {#uYC#}¦UÑCH, I. VI.P. {@uñcha@}, glean| {@pra,@} 
+---
+> {#uYC#}¦UÑCH, I. VI.P. {@uñcha@}, glean. {@pra,@} 
+22895c22895
+< <>{@vā@} {%or%} {@āho vā@}); {%interr|%} or: {@kim-uta,@} {%utrum %}
+---
+> <>{@vā@} {%or%} {@āho vā@}); {%interr.%} or: {@kim-uta,@} {%utrum %}
+23067c23067
+< <> {@-krámaṇa@}, {%n|,%} {@-krānti,@} {%f. id.%}.
+---
+> <> {@-krámaṇa@}, {%n.,%} {@-krānti,@} {%f. id.%}.
+23246c23246
+< <>{@-araṇi@}, {%f|%} the upper fire-stick; {@-artha,@} {%a.%} 
+---
+> <>{@-araṇi@}, {%f.%} the upper fire-stick; {@-artha,@} {%a.%} 
+23392c23392
+< <>of lotuses; {@-śāka@}, {%n| n| of a plant;%} {@-akṣa,@} 
+---
+> <>of lotuses; {@-śāka@}, {%n. N. of a plant;%} {@-akṣa,@} 
+23506c23506
+< <>streets; {@-aṇīya@}, {%fp|%} to be driven away; {@-in,@} 
+---
+> <>streets; {@-aṇīya@}, {%fp.%} to be driven away; {@-in,@} 
+23856c23856
+< <>{@-cetas@}, {%a|%} high-minded; {@-tā,@} {%f.,%} {@-tva,@} {%n.%} generosity; <lbinfo n="4"/>
+---
+> <>{@-cetas@}, {%a.%} high-minded; {@-tā,@} {%f.,%} {@-tva,@} {%n.%} generosity; <lbinfo n="4"/>
+24039c24039
+< <>{@-ita-jña@}, {%a|%} prudent, wise; {@-in,@} {%a.%} opening.
+---
+> <>{@-ita-jña@}, {%a.%} prudent, wise; {@-in,@} {%a.%} opening.
+24139c24139
+< <> {@-aṇa@}, {%n|%} extraction; payment; {@-ya,@} 
+---
+> <> {@-aṇa@}, {%n.%} extraction; payment; {@-ya,@} 
+24268c24268
+< <>({@ikā@}) {%id|%}; {@-mālā,@} {%f.%} row of gardens.
+---
+> <>({@ikā@}) {%id.%}; {@-mālā,@} {%f.%} row of gardens.
+24933c24933
+< <>{@-tṛ@}, {%m|%}, {@-trī,@} {%f.%} bringer; preceptor.
+---
+> <>{@-tṛ@}, {%m.%}, {@-trī,@} {%f.%} bringer; preceptor.
+25552,25553c25552,25553
+< <> {@-ṃvi-dhā@}, offer ({%ac|%}) as a victim: {@a-ka,@} 
+< <>{%m.,%} {@i-ka-@} {%f| id|%}; {@-tā,@} {%f.,%} {%tva,%} {%n. abst. N.%}: {@-pā-@}
+---
+> <> {@-ṃvi-dhā@}, offer ({%ac.%}) as a victim: {@a-ka,@} 
+> <>{%m.,%} {@i-ka-@} {%f. id.%}; {@-tā,@} {%f.,%} {%tva,%} {%n. abst. N.%}: {@-pā-@}
+25973c25973
+< <>{@-bhuj@}, {%m| id|%}; {@-bhiṛt@}, {%m|%} mountain; {@-ruha,@} 
+---
+> <>{@-bhuj@}, {%m. id.%}; {@-bhiṛt@}, {%m.%} mountain; {@-ruha,@} 
+26159c26159
+< {#uzwra#}¦uṣ-ṭra, {%m.,%} {@ī|,@} {%f.%} buffalo; camel.
+---
+> {#uzwra#}¦uṣ-ṭra, {%m.,%} {@ī.,@} {%f.%} buffalo; camel.
+26312c26312
+< <>{@-janaman@}, {%m| ep| of%} aurva; {@-phala-ka,@} {%n.%} 
+---
+> <>{@-janaman@}, {%m. ep. of%} Aurva; {@-phala-ka,@} {%n.%} 
+26379c26379
+< <>ears; {@-kṛta@}, {%pp|%} raised upwards; {@-ga,@} {%a.%} 
+---
+> <>ears; {@-kṛta@}, {%pp.%} raised upwards; {@-ga,@} {%a.%} 
+26391c26391
+< <>raised; {@-bṛhatī@}, {%f| a metre%}; {@-bhāga,@} {%m.%} 
+---
+> <>raised; {@-bṛhatī@}, {%f. a metre%}; {@-bhāga,@} {%m.%} 
+26486c26486
+< <>{@abi,@} consider; infer.
+---
+> <>{@aBi,@} consider; infer.
+26503c26503
+< <>{@v| ṛṇó-ti@}, ii| {@ár-ti,@} move; agitate; raise 
+---
+> <>{@V. ṛṇó-ti@}, II. {@ár-ti,@} move; agitate; raise 
+26681c26681
+< <>{@-ccheda@}, {%m|%} discharge of a debt; {@-tā,@} {%f.%} indebtedness; <lbinfo n="6"/>
+---
+> <>{@-ccheda@}, {%m.%} discharge of a debt; {@-tā,@} {%f.%} indebtedness; <lbinfo n="6"/>
+26822c26822
+< <>{@-ti@}; {%v| also%} vii| {@ri-n@}{@á-dh,@} thrive, prosper; 
+---
+> <>{@-ti@}; {%V. also%} VII. {@ri-n@}{@á-dh,@} thrive, prosper; 
+26962c26962
+< <>{@-tamá@} ({%or%} {@é-@}) {%spv|%} one among many; {@-tara,@} 
+---
+> <>{@-tamá@} ({%or%} {@é-@}) {%spv.%} one among many; {@-tara,@} 
+27046c27046
+< <> {@-râjá@}, {%m|%} monarch; {@-rātrá,@} {%m.%} 
+---
+> <> {@-râjá@}, {%m.%} monarch; {@-rātrá,@} {%m.%} 
+27058c27058
+< <>{%of a town%}; {@-vacaná@}, {%n|%} singular ({%gr|%}); {@-vat,@} 
+---
+> <>{%of a town%}; {@-vacaná@}, {%n.%} singular ({%gr.%}); {@-vat,@} 
+27071c27071
+< <>{%sg. pl.%} ({@é-@}) {%id|%}: {@-tama,@} {%a.%} ¤21¤st; {@-vidha,@} {%a.%} 
+---
+> <>{%sg. pl.%} ({@é-@}) {%id.%}: {@-tama,@} {%a.%} ¤21¤st; {@-vidha,@} {%a.%} 
+27096c27096
+< <>{@-ṣaṣṭi@}, {%f|%} ¤61¤: {@-tama,@} {%a.%} ¤61¤st.
+---
+> <>{@-ṣaṣṭi@}, {%f.%} ¤61¤: {@-tama,@} {%a.%} ¤61¤st.
+27106c27106
+< <> as (saha); {@-sṛka@}, {%m|%} jackal; {@-stambha,@} 
+---
+> <> as (saha); {@-sṛka@}, {%m.%} jackal; {@-stambha,@} 
+27213c27213
+< <>wanderer; {@-śīla@}, {%a|%} retiring into solitude; {@-hita,@} 
+---
+> <>wanderer; {@-śīla@}, {%a.%} retiring into solitude; {@-hita,@} 
+27364c27364
+< <>{@-saṃ-jñaka@}, {%a|%} having this designation; {@-sama,@} 
+---
+> <>{@-saṃ-jñaka@}, {%a.%} having this designation; {@-sama,@} 
+27571c27571
+< <>wish, desire; {@-aṇīya@}, {%fp|%} desirable; {@-in,@} {%a.%} 
+---
+> <>wish, desire; {@-aṇīya@}, {%fp.%} desirable; {@-in,@} {%a.%} 
+27589c27589
+< <>{@ya@}, {%n|%} sole dominion; {@-rātrika,@} {%a.%} remaining 
+---
+> <>{@ya@}, {%n.%} sole dominion; {@-rātrika,@} {%a.%} remaining 
+28955c28955
+< <>{@-in@}, {%m|%} golden peaked, {%ep|%} of meru; {@-sūtra,@} 
+---
+> <>{@-in@}, {%m.%} golden peaked, {%ep.%} of Meru; {@-sūtra,@} 
+29056c29056
+< <> {@-gṛha@}, {%n| id|%}; {@-tva,@} {%n.%} virginity; 
+---
+> <> {@-gṛha@}, {%n. id.%}; {@-tva,@} {%n.%} virginity; 
+29074c29074
+< <>{@-aka@}, {%m| n|%}; {@-prabandha,@} {%m.%} cunning device; 
+---
+> <>{@-aka@}, {%m. N.%}; {@-prabandha,@} {%m.%} cunning device; 
+29093c29093
+< <>{@-kā@}), -° {%a| id|%}; {@-vakṣas,@} {%a.%} broad-chested.
+---
+> <>{@-kā@}), -° {%a. id.%}; {@-vakṣas,@} {%a.%} broad-chested.
+29223c29223
+< <>love: {%pp.%} {@kānta@}; {%cs|%} {@kāmaya,@} Ā. (P.) 
+---
+> <>love: {%pp.%} {@kānta@}; {%cs.%} {@kāmaya,@} Ā. (P.) 
+29246c29246
+< <>{@-garbha,@} {@-ja@}, {%m| ep| of%} brahman; {@-devī,@} 
+---
+> <>{@-garbha,@} {@-ja@}, {%m. ep. of%} Brahman; {@-devī,@} 
+29252c29252
+< <>{@-ana@}, {%a|%} lotus-eyed: {@ā,@} {%f. N.%}; {@-vatī,@} {%f. N. of %}
+---
+> <>{@-ana@}, {%a.%} lotus-eyed: {@ā,@} {%f. N.%}; {@-vatī,@} {%f. N. of %}
+29447c29447
+< <>Durgā; {%N.%}; {@-keśara@}, {%m| n| of a lion%}; {@-tā,@} 
+---
+> <>Durgā; {%N.%}; {@-keśara@}, {%m. N. of a lion%}; {@-tā,@} 
+29530c29530
+< {#karka#}¦karka, {%a.%} ({@ī@}) white; {%m|%} white horse; {@ā,@} {%f.%}.
+---
+> {#karka#}¦karka, {%a.%} ({@ī@}) white; {%m.%} white horse; {@ā,@} {%f.%}.
+29537c29537
+< <>{@-śṛṅga@}, {%n|%} crab's claw; {@i-kā,@} {%f. a plant%}; 
+---
+> <>{@-śṛṅga@}, {%n.%} crab's claw; {@i-kā,@} {%f. a plant%}; 
+29580c29580
+< <>{%of elephants%}; {@-jāpa@}, {%m|%} tale-bearing; {@-tā,@} {%f.%} 
+---
+> <>{%of elephants%}; {@-jāpa@}, {%m.%} tale-bearing; {@-tā,@} {%f.%} 
+29589c29589
+< <>{@-pāśa@}, {%m|%} beautiful ear; {@-pūra,@} {%m. n.%} ear ornament, <lbinfo n="2"/>
+---
+> <>{@-pāśa@}, {%m.%} beautiful ear; {@-pūra,@} {%m. n.%} ear ornament, <lbinfo n="2"/>
+29595c29595
+< <>{@-vaṃśa@}, {%m|%} flat projecting bamboo {%roof%}; {@-vat,@} 
+---
+> <>{@-vaṃśa@}, {%m.%} flat projecting bamboo {%roof%}; {@-vat,@} 
+29616c29616
+< <>{@-karaṇa@}, {%n|,%} {@-kāra,@} {%m.,%} {@-kṛti@}, {%f.%} ear ornament; 
+---
+> <>{@-karaṇa@}, {%n.,%} {@-kāra,@} {%m.,%} {@-kṛti@}, {%f.%} ear ornament; 
+29773c29773
+< <>{@-duṣṭa@}, {%pp|%} acting badly; {@-doṣa,@} {%m.%} sinful 
+---
+> <>{@-duṣṭa@}, {%pp.%} acting badly; {@-doṣa,@} {%m.%} sinful 
+29788c29788
+< <>{@-niṣṭha@}, {%a|%} diligent in ({%holy%}) works; {@-nyāsa,@} 
+---
+> <>{@-niṣṭha@}, {%a.%} diligent in ({%holy%}) works; {@-nyāsa,@} 
+30384c30384
+< <>{@f|@} state of a crow; {@-tālīya,@} {%a. accidental as %}
+---
+> <>{@f.@} state of a crow; {@-tālīya,@} {%a. accidental as %}
+30463c30463
+< {#kAca#}¦kācá, {%m.%} glass: {@-maṇi@}, {%m|%} crystal; {@-ra,@}  <lbinfo n="[]"/>
+---
+> {#kAca#}¦kācá, {%m.%} glass: {@-maṇi@}, {%m.%} crystal; {@-ra,@}  <lbinfo n="[]"/>
+30579c30579
+< <>{%a.%} ({@ī@}) derived from kātyāyana; {@ī-ya,@} {%m. pl.%} 
+---
+> <>{%a.%} ({@ī@}) derived from Kātyāyana; {@ī-ya,@} {%m. pl.%} 
+31221c31221
+< <>some time; {@tena@}-, at that time; {%ab|%} {@kālāt,@} 
+---
+> <>some time; {@tena@}-, at that time; {%ab.%} {@kālāt,@} 
+31225c31225
+< <>{@-cit@}-, after some time; {%lc|%} {@kālé,@} at the right 
+---
+> <>{@-cit@}-, after some time; {%lc.%} {@kālé,@} at the right 
+31273c31273
+< <>{@-pāśika@}, {%m|%} hangman; {@-puruṣa,@} {%n.%} time 
+---
+> <>{@-pāśika@}, {%m.%} hangman; {@-puruṣa,@} {%n.%} time 
+31453c31453
+< <>{@-ka@}, {%m|%} rhetorician; {@-rasa,@} {%m.%} flavour of poetry; 
+---
+> <>{@-ka@}, {%m.%} rhetorician; {@-rasa,@} {%m.%} flavour of poetry; 
+31470c31470
+< <>{@cākaś@}, shine brightly| {@nis,@} {%cs.%} show; turn 
+---
+> <>{@cākaś@}, shine brightly. {@nis,@} {%cs.%} show; turn 
+31599c31599
+< <>{@-hṛd@}, {%m| id|%}; {@-hetu,@} {%a.%} caused by what?
+---
+> <>{@-hṛd@}, {%m. id.%}; {@-hetu,@} {%a.%} caused by what?
+31675c31675
+< <>{@ ta@}, {%a|%} occasioned by what? {@-m,@} why?
+---
+> <>{@ ta@}, {%a.%} occasioned by what? {@-m,@} why?
+32018c32018
+< <>VI. Ā. {@kuñca@}m contract, bend ({%int|%}): {%pp|%} {@-ita,@} 
+---
+> <>VI. Ā. {@kuñca@}m contract, bend ({%int.%}): {%pp.%} {@-ita,@} 
+32020c32020
+< <>{@aya@}, crisp, curl| {@ā,@} {%pp.%} bent; drawn in; 
+---
+> <>{@aya@}, crisp, curl. {@ā,@} {%pp.%} bent; drawn in; 
+32357c32357
+< <>{@-ra‡indra, -īśvara@}, {%m|%} bad king; {@-nīta,@} {%n.%} 
+---
+> <>{@-ra‡indra, -īśvara@}, {%m.%} bad king; {@-nīta,@} {%n.%} 
+32734c32734
+< <>{@-anī@}, {%f|%} disgrace to her family; {@-pālikā,@} {%f. N.%}; 
+---
+> <>{@-anī@}, {%f.%} disgrace to her family; {@-pālikā,@} {%f. N.%}; 
+32750c32750
+< <>{@-rājadhānī@}, {%f|%} royal capital; {@-vat,@} {%a.%} of noble 
+---
+> <>{@-rājadhānī@}, {%f.%} royal capital; {@-vat,@} {%a.%} of noble 
+32945c32945
+< <>{@-praśna@}, {%m|%} enquiry as to health; {@-vat,@} {%a.%} 
+---
+> <>{@-praśna@}, {%m.%} enquiry as to health; {@-vat,@} {%a.%} 
+33053c33053
+< <>{@-cāpa@}, {%m| id|%}; {@-komala,@} {%a.%} soft as flowers; 
+---
+> <>{@-cāpa@}, {%m. id.%}; {@-komala,@} {%a.%} soft as flowers; 
+33057c33057
+< <>{@-bāṇa@}, {%m|%} flower; {@-maya,@} {%a.%} ({@ī@}) consisting, <lbinfo n="3"/>
+---
+> <>{@-bāṇa@}, {%m.%} flower; {@-maya,@} {%a.%} ({@ī@}) consisting, <lbinfo n="3"/>
+33079c33079
+< <>{@jali@}, {%m|%} two handfuls of flowers; {@-āyudha,@} 
+---
+> <>{@jali@}, {%m.%} two handfuls of flowers; {@-āyudha,@} 
+33081c33081
+< <>{@-ṇa@}, {%n|%} couch of flowers; {@-astra,@} {%m.%} Kāma.
+---
+> <>{@-ṇa@}, {%n.%} couch of flowers; {@-astra,@} {%m.%} Kāma.
+33181c33181
+< <>fever; {@-pāśa@}, {%m|%} snare, trap; {@-bandha,@} {%m. id.%}; 
+---
+> <>fever; {@-pāśa@}, {%m.%} snare, trap; {@-bandha,@} {%m. id.%}; 
+33207c33207
+< {#kUR#}¦KŪṆ, {@kūṇati@}, contract ({%int|%}): {%pp|%} {@-ita,@} 
+---
+> {#kUR#}¦KŪṆ, {@kūṇati@}, contract ({%int.%}): {%pp.%} {@-ita,@} 
+33308c33308
+< <>{@káro@} {%strong%}, {@kuru@} {%weak; v|%} + i| {@kára,@} II. 
+---
+> <>{@káro@} {%strong%}, {@kuru@} {%weak; V.%} + I. {@kára,@} II. 
+33545c33545
+< <> {@-puṇya@}, {%a|%} happy; {@-pūrva,@} {%a.%} done before: <lbinfo n="2"/>
+---
+> <> {@-puṇya@}, {%a.%} happy; {@-pūrva,@} {%a.%} done before: <lbinfo n="2"/>
+33564c33564
+< <> {@-yantraṇa@}, {%a|%} controlling oneself; {@-yuga,@} 
+---
+> <> {@-yantraṇa@}, {%a.%} controlling oneself; {@-yuga,@} 
+33632c33632
+< <>{@-āśaṃsa@}, {%a|%} hoping; {@-astra,@} {%a.%} practised in 
+---
+> <>{@-āśaṃsa@}, {%a.%} hoping; {@-astra,@} {%a.%} practised in 
+33813c33813
+< <>{@-ja, *-kośa‡uttha@}, {%a|%} silken; {@-ja,@} {%a.%} produced 
+---
+> <>{@-ja, *-kośa‡uttha@}, {%a.%} silken; {@-ja,@} {%a.%} produced 
+33831c33831
+< <>poor; {%m. N.%}; {@(a) -ka@}, {%a|%} slender; {@-gava,@} {%a.%} hvg. 
+---
+> <>poor; {%m. N.%}; {@(a) -ka@}, {%a.%} slender; {@-gava,@} {%a.%} hvg. 
+33867c33867
+< <>{%pp.%} {@kṛṣṭa@}; {%cs|%} {@karṣaya,@} pull, drag; harass, <lbinfo n="2"/>
+---
+> <>{%pp.%} {@kṛṣṭa@}; {%cs.%} {@karṣaya,@} pull, drag; harass, <lbinfo n="2"/>
+34175c34175
+< <>dalliance: {@-gṛha@}, {%n|%} pleasure-house; {@-ta,@} {%n.%} 
+---
+> <>dalliance: {@-gṛha@}, {%n.%} pleasure-house; {@-ta,@} {%n.%} 
+34177c34177
+< <>{@-ana@}, {%n|%} couch; {@-sadana,@} {%n.%} pleasure-house; 
+---
+> <>{@-ana@}, {%n.%} couch; {@-sadana,@} {%n.%} pleasure-house; 
+34221,34222c34221,34222
+< <>{%n. id.%}; {@-ṭa@} {%m| n|%}; {@-dhāvalya,@} {%n.%} white hair; 
+< <>{@-pāśa@}, {%m|%} tuft {%or%} mass of hair; {@-bandha,@} {%m.%} 
+---
+> <>{%n. id.%}; {@-ṭa@} {%m. N.%}; {@-dhāvalya,@} {%n.%} white hair; 
+> <>{@-pāśa@}, {%m.%} tuft {%or%} mass of hair; {@-bandha,@} {%m.%} 
+34295c34295
+< {#kEtava#}¦kaitava, {%a.%} ({@ī@}) false, deceitful; {%n|,%} {@ī,@} {%f.%} 
+---
+> {#kEtava#}¦kaitava, {%a.%} ({@ī@}) false, deceitful; {%n.,%} {@ī,@} {%f.%} 
+34523c34523
+< <>{@-pīṭaka@}, {%m| n|%} casket; *{@-phala,@} {%n. %}
+---
+> <>{@-pīṭaka@}, {%m. n.%} casket; *{@-phala,@} {%n. %}
+34534c34534
+< <> water; {@-veśman@}, {%n|%} treasury; {@-agāra,@} 
+---
+> <> water; {@-veśman@}, {%n.%} treasury; {@-agāra,@} 
+34774c34774
+< <>{%pat. esp. of%} Viśvāmitra; ({@a@}), {%m|%} owl; {@ī,@} {%f. ep. %}
+---
+> <>{%pat. esp. of%} Viśvāmitra; ({@a@}), {%m.%} owl; {@ī,@} {%f. ep. %}
+34909c34909
+< <>{%simple vb.%} {@acchā@}, {%cs|%} cry to| {@abhi,@} roar (at). 
+---
+> <>{%simple vb.%} {@acchā@}, {%cs.%} cry to. {@abhi,@} roar (at). 
+34965c34965
+< <>{@saṃ-pari@}, walk round ({%ac|%}); visit| {@pra,@} stride 
+---
+> <>{@saṃ-pari@}, walk round ({%ac.%}); visit. {@pra,@} stride 
+35116c35116
+< <> {@-śakti@}, {%f|%} capacity of acting: {@-mat,@} {%a.%} 
+---
+> <> {@-śakti@}, {%f.%} capacity of acting: {@-mat,@} {%a.%} 
+35157c35157
+< <>{@-pota@}, {%m|%} pet young monkey; {@-mahīdhra,@} {%m.%} 
+---
+> <>{@-pota@}, {%m.%} pet young monkey; {@-mahīdhra,@} {%m.%} 
+35236c35236
+< <>{@-ra@}, {%a|%} of cruel conduct: {@-vihāra-vat,@} {%a.%} ferocious <lbinfo n="3"/>
+---
+> <>{@-ra@}, {%a.%} of cruel conduct: {@-vihāra-vat,@} {%a.%} ferocious <lbinfo n="3"/>
+35258c35258
+< <>eye; {@-ja@}, {%a|%} springing from wrath; {@-mukah,@} 
+---
+> <>eye; {@-ja@}, {%a.%} springing from wrath; {@-mukah,@} 
+35343c35343
+< <>{@kleśaya@} = {%simple vb|%} {@pari,@} IV.P. Ā. suffer 
+---
+> <>{@kleśaya@} = {%simple vb.%} {@pari,@} IV.P. Ā. suffer 
+35768c35768
+< <>{@-ṇó@}; i| {@kṣay-a,@} ({%E.%}) destroy; oppress; {%ps.%} 
+---
+> <>{@-ṇó@}; I. {@kṣay-a,@} ({%E.%}) destroy; oppress; {%ps.%} 
+35806c35806
+< <>{@-pati@}, {%m|%} king; {@-śata-kratu,@} {%m. id.%}; {@-indra,@} 
+---
+> <>{@-pati@}, {%m.%} king; {@-śata-kratu,@} {%m. id.%}; {@-indra,@} 
+35857c35857
+< <>{@-citta@}, {%a|%} distraught: {@-tā,@} {%f.%} absence of mind; 
+---
+> <>{@-citta@}, {%a.%} distraught: {@-tā,@} {%f.%} absence of mind; 
+35863c35863
+< <>{@-m@} {%or ab|%} quickly, directly, at once: {@á‡iṣu,@} 
+---
+> <>{@-m@} {%or ab.%} quickly, directly, at once: {@á‡iṣu,@} 
+35898c35898
+< <>{@-ṇava@}, {%m|%} ocean of milk; ({@á@}) {@-vat,@} {%a.%} full of 
+---
+> <>{@-ṇava@}, {%m.%} ocean of milk; ({@á@}) {@-vat,@} {%a.%} full of 
+36054c36054
+< <>{@-karman-kṛt@}, {%a|%} husbandman; {@-karṣaka,@} 
+---
+> <>{@-karman-kṛt@}, {%a.%} husbandman; {@-karṣaka,@} 
+36491c36491
+< <>{@khātá| ud,@} dig up, uproot, undermine; exterminate, <lbinfo n="2"/>
+---
+> <>{@khātá. ud,@} dig up, uproot, undermine; exterminate, <lbinfo n="2"/>
+36699c36699
+< <>{@-tṛ@}, {%m|%} digger; {@-tra,@} {%n.%} breach.
+---
+> <>{@-tṛ@}, {%m.%} digger; {@-tra,@} {%n.%} breach.
+36712c36712
+< <> (-°); {@-i-tṛ@}, {%m|%} eater, consumer; {@-i-tavya,@} 
+---
+> <> (-°); {@-i-tṛ@}, {%m.%} eater, consumer; {@-i-tavya,@} 
+36871c36871
+< {#KyA#}¦KHYĀ, II.P. {@khyā-ti@}; {%ps|%} {@khyāyate,@} 
+---
+> {#KyA#}¦KHYĀ, II.P. {@khyā-ti@}; {%ps.%} {@khyāyate,@} 
+37053c37053
+< <>{@-cchandas@}, {%n|%} metre {%measured%} by feet; {@-tva,@} 
+---
+> <>{@-cchandas@}, {%n.%} metre {%measured%} by feet; {@-tva,@} 
+37287c37287
+< <>be captured: {%pp.%} {@gadhita| ā,@} {%pp.%} clung to. 
+---
+> <>be captured: {%pp.%} {@gadhita. ā,@} {%pp.%} clung to. 
+37428c37428
+< <>visit, frequent. {@acchā@}, go to| {@ati,@} elapse; 
+---
+> <>visit, frequent. {@acchā@}, go to. {@ati,@} elapse; 
+37473c37473
+< <>arrived, come: {@kramād@} -- = inherited| {@sam-abhi‡ā,@}
+---
+> <>arrived, come: {@kramād@} -- = inherited. {@sam-abhi‡ā,@}
+37641c37641
+< <>{@-maya@}, {%a|%} of emerald; {@-vega,@} {%m. N. of a horse.%}.
+---
+> <>{@-maya@}, {%a.%} of emerald; {@-vega,@} {%m. N. of a horse.%}.
+37720c37720
+< <>{%n.%} conception; {@-cyuti@}, {%f|%} birth; {@-tā,@} {%f.,%} {@-tva,@} 
+---
+> <>{%n.%} conception; {@-cyuti@}, {%f.%} birth; {@-tā,@} {%f.,%} {@-tva,@} 
+37877c37877
+< <>{@-aśva@}, {%m|%} cattle and horses; {@-ahnika,@} {%n.%} daily 
+---
+> <>{@-aśva@}, {%m.%} cattle and horses; {@-ahnika,@} {%n.%} daily 
+38030c38030
+< <>{@-yaṣṭi@}, {%f|%} delicate body (-° {%a|%} {@ī̆@}); {@-vat,@} {%a.%} 
+---
+> <>{@-yaṣṭi@}, {%f.%} delicate body (-° {%a.%} {@ī̆@}); {@-vat,@} {%a.%} 
+38276c38276
+< <>elephant; {@-ja@}, {%a|%} mountain-born: {@ā,@} {%f.%} 
+---
+> <>elephant; {@-ja@}, {%a.%} mountain-born: {@ā,@} {%f.%} 
+38278c38278
+< <>{@-ṇadī@}, {%f|%} mountain stream; {@-trā,@} {%a.%} mountain-ruling, <lbinfo n="4"/>
+---
+> <>{@-ṇadī@}, {%f.%} mountain stream; {@-trā,@} {%a.%} mountain-ruling, <lbinfo n="4"/>
+38284c38284
+< <>{@-ṣṭha@}, {%n|%} mountain ridge; {@-prapāta,@} {%m.%} precipice; <lbinfo n="5"/>
+---
+> <>{@-ṣṭha@}, {%n.%} mountain ridge; {@-prapāta,@} {%m.%} precipice; <lbinfo n="5"/>
+38394c38394
+< <>{@-añjana@}, {%n|%} collyrium in globules; {@-pāta,@} {%m.%} 
+---
+> <>{@-añjana@}, {%n.%} collyrium in globules; {@-pāta,@} {%m.%} 
+38490c38490
+< <>in virtues; {@-vacana@}, {%m| n|%} adjective; {@-vat,@} 
+---
+> <>in virtues; {@-vacana@}, {%m. n.%} adjective; {@-vat,@} 
+38585c38585
+< <>{@gupita@} ({%v|%}) {%and%} {@guptá,@} {%q. v.; inf.%} {@gopitum@}; 
+---
+> <>{@gupita@} ({%V.%}) {%and%} {@guptá,@} {%q. v.; inf.%} {@gopitum@}; 
+38632c38632
+< <>assault ({%d., lc.%}): {%gd.%} {@-gūrya| ā,@} approve, assent <lbinfo n="2"/>
+---
+> <>assault ({%d., lc.%}): {%gd.%} {@-gūrya. ā,@} approve, assent <lbinfo n="2"/>
+38764c38764
+< <>{@daṇḍa@}, {%m|%} blackmail| {@apa,@} conceal. {@ava,@} 
+---
+> <>{@daṇḍa@}, {%m.%} blackmail. {@apa,@} conceal. {@ava,@} 
+38954c38954
+< <>{@-kṛtya@}, {%n| id|%}; {%kind of%} tax; {@-gupta,@} ({%pp.%}) 
+---
+> <>{@-kṛtya@}, {%n. id.%}; {%kind of%} tax; {@-gupta,@} ({%pp.%}) 
+39077c39077
+< <>{@gīrṇa|@} {@ud,@} vomit; eject; pour out; utter, 
+---
+> <>{@gīrṇa.@} {@ud,@} vomit; eject; pour out; utter, 
+39205c39205
+< <>{@-tṛ@}, {%m|%} founder of a family; {@-kārin,@} {%a.%} founding <lbinfo n="5"/>
+---
+> <>{@-tṛ@}, {%m.%} founder of a family; {@-kārin,@} {%a.%} founding <lbinfo n="5"/>
+39356c39356
+< <> {@-tṛ́@}, {%m|,%} {@-trī́,@} {%f.%} protector; concealer; 
+---
+> <> {@-tṛ́@}, {%m.,%} {@-trī́,@} {%f.%} protector; concealer; 
+39440c39440
+< <>{@-vāṭa@}, {%m|%} cow-pen; {@-vāla,@} {%m.%} cow's hair; {%a.%} 
+---
+> <>{@-vāṭa@}, {%m.%} cow-pen; {@-vāla,@} {%m.%} cow's hair; {%a.%} 
+39447c39447
+< <>{@-kṛt@}, {%n|%} cow-dung; {@-śālā,@} {%f.%} cow-shed; {@-śīr-@}
+---
+> <>{@-kṛt@}, {%n.%} cow-dung; {@-śālā,@} {%f.%} cow-shed; {@-śīr-@}
+39497c39497
+< <>{@-hantṛ@}, {%m|%} cow-killer; {@-hara,@} {%m.%}: {@-ṇa,@} {%n.%}
+---
+> <>{@-hantṛ@}, {%m.%} cow-killer; {@-hara,@} {%m.%}: {@-ṇa,@} {%n.%}
+39712c39712
+< <>by; with. {@saṃ-pra@}, accept| {@prati,@} grasp, 
+---
+> <>by; with. {@saṃ-pra@}, accept. {@prati,@} grasp, 
+39826c39826
+< <>{@-daśa‡īśa@}, {%m|%} chief of ten villages; {@-dharā,@} {%f. %}
+---
+> <>{@-daśa‡īśa@}, {%m.%} chief of ten villages; {@-dharā,@} {%f. %}
+40109c40109
+< <> {@-tāḍa@}, {%a|%} striking a bell; {@-patha,@} 
+---
+> <> {@-tāḍa@}, {%a.%} striking a bell; {@-patha,@} 
+40195c40195
+< <>{@-jala@}, {%n|%} sweat; {@-toya,@} {%n. id.%}; {@-dīdhiti,@} {%m.%} 
+---
+> <>{@-jala@}, {%n.%} sweat; {@-toya,@} {%n. id.%}; {@-dīdhiti,@} {%m.%} 
+40198c40198
+< <>sweat; {@-bhānu, -raśmi@}, {%m|%} sun; {@-vāri,@} {%n.%} 
+---
+> <>sweat; {@-bhānu, -raśmi@}, {%m.%} sun; {@-vāri,@} {%n.%} 
+40249c40249
+< <>{%a.%} ({@ī@}) killing; destroying; {%m|%} murderer; {@-ana,@} 
+---
+> <>{%a.%} ({@ī@}) killing; destroying; {%m.%} murderer; {@-ana,@} 
+40286c40286
+< <>{@-jarjara@}, {%a|%} worm-eaten; {@-akṣara,@} {%n.%} worm-mark <lbinfo n="4"/>
+---
+> <>{@-jarjara@}, {%a.%} worm-eaten; {@-akṣara,@} {%n.%} worm-mark <lbinfo n="4"/>
+40343c40343
+< {#Gf#}¦GHṚ, III.P. {@jighar-ti@}, sprinkle| {@abhi,@} 
+---
+> {#Gf#}¦GHṚ, III.P. {@jighar-ti@}, sprinkle. {@abhi,@} 
+40386c40386
+< <>ghee; {@-ścút@}, {%a|%} dripping ghee; {@-snú,@} ¤1.¤ {%a.%} 
+---
+> <>ghee; {@-ścút@}, {%a.%} dripping ghee; {@-snú,@} ¤1.¤ {%a.%} 
+40459c40459
+< <> {@-ākṛti@}, {%a| id|%}; {@-atighora,@} {%a.%} 
+---
+> <> {@-ākṛti@}, {%a. id.%}; {@-atighora,@} {%a.%} 
+40885c40885
+< <>{@-bhujaṅga@}, {%m| n|%}; {@-mahāsena,@} {%m. N. of a %}
+---
+> <>{@-bhujaṅga@}, {%m. N.%}; {@-mahāsena,@} {%m. N. of a %}
+40917c40917
+< <>{%m. id.%}; {@-īśvara@}, {%id|%}; {@-stotra,@} {%n. T. of a poem %}
+---
+> <>{%m. id.%}; {@-īśvara@}, {%id.%}; {@-stotra,@} {%n. T. of a poem %}
+40984c40984
+< <> beautiful; {@-aśri@}, {%a|%} square; {@-ahá,@} {%m.%} 
+---
+> <> beautiful; {@-aśri@}, {%a.%} square; {@-ahá,@} {%m.%} 
+41030c41030
+< <>quarters; {@-diśam@}, {%ad| id|%}; {@-dvāra-mukha,@} 
+---
+> <>quarters; {@-diśam@}, {%ad. id.%}; {@-dvāra-mukha,@} 
+41103c41103
+< <>{@-pañcāśat@}, {%f|%} fifty-four; {@-pathá,@} {%m. n. place %}
+---
+> <>{@-pañcāśat@}, {%f.%} fifty-four; {@-pathá,@} {%m. n. place %}
+41246c41246
+< <>{@-cūḍāmaṇi@}, {%m| t| of a work%}; {@-tva,@} {%n.%} likeness 
+---
+> <>{@-cūḍāmaṇi@}, {%m. T. of a work%}; {@-tva,@} {%n.%} likeness 
+41252c41252
+< <>{%a river%}; {@-maṇḍala@}, {%n|%} moon-dics; {@-maya,@} {%a.%} 
+---
+> <>{%a river%}; {@-maṇḍala@}, {%n.%} moon-dics; {@-maya,@} {%a.%} 
+41272c41272
+< <>{%N.%}; {@-siṃha@}, {%m| n| of a prince%}; {@-svāmin,@} {%m.%} 
+---
+> <>{%N.%}; {@-siṃha@}, {%m. N. of a prince%}; {@-svāmin,@} {%m.%} 
+41281c41281
+< <>{@-maṇi@}, {%m| ep| of%} śiva; {@-avaloka,@} {%m. N. of a %}
+---
+> <>{@-maṇi@}, {%m. ep. of%} Śiva; {@-avaloka,@} {%m. N. of a %}
+41305c41305
+< <>{@-gaṇa@}, {%m|%} mischievous folk; {@-tā,@} {%f.%} giddiness, 
+---
+> <>{@-gaṇa@}, {%m.%} mischievous folk; {@-tā,@} {%f.%} giddiness, 
+41333c41333
+< <>{@anu‡ā@}-{@cāma@}, rinse the mouth again| {@pari‡ā,@} 
+---
+> <>{@anu‡ā@}-{@cāma@}, rinse the mouth again. {@pari‡ā,@} 
+41447c41447
+< <>{@proccārita@}, emitting sounds| {@upa,@} approach; 
+---
+> <>{@proccārita@}, emitting sounds. {@upa,@} approach; 
+41707c41707
+< <>{@-cālaya@}, stir up| {@vi,@} waver; move; stir, advance; <lbinfo n="2"/>
+---
+> <>{@-cālaya@}, stir up. {@vi,@} waver; move; stir, advance; <lbinfo n="2"/>
+41912c41912
+< <>({@ī@}) {%a| id|%}; {@-vratika,@} {%a.%} having the character 
+---
+> <>({@ī@}) {%a. id.%}; {@-vratika,@} {%a.%} having the character 
+41958c41958
+< <>golden, {@-acala@}, {%m| ep| of%} meru, {@-adri,@} {%m. id.%}.
+---
+> <>golden, {@-acala@}, {%m. ep. of%} Meru, {@-adri,@} {%m. id.%}.
+42034c42034
+< <>{@-darśanā@}, {%f|%} fair woman; {@-netra,@} {%a.%} fair-eyed; 
+---
+> <>{@-darśanā@}, {%f.%} fair woman; {@-netra,@} {%a.%} fair-eyed; 
+42085c42085
+< <>{@cīṣa@}, wish to accumulate {%or%} acquire| {@anu,@} 
+---
+> <>{@cīṣa@}, wish to accumulate {%or%} acquire. {@anu,@} 
+42337c42337
+< <>{@-kṛt@}, {%m|%} painter; {@-kṛtya@}, {%n|%} painting; {@-ga,@} 
+---
+> <>{@-kṛt@}, {%m.%} painter; {@-kṛtya@}, {%n.%} painting; {@-ga,@} 
+42346c42346
+< <>picture; {@-paṭṭa@}, {%m| id|%}: {@-gata,@} {%pp.%} painted; 
+---
+> <>picture; {@-paṭṭa@}, {%m. id.%}: {@-gata,@} {%pp.%} painted; 
+42493c42493
+< <>{@-ghrāṇa, -nāsa@}, {%a|%} flat-nosed; {@-nāsika,@} {%a. id.%}.
+---
+> <>{@-ghrāṇa, -nāsa@}, {%a.%} flat-nosed; {@-nāsika,@} {%a. id.%}.
+42522c42522
+< <>{@-tṛ@}, {%m| n| of a prince%}; {@-nirvāhya,@} {%fp.%} taking <lbinfo n="3"/>
+---
+> <>{@-tṛ@}, {%m. N. of a prince%}; {@-nirvāhya,@} {%fp.%} taking <lbinfo n="3"/>
+42554c42554
+< <>{@-cita@}, {%pp|%} long accumulated; {@-sthita,@} {%pp.%} 
+---
+> <>{@-cita@}, {%pp.%} long accumulated; {@-sthita,@} {%pp.%} 
+42619c42619
+< <>{@-ana@}, {%n| n| of a tirtha%}; {@-vasana, -vāsas,@} {%a.%} 
+---
+> <>{@-ana@}, {%n. N. of a Tirtha%}; {@-vasana, -vāsas,@} {%a.%} 
+42769c42769
+< <> {@-karṇa@}, {%m| n| of a baggar%}; {@-karman,@} 
+---
+> <> {@-karṇa@}, {%m. N. of a baggar%}; {@-karman,@} 
+43015c43015
+< <> {%or%} criticised; {@-ayitṛ@}, {%m|,%} {@trī,@} {%f.%} inciter. 
+---
+> <> {%or%} criticised; {@-ayitṛ@}, {%m.,%} {@trī,@} {%f.%} inciter. 
+43191c43191
+< <>{%pp.%} {@chādita@}| {@ā,@} {%cs.%} cover; conceal; obscure; 
+---
+> <>{%pp.%} {@chādita@}. {@ā,@} {%cs.%} cover; conceal; obscure; 
+43277c43277
+< <>{@-vṛtta@}, {%n|%} complaisance; {@-bhāga,@} {%a.%} having 
+---
+> <>{@-vṛtta@}, {%n.%} complaisance; {@-bhāga,@} {%a.%} having 
+43335,43336c43335,43336
+< <>{%and%} {@chitá@}| {@ava,@} draw off the skin, flay: 
+< <>{%pp.%} {@-chitá@}, emaciated| {@ā,@} cut of; flay. {@pra,@} 
+---
+> <>{%and%} {@chitá@}. {@ava,@} draw off the skin, flay: 
+> <>{%pp.%} {@-chitá@}, emaciated. {@ā,@} cut of; flay. {@pra,@} 
+43341c43341
+< {#CAga#}¦chā́ga, {%m.%} he-goat; {@ā@} ({%v|%}) {@ī,@} {%f.%} shegoat. <lbinfo n="3[]"/>
+---
+> {#CAga#}¦chā́ga, {%m.%} he-goat; {@ā@} ({%V.%}) {@ī,@} {%f.%} shegoat. <lbinfo n="3[]"/>
+43373c43373
+< <> {@-brāhmaṇa@}, {%n| id|%}; {@-upaniṣad,@} {%f.%} 
+---
+> <> {@-brāhmaṇa@}, {%n. id.%}; {@-upaniṣad,@} {%f.%} 
+43394c43394
+< <>shadow; {@-nāṭaka@}, {%n| kind of%} play; {@-māya,@} 
+---
+> <>shadow; {@-nāṭaka@}, {%n. kind of%} play; {@-māya,@} 
+43935c43935
+< <>teeth), {%sts. -°, e. g.%} {@danta-jāta@}, {%id|%} {@adhi,@} be 
+---
+> <>teeth), {%sts. -°, e. g.%} {@danta-jāta@}, {%id.%} {@adhi,@} be 
+43975c43975
+< <>Janaka); {@-candra@}, {%m| n|%}; {@-tanayā,@} {%f.%} Sītā; 
+---
+> <>Janaka); {@-candra@}, {%m. N.%}; {@-tanayā,@} {%f.%} Sītā; 
+43977c43977
+< <>{%N.%}; {@-siṃha@}, {%m| n|%}; {@-sutā,@} {%f.%} daughter of 
+---
+> <>{%N.%}; {@-siṃha@}, {%m. N.%}; {@-sutā,@} {%f.%} daughter of 
+44032c44032
+< <>{@-rā́jan@}, {%m|%} ruler of men; {@-vāda,@} {%m.%} gossip; 
+---
+> <>{@-rā́jan@}, {%m.%} ruler of men; {@-vāda,@} {%m.%} gossip; 
+44138c44138
+< <>home; {@-pratiṣṭhā@}, {%f|%} mother; {@-bandha,@} {%m.%} 
+---
+> <>home; {@-pratiṣṭhā@}, {%f.%} mother; {@-bandha,@} {%m.%} 
+44293c44293
+< <>{@-kṛt@}, {%a|%} conferring victory; {@-gupta,@} {%m. N.%}; 
+---
+> <>{@-kṛt@}, {%a.%} conferring victory; {@-gupta,@} {%m. N.%}; 
+44339c44339
+< <>of (-°); {@-rāja@}, {%m| n|%}; {@-lakṣmī,@} {%f.%} goddess of 
+---
+> <>of (-°); {@-rāja@}, {%m. N.%}; {@-lakṣmī,@} {%f.%} goddess of 
+44343c44343
+< <>goddess of victory; {@-siṃha@}, {%m| n|%}; {@-sena,@} 
+---
+> <>goddess of victory; {@-siṃha@}, {%m. N.%}; {@-sena,@} 
+44402c44402
+< <>violent {%or%} intense; {@-aṇa@}, {%a|%} decrepit, old: {@-ā́,@} 
+---
+> <>violent {%or%} intense; {@-aṇa@}, {%a.%} decrepit, old: {@-ā́,@} 
+44540c44540
+< <> {@-bhājana@}, {%n|%} water-vessel; {@-maya,@} {%a.%} 
+---
+> <> {@-bhājana@}, {%n.%} water-vessel; {@-maya,@} {%a.%} 
+44641c44641
+< <>{@pari@}, prate| {@pra,@} speak; announce: {%pp.%} having <lbinfo n="3"/>
+---
+> <>{@pari@}, prate. {@pra,@} speak; announce: {%pp.%} having <lbinfo n="3"/>
+44687c44687
+< <>{@jāsaya@}, p| exhaust, quench| {@ud,@} {%cs.%} exterminate <lbinfo n="2"/>
+---
+> <>{@jāsaya@}, P. exhaust, quench. {@ud,@} {%cs.%} exterminate <lbinfo n="2"/>
+44858c44858
+< <>{@-bhraṣṭa@}, {%pp|%} having lost caste; {@-mat,@} {%a.%} 
+---
+> <>{@-bhraṣṭa@}, {%pp.%} having lost caste; {@-mat,@} {%a.%} 
+44923c44923
+< <>{@-aśva@}, {%m|%} thoroughbred horse; {@-utkarṣa,@} 
+---
+> <>{@-aśva@}, {%m.%} thoroughbred horse; {@-utkarṣa,@} 
+45091c45091
+< <>{@-dhara@}, {%n| n| of a locality%}; {@-pāda,@} {%m.%} webfooted <lbinfo n="3"/>
+---
+> <>{@-dhara@}, {%n. N. of a locality%}; {@-pāda,@} {%m.%} webfooted <lbinfo n="3"/>
+45160c45160
+< <>surpass: {%pp.%} {@nirjita@}, due ({%interest%})| {@vi-nis,@} 
+---
+> <>surpass: {%pp.%} {@nirjita@}, due ({%interest%}). {@vi-nis,@} 
+46068c46068
+< <>{@-aya@}, cause to be feverish| {@sam,@} be 
+---
+> <>{@-aya@}, cause to be feverish. {@sam,@} be 
+46770c46770
+< <>{@-kṣaṇa@}, {%m|%} the same moment: {@-m,@} {%ab., lc., %}
+---
+> <>{@-kṣaṇa@}, {%m.%} the same moment: {@-m,@} {%ab., lc., %}
+46794c46794
+< <> the truth; {@-dṛś@}, {%a| id|%}; {@-bodha,@} {%m.%} knowledge <lbinfo n="4"/>
+---
+> <> the truth; {@-dṛś@}, {%a. id.%}; {@-bodha,@} {%m.%} knowledge <lbinfo n="4"/>
+46823c46823
+< <>{@-yaṇa@}, {%a|%} having that as {%their%} final aim; {@-pārva,@} 
+---
+> <>{@-yaṇa@}, {%a.%} having that as {%their%} final aim; {@-pārva,@} 
+47121c47121
+< <> weakness; {@-iṣṭha@}, {%spv|,%} {@-īyas,@} {%cpv. of%} 
+---
+> <> weakness; {@-iṣṭha@}, {%spv.,%} {@-īyas,@} {%cpv. of%} 
+47136c47136
+< <>cuirass; {@-ja@}, {%m|%} son: {@ā,@} {%f.%} daughter; {@-tā,@} {%f.%} 
+---
+> <>cuirass; {@-ja@}, {%m.%} son: {@ā,@} {%f.%} daughter; {@-tā,@} {%f.%} 
+47323c47323
+< <>{@nis (niṣ-ṭap)@}, scorch; purify ({%gold|%}) {@pari,@} 
+---
+> <>{@nis (niṣ-ṭap)@}, scorch; purify ({%gold.%}) {@pari,@} 
+47328c47328
+< <>heat. {@saṃ-pra@}, {%pp|%} greatly distressed| {@prati,@} 
+---
+> <>heat. {@saṃ-pra@}, {%pp.%} greatly distressed. {@prati,@} 
+47403c47403
+< <>{@-iṣṇu@}, {%a|%} warming, burning; {@-īyas,@} {%epv.%} most 
+---
+> <>{@-iṣṇu@}, {%a.%} warming, burning; {@-īyas,@} {%epv.%} most 
+48382c48382
+< <>{@-tvas@}, {%ad|%} so many times; {@-phala,@} {%a.%} producing <lbinfo n="3"/>
+---
+> <>{@-tvas@}, {%ad.%} so many times; {@-phala,@} {%a.%} producing <lbinfo n="3"/>
+48562c48562
+< <>{@-karaṇīya@}, {%fp|%} to be overcome; {@-karin,@} {%m.%} 
+---
+> <>{@-karaṇīya@}, {%fp.%} to be overcome; {@-karin,@} {%m.%} 
+48878c48878
+< <>sting; goad: {%pp.%} {@tunná@}; {%cs|%} {@todaya,@} goad; 
+---
+> <>sting; goad: {%pp.%} {@tunná@}; {%cs.%} {@todaya,@} goad; 
+48935c48935
+< <>{@-cāraka@}, {%m|%} groom; {@-mukha,@} {%m.%} (having a 
+---
+> <>{@-cāraka@}, {%m.%} groom; {@-mukha,@} {%m.%} (having a 
+49006c49006
+< <> equal, attain ({%ac.%}): {%pp.%} {@tulita| ud,@} 
+---
+> <> equal, attain ({%ac.%}): {%pp.%} {@tulita. ud,@} 
+49034c49034
+< <>{@-aṇa@}, {%a|%} comparable to (-°); {@-puruṣa,@} {%m.%} 
+---
+> <>{@-aṇa@}, {%a.%} comparable to (-°); {@-puruṣa,@} {%m.%} 
+49036c49036
+< <>{@-yaṣṭi@}, {%f|%} beam of the balance; {@-yoga,@} {%m.%} 
+---
+> <>{@-yaṣṭi@}, {%f.%} beam of the balance; {@-yoga,@} {%m.%} 
+49120c49120
+< <>{@-ti,@} {%m.%} moon; {@-raśmi@}, {%m| id|%}; {@-varṣa,@} {%m.%} 
+---
+> <>{@-ti,@} {%m.%} moon; {@-raśmi@}, {%m. id.%}; {@-varṣa,@} {%m.%} 
+49142c49142
+< <>{@-kara,@} {%m.%} moon; {@-kiraṇa@}, {%m| id|%}; {@-giri,@} {%m.%} 
+---
+> <>{@-kara,@} {%m.%} moon; {@-kiraṇa@}, {%m. id.%}; {@-giri,@} {%m.%} 
+49154c49154
+< <>{@-śaila@}, {%m|%} himālaya; {@-acala@}, {%m| id|%}; {@-adri,@} 
+---
+> <>{@-śaila@}, {%m.%} Himālaya; {@-acala@}, {%m. id.%}; {@-adri,@} 
+49287c49287
+< <>grasses); {@-rāja@}, {%m| id|%}; {@-lava,@} {%m.%} blade of 
+---
+> <>grasses); {@-rāja@}, {%m. id.%}; {@-lava,@} {%m.%} blade of 
+49439c49439
+< <>{%pp.%} {@-tārita| sam-ava,@} having descended; 
+---
+> <>{%pp.%} {@-tārita. sam-ava,@} having descended; 
+49664c49664
+< <>of waters); {@-rāśi@}, {%m|%} pond, lake; sea; {@-vat,@} 
+---
+> <>of waters); {@-rāśi@}, {%m.%} pond, lake; sea; {@-vat,@} 
+49808c49808
+< <>with charity; {@-śila@}, {%a|%} liberal: {@-tā,@} {%f.%} liberality.
+---
+> <>with charity; {@-śila@}, {%a.%} liberal: {@-tā,@} {%f.%} liberality.
+49919c49919
+< <>from ({%ab., g.%}); {%ps.%} {@trāyate:@} {%pp|%} {@trāta| pari,@} 
+---
+> <>from ({%ab., g.%}); {%ps.%} {@trāyate:@} {%pp.%} {@trāta. pari,@} 
+50010c50010
+< <>times, omniscient; {@-darśin@}, {%a| id|%}; {@-rūpa,@} {%a.%} 
+---
+> <>times, omniscient; {@-darśin@}, {%a. id.%}; {@-rūpa,@} {%a.%} 
+50058c50058
+< <>Pārvati; {@-jaṭa@}, {%a|%} wearing three braids: {@ā,@} 
+---
+> <>Pārvati; {@-jaṭa@}, {%a.%} wearing three braids: {@ā,@} 
+50168c50168
+<  of Tripura; {@-vijayin@}, {%m|%} śiva; {@-hara,@} 
+---
+>  of Tripura; {@-vijayin@}, {%m.%} Śiva; {@-hara,@} 
+50268c50268
+< <>{@-karaṇa@}, {%n|%} tripling, {@-tā,@} {%f.%} threefoldness; 
+---
+> <>{@-karaṇa@}, {%n.%} tripling, {@-tā,@} {%f.%} threefoldness; 
+50668c50668
+< <> thee; {@-dṛśa@}, {%a|%} ({@ī@}): {@-ka,@} {%a. id.%}.
+---
+> <> thee; {@-dṛśa@}, {%a.%} ({@ī@}): {@-ka,@} {%a. id.%}.
+50890c50890
+< <>{@-vaṇa@}, {%a|%} ({@ī@}) facing southward: {@-m,@} {%ad.%} 
+---
+> <>{@-vaṇa@}, {%a.%} ({@ī@}) facing southward: {@-m,@} {%ad.%} 
+51027c51027
+< <>{@-tāḍana@}, {%n|%} chastisement with a stick; {@-tva,@} 
+---
+> <>{@-tāḍana@}, {%n.%} chastisement with a stick; {@-tva,@} 
+51089c51089
+< <>{@-leśa@}, {%m|%} small fine; {@-vat,@} {%a.%} bearing a staff; 
+---
+> <>{@-leśa@}, {%m.%} small fine; {@-vat,@} {%a.%} bearing a staff; 
+51291c51291
+< <>of ivory; {@-māṃsa@}, {%n|%} gum; {@-mūlá,@} {%n.%} root 
+---
+> <>of ivory; {@-māṃsa@}, {%n.%} gum; {@-mūlá,@} {%n.%} root 
+51293c51293
+< <>{@-anā@}, {%f|%} cleansing of the teeth; {@-vakra,@} {%m. %}
+---
+> <>{@-anā@}, {%f.%} cleansing of the teeth; {@-vakra,@} {%m. %}
+51298c51298
+< <>{@-veṣṭa@}, {%m|%} gum: {%du|%} gums; {@-vyāpāra,@} {%m.%} 
+---
+> <>{@-veṣṭa@}, {%m.%} gum: {%du.%} gums; {@-vyāpāra,@} {%m.%} 
+51504c51504
+< <>a little ({%also%} {@-m@}); {%m|,%} {@ī,@} {%f.%} cleft, hole, cave; 
+---
+> <>a little ({%also%} {@-m@}); {%m.,%} {@ī,@} {%f.%} cleft, hole, cave; 
+51733c51733
+< <>{@-kaṇṭha@}, {%m|%} (ten-necked), {%esp| of%} rāvaṇa: {@-ari,@} 
+---
+> <>{@-kaṇṭha@}, {%m.%} (ten-necked), {%esp. of%} Rāvaṇa: {@-ari,@} 
+51739c51739
+< <>{@-ita@}, {%pp|%} multiplied by ten; {@-grāma-pati,@} 
+---
+> <>{@-ita@}, {%pp.%} multiplied by ten; {@-grāma-pati,@} 
+51782c51782
+< <>{@-cchada@}, {%m|%} lip; {@-pada,@} {%n.%} make of teeth, bite; 
+---
+> <>{@-cchada@}, {%m.%} lip; {@-pada,@} {%n.%} make of teeth, bite; 
+51892c51892
+< <>{@-amāna@}; {%cs|%} ā| {@dasaya,@} cause to languish, 
+---
+> <>{@-amāna@}; {%cs.%} Ā. {@dasaya,@} cause to languish, 
+51940c51940
+< <>({%f. -° a.%} {@ā@}); {%n|%} burning: {@-karman,@} {%n.%} act 
+---
+> <>({%f. -° a.%} {@ā@}); {%n.%} burning: {@-karman,@} {%n.%} act 
+51973c51973
+< <>{@-tta,@} {%after prepositions in%} {@ā̆@}; {%cs|%} {@dāpaya,@} P. 
+---
+> <>{@-tta,@} {%after prepositions in%} {@ā̆@}; {%cs.%} {@dāpaya,@} P. 
+52001c52001
+< <>{%pp.%} {@upātta@}; {%gd|%} {@upādāya,@} including, besides; 
+---
+> <>{%pp.%} {@upātta@}; {%gd.%} {@upādāya,@} including, besides; 
+52027c52027
+< <>{@dita, -tta| ava,@} cut off, {%esp. part of the sacrificial %}<lbinfo n="5"/>
+---
+> <>{@dita, -tta. ava,@} cut off, {%esp. part of the sacrificial %}<lbinfo n="5"/>
+52380c52380
+< <>{@-kṛtya@}, {%n|%} function of wood; {@-ja,@} {%a.%} wooden.
+---
+> <>{@-kṛtya@}, {%n.%} function of wood; {@-ja,@} {%a.%} wooden.
+52636c52636
+< <>{@-jaya@}, {%m|%} conquest of the world; {@-dāha,@} {%m.%} 
+---
+> <>{@-jaya@}, {%m.%} conquest of the world; {@-dāha,@} {%m.%} 
+52655c52655
+< <>{@-aṇa@}, {%n|%} sprinkling of the quarters; {@-vyāpin,@} 
+---
+> <>{@-aṇa@}, {%n.%} sprinkling of the quarters; {@-vyāpin,@} 
+52745c52745
+< <>{@-kartṛ@}, {%m|%} (day-maker), sun; {@-kārya,@} {%n.%} 
+---
+> <>{@-kartṛ@}, {%m.%} (day-maker), sun; {@-kārya,@} {%n.%} 
+52750c52750
+< <>{%m. id.%}; {@-maṇi@}, {%m| id|%} (gem of day); {@-mukha,@} 
+---
+> <>{%m. id.%}; {@-maṇi@}, {%m. id.%} (gem of day); {@-mukha,@} 
+52793c52793
+< {#div#}¦DIV, I. {@-déva@}: {%pp|%} {@dyūna,@} tormented. <lbinfo n="7"/>
+---
+> {#div#}¦DIV, I. {@-déva@}: {%pp.%} {@dyūna,@} tormented. <lbinfo n="7"/>
+52825c52825
+< <>of day), sun; {@-bhartṛ@}, {%m| id|%}; {@-mukha,@} {%n.%} 
+---
+> <>of day), sun; {@-bhartṛ@}, {%m. id.%}; {@-mukha,@} {%n.%} 
+52890c52890
+< <>night; {@-śaya@}, {%a|%} sleeping by day: {@-tā,@} {%f. abst. %}
+---
+> <>night; {@-śaya@}, {%a.%} sleeping by day: {@-tā,@} {%f. abst. %}
+53077c53077
+< {#dI#}¦DĪ, shine, {@didī| ni,@} beam down ({%ac.%}) 
+---
+> {#dI#}¦DĪ, shine, {@didī. ni,@} beam down ({%ac.%}) 
+53198c53198
+< <>{@-bhājana@}, {%n|%} lamp; {@-mālā,@} {%f.%} row of lamps; 
+---
+> <>{@-bhājana@}, {%n.%} lamp; {@-mālā,@} {%f.%} row of lamps; 
+53329c53329
+< <>{@-jīvin@}, {%a|%} living in distress; {@-tara,@} {%cpv.%} more 
+---
+> <>{@-jīvin@}, {%a.%} living in distress; {@-tara,@} {%cpv.%} more 
+53536c53536
+< <>{%abst. N.%}; {@-īśa@}, {%m|%} evil master; {@-īha,@} {%a.%} ill-intentioned. <lbinfo n="3"/>
+---
+> <>{%abst. N.%}; {@-īśa@}, {%m.%} evil master; {@-īha,@} {%a.%} ill-intentioned. <lbinfo n="3"/>
+53680c53680
+< <>{@-daśā@}, {%f|%} hard lot, misfortune; {@-dānta,@} {%pp.%} 
+---
+> <>{@-daśā@}, {%f.%} hard lot, misfortune; {@-dānta,@} {%pp.%} 
+53771c53771
+< <>dying hard; {@-maraṇa@}, {%n| id|%}; {@-maryāda,@} {%a.%} 
+---
+> <>dying hard; {@-maraṇa@}, {%n. id.%}; {@-maryāda,@} {%a.%} 
+53792c53792
+< <>{@-yoṇá@}, {%a|%} habitation; {@-yodhana,@} {%a.%} hard to 
+---
+> <>{@-yoṇá@}, {%a.%} habitation; {@-yodhana,@} {%a.%} hard to 
+53841c53841
+< <> {@-vāraṇa@}, {%a| id|%}; {@-vārttā,@} {%f.%} ill-tidings; 
+---
+> <> {@-vāraṇa@}, {%a. id.%}; {@-vārttā,@} {%f.%} ill-tidings; 
+53854c53854
+< <>{@-jñeya@}, {%fp|%} hard to distinguish; {@-vidagdha,@} 
+---
+> <>{@-jñeya@}, {%fp.%} hard to distinguish; {@-vidagdha,@} 
+53912c53912
+< <>cure; {@-cikitsya@}, {%fp| id|%}: {@-tva,@} {%n.%} difficulty of 
+---
+> <>cure; {@-cikitsya@}, {%fp. id.%}: {@-tva,@} {%n.%} difficulty of 
+53993c53993
+< <>{@-jana@}, {%m|%} depraved rogue; {@-budhi,@} {%a.%} ill-affected <lbinfo n="6"/>
+---
+> <>{@-jana@}, {%m.%} depraved rogue; {@-budhi,@} {%a.%} ill-affected <lbinfo n="6"/>
+54020c54020
+< <>dignity; {@-prajña@}, {%a|%} stupid: {@-tva,@} {%n.%} stupidity; <lbinfo n="3"/>
+---
+> <>dignity; {@-prajña@}, {%a.%} stupid: {@-tva,@} {%n.%} stupidity; <lbinfo n="3"/>
+54023c54023
+< <>{@-prabhañjana@}, {%m|%} hurricane; {@-prayukta,@} 
+---
+> <>{@-prabhañjana@}, {%m.%} hurricane; {@-prayukta,@} 
+54026c54026
+< <>{@-veśa@}, {%a|%} hard to enter; {@-prasaha,@} {%a.%} hard to 
+---
+> <>{@-veśa@}, {%a.%} hard to enter; {@-prasaha,@} {%a.%} hard to 
+54097c54097
+< <>touch; {@-spṛśa@}, {%a| id|%}; {@-smara,@} {%a.%} unpleasant 
+---
+> <>touch; {@-spṛśa@}, {%a. id.%}; {@-smara,@} {%a.%} unpleasant 
+54112c54112
+< <>{@dúdukṣa@} ({%v|%}) {%and%} {@dudhukṣa,@} wish to 
+---
+> <>{@dúdukṣa@} ({%V.%}) {%and%} {@dudhukṣa,@} wish to 
+54325c54325
+< <>{%pp.%} {@ādṛta@}, {%q| v|%} {@ati‡ā,@} pay great regard to 
+---
+> <>{%pp.%} {@ādṛta@}, {%q. v.%} {@ati‡ā,@} pay great regard to 
+54385c54385
+< <>{@-dhṛti@}, {%a|%} strong-willed; {@-prahāri-tā,@} {%f.%} 
+---
+> <>{@-dhṛti@}, {%a.%} strong-willed; {@-prahāri-tā,@} {%f.%} 
+54659c54659
+< <>{@-kalaśa@}, {%m| n|%}; {@-kārya,@} {%n.%} divine rite; concern <lbinfo n="3"/>
+---
+> <>{@-kalaśa@}, {%m. N.%}; {@-kārya,@} {%n.%} divine rite; concern <lbinfo n="3"/>
+54768c54768
+< <>{@-ṣaj@}, {%m|%} divine physician; {@-bhūta,@} {%pp.%} having <lbinfo n="3"/>
+---
+> <>{@-ṣaj@}, {%m.%} divine physician; {@-bhūta,@} {%pp.%} having <lbinfo n="3"/>
+54832c54832
+< <>armour; {@-viś@}, {%f|%} race of gods; ({@á@}) {@-vīti,@} {%f.%} 
+---
+> <>armour; {@-viś@}, {%f.%} race of gods; ({@á@}) {@-vīti,@} {%f.%} 
+54844c54844
+< <>{@-saṃnidhi@}, {%m|%} presence of the gods; {@-sarasa,@} 
+---
+> <>{@-saṃnidhi@}, {%m.%} presence of the gods; {@-sarasa,@} 
+54869c54869
+< <>{@-cara@}, {%m|%} attendant of a god; {@-anuyāyin,@} 
+---
+> <>{@-cara@}, {%m.%} attendant of a god; {@-anuyāyin,@} 
+55126c55126
+< <>{@-vaśa@}, {%m|%} will of fate: {%ab|%} accidentally; {@-vid,@} 
+---
+> <>{@-vaśa@}, {%m.%} will of fate: {%ab.%} accidentally; {@-vid,@} 
+55180c55180
+< <>{@-dhṛ@}, {%m|%} milker; {@-dhrī,@} {%a.%} giving milk; 
+---
+> <>{@-dhṛ@}, {%m.%} milker; {@-dhrī,@} {%a.%} giving milk; 
+55239c55239
+< <>{@-in@}, {%a|%} possessed of faults and merits: ({@-i@}) {@-tva,@} 
+---
+> <>{@-in@}, {%a.%} possessed of faults and merits: ({@-i@}) {@-tva,@} 
+55521c55521
+< <>{@-niśa@}, {%n| id|%}: {%only%} {@-m,@} for a day and a night, 
+---
+> <>{@-niśa@}, {%n. id.%}: {%only%} {@-m,@} for a day and a night, 
+55559c55559
+< <>gambler; {@-kāra,@} {%m. id.%}; {@-kṛt@}, {%m| id|%}; {@-dāsa,@} 
+---
+> <>gambler; {@-kāra,@} {%m. id.%}; {@-kṛt@}, {%m. id.%}; {@-dāsa,@} 
+55761c55761
+< <>{@-drāṇa@}, sleeping; {%pp|%} {@nidrita,@} {%id.%}.
+---
+> <>{@-drāṇa@}, sleeping; {%pp.%} {@nidrita,@} {%id.%}.
+55922c55922
+< <> {@-vṛṣṭi@}, {%f|%} rain as from a trough; {@-āsa,@} 
+---
+> <> {@-vṛṣṭi@}, {%f.%} rain as from a trough; {@-āsa,@} 
+56035c56035
+< <>{@-śata@}, {%n|%} ¤112¤: {@ī,@} {%f.%} ¤11200¤; {@-sāhasra,@} {%a.%} ({@ī@}) consisting <lbinfo n="3"/>
+---
+> <>{@-śata@}, {%n.%} ¤112¤: {@ī,@} {%f.%} ¤11200¤; {@-sāhasra,@} {%a.%} ({@ī@}) consisting <lbinfo n="3"/>
+56085c56085
+< <>{@-paṭṭa@}, {%m| id|%}; {@-pati,@} {%m.%} janitor, chamberlain; 
+---
+> <>{@-paṭṭa@}, {%m. id.%}; {@-pati,@} {%m.%} janitor, chamberlain; 
+56199c56199
+< <> {@-śreṣṭha, -sattama@}, {%m| id|%}; {@agrya,@} 
+---
+> <> {@-śreṣṭha, -sattama@}, {%m. id.%}; {@agrya,@} 
+56222c56222
+< <>Brāhman; {@-īśvara@}, {%m| id|%}; moon; {@-uttama,@} 
+---
+> <>Brāhman; {@-īśvara@}, {%m. id.%}; moon; {@-uttama,@} 
+56622c56622
+< <>{@-ûraṇa@}, {%a|%} having two lambs; {@-eka‡antara,@} 
+---
+> <>{@-ûraṇa@}, {%a.%} having two lambs; {@-eka‡antara,@} 
+56671c56671
+< <>{@-goptṛ@}, {%m|%} penurious man, miser: {@-tā,@} {%f.%} 
+---
+> <>{@-goptṛ@}, {%m.%} penurious man, miser: {@-tā,@} {%f.%} 
+56719c56719
+< <>{@-vṛddha@}, {%pp|%} rich in money; {@-vyaya,@} {%m.%} expenditure <lbinfo n="2"/>
+---
+> <>{@-vṛddha@}, {%pp.%} rich in money; {@-vyaya,@} {%m.%} expenditure <lbinfo n="2"/>
+56726c56726
+< <>rich man; {@-saṃpatti@}, {%f|%} riches; {@-sādhana,@} 
+---
+> <>rich man; {@-saṃpatti@}, {%f.%} riches; {@-sādhana,@} 
+56735c56735
+< <>wealth, income; {@-āḍhya@}, {%a|%} rich: {@-tā,@} {%f.%} 
+---
+> <>wealth, income; {@-āḍhya@}, {%a.%} rich: {@-tā,@} {%f.%} 
+56756c56756
+< <>creditor; {@-iṣṭha@}, {%spv|%} extremely rich: {@ā,@} {%f. %}
+---
+> <>creditor; {@-iṣṭha@}, {%spv.%} extremely rich: {@ā,@} {%f. %}
+57003c57003
+< <>{@-kośa@}, {%m|%} treasure of the law; {@-kriyā,@} {%f.%} 
+---
+> <>{@-kośa@}, {%m.%} treasure of the law; {@-kriyā,@} {%f.%} 
+57088c57088
+< <>{@-vṛddha@}, {%pp|%} rich in virtue; {@-vyatikrama,@} 
+---
+> <>{@-vṛddha@}, {%pp.%} rich in virtue; {@-vyatikrama,@} 
+57130c57130
+< <>{@-kāraṇika@}, {%m|%} judge; {@-adhikārin,@} {%m. id.%}; 
+---
+> <>{@-kāraṇika@}, {%m.%} judge; {@-adhikārin,@} {%m. id.%}; 
+57255c57255
+< <>{@-te@}: {%pp|%} {@hitá,@} {%q. v.%}; {%cs.%} {@-dhāpaya@}; {%des.%} {@di-@}
+---
+> <>{@-te@}: {%pp.%} {@hitá,@} {%q. v.%}; {%cs.%} {@-dhāpaya@}; {%des.%} {@di-@}
+57558c57558
+< <>{@-pañca-ka@}, {%n|%} the five cereals; {@-pātra,@} {%n.%} 
+---
+> <>{@-pañca-ka@}, {%n.%} the five cereals; {@-pātra,@} {%n.%} 
+57561c57561
+< <>corn; {@-rāja@}, {%m|%} (king of grain), barley; {@-vat,@} 
+---
+> <>corn; {@-rāja@}, {%m.%} (king of grain), barley; {@-vat,@} 
+57719c57719
+< <> {@-gṛha@}, {%n|%} shower-bath room; {@-vat,@} {%a.%} 
+---
+> <> {@-gṛha@}, {%n.%} shower-bath room; {@-vat,@} {%a.%} 
+57794c57794
+< <>({%ac.%}): {@mṛgayām@} --, pursue the chase| {@pra,@} 
+---
+> <>({%ac.%}): {@mṛgayām@} --, pursue the chase. {@pra,@} 
+57966c57966
+< <>courageous; ¤1.¤ {@-tā|,@} {%f.,%} {@-tva,@} {%n.%} firmness; resoluteness, <lbinfo n="2"/>
+---
+> <>courageous; ¤1.¤ {@-tā.,@} {%f.,%} {@-tva,@} {%n.%} firmness; resoluteness, <lbinfo n="2"/>
+57995c57995
+< <> ({%also%} {@-ka,@} {%m.%}); {@ī|,@} {%f.%} fisherwoman.
+---
+> <> ({%also%} {@-ka,@} {%m.%}); {@ī.,@} {%f.%} fisherwoman.
+58134c58134
+< <>{%pp.%} {@dhūpita| anu, ava, ā, upa, pra,@} {%id.%}.
+---
+> <>{%pp.%} {@dhūpita. anu, ava, ā, upa, pra,@} {%id.%}.
+58165c58165
+< <>smoke; {@-dhvaja@}, {%m|%} fire; {@-pa,@} {%a.%} smoking 
+---
+> <>smoke; {@-dhvaja@}, {%m.%} fire; {@-pa,@} {%a.%} smoking 
+58178c58178
+< <>{@dhūmita| abhi,@} {%pp. with%} {@diś@}, {%f.%} quarter 
+---
+> <>{@dhūmita. abhi,@} {%pp. with%} {@diś@}, {%f.%} quarter 
+58228c58228
+< <>{@-śikha@}, {%m| n|%}; {@-akṣa,@} {%a.%} grey-eyed.
+---
+> <>{@-śikha@}, {%m. N.%}; {@-akṣa,@} {%a.%} grey-eyed.
+58475c58475
+< <>in, absorb: {%pp.%} {@dhītá@}; {%cs|%} {@dhāpáya,@} Ā. 
+---
+> <>in, absorb: {%pp.%} {@dhītá@}; {%cs.%} {@dhāpáya,@} Ā. 
+58558,58559c58558,58559
+< <>{@dhamitá@} ({%v|%}); {@dhmātá,@} blown, inflated, 
+< <>puffed; {%cs.%} {@dhmāpaya@}: {%pp|%} {@dhmāpita,@} reduced  <lbinfo n="2"/>
+---
+> <>{@dhamitá@} ({%V.%}); {@dhmātá,@} blown, inflated, 
+> <>puffed; {%cs.%} {@dhmāpaya@}: {%pp.%} {@dhmāpita,@} reduced  <lbinfo n="2"/>
+58674c58674
+< <>{@-dhi@}, {%m| n|%}; {@-siddhi,@} {%m.%} (sure recovery), {%N. %}
+---
+> <>{@-dhi@}, {%m. N.%}; {@-siddhi,@} {%m.%} (sure recovery), {%N. %}
+58691c58691
+< <>{%impv.%}); {%ps.%} {@dhvasyate@}: {%pp|%} {@dhvasta,@} fallen; 
+---
+> <>{%impv.%}); {%ps.%} {@dhvasyate@}: {%pp.%} {@dhvasta,@} fallen; 
+58718c58718
+< <>{@-yaṣṭi@}, {%f|%} flag-staff; {@-vat,@} {%a.%} adorned with 
+---
+> <>{@-yaṣṭi@}, {%f.%} flag-staff; {@-vat,@} {%a.%} adorned with 
+59413,59414c59413,59414
+< <>{@-yati,@} bend: {%pp.%} {@nămita@}; {%intv|%} {@nannam,@} P., 
+< <>{@nannamya@}, ā| bend, incline ({%int|%})| {@abhi,@} 
+---
+> <>{@-yati,@} bend: {%pp.%} {@nămita@}; {%intv.%} {@nannam,@} P., 
+> <>{@nannamya@}, Ā. bend, incline ({%int.%}). {@abhi,@} 
+59480c59480
+< <>{@-kṛti@}, {%f|,%} {@-kriyā,@} {%f.%} adoration, reverence 
+---
+> <>{@-kṛti@}, {%f.,%} {@-kriyā,@} {%f.%} adoration, reverence 
+59592c59592
+< <>{@-jāṅgala@}, {%n|%} human fleṣ; {@-danta,@} {%m.%} human 
+---
+> <>{@-jāṅgala@}, {%n.%} human fleṣ; {@-danta,@} {%m.%} human 
+59619c59619
+< <>men: {@-śreṣṭha@}, {%spv|%} best of men; {@-sakha,@} 
+---
+> <>men: {@-śreṣṭha@}, {%spv.%} best of men; {@-sakha,@} 
+59741c59741
+< <>{@-nidhi@}, {%f|%} presence of nala; {@-sārathi,@} {%m.%} 
+---
+> <>{@-nidhi@}, {%f.%} presence of Nala; {@-sārathi,@} {%m.%} 
+59973c59973
+< <>{%of cs.%} {@nināśayiṣa@}, p| wish to destroy| {@nis,@} 
+---
+> <>{%of cs.%} {@nināśayiṣa@}, P. wish to destroy. {@nis,@} 
+60004c60004
+< <> {@-ceṣṭa@}, {%a|%} motionless; {@-dhī,@} {%a.%} 
+---
+> <> {@-ceṣṭa@}, {%a.%} motionless; {@-dhī,@} {%a.%} 
+60015c60015
+< <>{@-āśaṅka@}, {%a|%} fearless: {@-m,@} {%ad.%} fearlessly; 
+---
+> <>{@-āśaṅka@}, {%a.%} fearless: {@-m,@} {%ad.%} fearlessly; 
+60212c60212
+< <>{%coll.%} the serpents; {@-vaṭṭa@}, {%m| n|%}: {@-vallī,@} {%f.%} 
+---
+> <>{%coll.%} the serpents; {@-vaṭṭa@}, {%m. N.%}: {@-vallī,@} {%f.%} 
+60308c60308
+< <>{@-cira@}, {%a|%} not very long ({%time%}); {@-tīvra,@} {%a.%} 
+---
+> <>{@-cira@}, {%a.%} not very long ({%time%}); {@-tīvra,@} {%a.%} 
+60323c60323
+< <>{@-sphuṭa@}, {%a|%} somewhat concealed; {@-paryāpta,@} 
+---
+> <>{@-sphuṭa@}, {%a.%} somewhat concealed; {@-paryāpta,@} 
+60348c60348
+< <>{@-ucchrita@}, {%pp|%} not too high; {@-utpanna,@} 
+---
+> <>{@-ucchrita@}, {%pp.%} not too high; {@-utpanna,@} 
+60511c60511
+< <>{@-grahaṇa@}, {%n|%} mention of a name; {@-grāhá,@} {%m. %}
+---
+> <>{@-grahaṇa@}, {%n.%} mention of a name; {@-grāhá,@} {%m. %}
+60542c60542
+< <>{@nāmnā kṛ@} {%or%} {@vi-dhā@}, name (¤2¤ {%ac|%}); {@nâma,@} {%ad.%} 
+---
+> <>{@nāmnā kṛ@} {%or%} {@vi-dhā@}, name (¤2¤ {%ac.%}); {@nâma,@} {%ad.%} 
+60558c60558
+< <>{@-yajña@}, {%m|%} sacrifice only in name; {@-rūpá,@} {%n.%} 
+---
+> <>{@-yajña@}, {%m.%} sacrifice only in name; {@-rūpá,@} {%n.%} 
+60907c60907
+< <>baseness: {@-prajña@}, {%a|%} versed in fraud, {@-mat,@} 
+---
+> <>baseness: {@-prajña@}, {%a.%} versed in fraud, {@-mat,@} 
+60911c60911
+< <>{@-āśaya@}, {%a|%} having a base disposition: {@-tā,@} {%f. %}
+---
+> <>{@-āśaya@}, {%a.%} having a base disposition: {@-tā,@} {%f. %}
+60987c60987
+< <>{@tṛ@}, {%m|%} seizer; {@-grahitavya,@} {%fp.%} to be punished; <lbinfo n="3"/>
+---
+> <>{@tṛ@}, {%m.%} seizer; {@-grahitavya,@} {%fp.%} to be punished; <lbinfo n="3"/>
+61030c61030
+< <>{@-aya@}, p| cause to wash| {@nis,@} cleanse; Ā. 
+---
+> <>{@-aya@}, P. cause to wash. {@nis,@} cleanse; Ā. 
+61040c61040
+< <>{@-ma@}, {%m|%} rules of his own caste: {@-tas,@} {%ad.%} from --.
+---
+> <>{@-ma@}, {%m.%} rules of his own caste: {@-tas,@} {%ad.%} from --.
+61107c61107
+< <>{@-kṛtya@}, {%n|,%} {@-kriyā,@} {%f.%} regular ceremony, daily 
+---
+> <>{@-kṛtya@}, {%n.,%} {@-kriyā,@} {%f.%} regular ceremony, daily 
+61109c61109
+< <>wind; {@-jāta@}, {%pp|%} being constantly born; {@-tā,@} 
+---
+> <>wind; {@-jāta@}, {%pp.%} being constantly born; {@-tā,@} 
+61355c61355
+< <>{@-traṇa@}, {%n|%} invitation; {@-mantrya,@} {%fp.%} to be invited; <lbinfo n="2"/>
+---
+> <>{@-traṇa@}, {%n.%} invitation; {@-mantrya,@} {%fp.%} to be invited; <lbinfo n="2"/>
+61484c61484
+< <>{@-saṃsthita@}, {%pp|%} being in office; {@-stha,@} {%a.%} 
+---
+> <>{@-saṃsthita@}, {%pp.%} being in office; {@-stha,@} {%a.%} 
+61845c61845
+< <>{@-gṛha@}, {%a|%}({@ī@}) houseless; {@-gaurava,@} {%a.%} devoid 
+---
+> <>{@-gṛha@}, {%a.%}({@ī@}) houseless; {@-gaurava,@} {%a.%} devoid 
+61872c61872
+< <>(to, {%g.%}); {@-jīvita@}, {%a|%} lifeless: {@-tva,@} {%n.%} -ness; 
+---
+> <>(to, {%g.%}); {@-jīvita@}, {%a.%} lifeless: {@-tva,@} {%n.%} -ness; 
+62089c62089
+< <>brazen; {@-lavaṇa@}, {%a|%} lacking grace; {@-lepa,@} {%a.%} 
+---
+> <>brazen; {@-lavaṇa@}, {%a.%} lacking grace; {@-lepa,@} {%a.%} 
+62100c62100
+< <>{@-aṇa@}, {%n|%} (funeral) offering; {@-vartaka,@} {%a.%} performing; <lbinfo n="3"/>
+---
+> <>{@-aṇa@}, {%n.%} (funeral) offering; {@-vartaka,@} {%a.%} performing; <lbinfo n="3"/>
+62116c62116
+< <>determined; {@-vā-ṇa@}, {%pp| of%} √ vā; {@-vā‡aṇa,@} {%n.%} 
+---
+> <>determined; {@-vā-ṇa@}, {%pp. of%} √ vā; {@-vā‡aṇa,@} {%n.%} 
+62166c62166
+< <>obstacles; {@-vicāra@}, {%a|%} unreflecting: {@-m,@} without <lbinfo n="4"/>
+---
+> <>obstacles; {@-vicāra@}, {%a.%} unreflecting: {@-m,@} without <lbinfo n="4"/>
+62492c62492
+< <>{@-śalya@}, {%a|%} free from an arrow: {@-m,@} {%ad.%} painlessly, <lbinfo n="4"/>
+---
+> <>{@-śalya@}, {%a.%} free from an arrow: {@-m,@} {%ad.%} painlessly, <lbinfo n="4"/>
+62494c62494
+< <>{%a.%} unarmed; {@-śākha@}, {%a|%} branchless: {@-tā,@} {%f.%} 
+---
+> <>{%a.%} unarmed; {@-śākha@}, {%a.%} branchless: {@-tā,@} {%f.%} 
+62757c62757
+< <>{@-cchada@}, {%a|%} having no retinue; {@-paryanta,@} {%a.%} 
+---
+> <>{@-cchada@}, {%a.%} having no retinue; {@-paryanta,@} {%a.%} 
+62775c62775
+< <>{@-prajña@}, {%a|%} witless, stupid; {@-pratāpa,@} {%a.%} 
+---
+> <>{@-prajña@}, {%a.%} witless, stupid; {@-pratāpa,@} {%a.%} 
+62924c62924
+< <>-°); {@-saraṇi@}, {%a|%} pathless; {@-sarpa,@} {%a.%} free 
+---
+> <>-°); {@-saraṇi@}, {%a.%} pathless; {@-sarpa,@} {%a.%} free 
+63064c63064
+< <>{@saṃ-ni@}, pour together, mingle| {@nis,@} take 
+---
+> <>{@saṃ-ni@}, pour together, mingle. {@nis,@} take 
+63157c63157
+< <>politic; {@-jña@}, {%a|%} prudent, politic; {@-doṣa,@} 
+---
+> <>politic; {@-jña@}, {%a.%} prudent, politic; {@-doṣa,@} 
+63189c63189
+< {#nIra#}¦nīrá, {%n.%} water; {@-ja@}, {%m| n|%} lotus: {@-akṣī,@} 
+---
+> {#nIra#}¦nīrá, {%n.%} water; {@-ja@}, {%m. n.%} lotus: {@-akṣī,@} 
+63230c63230
+< <>{@-rāśi@}, {%m|%} ocean; {@-ruha,@} {%n.%} lotus.
+---
+> <>{@-rāśi@}, {%m.%} ocean; {@-ruha,@} {%n.%} lotus.
+63238c63238
+< <> devoid of passions; {@-rājana@}, {%n|,%} {@ā,@} {%f. %}
+---
+> <> devoid of passions; {@-rājana@}, {%n.,%} {@ā,@} {%f. %}
+63244c63244
+< <>formless; {@-reṇu-ka@}, {%a|%} dustless; {@-roga,@} {%a.%} 
+---
+> <>formless; {@-reṇu-ka@}, {%a.%} dustless; {@-roga,@} {%a.%} 
+63262c63262
+< <>{@-nīraja@}, {%n|%} blue lotus; {@-pakṣman,@} {%n. feathered%} <lbinfo n="3"/>
+---
+> <>{@-nīraja@}, {%n.%} blue lotus; {@-pakṣman,@} {%n. feathered%} <lbinfo n="3"/>
+63268c63268
+< <>{@-maṇi@}, {%m|%} sapphire; {@-ratna,@} {%n. id.%}; {@-rāji@}, 
+---
+> <>{@-maṇi@}, {%m.%} sapphire; {@-ratna,@} {%n. id.%}; {@-rāji@}, 
+63272c63272
+< <>{@-vat@}, {%ad|%} like the blue jackal; {@-vasana,@} {%n.%} blue 
+---
+> <>{@-vat@}, {%ad.%} like the blue jackal; {@-vasana,@} {%n.%} blue 
+63349c63349
+< <>Ā. {@náva@} ({%v|%}), vi|p| {@nuvá,@} ({%V.%}) roar, shout; 
+---
+> <>Ā. {@náva@} ({%V.%}), VI.P. {@nuvá,@} ({%V.%}) roar, shout; 
+63358c63358
+< <>{@apa@}) {@-nauti@} ({%s|%}); {%cs|%} p| {@nāvaya,@} remove. 
+---
+> <>{@apa@}) {@-nauti@} ({%S.%}); {%cs.%} P. {@nāvaya,@} remove. 
+63384c63384
+< <>{@-ṇud@}), drive away, remove; reject| {@parā,@} 
+---
+> <>{@-ṇud@}), drive away, remove; reject. {@parā,@} 
+63387c63387
+< <>{@-ṇunna@}; {%cs| pp|%} {@-ṇodita@}, agitated| {@ati-pra,@} 
+---
+> <>{@-ṇunna@}; {%cs. pp.%} {@-ṇodita@}, agitated. {@ati-pra,@} 
+63497c63497
+< <>{@-śreṣṭha@}, {%spv|%} best of kings; {@-suta,@} {%m.%} prince: 
+---
+> <>{@-śreṣṭha@}, {%spv.%} best of kings; {@-suta,@} {%m.%} prince: 
+63536c63536
+< <> {@-śaṃsita@}, {%n|%} malignity, baseness; {@-ṣád,@} 
+---
+> <> {@-śaṃsita@}, {%n.%} malignity, baseness; {@-ṣád,@} 
+63655c63655
+< <> {@-varṇa@}, {%a|%} many-coloured; {@-vikalpa,@} 
+---
+> <> {@-varṇa@}, {%a.%} many-coloured; {@-vikalpa,@} 
+63880c63880
+< <>{@-spṛh-ya@}, {%n|%} lack of desire for; {@-sv-ya,@} {%n.%} 
+---
+> <>{@-spṛh-ya@}, {%n.%} lack of desire for; {@-sv-ya,@} {%n.%} 
+63926c63926
+< <>{@-ṇadhāra@}, {%m|%} helmsman ({%also fig|%}); {@-karman,@} 
+---
+> <>{@-ṇadhāra@}, {%m.%} helmsman ({%also fig.%}); {@-karman,@} 
+64169c64169
+< <>{@-ṭamī@}, {%f|%} eighth day in a fortnight; {@-āhati,@} 
+---
+> <>{@-ṭamī@}, {%f.%} eighth day in a fortnight; {@-āhati,@} 
+64431c64431
+< <>{@-vaṭa@}, {%m| n|%}; {%n| of a locality%}: {@ī,@} {%f. id.%}; 
+---
+> <>{@-vaṭa@}, {%m. N.%}; {%N. of a locality%}: {@ī,@} {%f. id.%}; 
+64535c64535
+< <> {@-bhāj@}, {%a|%} caged; {@-stha,@} {%a. id.%}.
+---
+> <> {@-bhāj@}, {%a.%} caged; {@-stha,@} {%a. id.%}.
+64548c64548
+< <>to be torn up: {%pp.%} {@pāṭita@}| {@ava,@} {%cs.%} tear {%or%} 
+---
+> <>to be torn up: {%pp.%} {@pāṭita@}. {@ava,@} {%cs.%} tear {%or%} 
+64571c64571
+< <> {@-maṇḍapa@}, {%m|%} tent; {@-maya,@} {%n.%} (made 
+---
+> <> {@-maṇḍapa@}, {%m.%} tent; {@-maya,@} {%n.%} (made 
+64630c64630
+< <> {@-karaṇa@}, {%a|%} having sound organs; {@-tā,@} 
+---
+> <> {@-karaṇa@}, {%a.%} having sound organs; {@-tā,@} 
+64644c64644
+< <>frontlet, diadem; cloth; {@-ka|,@} {%m.%} board; plate 
+---
+> <>frontlet, diadem; cloth; {@-ka.,@} {%m.%} board; plate 
+64787c64787
+< <>trade; shop; {@-jana@}, {%m|%} trader; {@-dāsī,@} {%f.%} hired 
+---
+> <>trade; shop; {@-jana@}, {%m.%} trader; {@-dāsī,@} {%f.%} hired 
+64823c64823
+< <>set going: {%pp.%} {@pātita@}; {%des|%} {@pipatiṣa, pitsa,@} 
+---
+> <>set going: {%pp.%} {@pātita@}; {%des.%} {@pipatiṣa, pitsa,@} 
+65043c65043
+< <>{%ep. of%} Garuḍa; {@-puṭa@}, {%m| n|%}: {@i-kā,@} {%f.%} leaf 
+---
+> <>{%ep. of%} Garuḍa; {@-puṭa@}, {%m. n.%}: {@i-kā,@} {%f.%} leaf 
+65054c65054
+< <>{@-śāka@}, {%n|%} vegetable with leaves; {@-ālī,@} {%f.%} = 
+---
+> <>{@-śāka@}, {%n.%} vegetable with leaves; {@-ālī,@} {%f.%} = 
+65077c65077
+< <>{@-śā́la@}, {%n|,%} {@ā,@} {%f.%} shed {%on the sacrificial ground%} 
+---
+> <>{@-śā́la@}, {%n.,%} {@ā,@} {%f.%} shed {%on the sacrificial ground%} 
+65155c65155
+< <>{%intv.%} {@panīpadyate| ati,@} go beyond ({%ac.%}); 
+---
+> <>{%intv.%} {@panīpadyate. ati,@} go beyond ({%ac.%}); 
+65330c65330
+< <>gait; {@-cihna@}, {%n|%} footprint; {@-tā,@} {%f.%} original 
+---
+> <>gait; {@-cihna@}, {%n.%} footprint; {@-tā,@} {%f.%} original 
+65395c65395
+< <>{@-anuśāsana@}, {%n|%} science of words; {@-anta,@} {%m.%} 
+---
+> <>{@-anuśāsana@}, {%n.%} science of words; {@-anta,@} {%m.%} 
+65443c65443
+< <>{@-darśana@}, {%m|%} (lotus-like), {%n|%}; {@-nābha,@} {%m.%} 
+---
+> <>{@-darśana@}, {%m.%} (lotus-like), {%N.%}; {@-nābha,@} {%m.%} 
+65453c65453
+< <>{@-varṃa@}, {%a| id|%}; {@-viṣaya,@} {%m. N. of a%} country; 
+---
+> <>{@-varṃa@}, {%a. id.%}; {@-viṣaya,@} {%m. N. of a%} country; 
+65609c65609
+< <>{%m.%} torrent; {@-rāśi@}, {%m|%} ocean; {@-vāha,@} {%m.%} (watercarrying), <lbinfo n="6"/>
+---
+> <>{%m.%} torrent; {@-rāśi@}, {%m.%} ocean; {@-vāha,@} {%m.%} (watercarrying), <lbinfo n="6"/>
+65695c65695
+< <>{@-jana@}, {%m|%} stranger; {@-tantra,@} {%a.%} dependent 
+---
+> <>{@-jana@}, {%m.%} stranger; {@-tantra,@} {%a.%} dependent 
+65780c65780
+< <>{@-bhṛta@}, ({%pp|,%} nourished by others), {%m|,%} {@ā,@} 
+---
+> <>{@-bhṛta@}, ({%pp.,%} nourished by others), {%m.,%} {@ā,@} 
+66096c66096
+< <>{@-va|@} {%m|%} defeat; ({@párā@}) {@-bhūti,@} {%f.%} defeat, humiliation, <lbinfo n="2"/>
+---
+> <>{@-va.@} {%m.%} defeat; ({@párā@}) {@-bhūti,@} {%f.%} defeat, humiliation, <lbinfo n="2"/>
+66217c66217
+< <>{@-kṣāṇa@}, {%n| pl|%} coal-dust; {@-kṣāma,@} {%a.%} emaciated; <lbinfo n="3"/>
+---
+> <>{@-kṣāṇa@}, {%n. pl.%} coal-dust; {@-kṣāma,@} {%a.%} emaciated; <lbinfo n="3"/>
+66243c66243
+< <>{%n.%} censure; {@-gṛhīti@}, {%f|%} inclusion; {@-grahá,@} 
+---
+> <>{%n.%} censure; {@-gṛhīti@}, {%f.%} inclusion; {@-grahá,@} 
+66386c66386
+< <>{@-tṛ@}, {%a|%} satisfying, gratifying; {@-toṣa-vat,@} {%a.%} 
+---
+> <>{@-tṛ@}, {%a.%} satisfying, gratifying; {@-toṣa-vat,@} {%a.%} 
+66389c66389
+< <>abandoned; {@-tyakṛ@}, {%m|%} forsaker; {@-tyāga,@} 
+---
+> <>abandoned; {@-tyakṛ@}, {%m.%} forsaker; {@-tyāga,@} 
+66419c66419
+< <>{@-dhāraṇa@}, {%n|%} suffering, indulging in ({%g|%}): {@ā,@} 
+---
+> <>{@-dhāraṇa@}, {%n.%} suffering, indulging in ({%g.%}): {@ā,@} 
+66478c66478
+< <>{@-aṇa@}, {%n|%} filling; completion; {@-pūrin,@} {%a.%} bestowing <lbinfo n="2"/>
+---
+> <>{@-aṇa@}, {%n.%} filling; completion; {@-pūrin,@} {%a.%} bestowing <lbinfo n="2"/>
+66557c66557
+< <>{@-ṇa@}, {%n|%} tracing, searching; {@-mārgitavya,@} {%fp.%} 
+---
+> <>{@-ṇa@}, {%n.%} tracing, searching; {@-mārgitavya,@} {%fp.%} 
+66567c66567
+< <>{@-moṣaṇa@}, {%n|%} taking away; {@-mohana,@} {%n.%} infatuation; <lbinfo n="2"/>
+---
+> <>{@-moṣaṇa@}, {%n.%} taking away; {@-mohana,@} {%n.%} infatuation; <lbinfo n="2"/>
+66706c66706
+< <>{@-śa@}, {%a| pl|%} full sixteen; {@-ṣakandá,@} {%m.%} servant, 
+---
+> <>{@-śa@}, {%a. pl.%} full sixteen; {@-ṣakandá,@} {%m.%} servant, 
+66752c66752
+< <>grass; {@-stáraṇa@}, {%n|%} strewing about; {@-stoma,@} 
+---
+> <>grass; {@-stáraṇa@}, {%n.%} strewing about; {@-stoma,@} 
+66756c66756
+< <>{@-ṭa@}, {%a|%} quite evident; {@-m,@} {%ad.%}; {@-syanda,@} {%m.%} 
+---
+> <>{@-ṭa@}, {%a.%} quite evident; {@-m,@} {%ad.%}; {@-syanda,@} {%m.%} 
+66764c66764
+< <>{@-ṇīya@}, {%fp|%} to be shunned {%or%} avoided: {@-tā,@} {%f.%} 
+---
+> <>{@-ṇīya@}, {%fp.%} to be shunned {%or%} avoided: {@-tā,@} {%f.%} 
+66770c66770
+< <>{@-hāpaṇīya@}, {%fp|%} to be discontinued; {@-hāra,@} 
+---
+> <>{@-hāpaṇīya@}, {%fp.%} to be discontinued; {@-hāra,@} 
+66794c66794
+< <>knower {%of a thing%}; {@-aṇa@}, {%n|%} (rarely {@ā,@} {%f.%}) 
+---
+> <>knower {%of a thing%}; {@-aṇa@}, {%n.%} (rarely {@ā,@} {%f.%}) 
+67058c67058
+< <>{@-ana@}, {%n|%} speech of parṇāda; {@-āhāra,@} {%a.%} feeding <lbinfo n="4"/>
+---
+> <>{@-ana@}, {%n.%} speech of Parṇāda; {@-āhāra,@} {%a.%} feeding <lbinfo n="4"/>
+67132c67132
+< <> agitate; {@ī-kṛ@}, {%id|%}; {@i-bhū,@} become confused. <lbinfo n="3"/>
+---
+> <> agitate; {@ī-kṛ@}, {%id.%}; {@i-bhū,@} become confused. <lbinfo n="3"/>
+67221c67221
+< <>{@-ṣṭha@}, {%spv|%} best of mountains; {@-agra,@} {%n. id.%}; 
+---
+> <>{@-ṣṭha@}, {%spv.%} best of mountains; {@-agra,@} {%n. id.%}; 
+67581c67581
+< <>{@-dhi@} {%m|%} western ocean; {@-itara,@} {%a.%} (opposite 
+---
+> <>{@-dhi@} {%m.%} western ocean; {@-itara,@} {%a.%} (opposite 
+67597c67597
+< {#pA#}¦PĀ, II.P. {@pā́@} ({%v|%}), i|p| (ā|) {@piba,@} 
+---
+> {#pA#}¦PĀ, II.P. {@pā́@} ({%V.%}), I.P. (Ā.) {@piba,@} 
+67922c67922
+< <>marriage; {@-puṭa@}, {%m|%} hollowed hand: {@-ka,@} {%m.%} (?) 
+---
+> <>marriage; {@-puṭa@}, {%m.%} hollowed hand: {@-ka,@} {%m.%} (?) 
+67927c67927
+< <>{@-ṇayinī@}, {%f|%} beloved of his hand, wife; {@-mat,@} 
+---
+> <>{@-ṇayinī@}, {%f.%} beloved of his hand, wife; {@-mat,@} 
+67962c67962
+< <> {@-cchāya@}, {%a|%} white-coloured; {@-tā,@} 
+---
+> <> {@-cchāya@}, {%a.%} white-coloured; {@-tā,@} 
+68197c68197
+< <>{@śauca@}, {%n|%} cleansing of the feet; {@-stambha,@} 
+---
+> <>{@śauca@}, {%n.%} cleansing of the feet; {@-stambha,@} 
+68296c68296
+< <>{%id.%}; {@-kṛta@}, ({%pp|%}) {%n|%} misdeed; {@-gati,@} {%a.%} ill-starred; <lbinfo n="3"/>
+---
+> <>{%id.%}; {@-kṛta@}, ({%pp.%}) {%n.%} misdeed; {@-gati,@} {%a.%} ill-starred; <lbinfo n="3"/>
+68391c68391
+< <>{@-na-veśman@}, {%n| id|%}; {@-upastha,@} {%n. sg.%} anus 
+---
+> <>{@-na-veśman@}, {%n. id.%}; {@-upastha,@} {%n. sg.%} anus 
+68525c68525
+< {#pArasa#}¦pārasa, {%a.%} ({@ī@}) persian; {@ī,@} {%f.%} the Persian <lbinfo n="3"/>
+---
+> {#pArasa#}¦pārasa, {%a.%} ({@ī@}) Persian; {@ī,@} {%f.%} the Persian <lbinfo n="3"/>
+68589c68589
+< <>utensils; {@-ṇāhya@}, {%n| id|%}; {@-toṣ-ika,@} {%n.%} 
+---
+> <>utensils; {@-ṇāhya@}, {%n. id.%}; {@-toṣ-ika,@} {%n.%} 
+68662c68662
+< <>{@-majā@}, {%f|%} king's daughter; {@-indra,@} {%m.%} most 
+---
+> <>{@-majā@}, {%f.%} king's daughter; {@-indra,@} {%m.%} most 
+68769c68769
+< <>{%pp.%} {@pālita| ati,@} pass, spend ({%time%}). {@anu,@} 
+---
+> <>{%pp.%} {@pālita. ati,@} pass, spend ({%time%}). {@anu,@} 
+68917c68917
+< <> {%m. n.%} heresy; {@-in|@} {%m|%} heretic; {@-ya,@} {%n.%} 
+---
+> <> {%m. n.%} heresy; {@-in.@} {%m.%} heretic; {@-ya,@} {%n.%} 
+69186c69186
+< <>{@-sṛ@}, {%f|%} father's sister; {@-sadman,@} {%n.%} cemetery. <lbinfo n="4"/>
+---
+> <>{@-sṛ@}, {%f.%} father's sister; {@-sadman,@} {%n.%} cemetery. <lbinfo n="4"/>
+69562c69562
+< <>{@-bhuj@}, {%m|%} (nectar-quaffer), god; {@-varṣā-ya,@} 
+---
+> <>{@-bhuj@}, {%m.%} (nectar-quaffer), god; {@-varṣā-ya,@} 
+69729c69729
+< <>{@-bhājin@}, {%a|%} happy, blessed; {@-yoga,@} {%m.%} consequence <lbinfo n="3"/>
+---
+> <>{@-bhājin@}, {%a.%} happy, blessed; {@-yoga,@} {%m.%} consequence <lbinfo n="3"/>
+69743c69743
+< <> {@-āśaya@}, {%a|%} pious, guileless; {@-ahá,@} {%n.%} 
+---
+> <> {@-āśaya@}, {%a.%} pious, guileless; {@-ahá,@} {%n.%} 
+69893c69893
+< <>{@-ana@}, {%n|%} seeing again; {@-dāra-kriyā,@} {%f.%} marrying <lbinfo n="5"/>
+---
+> <>{@-ana@}, {%n.%} seeing again; {@-dāra-kriyā,@} {%f.%} marrying <lbinfo n="5"/>
+70227c70227
+< <>form; {@-ākṛti@}, {%f|%} figure of man; {@-ada,@} {%a.%} 
+---
+> <>form; {@-ākṛti@}, {%f.%} figure of man; {@-ada,@} {%a.%} 
+70578c70578
+< <>flowers; {@-paṭa@}, {%m|%} flowery cloth; {@-pattrin,@} 
+---
+> <>flowers; {@-paṭa@}, {%m.%} flowery cloth; {@-pattrin,@} 
+70894c70894
+< <>pitcher; {@-candra@}, {%m|%} full moon: {@-nibha,@} {%a.%} 
+---
+> <>pitcher; {@-candra@}, {%m.%} full moon: {@-nibha,@} {%a.%} 
+71110c71110
+< <>{@-pūjita@}, {%pp|%} previously consecrated; {@-pūrva,@} 
+---
+> <>{@-pūjita@}, {%pp.%} previously consecrated; {@-pūrva,@} 
+71389,71390c71389,71390
+< <>busy with ({%d.%}): {%pp.%} {@āpṛta@}, busied| {@vi‡ā,@} 
+< <>V. Ā. {@-pṛṇute@}, {%ps|%} {@-priyate,@} be busied about 
+---
+> <>busy with ({%d.%}): {%pp.%} {@āpṛta@}, busied. {@vi‡ā,@} 
+> <>V. Ā. {@-pṛṇute@}, {%ps.%} {@-priyate,@} be busied about 
+71532c71532
+< <>Yudhiṣṭhira; {@-ātmaja@}, {%m| id|%}; {@-bhū,@} {%m. id.%}; 
+---
+> <>Yudhiṣṭhira; {@-ātmaja@}, {%m. id.%}; {@-bhū,@} {%m. id.%}; 
+71701c71701
+< <>{@ana@}, {%n|%} answering a question; {@-vat,@} {%pp.%} {%act.%} 
+---
+> <>{@ana@}, {%n.%} answering a question; {@-vat,@} {%pp.%} {%act.%} 
+71749c71749
+< <>{@-māṃsa@}, {%n|%} back-flesh: {@-ṃ khād@} {%or%} {@bhakṣ,@} 
+---
+> <>{@-māṃsa@}, {%n.%} back-flesh: {@-ṃ khād@} {%or%} {@bhakṣ,@} 
+71754c71754
+< <> {@-vaṃśa@}, {%m|%} backbone; {@-vāstu,@} {%n.%} 
+---
+> <> {@-vaṃśa@}, {%m.%} backbone; {@-vāstu,@} {%n.%} 
+71930c71930
+< <>{@-īya@}, {%a| id|%}; {@-ṣvas-eya,@} {%a.%} ({@ī@}) descended from 
+---
+> <>{@-īya@}, {%a. id.%}; {@-ṣvas-eya,@} {%a.%} ({@ī@}) descended from 
+72054c72054
+< <>{@-aṇīya@}, {%fp|%} to be nourished; {@-ayitnú,@} {%a.%} 
+---
+> <>{@-aṇīya@}, {%fp.%} to be nourished; {@-ayitnú,@} {%a.%} 
+72056c72056
+< <> {@-i-tṛ@}, {%m|%} nourisher, breader; {@-in,@} {%a.%} 
+---
+> <> {@-i-tṛ@}, {%m.%} nourisher, breader; {@-in,@} {%a.%} 
+72169c72169
+< <>the city; {@-rucideva@}, {%m| n|%}; {@-loka,@} {%m. sg. & %}
+---
+> <>the city; {@-rucideva@}, {%m. N.%}; {@-loka,@} {%m. sg. & %}
+72731c72731
+< <>({%pupil%}); {@-ṇāla@}, {%m|%} row, series (?): {@ī,@} {%f.%} channel, <lbinfo n="4"/>
+---
+> <>({%pupil%}); {@-ṇāla@}, {%m.%} row, series (?): {@ī,@} {%f.%} channel, <lbinfo n="4"/>
+72786c72786
+< <>{@-taṭa@}, {%n|%} (?) high bank; {@-tatāmaha,@} {%m.%} greatgrandfather; <lbinfo n="5"/>
+---
+> <>{@-taṭa@}, {%n.%} (?) high bank; {@-tatāmaha,@} {%m.%} greatgrandfather; <lbinfo n="5"/>
+72791c72791
+< <>{@-taptṛ@}, {%m|%} burner, scorcher; {@-tamā́m,@} 
+---
+> <>{@-taptṛ@}, {%m.%} burner, scorcher; {@-tamā́m,@} 
+72854c72854
+< <>{@-kaṇṭham@}, {%ad|%} singly, one by one; {@-kara,@} {%a.%} 
+---
+> <>{@-kaṇṭham@}, {%ad.%} singly, one by one; {@-kara,@} {%a.%} 
+72961c72961
+< <>{@-ana@}, {%n|%} answering roar ({%of a cloud%}): {@ā,@} {%f. %}
+---
+> <>{@-ana@}, {%n.%} answering roar ({%of a cloud%}): {@ā,@} {%f. %}
+73140c73140
+< <>{@-man@}, {%a|%} produced by enemies, {@-tā,@} {%f.,%} {@-tva,@} 
+---
+> <>{@-man@}, {%a.%} produced by enemies, {@-tā,@} {%f.,%} {@-tva,@} 
+73454c73454
+< <>{@-rājan@}, {%m| id|%}; {@-rātram@} {%or%} {@-rātri,@} {%ad.%} every 
+---
+> <>{@-rājan@}, {%m. id.%}; {@-rātram@} {%or%} {@-rātri,@} {%ad.%} every 
+73517c73517
+< <>{@-vācita@}, {%n|%} answer; {@-vāta,@} {%m.%} wind {%blowing%} 
+---
+> <>{@-vācita@}, {%n.%} answer; {@-vāta,@} {%m.%} wind {%blowing%} 
+73529c73529
+< <>{@-viṭapam@}, {%ad|%} for every branch; {@-vidyam,@} 
+---
+> <>{@-viṭapam@}, {%ad.%} for every branch; {@-vidyam,@} 
+73552c73552
+< <>{@-ṣa@}, {%m|%} hostile hull; {@-vedam,@} {%ad.%} in the 
+---
+> <>{@-ṣa@}, {%m.%} hostile hull; {@-vedam,@} {%ad.%} in the 
+73572c73572
+< <>antagonist, foe; {@-śabda@}, {%m|%} echo: {@-ka,@} {%m. id.%}, 
+---
+> <>antagonist, foe; {@-śabda@}, {%m.%} echo: {@-ka,@} {%m. id.%}, 
+73684c73684
+< <>{@-siṃha@}, {%m|%} rival {%or%} hostile lion; {@-sundarī,@} {%f.%} 
+---
+> <>{@-siṃha@}, {%m.%} rival {%or%} hostile lion; {@-sundarī,@} {%f.%} 
+73860,73861c73860,73861
+< <>goad; {@-tuṣṭi@}, {%f|%} satisfaction: {@-da,@} {%a.%} giving 
+< <>pleasure to (-°); {@-tṛd@}, {%a|%} cleaving; {@-todá,@} 
+---
+> <>goad; {@-tuṣṭi@}, {%f.%} satisfaction: {@-da,@} {%a.%} giving 
+> <>pleasure to (-°); {@-tṛd@}, {%a.%} cleaving; {@-todá,@} 
+74073c74073
+< <>{@-marśa@}, {%m|%}: {@-na,@} {%n.%} stroking {%or%} touching 
+---
+> <>{@-marśa@}, {%m.%}: {@-na,@} {%n.%} stroking {%or%} touching 
+74125c74125
+< <>{@-ana@}, {%n|%} return of a salutation; {@-artham,@} {%ad.%} 
+---
+> <>{@-ana@}, {%n.%} return of a salutation; {@-artham,@} {%ad.%} 
+74171c74171
+< <> sin; {@-avekṣaṇa@}, {%n|,%} {@-avekṣā,@} 
+---
+> <> sin; {@-avekṣaṇa@}, {%n.,%} {@-avekṣā,@} 
+74305c74305
+< <>{@-ana@}, {%n|%} revival; resuscitation; {@-uta,@} {%ad.%} 
+---
+> <>{@-ana@}, {%n.%} revival; resuscitation; {@-uta,@} {%ad.%} 
+74325c74325
+< <>{@-tṛ@}, {%m|%} assailant; {@-udyāmin,@} {%a.%} rebellious; 
+---
+> <>{@-tṛ@}, {%m.%} assailant; {@-udyāmin,@} {%a.%} rebellious; 
+74468c74468
+< <>{@-iṣṭha@}, {%spv|%} {@-īyas,@} {%cpv.%} {%of%} pṛthú, {@-u,@} {%a.%} 
+---
+> <>{@-iṣṭha@}, {%spv.%} {@-īyas,@} {%cpv.%} {%of%} pṛthú, {@-u,@} {%a.%} 
+74635c74635
+< <>{@-aṅgaṇa@}, {%n|%} battle-field; {@-dharṣa,@} {%m.%} assault <lbinfo n="2"/>
+---
+> <>{@-aṅgaṇa@}, {%n.%} battle-field; {@-dharṣa,@} {%m.%} assault <lbinfo n="2"/>
+74732,74733c74732,74733
+< <>{%in books%}); {@-pāṇi@}, {%m|%} fore-arm: {@-ka,@} {%m. id.%}; 
+< <>{@-pāṇḍu@}, {%a|%} very white: {@-ra,@} {%a. id.%}; {@-pāta,@} 
+---
+> <>{%in books%}); {@-pāṇi@}, {%m.%} fore-arm: {@-ka,@} {%m. id.%}; 
+> <>{@-pāṇḍu@}, {%a.%} very white: {@-ra,@} {%a. id.%}; {@-pāta,@} 
+74752c74752
+< <>{@-tṛvya@}, {%m|%} paternal grand-uncle; {@-pitvá,@} ({%V.%}) 
+---
+> <>{@-tṛvya@}, {%m.%} paternal grand-uncle; {@-pitvá,@} ({%V.%}) 
+74883c74883
+< <>{@-aṇa@}, {%n|%} explanation; {@-bhāṣita,@} ({%pp.%}) {%n.%} 
+---
+> <>{@-aṇa@}, {%n.%} explanation; {@-bhāṣita,@} ({%pp.%}) {%n.%} 
+74940c74940
+< <>{@adya@} --, from now {%or%} to-day ({%the pl|%} {@eva,@} {%as %}
+---
+> <>{@adya@} --, from now {%or%} to-day ({%the pl.%} {@eva,@} {%as %}
+74995c74995
+< <>{@-tṛ@}, {%m|%} crusher, destroyer; {@-mardin,@} {%a.%} crushing, <lbinfo n="5"/>
+---
+> <>{@-tṛ@}, {%m.%} crusher, destroyer; {@-mardin,@} {%a.%} crushing, <lbinfo n="5"/>
+75082c75082
+< <>{@-pāṭha@}, {%m|%} wrong reading; {@-mādin,@} {%a.%} 
+---
+> <>{@-pāṭha@}, {%m.%} wrong reading; {@-mādin,@} {%a.%} 
+75515c75515
+< <>{@-cetana@}, {%n|%} comprehension; {@-dalana,@} {%n.%} 
+---
+> <>{@-cetana@}, {%n.%} comprehension; {@-dalana,@} {%n.%} 
+75552c75552
+< <>{@-ṭakā-ya@}, {%den|%} ā| appear in person; {@-vistara,@} 
+---
+> <>{@-ṭakā-ya@}, {%den.%} Ā. appear in person; {@-vistara,@} 
+75628c75628
+< <>({%lc.%}); {@-veṣṭṛ@}, {%m|%} one who enters: {@-tva,@} {%n.%} 
+---
+> <>({%lc.%}); {@-veṣṭṛ@}, {%m.%} one who enters: {@-tva,@} {%n.%} 
+75684c75684
+< <>{@-kalaśa@}, {%m| n|%}, {@-tva,@} {%n.%} excellence; {@-śastav-@}
+---
+> <>{@-kalaśa@}, {%m. N.%}, {@-tva,@} {%n.%} excellence; {@-śastav-@}
+75780c75780
+< <> {@-śray-in@}, {%a| id|%}: ({@-i@}) {@-tā,@} {%f.%} respectfulness. <lbinfo n="7"/>
+---
+> <> {@-śray-in@}, {%a. id.%}: ({@-i@}) {@-tā,@} {%f.%} respectfulness. <lbinfo n="7"/>
+75851c75851
+< <>{@-ya@}, {%fp|%} applicable: {@-tā,@} {%f.%} -ness, {@-pratiṣe-@}
+---
+> <>{@-ya@}, {%fp.%} applicable: {@-tā,@} {%f.%} -ness, {@-pratiṣe-@}
+75855c75855
+< <>{@-dhāna@}, {%n|%} combination, union; {@-sanna,@} {%pp.%} 
+---
+> <>{@-dhāna@}, {%n.%} combination, union; {@-sanna,@} {%pp.%} 
+75888c75888
+< <>--): {@-gṛha@}, {%n|%} lying-in chamber; {@-savana,@} 
+---
+> <>--): {@-gṛha@}, {%n.%} lying-in chamber; {@-savana,@} 
+76022c76022
+< <>{@-jit@}, {%m| n| of various princes%}; {@-sevaka,@} {%m.%} 
+---
+> <>{@-jit@}, {%m. N. of various princes%}; {@-sevaka,@} {%m.%} 
+76173c76173
+< <>{@-tṛ@}, {%a|%} strinking down ({%ac|%}); {@-hara,@} {%m.%} 
+---
+> <>{@-tṛ@}, {%a.%} strinking down ({%ac.%}); {@-hara,@} {%m.%} 
+76250c76250
+< <> {@-hvaṇa@}, {%n|%} obeisance; {@-hvaya,@} {%den.%} P. 
+---
+> <> {@-hvaṇa@}, {%n.%} obeisance; {@-hvaya,@} {%den.%} P. 
+76355c76355
+< <>Soma sacrifice; {@-saumika,@} {%a.%} ({@ī@}) {%id|%}; {@-srotas,@} 
+---
+> <>Soma sacrifice; {@-saumika,@} {%a.%} ({@ī@}) {%id.%}; {@-srotas,@} 
+76426c76426
+< <>{@-deśa@}, {%m|%} eastern country; {@-daihika,@} {%a.%} belonging <lbinfo n="2"/>
+---
+> <>{@-deśa@}, {%m.%} eastern country; {@-daihika,@} {%a.%} belonging <lbinfo n="2"/>
+76457c76457
+< <>{@-vṛtti@}, {%f|%} conduct in a previous life; {@-veṣa,@} 
+---
+> <>{@-vṛtti@}, {%f.%} conduct in a previous life; {@-veṣa,@} 
+76643c76643
+< <>{@-kṛcchra@}, {%n|%} danger to life; {@-ghna,@} {%a.%} life-destroying, <lbinfo n="4"/>
+---
+> <>{@-kṛcchra@}, {%n.%} danger to life; {@-ghna,@} {%a.%} life-destroying, <lbinfo n="4"/>
+76653c76653
+< <>{@-ṣiṇā@}, {%f|%} gift of life; {@-dayita,@} ({%pp.%}) {%m.%} husband <lbinfo n="3"/>
+---
+> <>{@-ṣiṇā@}, {%f.%} gift of life; {@-dayita,@} ({%pp.%}) {%m.%} husband <lbinfo n="3"/>
+76714c76714
+< <>{@-nyāsa@}, {%m|%} giving up the spirit; {@-sama,@} {%a.%} dear 
+---
+> <>{@-nyāsa@}, {%m.%} giving up the spirit; {@-sama,@} {%a.%} dear 
+76800c76800
+< <>{@-kṣaṇa@}, {%m|%} morning time; {@-prahara,@} {%m.%} 
+---
+> <>{@-kṣaṇa@}, {%m.%} morning time; {@-prahara,@} {%m.%} 
+76833c76833
+< <>{@-ṇādin@}, {%m|%} (crowing early), cock; {@-dugdhá,@} 
+---
+> <>{@-ṇādin@}, {%m.%} (crowing early), cock; {@-dugdhá,@} 
+76838c76838
+< <>early; {@-vastṛ@}, {%a|%} shining early; {@-huta,@} {%n.,%} 
+---
+> <>early; {@-vastṛ@}, {%a.%} shining early; {@-huta,@} {%n.,%} 
+76884c76884
+< <>neighbour; {@-veśm-ika@}, {%m|%} neighbour: {@ī,@} {%f.%} 
+---
+> <>neighbour; {@-veśm-ika@}, {%m.%} neighbour: {@ī,@} {%f.%} 
+77303c77303
+< <>{@-veśa@}, {%m|%}: {@-na,@} {%n.%} starvation by fasting; 
+---
+> <>{@-veśa@}, {%m.%}: {@-na,@} {%n.%} starvation by fasting; 
+77373c77373
+< <>{@-rocis@}, {%m| id|%}; {@-varṣa,@} {%n.%} (?) fall of snow; 
+---
+> <>{@-rocis@}, {%m. id.%}; {@-varṣa,@} {%n.%} (?) fall of snow; 
+77375c77375
+< <> {@-aṃśu@}, {%m|%} (cold-rayed), moon; {@-adri,@} 
+---
+> <> {@-aṃśu@}, {%m.%} (cold-rayed), moon; {@-adri,@} 
+77562c77562
+< <> ], guest ({@ī@} {%f|%}): {@-ka,@} {%m. id.%}, {@i-kā,@} {%f.%} 
+---
+> <> ], guest ({@ī@} {%f.%}): {@-ka,@} {%m. id.%}, {@i-kā,@} {%f.%} 
+77637c77637
+< <>{@-bhāṣaṇa@}, {%n|%} kind words; {@-bhāṣin,@} {%a.%} 
+---
+> <>{@-bhāṣaṇa@}, {%n.%} kind words; {@-bhāṣin,@} {%a.%} 
+77657c77657
+< <>{@-saṃvāsa@}, {%m|%} society of loved ones: {@-sakha,@} 
+---
+> <>{@-saṃvāsa@}, {%m.%} society of loved ones: {@-sakha,@} 
+77663c77663
+< <>{@-saṃprahāra@}, {%a|%} quarrelsome; {@-sāhasa,@} {%a.%} 
+---
+> <>{@-saṃprahāra@}, {%a.%} quarrelsome; {@-sāhasa,@} {%a.%} 
+77666c77666
+< <>{@-suhṛd@}, {%m|%} dear friend; {@-sevaka,@} {%a.%} kind 
+---
+> <>{@-suhṛd@}, {%m.%} dear friend; {@-sevaka,@} {%a.%} kind 
+77752c77752
+< <>friendly action; {@-kūṭa@}, {%n| of a village%}; {@-datta,@} 
+---
+> <>friendly action; {@-kūṭa@}, {%N. of a village%}; {@-datta,@} 
+77760c77760
+< <>{@-yuj@}, {%a|%} beloved, dear; {@-rasāyana,@} {%n.%} elixir 
+---
+> <>{@-yuj@}, {%a.%} beloved, dear; {@-rasāyana,@} {%n.%} elixir 
+77857c77857
+< <>{@-kṛtya@}, {%n| id|%}; {@-gata,@} {%pp.%} gone to the departed, <lbinfo n="2"/>
+---
+> <>{@-kṛtya@}, {%n. id.%}; {@-gata,@} {%pp.%} gone to the departed, <lbinfo n="2"/>
+77882c77882
+< <>{@-sparśin@}, {%m|%} corpse-bearer; {@-hāra,@} {%m. id.%}.
+---
+> <>{@-sparśin@}, {%m.%} corpse-bearer; {@-hāra,@} {%m. id.%}.
+77958c77958
+< <>stimulator, instigator; {@-aṇa@}, {%n|%} ({%also%} {@ā,@} {%f.%}) 
+---
+> <>stimulator, instigator; {@-aṇa@}, {%n.%} ({%also%} {@ā,@} {%f.%}) 
+78208c78208
+< <>{@-tṛ@}, {%m|%} ferryman; {@-ita,@} {%cs. pp.%} √ plu; {%n.%} inundation, <lbinfo n="2"/>
+---
+> <>{@-tṛ@}, {%m.%} ferryman; {@-ita,@} {%cs. pp.%} √ plu; {%n.%} inundation, <lbinfo n="2"/>
+78252c78252
+< <>{%pp.%} {@plāvita@}; {%intv|%} {@poplūyate,@} swim about. 
+---
+> <>{%pp.%} {@plāvita@}; {%intv.%} {@poplūyate,@} swim about. 
+78259c78259
+< <>{@-jasā@}-, = menstruating| {@sam-abhi,@} wash; 
+---
+> <>{@-jasā@}-, = menstruating. {@sam-abhi,@} wash; 
+78320,78321c78320,78321
+< <>{@-ṭa@}, burned, scorched; frozen| {@ā,@} {%pp.%} slightly 
+< <>scorched. {@nis@} ({@niṣ-@}), {%pp|%} burnt| {@vi,@} {%pp.%} 
+---
+> <>{@-ṭa@}, burned, scorched; frozen. {@ā,@} {%pp.%} slightly 
+> <>scorched. {@nis@} ({@niṣ-@}), {%pp.%} burnt. {@vi,@} {%pp.%} 
+78355c78355
+< <>consume, devour: {%pp.%} {@psāta| sam,@} 
+---
+> <>consume, devour: {%pp.%} {@psāta. sam,@} 
+78404c78404
+< <>{@-bhṛt@}, {%m|%} (hooded) snake; {@-vat,@} {%a.%} hooded 
+---
+> <>{@-bhṛt@}, {%m.%} (hooded) snake; {@-vat,@} {%a.%} hooded 
+78410c78410
+< <> {@-bhṛt@}, {%a|%} hooded ({%serpent%}); {@-vat,@} {%m.%} 
+---
+> <> {@-bhṛt@}, {%a.%} hooded ({%serpent%}); {@-vat,@} {%m.%} 
+78530c78530
+< <>{@-yoga@}, {%m|%} connexion with a reward; {@-sahasra,@} 
+---
+> <>{@-yoga@}, {%m.%} connexion with a reward; {@-sahasra,@} 
+78555c78555
+< <>{@-āśin@}, {%a|%} subsisting on fruit; {@-āhāra,@} {%a. id.%}.
+---
+> <>{@-āśin@}, {%a.%} subsisting on fruit; {@-āhāra,@} {%a. id.%}.
+78741,78742c78741,78742
+< <>{@ava,@} {%pp.%} {@ávabāḍha@}, disclosed| {@ni,@} {%pp.%} 
+< <>{@ni-bāṭha@}, covered up, buried| {@sam,@} {%cs.%} P. 
+---
+> <>{@ava,@} {%pp.%} {@ávabāḍha@}, disclosed. {@ni,@} {%pp.%} 
+> <>{@ni-bāṭha@}, covered up, buried. {@sam,@} {%cs.%} P. 
+78853c78853
+< <>{@-pratiśrut@}, {%a|%} echoing; {@-bhāva,@} {%m.%} having 
+---
+> <>{@-pratiśrut@}, {%a.%} echoing; {@-bhāva,@} {%m.%} having 
+78869c78869
+< <>({%lc.%}); {@-vāc@}, {%a|%} obstructing speech; {@-vepathu,@} 
+---
+> <>({%lc.%}); {@-vāc@}, {%a.%} obstructing speech; {@-vepathu,@} 
+79429c79429
+< <>sovereignty; army; {@-ja@}, {%m|,%} {@ā,@} {%f.%} heap of 
+---
+> <>sovereignty; army; {@-ja@}, {%m.,%} {@ā,@} {%f.%} heap of 
+79468c79468
+< <>{@-han@}, {%m| ep| of%} indra; {@-vyasana,@} {%n.%} disorder 
+---
+> <>{@-han@}, {%m. ep. of%} Indra; {@-vyasana,@} {%n.%} disorder 
+79559c79559
+< <>offering; {@-kṛt@}, {%a|%} paying taxes; {@-dāna,@} {%n.%} 
+---
+> <>offering; {@-kṛt@}, {%a.%} paying taxes; {@-dāna,@} {%n.%} 
+79798c79798
+< <>{@-kalyāṇa@}, {%a|%} very noble; {@-kāma,@} {%a.%} having 
+---
+> <>{@-kalyāṇa@}, {%a.%} very noble; {@-kāma,@} {%a.%} having 
+79844c79844
+< <>rich; {@-īśvara@}, {%m|%} very wealthy man; {@-dhā́,@} 
+---
+> <>rich; {@-īśvara@}, {%m.%} very wealthy man; {@-dhā́,@} 
+79864c79864
+< <>{@-bhuj@}, {%a|%} eating much; {@-bhūmika,@} {%a.%} consisting <lbinfo n="3"/>
+---
+> <>{@-bhuj@}, {%a.%} eating much; {@-bhūmika,@} {%a.%} consisting <lbinfo n="3"/>
+80006c80006
+< <> {@-suvarṇa@}, {%a|%} rich in gold: {@-tā,@} {%f. %}
+---
+> <> {@-suvarṇa@}, {%a.%} rich in gold: {@-tā,@} {%f. %}
+80174c80174
+< <>{@-ayitṛ@}, {%m|%}: {@-trī,@} {%f.%} injurer, oppressor; {@-ita-@}
+---
+> <>{@-ayitṛ@}, {%m.%}: {@-trī,@} {%f.%} injurer, oppressor; {@-ita-@}
+80247c80247
+< <>{%hair%}); {@-kṛṣṇa@}, {%m|%} the boy kṛṣṇa; {@-kelī,@} 
+---
+> <>{%hair%}); {@-kṛṣṇa@}, {%m.%} the boy Kṛṣṇa; {@-kelī,@} 
+80249c80249
+< <> {@-krīḍana@}, {%n|%} child's play: {@-ka,@} {%m.%} 
+---
+> <> {@-krīḍana@}, {%n.%} child's play: {@-ka,@} {%m.%} 
+80266c80266
+< <>{@-yaṇa@}, {%n| t| of a play%}; {@-roga,@} {%m.%} children's 
+---
+> <>{@-yaṇa@}, {%n. T. of a play%}; {@-roga,@} {%m.%} children's 
+80272c80272
+< <>{@-hṛd@}, {%m|%} friend from childhood; {@-han,@} {%a.%} 
+---
+> <>{@-hṛd@}, {%m.%} friend from childhood; {@-han,@} {%a.%} 
+80418c80418
+< <>{@-ḍa@}, {%m|%} long arm; {@-danta-ka,@} {%a. with s%} āstra, 
+---
+> <>{@-ḍa@}, {%m.%} long arm; {@-danta-ka,@} {%a. with s%} āstra, 
+81460c81460
+< <>{@-rāṇa@}, {%n| t| of a%} purāṇa; {@-puruṣa,@} {%m.%} servant <lbinfo n="3"/>
+---
+> <>{@-rāṇa@}, {%n. T. of a%} Purāṇa; {@-puruṣa,@} {%m.%} servant <lbinfo n="3"/>
+81496c81496
+< <>{% of the householder%}); {@-yaśas@}, {%n|%}: {@-a,@} {%n.%} 
+---
+> <>{% of the householder%}); {@-yaśas@}, {%n.%}: {@-a,@} {%n.%} 
+81506c81506
+< <>{%m. kind of%} evil demon; {@-rāja@}, {%m| n|%}; {@-rāta,@} 
+---
+> <>{%m. kind of%} evil demon; {@-rāja@}, {%m. N.%}; {@-rāta,@} 
+81923c81923
+< <>{@-ay-iṣa@}, p| wish to eat {%or%} devour| {@pari,@} {%cs.%} 
+---
+> <>{@-ay-iṣa@}, P. wish to eat {%or%} devour. {@pari,@} {%cs.%} 
+81944c81944
+< <>{@-itavya,@} {%fp.%} to be eaten; {@-itṛ@}, {%m|%} eater; {@-in,@} 
+---
+> <>{@-itavya,@} {%fp.%} to be eaten; {@-itṛ@}, {%m.%} eater; {@-in,@} 
+82311c82311
+< <>the south; {@ā vāc@}, {%f|%} kindly speech; {@-m, a-yā,@} 
+---
+> <>the south; {@ā vāc@}, {%f.%} kindly speech; {@-m, a-yā,@} 
+82357c82357
+< <>{@-āyudha,@} {%m. N.%}; {@-aśva@}, {%m| n|%}; {@-āsana,@} {%n.%} 
+---
+> <>{@-āyudha,@} {%m. N.%}; {@-aśva@}, {%m. N.%}; {@-āsana,@} {%n.%} 
+82549c82549
+< <>{@-daivatā@}, {%a| f|%} idolizing {%her%} husband; {@-priya,@} 
+---
+> <>{@-daivatā@}, {%a. f.%} idolizing {%her%} husband; {@-priya,@} 
+82570c82570
+< <> abuse; deride: {%pp.%} {@bhartsita| abhi,@} 
+---
+> <> abuse; deride: {%pp.%} {@bhartsita. abhi,@} 
+82734c82734
+< <>existence; {@-śarman@}, {%m| n|%}; {@-saṅgin,@} {%a.%} attached <lbinfo n="2"/>
+---
+> <>existence; {@-śarman@}, {%m. N.%}; {@-saṅgin,@} {%a.%} attached <lbinfo n="2"/>
+82737c82737
+< <>{@-jya@}, {%n|%} union with śiva ({%after death%}); {@-sāra,@} 
+---
+> <>{@-jya@}, {%n.%} union with Śiva ({%after death%}); {@-sāra,@} 
+82787c82787
+< <>{@-purāṇa@}, {%n| t| of a%} purāṇa; {@d-anadyatana,@} 
+---
+> <>{@-purāṇa@}, {%n. T. of a%} Purāṇa; {@d-anadyatana,@} 
+83945c83945
+< <>{@bhaiṣīḥ@}, fear not: {%pp|%} {@bhītá,@} frightened, 
+---
+> <>{@bhaiṣīḥ@}, fear not: {%pp.%} {@bhītá,@} frightened, 
+83992c83992
+< <>{@-jā@}, {%f| daughter of%} bhīma, damayantī; {@-tā,@} 
+---
+> <>{@-jā@}, {%f. daughter of%} Bhīma, Damayantī; {@-tā,@} 
+84002c84002
+< <>{@-bhaṭa@}, {%m| n|%}; {@-bhavī-bhū,@} assume the form 
+---
+> <>{@-bhaṭa@}, {%m. N.%}; {@-bhavī-bhū,@} assume the form 
+84004c84004
+< <>{@-ja@}, {%a|%} having terrible arms; {%m| n|%}; {@-mukha,@} 
+---
+> <>{@-ja@}, {%a.%} having terrible arms; {%m. N.%}; {@-mukha,@} 
+84061c84061
+< <>{@-jā@}, {%f| pat| of%} rukmiṇī; {@-parvan,@} {%n.%} the 
+---
+> <>{@-jā@}, {%f. pat. of%} Rukmiṇī; {@-parvan,@} {%n.%} the 
+84198c84198
+< <>{%of%} Ś{%iva%}); {@-daṇḍa@}, {%m|%} long arm; {@-bandhana,@} 
+---
+> <>{%of%} Ś{%iva%}); {@-daṇḍa@}, {%m.%} long arm; {@-bandhana,@} 
+84205c84205
+< <>{@-bhoga@}, {%m|%} embrace; {@-stambha,@} {%m.%} paralysis 
+---
+> <>{@-bhoga@}, {%m.%} embrace; {@-stambha,@} {%m.%} paralysis 
+84301c84301
+< <>{@-carita@}, {%n|%} doings of the world; {@-tala,@} {%n.%} 
+---
+> <>{@-carita@}, {%n.%} doings of the world; {@-tala,@} {%n.%} 
+84311c84311
+< <>{@-rāja@}, {%m| n| of a prince%}; {@-vidita,@} {%pp.%} famed 
+---
+> <>{@-rāja@}, {%m. N. of a prince%}; {@-vidita,@} {%pp.%} famed 
+84564c84564
+< <>{@-jāta@}, {%n|%} aggregate of beings; {@-tā,@} {%f.%} verity, 
+---
+> <>{@-jāta@}, {%n.%} aggregate of beings; {@-tā,@} {%f.%} verity, 
+84583c84583
+< <>{@-bhṛt@}, {%a|%} supporting beings; {@-bhautika,@} {%a.%} 
+---
+> <>{@-bhṛt@}, {%a.%} supporting beings; {@-bhautika,@} {%a.%} 
+84656c84656
+< <>{@-kalaśa@}, {%m| n|%}; ({@bhū́ti@}) {@-kāma,@} {%a.%} desirous 
+---
+> <>{@-kalaśa@}, {%m. N.%}; ({@bhū́ti@}) {@-kāma,@} {%a.%} desirous 
+84676c84676
+< <>spirits, {%ep. of%} Śiva; {@-īśvara@}, {%m| id|%}; {@-odana,@} 
+---
+> <>spirits, {%ep. of%} Śiva; {@-īśvara@}, {%m. id.%}; {@-odana,@} 
+84694c84694
+< <> {@-ja@}, {%m|%} (mountain-born), tree, {@-tā,@} {%f.%} 
+---
+> <> {@-ja@}, {%m.%} (mountain-born), tree, {@-tā,@} {%f.%} 
+84774c84774
+< <> chamber, celler; {@-cala@}, {%m|%}: {@-na,@} {%n.%} 
+---
+> <> chamber, celler; {@-cala@}, {%m.%}: {@-na,@} {%n.%} 
+84780c84780
+< <>{@-tuṇḍika@}, {%m| n| of a locality%}; {@-da,@} {%a.%} 
+---
+> <>{@-tuṇḍika@}, {%m. N. of a locality%}; {@-da,@} {%a.%} 
+84792c84792
+< <>{@-pracala@}, {%m|%} earthquake; {@-prāpta,@} {%pp.%} fallen 
+---
+> <>{@-pracala@}, {%m.%} earthquake; {@-prāpta,@} {%pp.%} fallen 
+84806c84806
+< <>{@-spṛś@}, {%a|%} touching the earth; {@-svāmin,@} {%m.%} 
+---
+> <>{@-spṛś@}, {%a.%} touching the earth; {@-svāmin,@} {%m.%} 
+84925c84925
+< <>{@-tejas@}, {%a|%} having great lustre; {%m| n|%}: {@-a,@} {%a. %}
+---
+> <>{@-tejas@}, {%a.%} having great lustre; {%m. N.%}: {@-a,@} {%a. %}
+84938c84938
+< <>{@śṛṅga@}, {%a|%} many-horned; ({@-bhū́ri@}) {@-sthātra,@} {%a.%} 
+---
+> <>{@śṛṅga@}, {%a.%} many-horned; ({@-bhū́ri@}) {@-sthātra,@} {%a.%} 
+85080c85080
+< <>({%E.%}): {%pp.%} {@vibhṛta@}, distributed| {@sam,@} draw 
+---
+> <>({%E.%}): {%pp.%} {@vibhṛta@}, distributed. {@sam,@} draw 
+85355c85355
+< <> {@-candra@}, {%m| n|%}, ({@á@}) {@-tā,@} {%f.%} healing 
+---
+> <> {@-candra@}, {%m. N.%}, ({@á@}) {@-tā,@} {%f.%} healing 
+85878c85878
+< <>{@-bhāṇḍa@}, {%m| n|%} twin-brother; {@-bhāryā,@} {%f.%} 
+---
+> <>{@-bhāṇḍa@}, {%m. n.%} twin-brother; {@-bhāryā,@} {%f.%} 
+86161c86161
+< <>long pepper; {@-deśa@}, {%m|%} country of --, {@-purī,@} 
+---
+> <>long pepper; {@-deśa@}, {%m.%} country of --, {@-purī,@} 
+86245c86245
+< <>{@-ikā@}, {%f| a form of%} durgā; {@-tūrya,@} {%n.%} musical 
+---
+> <>{@-ikā@}, {%f. a form of%} Durgā; {@-tūrya,@} {%n.%} musical 
+86272c86272
+< <>{@-ra@}, {%m|%} auspicious observances; {@-ātodya,@} {%n.%} 
+---
+> <>{@-ra@}, {%m.%} auspicious observances; {@-ātodya,@} {%n.%} 
+86287c86287
+< <>auspicious object: {@-daṇḍa@}, {%m| n|%}; {@-vastu,@} {%n.%} 
+---
+> <>auspicious object: {@-daṇḍa@}, {%m. N.%}; {@-vastu,@} {%n.%} 
+86493c86493
+< <> {@-darpaṇa@}, {%m|%} jewelled mirror; {@-dīpa,@} 
+---
+> <> {@-darpaṇa@}, {%m.%} jewelled mirror; {@-dīpa,@} 
+86671c86671
+< <>{%his race%}: {@-ja@}, {%m|%} elephant: {@-tva,@} {%n.%} state of 
+---
+> <>{%his race%}: {@-ja@}, {%m.%} elephant: {@-tva,@} {%n.%} state of 
+86890c86890
+< <>{%base%}; {%wk. base%} {@math@}; {%nm|%} {@manthās@}); {@-ita,@} 
+---
+> <>{%base%}; {%wk. base%} {@math@}; {%nm.%} {@manthās@}); {@-ita,@} 
+86916c86916
+< <>{@-áya@}, p| ā|, {@mandáya,@} P. ({%V.%}) delight, exhilarate; <lbinfo n="2"/>
+---
+> <>{@-áya@}, P. Ā., {@mandáya,@} P. ({%V.%}) delight, exhilarate; <lbinfo n="2"/>
+86976c86976
+< <>{@-ṭrā@}, {%f| n| of a princess%}; {@-damana,@} {%m.%} vanquisher <lbinfo n="3"/>
+---
+> <>{@-ṭrā@}, {%f. N. of a princess%}; {@-damana,@} {%m.%} vanquisher <lbinfo n="3"/>
+86983c86983
+< <>{%Madanavega%}; {@-mañjarī@}, {%f| n|%}; {@-maya,@} {%a.%} 
+---
+> <>{%Madanavega%}; {@-mañjarī@}, {%f. N.%}; {@-maya,@} {%a.%} 
+86988c86988
+< <>{@-ketu@}, {%m| kind of%} flag; {@-rāja@}, {%m| n|%}; {@-ripu,@} 
+---
+> <>{@-ketu@}, {%m. kind of%} flag; {@-rāja@}, {%m. N.%}; {@-ripu,@} 
+87201c87201
+< <>{@-paṭala@}, {%m|%} honey-comb; {@-parkā,@} {%m.%} honey-mixture: <lbinfo n="5"/>
+---
+> <>{@-paṭala@}, {%m.%} honey-comb; {@-parkā,@} {%m.%} honey-mixture: <lbinfo n="5"/>
+87270c87270
+< <>({%speech%}); {@ā-vaṭṭa@}, {%m| n|%}; {@āsvāda,@} {%a.%} tasting <lbinfo n="4"/>
+---
+> <>({%speech%}); {@ā-vaṭṭa@}, {%m. N.%}; {@āsvāda,@} {%a.%} tasting <lbinfo n="4"/>
+87744c87744
+< <>{@-jā@}, {%f|%} daughter of men, {@-adhipa,@} {%m.%} king of 
+---
+> <>{@-jā@}, {%f.%} daughter of men, {@-adhipa,@} {%m.%} king of 
+87791c87791
+< <>race; {@-jāti@}, {%f| id|%}; {@-tā,@} {%f.%} human condition; 
+---
+> <>race; {@-jāti@}, {%f. id.%}; {@-tā,@} {%f.%} human condition; 
+87937c87937
+< <>{@-ṇa@}, {%n|%} vedic text; {@-kārya,@} {%n.%} subject of consultation; <lbinfo n="3"/>
+---
+> <>{@-ṇa@}, {%n.%} Vedic text; {@-kārya,@} {%n.%} subject of consultation; <lbinfo n="3"/>
+87941c87941
+< <> {@-gaṇḍaka@}, {%m| kind of%} amulet; {@-gupta,@} 
+---
+> <> {@-gaṇḍaka@}, {%m. kind of%} amulet; {@-gupta,@} 
+88011c88011
+< <>= offer {%anything%} to. {@saṃ-ni@}, invite| {@pari,@} 
+---
+> <>= offer {%anything%} to. {@saṃ-ni@}, invite. {@pari,@} 
+88174c88174
+< <>ill-fated; {@-prajña@}, {%a|%} dull-witted; {@-preman,@} 
+---
+> <>ill-fated; {@-prajña@}, {%a.%} dull-witted; {@-preman,@} 
+88219c88219
+< <>{@ṇ-ī@}, {%f| n| of a louse%}; {@-vīrya,@} {%a.%} deficient in 
+---
+> <>{@ṇ-ī@}, {%f. N. of a louse%}; {@-vīrya,@} {%a.%} deficient in 
+88798c88798
+< <> dirt; {@-jñu@}, {%a|%} dirty-kneed; {@-tva,@} {%n.%} 
+---
+> <> dirt; {@-jñu@}, {%a.%} dirty-kneed; {@-tva,@} {%n.%} 
+88819c88819
+< <>wood; sandal: {@-rajas@}, {%n|%} sandal, {@-rasa,@} {%m.%} 
+---
+> <>wood; sandal: {@-rajas@}, {%n.%} sandal, {@-rasa,@} {%m.%} 
+88821,88822c88821,88822
+< <>{@-deśa@}, {%m|%} country of malaya; {@-druma,@} {%m.%} 
+< <>sandal tree; {@-dhvaja@}, {%m| n|%}; {@-parvata,@} {%m.%} 
+---
+> <>{@-deśa@}, {%m.%} country of Malaya; {@-druma,@} {%m.%} 
+> <>sandal tree; {@-dhvaja@}, {%m. N.%}; {@-parvata,@} {%m.%} 
+88828c88828
+< <>{@-vat-ī,@} {%f. N.%}; {@-siṃha@}, {%m| n|%}; {@-udbhava,@} 
+---
+> <>{@-vat-ī,@} {%f. N.%}; {@-siṃha@}, {%m. N.%}; {@-udbhava,@} 
+88896,88897c88896,88897
+< <>{%of a village%}; {@-koṣṭa@}, {%m| n|%}: {@-ka,@} {%m. id.%}; 
+< <>{@-ghaṭī@}, {%f| kind of%} pantomime; {@-nāga,@} {%m.%} 
+---
+> <>{%of a village%}; {@-koṣṭa@}, {%m. N.%}: {@-ka,@} {%m. id.%}; 
+> <>{@-ghaṭī@}, {%f. kind of%} pantomime; {@-nāga,@} {%m.%} 
+89006c89006
+< <>{%m.,%} {@-śuāla@}, {%n|%} headache; {@-dāru,@} {%n.%} Devadāru 
+---
+> <>{%m.,%} {@-śuāla@}, {%n.%} headache; {@-dāru,@} {%n.%} Devadāru 
+89195c89195
+< <>({@á@}), {%a|%} of high lineage; {@-utpanna,@} {%pp.%} born 
+---
+> <>({@á@}), {%a.%} of high lineage; {@-utpanna,@} {%pp.%} born 
+89211c89211
+< <>Gaṇeśa; {@-gaṇeśa@}, {%m| id|%}; {@-gandha,@} {%a.%} strong-scented, <lbinfo n="6"/>
+---
+> <>Gaṇeśa; {@-gaṇeśa@}, {%m. id.%}; {@-gandha,@} {%a.%} strong-scented, <lbinfo n="6"/>
+89216c89216
+< <> persons; {@-gṛha@}, {%n|%} great house; {@-gauri,@} 
+---
+> <> persons; {@-gṛha@}, {%n.%} great house; {@-gauri,@} 
+89220c89220
+< <>{@-ghaṭa@}, {%m|%} large jar; {@-ghora,@} {%a.%} very terrible; <lbinfo n="5"/>
+---
+> <>{@-ghaṭa@}, {%m.%} large jar; {@-ghora,@} {%a.%} very terrible; <lbinfo n="5"/>
+89280c89280
+< <>{@-duckha@}, {%n|%} great sorrow; {@-durga,@} {%n.%} great 
+---
+> <>{@-duckha@}, {%n.%} great sorrow; {@-durga,@} {%n.%} great 
+89368c89368
+< <>pure; {@-pṛṣṭha@}, {%a|%} broad-backed; {@-paiṅgya,@} 
+---
+> <>pure; {@-pṛṣṭha@}, {%a.%} broad-backed; {@-paiṅgya,@} 
+89374c89374
+< <>{@-prapañca@}, {%m|%} the great world; {@-prabha,@} {%a.%} 
+---
+> <>{@-prapañca@}, {%m.%} the great world; {@-prabha,@} {%a.%} 
+89426c89426
+< <>{@-bhuja@}, {%a|%} long-armed; {@-bhūta,@} {%pp.%} being 
+---
+> <>{@-bhuja@}, {%a.%} long-armed; {@-bhūta,@} {%pp.%} being 
+89433c89433
+< <>enjoyment; {@-bhoja@}, {%m|%} great prince; {@-abhra,@} 
+---
+> <>enjoyment; {@-bhoja@}, {%m.%} great prince; {@-abhra,@} 
+89469c89469
+< <> {@-mṛdha@}, {%n|%} great battle; {@-megha,@} 
+---
+> <> {@-mṛdha@}, {%n.%} great battle; {@-megha,@} 
+89521c89521
+< <>{@-arṇava@}, {%m|%} great sea, ocean; {@-artha,@} {%m.%} 
+---
+> <>{@-arṇava@}, {%m.%} great sea, ocean; {@-artha,@} {%m.%} 
+89703c89703
+< <>{@sts| simply@} wife of a king: {@-bhāva,@} {%m.%} condition <lbinfo n="3"/>
+---
+> <>{@sts. simply@} wife of a king: {@-bhāva,@} {%m.%} condition <lbinfo n="3"/>
+89728c89728
+< <>{%air%}); {@-ja@}, {%m|%} plant, tree; {%planet%} mars; {@-tala,@} 
+---
+> <>{%air%}); {@-ja@}, {%m.%} plant, tree; {%planet%} Mars; {@-tala,@} 
+89778c89778
+< <>{@-vara@}, {%m|%} lord of earth, king; {@-sura,@} {%m.%} god 
+---
+> <>{@-vara@}, {%m.%} lord of earth, king; {@-sura,@} {%m.%} god 
+89796c89796
+< <>{@-dhvaja@}, {%m|%} indra's banner; {@-mantrin,@} {%m.%} 
+---
+> <>{@-dhvaja@}, {%m.%} Indra's banner; {@-mantrin,@} {%m.%} 
+90012c90012
+< <>{@-tṛ@}, {%a|%} making a fleṣ-wound; {@-maya,@} {%a.%} ({@ī@}) 
+---
+> <>{@-tṛ@}, {%a.%} making a fleṣ-wound; {@-maya,@} {%a.%} ({@ī@}) 
+90027c90027
+< <>{@-aśana@}, {%n|%} eating of fleṣ, fleṣ-food; {@-āśin,@} 
+---
+> <>{@-aśana@}, {%n.%} eating of fleṣ, fleṣ-food; {@-āśin,@} 
+90634c90634
+< <>{@-daṇḍa@}, {%m|%} measuring-rod; {@-dhana,@} {%a.%} having <lbinfo n="3"/>
+---
+> <>{@-daṇḍa@}, {%m.%} measuring-rod; {@-dhana,@} {%a.%} having <lbinfo n="3"/>
+90941c90941
+< <>{@-para@}, {%a|%} intent on deceit and fraud; {@-devī,@} 
+---
+> <>{@-para@}, {%a.%} intent on deceit and fraud; {@-devī,@} 
+90946c90946
+< <> {@-pur, -purī@}, {%f| n| of a%} town; {@-prayoga,@} 
+---
+> <> {@-pur, -purī@}, {%f. N. of a%} town; {@-prayoga,@} 
+91134c91134
+< <>{@mārgaiḥ@}, through (-°); {%d|%} {@mārgāya,@} to make 
+---
+> <>{@mārgaiḥ@}, through (-°); {%d.%} {@mārgāya,@} to make 
+91167c91167
+< <>{@-ta@}, {%pp| id|%}; {@-vāsas,@} {%a.%} clothed in a deerskin; 
+---
+> <>{@-ta@}, {%pp. id.%}; {@-vāsas,@} {%a.%} clothed in a deerskin; 
+91405c91405
+< <>flowers; {@-paṇa@}, {%m|%} garland-market; {@-vat,@} {%a.%} 
+---
+> <>flowers; {@-paṇa@}, {%m.%} garland-market; {@-vat,@} {%a.%} 
+91557c91557
+< <> {%w.%} {@diś@} {%or%} {@āśā@}, {%f|%} east; {@ī,@} {%f.%} east; Indra's 
+---
+> <> {%w.%} {@diś@} {%or%} {@āśā@}, {%f.%} east; {@ī,@} {%f.%} east; Indra's 
+91577c91577
+< <>{%pp.%} {@mitá| ud@}, erect ({%post%})| {@ni,@} fix in the 
+---
+> <>{%pp.%} {@mitá. ud@}, erect ({%post%}). {@ni,@} fix in the 
+91585c91585
+< <>{@meṣyat@}: {%br|%})| {@parā,@} return ({%in ft. pt.%} 
+---
+> <>{@meṣyat@}: {%Br.%}). {@parā,@} return ({%in ft. pt.%} 
+91627c91627
+< <>{@-ana@}{%a|%} sparing in diet; {@-mati,@} {%a.%} having a 
+---
+> <>{@-ana@}{%a.%} sparing in diet; {@-mati,@} {%a.%} having a 
+91687c91687
+< <>with (-°); {@-tva,@} {@n| id|@}; {@-druh,@} {%a.%} ({%nm.%} {@-dhruk@}) 
+---
+> <>with (-°); {@-tva,@} {@n. id.@}; {@-druh,@} {%a.%} ({%nm.%} {@-dhruk@}) 
+91830c91830
+< <>{@-ṭi@}, {%f|%} heresy; {@-adhīta,@} {%n.%} wrong course of 
+---
+> <>{@-ṭi@}, {%f.%} heresy; {@-adhīta,@} {%n.%} wrong course of 
+91851c91851
+< <>{@-vacana@}, {%n|%} telling an untruth; {@-vākya,@} {%n.%} 
+---
+> <>{@-vacana@}, {%n.%} telling an untruth; {@-vākya,@} {%n.%} 
+91865c91865
+< <>{@medá@} ({%rv|%}), grow fat; {%cs|%} p| {@medaya,@} 
+---
+> <>{@medá@} ({%RV.%}), grow fat; {%cs.%} P. {@medaya,@} 
+92028c92028
+< <>{@-pācaka@}, {%a|%} cooking savoury dishes; {@-vākya,@} 
+---
+> <>{@-pācaka@}, {%a.%} cooking savoury dishes; {@-vākya,@} 
+92035c92035
+< <>emit semen: {%pp.%} {@mīḍha@}| {@abhi,@} make water 
+---
+> <>emit semen: {%pp.%} {@mīḍha@}. {@abhi,@} make water 
+92068c92068
+< <> {@ud@} ({@-minī@}), disappear ({%rv|%})| {@pra,@} 
+---
+> <> {@ud@} ({@-minī@}), disappear ({%RV.%}). {@pra,@} 
+92072c92072
+< <>perish, die; {%ps.%} {@-mīyate@} ({%c|%}), {%id|%}: {%pp|%} {@-mīta,@} 
+---
+> <>perish, die; {%ps.%} {@-mīyate@} ({%C.%}), {%id.%}: {%pp.%} {@-mīta,@} 
+92155c92155
+< <>({%eye%}). {@saṃ-ni@}, close the eye| {@pra,@} close the 
+---
+> <>({%eye%}). {@saṃ-ni@}, close the eye. {@pra,@} close the 
+92174c92174
+< <>{%pp.%} {@mūta@} (-°)| {@ā,@} push open ({%door%}); 
+---
+> <>{%pp.%} {@mūta@} (-°). {@ā,@} push open ({%door%}); 
+92176c92176
+< <>{@-at| ni,@} press down ({%only pr. pt.%}). {@pra,@} push 
+---
+> <>{@-at. ni,@} press down ({%only pr. pt.%}). {@pra,@} push 
+92241c92241
+< <>{%compound words%}); {@-kaṇṭha@}, {%a| or%} {@-m,@} {%ad. with%} 
+---
+> <>{%compound words%}); {@-kaṇṭha@}, {%a. or%} {@-m,@} {%ad. with%} 
+92264c92264
+< <>{%the oyster%}], pearl: {@-kaṇa@}, {%m| n|%}; {@-kalāpa,@} 
+---
+> <>{%the oyster%}], pearl: {@-kaṇa@}, {%m. N.%}; {@-kalāpa,@} 
+92281c92281
+< <>{%N.%}; {@-jāla@}, {%n|%} pearl necklace; {@-tā,@} {%f.%} state 
+---
+> <>{%N.%}; {@-jāla@}, {%n.%} pearl necklace; {@-tā,@} {%f.%} state 
+92302c92302
+< <>{@-maya@}, {%a|%} radiant with pearls; {@-latā,@} {%f. N.%}; 
+---
+> <>{@-maya@}, {%a.%} radiant with pearls; {@-latā,@} {%f. N.%}; 
+92368c92368
+< <>{@-piṇḍa@}, {%m|%} of food; {@-priya,@} {%a.%} 
+---
+> <>{@-piṇḍa@}, {%m.%} of food; {@-priya,@} {%a.%} 
+92373c92373
+< <>{%m. id.%}; {@-maṇḍala@}, {%n|%} face; {@-mātra,@} {%a.%} ({@ī@}) 
+---
+> <>{%m. id.%}; {@-maṇḍala@}, {%n.%} face; {@-mātra,@} {%a.%} ({@ī@}) 
+92653c92653
+< {#muw#}¦MUṬ, I.Ā. {@-moṭa@}, break, crush| {@ud,@} 
+---
+> {#muw#}¦MUṬ, I.Ā. {@-moṭa@}, break, crush. {@ud,@} 
+93106c93106
+< <>{@-cetas@}, {%a| id|%}; {@-tā,@} {%f.,%} {@-tva,@} {%n.%} bewilderment. 
+---
+> <>{@-cetas@}, {%a. id.%}; {@-tā,@} {%f.,%} {@-tva,@} {%n.%} bewilderment. 
+93344c93344
+< <>{@-vacana@}, {%n|%} original words {%or%} text; {@-vat,@} {%a.%} 
+---
+> <>{@-vacana@}, {%n.%} original words {%or%} text; {@-vat,@} {%a.%} 
+93416c93416
+< <>die: {%pf. pt. act.%} {@mamṛvás@}, {%f|%} {@mamarúṣī,@} 
+---
+> <>die: {%pf. pt. act.%} {@mamṛvás@}, {%f.%} {@mamarúṣī,@} 
+93478c93478
+< <>{@-ṇikā@}, {%f|%} (deer's thirst), mirage; {@-tva,@} {%n.%} condition <lbinfo n="3"/>
+---
+> <>{@-ṇikā@}, {%f.%} (deer's thirst), mirage; {@-tva,@} {%n.%} condition <lbinfo n="3"/>
+93514c93514
+< <>{@-vana@}, {%n|%} hunting forest; {@-vihāra,@} {%m.%} pleasures <lbinfo n="4"/>
+---
+> <>{@-vana@}, {%n.%} hunting forest; {@-vihāra,@} {%m.%} pleasures <lbinfo n="4"/>
+93569c93569
+< <>god of love; {@-maṇi@}, {%m|%} moonstone; {@-mālā,@} 
+---
+> <>god of love; {@-maṇi@}, {%m.%} moonstone; {@-mālā,@} 
+93582c93582
+< <>{@-rāja@}, {%m|%} monarch of the beasts, lion; {@-arāti,@} 
+---
+> <>{@-rāja@}, {%m.%} monarch of the beasts, lion; {@-arāti,@} 
+93664c93664
+< <> {%pp.%} {@nirmṛṣṭa@}, wiped off| {@pari,@} wipe 
+---
+> <> {%pp.%} {@nirmṛṣṭa@}, wiped off. {@pari,@} wipe 
+93671c93671
+< <>{@-ita@}, rubbed up, cleansed, smoothed| {@pra,@} 
+---
+> <>{@-ita@}, rubbed up, cleansed, smoothed. {@pra,@} 
+93750c93750
+< <>{@-rīra@}, {%n|%} human corpse; {@-pūruṣa-deha,@} {%m.%} 
+---
+> <>{@-rīra@}, {%n.%} human corpse; {@-pūruṣa-deha,@} {%m.%} 
+93753c93753
+< <>{@-tṛka@}, {%a|%} whose mother is dead; {@-vat,@} {%ad.%} as 
+---
+> <>{@-tṛka@}, {%a.%} whose mother is dead; {@-vat,@} {%ad.%} as 
+93758c93758
+< <>{@-jīvana@}, {%a|%} bringing the dead to life; {%n|,%} {@ī,@} {%f.%} 
+---
+> <>{@-jīvana@}, {%a.%} bringing the dead to life; {%n.,%} {@ī,@} {%f.%} 
+93790c93790
+< <>{@-panna@}, {%pp|%} coated with clay; {@-khana,@} {%m.%} 
+---
+> <>{@-panna@}, {%pp.%} coated with clay; {@-khana,@} {%m.%} 
+93823c93823
+< <>{@-pāśá@}, {%m|%} fetter of death; {@-bhaya,@} {%n.%} fear of 
+---
+> <>{@-pāśá@}, {%m.%} fetter of death; {@-bhaya,@} {%n.%} fear of 
+93825c93825
+< <>death; {@-rāj@}, {%m|%} (king =) god of death; {@-loka,@} 
+---
+> <>death; {@-rāj@}, {%m.%} (king =) god of death; {@-loka,@} 
+93853c93853
+< <>{@-mar[t]ti@}, crush ({%rv|¹%})| {@abhi,@} tread, trample <lbinfo n="4"/>
+---
+> <>{@-mar[t]ti@}, crush ({%RV.¹%}). {@abhi,@} tread, trample <lbinfo n="4"/>
+93998c93998
+< <>{@anu-vi,@} consider, reflect. {@saṃ-vi@}, id| {@sam,@} 
+---
+> <>{@anu-vi,@} consider, reflect. {@saṃ-vi@}, id. {@sam,@} 
+94108c94108
+< <>{@-bara@}, {%m|%} roar of clouds, thunder; {@-dūta,@} {%m.%} 
+---
+> <>{@-bara@}, {%m.%} roar of clouds, thunder; {@-dūta,@} {%m.%} 
+94123c94123
+< <>{@-lekhā@}, {%f|%} streak of cloud; {@-vat,@} {%a.%} cloud-capped; <lbinfo n="5"/>
+---
+> <>{@-lekhā@}, {%f.%} streak of cloud; {@-vat,@} {%a.%} cloud-capped; <lbinfo n="5"/>
+94996c94996
+< {#mruc#}¦MRUC, I.P. {@-mróca@} ({%rare%})| {@ni,@} set 
+---
+> {#mruc#}¦MRUC, I.P. {@-mróca@} ({%rare%}). {@ni,@} set 
+95062c95062
+< <>{%intv.%} {@malimluc@}, allay| {@anu,@} arise ({%V.%}). 
+---
+> <>{%intv.%} {@malimluc@}, allay. {@anu,@} arise ({%V.%}). 
+95199c95199
+< <>Kubera; {@-rāja@}, {%m| id|%}; {@-aṅganā,@} {%f.%} wife of 
+---
+> <>Kubera; {@-rāja@}, {%m. id.%}; {@-aṅganā,@} {%f.%} wife of 
+95283c95283
+< <> {%pp.%} {@éṣṭa@}, gained by worship| {@upa,@} 
+---
+> <> {%pp.%} {@éṣṭa@}, gained by worship. {@upa,@} 
+95395c95395
+< <> {@-dṛś@}, {%a|%} looking on at a sacrifice; {@-deva,@} 
+---
+> <> {@-dṛś@}, {%a.%} looking on at a sacrifice; {@-deva,@} 
+95551c95551
+< <>{@saṃ-pra@}, ā| strive after ({%d|%})| {@prati,@} counteract 
+---
+> <>{@saṃ-pra@}, Ā. strive after ({%d.%}). {@prati,@} counteract 
+95667c95667
+< <> {@-kiṃcana-kār-in@}, {%a| id|%}: ({@-i@}) {@-tā,@} {%f.%} 
+---
+> <> {@-kiṃcana-kār-in@}, {%a. id.%}: ({@-i@}) {@-tā,@} {%f.%} 
+95734c95734
+< <>{@-yam-pratiśraya@}, {%a| id|%}; {@-stha,@} {%a.%} dwelling 
+---
+> <>{@-yam-pratiśraya@}, {%a. id.%}; {@-stha,@} {%a.%} dwelling 
+95851c95851
+< <>{@-darśana@}, {%ad|%} °- {%or%} {@-m,@} at each occurrence, 
+---
+> <>{@-darśana@}, {%ad.%} °- {%or%} {@-m,@} at each occurrence, 
+95898c95898
+< <>might; {@-prāṇena@}, {%in| ad| id|%}; {@-prāpta,@} {%pp.%} 
+---
+> <>might; {@-prāṇena@}, {%in. ad. id.%}; {@-prāpta,@} {%pp.%} 
+95907c95907
+< <>{@-am@}, {%ad|%} according to the seed; {@-buddhi,@} {%ad.%} 
+---
+> <>{@-am@}, {%ad.%} according to the seed; {@-buddhi,@} {%ad.%} 
+95918c95918
+< <>{@-rucita@}, {%pp|%} liked, favourite; {@-abhilaṣita,@} 
+---
+> <>{@-rucita@}, {%pp.%} liked, favourite; {@-abhilaṣita,@} 
+95920c95920
+< <>{@-diś@}, {%f|%} place desired by each; {@-bhūtam,@} {%ad.%} 
+---
+> <>{@-diś@}, {%f.%} place desired by each; {@-bhūtam,@} {%ad.%} 
+95944c95944
+< <>{@-i@}, {%ad|%} according to taste; {@-rūpa,@} {%a.%} of what 
+---
+> <>{@-i@}, {%ad.%} according to taste; {@-rūpa,@} {%a.%} of what 
+96092c96092
+< <>{@-yā@}, {%ad| id|%}; {@-etám,@} ({%pp.%}) {%ad.%} as come; īpsayā, <lbinfo n="4"/>
+---
+> <>{@-yā@}, {%ad. id.%}; {@-etám,@} ({%pp.%}) {%ad.%} as come; īpsayā, <lbinfo n="4"/>
+96174c96174
+< <>{@kadā́ ca@}, as often as ({%rv|%}); {@yadā yadā,@} as 
+---
+> <>{@kadā́ ca@}, as often as ({%RV.%}); {@yadā yadā,@} as 
+96283c96283
+< <>{@-karma-kṛt@}, {%m|%} mechanist; {@-karman,@} {%n.%} employment <lbinfo n="2"/>
+---
+> <>{@-karma-kṛt@}, {%m.%} mechanist; {@-karman,@} {%n.%} employment <lbinfo n="2"/>
+96376c96376
+< <>{%pp.%} {@yamita| adhi,@} extend over ({%d.%}; {%RV.%}). 
+---
+> <>{%pp.%} {@yamita. adhi,@} extend over ({%d.%}; {%RV.%}). 
+96523c96523
+< <>twins; {@-jāta@}, {%pp|%}: {@-ka,@} {%a., m. id.%}; {@-jihvā@}, {%f.%} 
+---
+> <>twins; {@-jāta@}, {%pp.%}: {@-ka,@} {%a., m. id.%}; {@-jihvā@}, {%f.%} 
+96531c96531
+< <>rod; {@-diś@}, {%f|%} yama's quarter, south; {@-dūtá,@} 
+---
+> <>rod; {@-diś@}, {%f.%} Yama's quarter, south; {@-dūtá,@} 
+96572c96572
+< <>{@-anucara@}, {%m|%} yama's servant; {@-antaka,@} 
+---
+> <>{@-anucara@}, {%m.%} Yama's servant; {@-antaka,@} 
+96771c96771
+< <>fame; {@-rāja@}, {%m| n|%}; {@-lekhā,@} {%f. N.%}; {@-vat-ī,@} 
+---
+> <>fame; {@-rāja@}, {%m. N.%}; {@-lekhā,@} {%f. N.%}; {@-vat-ī,@} 
+96919c96919
+< <>{@saṃmukham@} --, come to meet: {%pp|%} {@āyāta,@} 
+---
+> <>{@saṃmukham@} --, come to meet: {%pp.%} {@āyāta,@} 
+97134c97134
+< <>{%one%}; {@-gṛha@}, {%m|%} torture chamber; {@-arthīya,@} 
+---
+> <>{%one%}; {@-gṛha@}, {%m.%} torture chamber; {@-arthīya,@} 
+97687c97687
+< <>{@-jña@}, {%a|%} skilled in {%proper%} expedients; {@-mat,@} 
+---
+> <>{@-jña@}, {%a.%} skilled in {%proper%} expedients; {@-mat,@} 
+98052c98052
+< <>of war; {@-pravīṇa@}, {%a|%} skilled in war; {@-bhū,@} 
+---
+> <>of war; {@-pravīṇa@}, {%a.%} skilled in war; {@-bhū,@} 
+98057c98057
+< <> {@-varṇa@}, {%m|%} sort of battle; {@-vastu,@} {%n.%} 
+---
+> <> {@-varṇa@}, {%m.%} sort of battle; {@-vastu,@} {%n.%} 
+98072c98072
+< <>vanquish ({%ac.%}): {%pp.%} {@yuddha@}; {%cs|%} {@yodháya,@} 
+---
+> <>vanquish ({%ac.%}): {%pp.%} {@yuddha@}; {%cs.%} {@yodháya,@} 
+98128c98128
+< <>{@yupitá@}; {%cs|%} {@yopáyati,@} efface ({%mark%}); {%intv.%} 
+---
+> <>{@yupitá@}; {%cs.%} {@yopáyati,@} efface ({%mark%}); {%intv.%} 
+98402c98402
+< <>{%of an age%}; {@-ṃ-dhara@}, {%m| n|%}; {@-pati,@} {%m.%} 
+---
+> <>{%of an age%}; {@-ṃ-dhara@}, {%m. N.%}; {@-pati,@} {%m.%} 
+98750c98750
+< <>blood; {@-ja@}, {%a|%} derived from the blood; {@-tara,@} 
+---
+> <>blood; {@-ja@}, {%a.%} derived from the blood; {@-tara,@} 
+98862c98862
+< <>{@-abhyadhikṛta@}, {%m|%} police official; {@-maṅgala,@} 
+---
+> <>{@-abhyadhikṛta@}, {%m.%} police official; {@-maṅgala,@} 
+99079c99079
+< <>{@-daṃṣṭra@}, {%m| n| of a fairy%}; {@-parvata,@} {%m.%} 
+---
+> <>{@-daṃṣṭra@}, {%m. N. of a fairy%}; {@-parvata,@} {%m.%} 
+99082c99082
+< <>{@-bhājana@}, {%n| id|%}; {@-maya,@} {%a.%} ({@ī@}) made of silver; <lbinfo n="3"/>
+---
+> <>{@-bhājana@}, {%n. id.%}; {@-maya,@} {%a.%} ({@ī@}) made of silver; <lbinfo n="3"/>
+99190c99190
+< <> aloud: {%pp.%} {@raṭita@}, applauded| {@ā,@} cry, 
+---
+> <> aloud: {%pp.%} {@raṭita@}, applauded. {@ā,@} cry, 
+99223c99223
+< <>{@-ṇi@}, {%f|%} battle-field; {@-kṣala,@} {%m. id.%}; {@-gocara@}, 
+---
+> <>{@-ṇi@}, {%f.%} battle-field; {@-kṣala,@} {%m. id.%}; {@-gocara@}, 
+99235c99235
+< <>{%a.%} delighting in battle; {@-bhaṭa@}, {%m| n|%}; {@-bhū,@} 
+---
+> <>{%a.%} delighting in battle; {@-bhaṭa@}, {%m. N.%}; {@-bhū,@} 
+99238c99238
+< <>{%id.%}; {@-yajña@}, {%m|%} sacrifice of battle; {@-raṅga,@} 
+---
+> <>{%id.%}; {@-yajña@}, {%m.%} sacrifice of battle; {@-raṅga,@} 
+99248c99248
+< <>{@-rambha@}, {%m|%} storm of battle; {@-stha,@} {%a.%} engaged <lbinfo n="2"/>
+---
+> <>{@-rambha@}, {%m.%} storm of battle; {@-stha,@} {%a.%} engaged <lbinfo n="2"/>
+99359c99359
+< <>{@-mañjarī@}, {%f| n| of a fairy%}; {@-maya,@} {%a.%} ({@ī@}) 
+---
+> <>{@-mañjarī@}, {%f. N. of a fairy%}; {@-maya,@} {%a.%} ({@ī@}) 
+99408c99408
+< <>{@-īśvara@}, {%m| n|%}; {@-udbhava,@} {%m. N.%}.
+---
+> <>{@-īśvara@}, {%m. N.%}; {@-udbhava,@} {%m. N.%}.
+99442c99442
+< <>{@-aka@}, {%m|%} yoker of a car; {@-yodha,@} {%m.%} chariot 
+---
+> <>{@-aka@}, {%m.%} yoker of a car; {@-yodha,@} {%m.%} chariot 
+99450c99450
+< <>{@-vijñāna@}, {%n|,%} {@-vidyā,@} {%f.%} knowledge of {%or%} skill 
+---
+> <>{@-vijñāna@}, {%n.,%} {@-vidyā,@} {%f.%} knowledge of {%or%} skill 
+99504c99504
+< <> {@-īṣā@}, {%f|%} carriage-pole; {@-uttama,@} 
+---
+> <> {@-īṣā@}, {%f.%} carriage-pole; {@-uttama,@} 
+99530c99530
+< <>{@-cchada@}, {%m|%} lip; {@-anikā,@} {%f. N.%}.
+---
+> <>{@-cchada@}, {%m.%} lip; {@-anikā,@} {%f. N.%}.
+99607c99607
+< {#rapS#}¦RAPŚ, I.Ā. {@-rápśa@}, ({%v|%})| {@pra,@} extend <lbinfo n="2"/>
+---
+> {#rapS#}¦RAPŚ, I.Ā. {@-rápśa@}, ({%V.%}). {@pra,@} extend <lbinfo n="2"/>
+99625c99625
+< <>{@-ya@}; {%des|%} p| {@-ripsa@}| {@ā,@} lay hold of, seize; 
+---
+> <>{@-ya@}; {%des.%} P. {@-ripsa@}. {@ā,@} lay hold of, seize; 
+99859,99860c99859,99860
+< <>{@-la@}, {%n|%} disc of the sun; {@-ratna,@} {%n.%} sun-stone; 
+< <>{@-vaṃśa@}, {%m|%} solar race; {@-vāra,@} {%m.,%} {@-vāsara,@} 
+---
+> <>{@-la@}, {%n.%} disc of the sun; {@-ratna,@} {%n.%} sun-stone; 
+> <>{@-vaṃśa@}, {%m.%} solar race; {@-vāra,@} {%m.,%} {@-vāsara,@} 
+99975c99975
+< <>{@-vikretṛ@}, {%m| id|%}; {@-vid,@} {%a.%} knowing the taste; 
+---
+> <>{@-vikretṛ@}, {%m. id.%}; {@-vid,@} {%a.%} knowing the taste; 
+100105c100105
+< <>give, grant, bestow: {%pp.%} {@rātá@}| {@sam,@} {%id.%} ({%V.%}).
+---
+> <>give, grant, bestow: {%pp.%} {@rātá@}. {@sam,@} {%id.%} ({%V.%}).
+100129c100129
+< <>{@-dhākara@}, {%m| id|%}; {@-indīvara-bandhu,@} {%m. id.%}; 
+---
+> <>{@-dhākara@}, {%m. id.%}; {@-indīvara-bandhu,@} {%m. id.%}; 
+100182c100182
+< <>{%m.%} (manifestation of) affection; {@-bhañjarī@}, {%f| n|%}: {@i-kā,@} {%f. %}
+---
+> <>{%m.%} (manifestation of) affection; {@-bhañjarī@}, {%f. N.%}: {@i-kā,@} {%f. %}
+100184c100184
+< <>{@-rajju@}, {%m|%} god of love; {@-lekhā,@} {%f.%} streak of 
+---
+> <>{@-rajju@}, {%m.%} god of love; {@-lekhā,@} {%f.%} streak of 
+100224c100224
+< <>{@rājaya@}, rule| {@nis,@} {%cs.%} cause to shine, irradiate; <lbinfo n="4"/>
+---
+> <>{@rājaya@}, rule. {@nis,@} {%cs.%} cause to shine, irradiate; <lbinfo n="4"/>
+100256c100256
+< <>service; Soma-rite; {@-kalaśa@}, {%m| n|%}; {@-kalā,@} 
+---
+> <>service; Soma-rite; {@-kalaśa@}, {%m. N.%}; {@-kalā,@} 
+100381c100381
+< <>{@-prakṛti@}, {%f|%} king's minister; {@-priyā,@} {%f.%} mistress <lbinfo n="3"/>
+---
+> <>{@-prakṛti@}, {%f.%} king's minister; {@-priyā,@} {%f.%} mistress <lbinfo n="3"/>
+100392c100392
+< <>{@-tya@}, {%m|%} king's servant; {@-bhauta,@} {%m.%} fool of 
+---
+> <>{@-tya@}, {%m.%} king's servant; {@-bhauta,@} {%m.%} fool of 
+100416c100416
+< <> {@-yajña@}, {%m|%} royal sacrifice; {@-yāna,@} 
+---
+> <> {@-yajña@}, {%m.%} royal sacrifice; {@-yāna,@} 
+100490c100490
+< <>{@-na@}, {%n|%} royal residence, capital; {@-adhina,@} {%m.%} 
+---
+> <>{@-na@}, {%n.%} royal residence, capital; {@-adhina,@} {%m.%} 
+100875c100875
+< <>rule of three; {@-śas@}, {%ad|%} in heaps; {@-stha,@} {%a.%} 
+---
+> <>rule of three; {@-śas@}, {%ad.%} in heaps; {@-stha,@} {%a.%} 
+100989c100989
+< <>dissolved: {%pp.%} {@riṇa@}, vanished ({%c|%})| {@anu,@} 
+---
+> <>dissolved: {%pp.%} {@riṇa@}, vanished ({%C.%}). {@anu,@} 
+101033c101033
+< {#riK#}¦RIKH, I.P. {@-rikha@} (= √ likh)| {@ā,@} 
+---
+> {#riK#}¦RIKH, I.P. {@-rikha@} (= √ likh). {@ā,@} 
+101070c101070
+< <> {%pp.%} {@recita@}, quitted, abandoned| {@ati,@} Ā. 
+---
+> <> {%pp.%} {@recita@}, quitted, abandoned. {@ati,@} Ā. 
+101128c101128
+< <>{@-pha@} ({%br|%}), snarl; {%ps|%} {@riphya,@} be rolled 
+---
+> <>{@-pha@} ({%Br.%}), snarl; {%ps.%} {@riphya,@} be rolled 
+101169c101169
+< <>P. {@riṣa@} ({%v|%}), iv| {@ṛ́ṣya,@} P. ({%V., P.%}), 
+---
+> <>P. {@riṣa@} ({%V.%}), IV. {@ṛ́ṣya,@} P. ({%V., P.%}), 
+101193c101193
+< <>caress: {%pp.%} {@rīḍha@}; {%intv|%} {@rerihyáte,@} lick repeatedly, <lbinfo n="2"/>
+---
+> <>caress: {%pp.%} {@rīḍha@}; {%intv.%} {@rerihyáte,@} lick repeatedly, <lbinfo n="2"/>
+101248c101248
+< {#ru#}¦RU, {%only aor.%} {@rāviṣam@} {%and pp|%} {@rutá,@} 
+---
+> {#ru#}¦RU, {%only aor.%} {@rāviṣam@} {%and pp.%} {@rutá,@} 
+101337c101337
+< <>{@-ṃ dā@}, please {%any one%} ({%g|%}); {@-m vah,@} produce  <lbinfo n="3"/>
+---
+> <>{@-ṃ dā@}, please {%any one%} ({%g.%}); {@-m vah,@} produce  <lbinfo n="3"/>
+101449c101449
+< <>{%Aśvins%}; {@-śarman@}, {%m| n|%}; {@-suta,@} {%m.%} son of 
+---
+> <>{%Aśvins%}; {@-śarman@}, {%m. N.%}; {@-suta,@} {%m.%} son of 
+101916c101916
+< <>{%a.%} beautiful; {@-śikhā@}, {%f| n|%}; {@-sanātana,@} {%m. %}
+---
+> <>{%a.%} beautiful; {@-śikhā@}, {%f. N.%}; {@-sanātana,@} {%m. %}
+102010c102010
+< <>({@ú@}) {@-kakāṭa@}, {%a|%} whirling up dust ({%v|%}); {@-kā,@} 
+---
+> <>({@ú@}) {@-kakāṭa@}, {%a.%} whirling up dust ({%V.%}); {@-kā,@} 
+102041c102041
+< <>({%lc.%}); {@-sektṛ@}, {%m|%} impregnator; {@-skandana,@} 
+---
+> <>({%lc.%}); {@-sektṛ@}, {%m.%} impregnator; {@-skandana,@} 
+102203c102203
+< <>{@-dhṛ@}, {%m|%} besieger; {@-dhos,@} {%g. inf. of%} √ rudh.
+---
+> <>{@-dhṛ@}, {%m.%} besieger; {@-dhos,@} {%g. inf. of%} √ rudh.
+102669c102669
+< <> {@-ramaṇa@}, {%m| ep| of%} viṣṇu; {@-vat,@} 
+---
+> <> {@-ramaṇa@}, {%m. ep. of%} Viṣṇu; {@-vat,@} 
+102760c102760
+< <>slight; {@-iṣṭha@}, {@spv|,@} {@-īyas,@} {%cpv.%} of laghú; 
+---
+> <>slight; {@-iṣṭha@}, {@spv.,@} {@-īyas,@} {%cpv.%} of laghú; 
+102837c102837
+< <>Rāma; {@-īśvara@}, {%m| ep| of%} rāvaṇa; {@-udaya,@} 
+---
+> <>Rāma; {@-īśvara@}, {%m. ep. of%} Rāvaṇa; {@-udaya,@} 
+102861c102861
+< <>{@laṅghita| ati,@} {%cs.%} leap over ({%ac.%}); transgress. <lbinfo n="5"/>
+---
+> <>{@laṅghita. ati,@} {%cs.%} leap over ({%ac.%}); transgress. <lbinfo n="5"/>
+102869c102869
+< <>{@-laṅghita| sam-ud,@} {%cs.%} transgress, violate, 
+---
+> <>{@-laṅghita. sam-ud,@} {%cs.%} transgress, violate, 
+102928c102928
+< <> {@-śīla@}, {%a| id|%}; {@-āvaha,@} {%a.%} shameful.
+---
+> <> {@-śīla@}, {%a. id.%}; {@-āvaha,@} {%a.%} shameful.
+102983c102983
+< <>{@-pa@}, {%m|%} bower of creepers, arbour; {@-mādhavī,@} 
+---
+> <>{@-pa@}, {%m.%} bower of creepers, arbour; {@-mādhavī,@} 
+103297c103297
+< <>({%rare%}); favour: {%pp.%} {@lālita| anu,@} {%cs.%} put 
+---
+> <>({%rare%}); favour: {%pp.%} {@lālita. anu,@} {%cs.%} put 
+103323c103323
+< <>{%hot sun%}), very painful; {@-paṭṭa@}, {%m|%}: {@-ka,@} {%m.,%} 
+---
+> <>{%hot sun%}), very painful; {@-paṭṭa@}, {%m.%}: {@-ka,@} {%m.,%} 
+103352c103352
+< <>{@-locana@}, {%a|%} fair-eyed: {@ā,@} {%f. N. of a fairy%}; 
+---
+> <>{@-locana@}, {%a.%} fair-eyed: {@ā,@} {%f. N. of a fairy%}; 
+103400c103400
+< <>{@-bhava@}, {%m|%} shell; {@-tā,@} {%f.%} saltness; {@-toya,@} {%a.%} 
+---
+> <>{@-bhava@}, {%m.%} shell; {@-tā,@} {%f.%} saltness; {@-toya,@} {%a.%} 
+103573c103573
+< <> {%a.%} ({@ī@}) belonging to lāṭa ({@ī,@} {%f.%} Lāṭa 
+---
+> <> {%a.%} ({@ī@}) belonging to Lāṭa ({@ī,@} {%f.%} Lāṭa 
+103695c103695
+< <>beauty, charm: {@-mañjarī@}, {%f| n|%}; {@-maya,@} {%a.%} 
+---
+> <>beauty, charm: {@-mañjarī@}, {%f. N.%}; {@-maya,@} {%a.%} 
+103744c103744
+< <>{%pp.%}{@lekhita| abhi,@} inscribe, write; sketch, 
+---
+> <>{%pp.%}{@lekhita. abhi,@} inscribe, write; sketch, 
+103784c103784
+< <>({%Pr.%}); {@-itṛ@}, {%m|%} painter; {@-ya,@} {%m.,%} {@ā,@} {%f.%} nit, 
+---
+> <>({%Pr.%}); {@-itṛ@}, {%m.%} painter; {@-ya,@} {%m.,%} {@ā,@} {%f.%} nit, 
+103894c103894
+< <>tablet; {@-śālā@}, {%f|%} writing school; {@-śāstra,@} {%n.%} 
+---
+> <>tablet; {@-śālā@}, {%f.%} writing school; {@-śāstra,@} {%n.%} 
+103932c103932
+< <>{%pp.%} {@ullīḍha@}, polished| {@upa,@} Ā. lick, enjoy by 
+---
+> <>{%pp.%} {@ullīḍha@}, polished. {@upa,@} Ā. lick, enjoy by 
+104022c104022
+< <>{@-gāra,@} {%n.,%} {@-gṛha@}, {%n|,%} {@-geha,@} {%n.%} pleasure house; 
+---
+> <>{@-gāra,@} {%n.,%} {@-gṛha@}, {%n.,%} {@-geha,@} {%n.%} pleasure house; 
+104024c104024
+< <>with; {@-nṛtya@}, {%n|%} playful dance; {@-padma,@} 
+---
+> <>with; {@-nṛtya@}, {%n.%} playful dance; {@-padma,@} 
+104122c104122
+< <>{%pp.%} {@luṇṭita@}, husked ({%v| r|%} luñcita)| {@vi,@} 
+---
+> <>{%pp.%} {@luṇṭita@}, husked ({%v. r.%} luñcita). {@vi,@} 
+104238c104238
+< <>{@lolamāna@}); disappear: {%pp|%} {@lulita,@} moving 
+---
+> <>{@lolamāna@}); disappear: {%pp.%} {@lulita,@} moving 
+104311c104311
+< <>{@-ka@}, {%m|%} letter-carrier; {@-hār-in,@} {%a.%} delivering 
+---
+> <>{@-ka@}, {%m.%} letter-carrier; {@-hār-in,@} {%a.%} delivering 
+104439c104439
+< <>{@--,@} have a dream; {@hṛdi@} --, think of| {@pra‡ā,@} 
+---
+> <>{@--,@} have a dream; {@hṛdi@} --, think of. {@pra‡ā,@} 
+104536c104536
+< <>{@-rañjana@}, {%n|%} pleaśing the world; {@-rava,@} {%m.%} 
+---
+> <>{@-rañjana@}, {%n.%} pleaśing the world; {@-rava,@} {%m.%} 
+104545c104545
+< <>{@-vidviṣṭa@}, {%pp|%} universally disliked; {@-vidhi,@} 
+---
+> <>{@-vidviṣṭa@}, {%pp.%} universally disliked; {@-vidhi,@} 
+104570c104570
+< <>{@-dhāraṇa@}, {%a|%} common ({%topic%}); {@-siddha,@} {%pp.%} 
+---
+> <>{@-dhāraṇa@}, {%a.%} common ({%topic%}); {@-siddha,@} {%pp.%} 
+104633c104633
+< <>{%cs.%} P. {@-locaya@}| {@ā,@} consider, ponder; 
+---
+> <>{%cs.%} P. {@-locaya@}. {@ā,@} consider, ponder; 
+104635c104635
+< <>{%pp.%} {@ālocya@}| {@anu‡ā,@} {%cs.%} consider, 
+---
+> <>{%pp.%} {@ālocya@}. {@anu‡ā,@} {%cs.%} consider, 
+104706c104706
+< <>subject to elision; {@-tṛ@}, {%m|%} injurer; {@-tra,@} {%n.%} 
+---
+> <>subject to elision; {@-tṛ@}, {%m.%} injurer; {@-tra,@} {%n.%} 
+104738c104738
+< <>{@-kīṭa@}, {%m|%} lous; {@-kūpa,@} {%m.%} (hair-pit), pore 
+---
+> <>{@-kīṭa@}, {%m.%} lous; {@-kūpa,@} {%m.%} (hair-pit), pore 
+105073c105073
+< <>veil; {@-ambuja@}, {%n|%} lotus-face; {@-indu,@} {%m.%} 
+---
+> <>veil; {@-ambuja@}, {%n.%} lotus-face; {@-indu,@} {%m.%} 
+105096c105096
+< <>{@-bhaṇita@}, {%n|%} ambiguous speech; {@-bhāva,@} {%m.%} 
+---
+> <>{@-bhaṇita@}, {%n.%} ambiguous speech; {@-bhāva,@} {%m.%} 
+105160c105160
+< <>{@-maṇi@}, {%m|%} breast-jewel; {@-ruh,@} {%m.%} female breast.
+---
+> <>{@-maṇi@}, {%m.%} breast-jewel; {@-ruh,@} {%m.%} female breast.
+105221c105221
+< <>{@ucyate@}, as the saying is: {%pp|%} {@uktá,@} said. 
+---
+> <>{@ucyate@}, as the saying is: {%pp.%} {@uktá,@} said. 
+105548c105548
+< {#vat#}¦VAT, I.P. {@-váta@} ({%rv|%})| {@api,@} understand; <lbinfo n="5"/>
+---
+> {#vat#}¦VAT, I.P. {@-váta@} ({%RV.%}). {@api,@} understand; <lbinfo n="5"/>
+105661c105661
+< <>sound aloud ({%V.%}). {@accha@}, invite ({%v|%})| {@ati,@} 
+---
+> <>sound aloud ({%V.%}). {@accha@}, invite ({%V.%}). {@ati,@} 
+105676c105676
+< <>{@ā@} ({%v|%}), address; announce| {@upa,@} P. talk ill 
+---
+> <>{@ā@} ({%V.%}), address; announce. {@upa,@} P. talk ill 
+105757c105757
+< <>{@vadhyate@} ({%c|%}); {%cs|%} {@vadhaya,@} P. slay, kill; 
+---
+> <>{@vadhyate@} ({%C.%}); {%cs.%} {@vadhaya,@} P. slay, kill; 
+105834c105834
+< <>{%f.%} young woman ({%rare%}); {@-ṭī@}, {%f| id|%}; {@-tva,@} {%n.%} 
+---
+> <>{%f.%} young woman ({%rare%}); {@-ṭī@}, {%f. id.%}; {@-tva,@} {%n.%} 
+105895c105895
+< <>{@-vāta@} ({%v|%}); {%cs|%} {@-vānaya,@} P.
+---
+> <>{@-vāta@} ({%V.%}); {%cs.%} {@-vānaya,@} P.
+105961c105961
+< <>{@-iṇa@}, {%m|%} wild peacock: {@-tva,@} {%n.%} state of a 
+---
+> <>{@-iṇa@}, {%m.%} wild peacock: {@-tva,@} {%n.%} state of a 
+106229c106229
+< <>{%the gods%}: {%pp.%} {@-vāpita|@}| {@anu-nis,@} distribute 
+---
+> <>{%the gods%}: {%pp.%} {@-vāpita.@}. {@anu-nis,@} distribute 
+106679c106679
+< <>{@-nā, -senikā@}, {%f| n| of a princess%}; {@-adri,@} {%m.%} 
+---
+> <>{@-nā, -senikā@}, {%f. N. of a princess%}; {@-adri,@} {%m.%} 
+106777c106777
+< <>{@-ayitṛ@}, {%m|%} avoider; {@-ita,@} {%pp. cs.%} (√ vṛj) 
+---
+> <>{@-ayitṛ@}, {%m.%} avoider; {@-ita,@} {%pp. cs.%} (√ vṛj) 
+106822c106822
+< <>loss of caste; {@-pāṭha@}, {%m|%} alphabet; {@-buddhi,@} 
+---
+> <>loss of caste; {@-pāṭha@}, {%m.%} alphabet; {@-buddhi,@} 
+107065c107065
+< <>{@-ayitṛ@}, {%m|%} educator, rearer of (-°): {@trī,@} {%f.%}.
+---
+> <>{@-ayitṛ@}, {%m.%} educator, rearer of (-°): {@trī,@} {%f.%}.
+107154c107154
+< <>umbrella; {@-trāṇa@}, {%m| id|%}; {@-dhara,@} {%m.%} range 
+---
+> <>umbrella; {@-trāṇa@}, {%m. id.%}; {@-dhara,@} {%m.%} range 
+107189c107189
+< <>{@-i-tṛ@}, {%m|%} showerer, bestower; {@-in,@} {%a.%} raining, <lbinfo n="4"/>
+---
+> <>{@-i-tṛ@}, {%m.%} showerer, bestower; {@-in,@} {%a.%} raining, <lbinfo n="4"/>
+107392c107392
+< <>{@-jana@}, {%m|%} beloved, mistress; {@-tā,@} {%f.%} popularity <lbinfo n="4"/>
+---
+> <>{@-jana@}, {%m.%} beloved, mistress; {@-tā,@} {%f.%} popularity <lbinfo n="4"/>
+107850c107850
+< <>wealth; {@-dhāriṇ-ī@}, {%f|%} earth; {@-nanda,@} {%m. N. %}
+---
+> <>wealth; {@-dhāriṇ-ī@}, {%f.%} earth; {@-nanda,@} {%m. N. %}
+108170c108170
+< <>{@-kṛt@}, {%a|%} producing conflagration; {@-kopa,@} {%m.%} 
+---
+> <>{@-kṛt@}, {%a.%} producing conflagration; {@-kopa,@} {%m.%} 
+108673c108673
+< <>{@vāñchita@}, desired, wished for| {@abhi,@} desire, 
+---
+> <>{@vāñchita@}, desired, wished for. {@abhi,@} desire, 
+108801c108801
+< <>wind ({%V.%}); {@-paṭa@}, {%m|%} sail; ({@vā́ta@}) {@-pramī,@} {%a.%} 
+---
+> <>wind ({%V.%}); {@-paṭa@}, {%m.%} sail; ({@vā́ta@}) {@-pramī,@} {%a.%} 
+108825c108825
+< <>{%pl.%} rain with wind; {@-vṛṣṭi@}, {%f| id|%}; {@-vyādhi,@} 
+---
+> <>{%pl.%} rain with wind; {@-vṛṣṭi@}, {%f. id.%}; {@-vyādhi,@} 
+109077c109077
+< {#vAma#}¦vā-má [√ ¤3.¤ vā], {%a.%} ({@ī́@}, {%v|%}; {@ā,@} {%C.%}) 
+---
+> {#vAma#}¦vā-má [√ ¤3.¤ vā], {%a.%} ({@ī́@}, {%V.%}; {@ā,@} {%C.%}) 
+109101c109101
+< <>{@ā,@} {%f. N.%}; {@-dṛś@}, {%f|%} fair-eyed woman; ({@á@}) {@-deva,@} 
+---
+> <>{@ā,@} {%f. N.%}; {@-dṛś@}, {%f.%} fair-eyed woman; ({@á@}) {@-deva,@} 
+109153c109153
+< <>{@-śīla@}, {%a|%} of bad character; {@-stha,@} {%a.%} standing 
+---
+> <>{@-śīla@}, {%a.%} of bad character; {@-stha,@} {%a.%} standing 
+109181c109181
+< <>{@-vṛtti@}, {%a|%} always acting perversely: {@-tva,@} {%n.%} 
+---
+> <>{@-vṛtti@}, {%a.%} always acting perversely: {@-tva,@} {%n.%} 
+109245c109245
+< <>wind: {@-yaśas@}, {%f| n|%}; {@-sama,@} {%a.%} like the wind; 
+---
+> <>wind: {@-yaśas@}, {%f. N.%}; {@-sama,@} {%a.%} like the wind; 
+109359c109359
+< <>{@-taraṃga@}, {%m|%} wave; {@-tas,@} {%ad.%} by water; 
+---
+> <>{@-taraṃga@}, {%m.%} wave; {@-tas,@} {%ad.%} by water; 
+109959c109959
+< {#vAh#}¦VĀH, I.Ā. {@vāha@} ({%rare%}), press| {@pra,@} 
+---
+> {#vAh#}¦VĀH, I.Ā. {@vāha@} ({%rare%}), press. {@pra,@} 
+110104c110104
+< <>{@-kaṇṭaka-pura@}, {%n| n| of a%} town; {@-katthana,@} 
+---
+> <>{@-kaṇṭaka-pura@}, {%n. N. of a%} town; {@-katthana,@} 
+110295c110295
+< <>{@-na@}, {%a|%} vikrama's city, ujjayinī; {@-pati,@} {%m.%} 
+---
+> <>{@-na@}, {%a.%} Vikrama's city, Ujjayinī; {@-pati,@} {%m.%} 
+110370c110370
+< <>{@-tṛ@}, {%m|%} seller; {@-kreya,@} {%fp.%} to be sold, vendible; <lbinfo n="5"/>
+---
+> <>{@-tṛ@}, {%m.%} seller; {@-kreya,@} {%fp.%} to be sold, vendible; <lbinfo n="5"/>
+110394c110394
+< <>({%V.%}); {@-kṣaraṇa@}, {%n|%} flowing out; {@-kṣudra,@} 
+---
+> <>({%V.%}); {@-kṣaraṇa@}, {%n.%} flowing out; {@-kṣudra,@} 
+110440c110440
+< <>{@-aṇa@}, {%n|,%} {@ā,@} {%f.%} censure, blame: {@-ṃ kṛ@}, blame; 
+---
+> <>{@-aṇa@}, {%n.,%} {@ā,@} {%f.%} censure, blame: {@-ṃ kṛ@}, blame; 
+110519c110519
+< <>{@-gharṣaṇa@}, {%n|%} rubbing; {@-ghasa,@} {%m. n.%} leavings <lbinfo n="4"/>
+---
+> <>{@-gharṣaṇa@}, {%n.%} rubbing; {@-ghasa,@} {%m. n.%} leavings <lbinfo n="4"/>
+110528c110528
+< <>{@-ana@}, {%n|,%} {@ā,@} {%f.%} swaying to and fro.
+---
+> <>{@-ana@}, {%n.,%} {@ā,@} {%f.%} swaying to and fro.
+110542c110542
+< <>obstruct: {%pp.%} {@ita| sam,@} {%id.%}.
+---
+> <>obstruct: {%pp.%} {@ita. sam,@} {%id.%}.
+110577c110577
+< <>{@manya@}, {%a|%} considering oneself wise, {@-vat,@} {%a.%} 
+---
+> <>{@manya@}, {%a.%} considering oneself wise, {@-vat,@} {%a.%} 
+110679c110679
+< <>{@-yáya@}, p| bring into straits ({%br|%})| {@ni‡ā,@} press 
+---
+> <>{@-yáya@}, P. bring into straits ({%Br.%}). {@ni‡ā,@} press 
+110694c110694
+< <> paint; {@-cchinna@}, {%pp|%} √ chid: {@-tā,@} {%f.%} 
+---
+> <> paint; {@-cchinna@}, {%pp.%} √ chid: {@-tā,@} {%f.%} 
+110890c110890
+< <>{@-pana@}, {%n|,%} {@ā,@} {%f.%} communication, information, 
+---
+> <>{@-pana@}, {%n.,%} {@ā,@} {%f.%} communication, information, 
+110926c110926
+< <>{@-ya@}, {%n|%} commodity sold by vaiśyas; {@-pati,@} {%m.%} 
+---
+> <>{@-ya@}, {%n.%} commodity sold by Vaiśyas; {@-pati,@} {%m.%} 
+111003c111003
+< <>{@-tṛ@}, {%m|%} bestower; {@-tarka,@} {%m.%} conjecture, supposition <lbinfo n="3"/>
+---
+> <>{@-tṛ@}, {%m.%} bestower; {@-tarka,@} {%m.%} conjecture, supposition <lbinfo n="3"/>
+111030c111030
+< <>{@-timira,@} {%a. id.%}; {@-tīṇa@}, {%pp|%} √ tṝ; {@-tuṣa,@} 
+---
+> <>{@-timira,@} {%a. id.%}; {@-tīṇa@}, {%pp.%} √ tṝ; {@-tuṣa,@} 
+111054c111054
+< <>{@-nāśa@}, {%m|%} loss of property; {@-pa,@} {%a.%} guarding 
+---
+> <>{@-nāśa@}, {%m.%} loss of property; {@-pa,@} {%a.%} guarding 
+111065c111065
+< <>{@-āḍhya@}, {%a|%} abounding in wealth, rich; {@-āpti,@} 
+---
+> <>{@-āḍhya@}, {%a.%} abounding in wealth, rich; {@-āpti,@} 
+111174c111174
+< <>({%also%} {@a-strī@})| {@anu,@} find out, obtain, gain 
+---
+> <>({%also%} {@a-strī@}). {@anu,@} find out, obtain, gain 
+111262c111262
+< <>{@-putrī@}, {%f| pat| of%} rukmiṇī; {@-abhi-mukha,@} 
+---
+> <>{@-putrī@}, {%f. pat. of%} Rukmiṇī; {@-abhi-mukha,@} 
+111400c111400
+< <>{@-aṇa@}, {%n|%} acquisition of sciences; {@-tīrtha,@} 
+---
+> <>{@-aṇa@}, {%n.%} acquisition of sciences; {@-tīrtha,@} 
+111415c111415
+< <>of all fairies; {@-adhīśa@}, {%m| id|%}: {@-tā,@} {%f. abst. N.%} 
+---
+> <>of all fairies; {@-adhīśa@}, {%m. id.%}: {@-tā,@} {%f. abst. N.%} 
+111441c111441
+< <>{@-taṃsa@}, {%m| n| of a fairy%}; {@-vadhū,@} {%f.%} muse; 
+---
+> <>{@-taṃsa@}, {%m. N. of a fairy%}; {@-vadhū,@} {%f.%} muse; 
+111476c111476
+< <>{@-ja@}, {%m| n| of an asura%}; ({@úd@}) {@-ratha,@} {%a.%} borne 
+---
+> <>{@-ja@}, {%m. N. of an Asura%}; ({@úd@}) {@-ratha,@} {%a.%} borne 
+111553c111553
+< <>enemy; {@-dveṣṭṛ@}, {%m| id|%}; {@-dveṣya,@} {%fp.%} 
+---
+> <>enemy; {@-dveṣṭṛ@}, {%m. id.%}; {@-dveṣya,@} {%fp.%} 
+111828c111828
+< <>{@-is@}, {%m| n|%} ({%conj|%}), {@-tā,@} {%f.%} good behaviour; 
+---
+> <>{@-is@}, {%m. N.%} ({%conj.%}), {@-tā,@} {%f.%} good behaviour; 
+111839c111839
+< <>{@-naya‡ādi-dhara@}, {%m| n|%}; {@-avanata,@} {%pp.%} 
+---
+> <>{@-naya‡ādi-dhara@}, {%m. N.%}; {@-avanata,@} {%pp.%} 
+111850c111850
+< <>{@-tā|,@} {%f.,%} {@-tva,@} {%n.%} perishableness; {@-naṣṭa@}, {%pp.%} 
+---
+> <>{@-tā.,@} {%f.,%} {@-tva,@} {%n.%} perishableness; {@-naṣṭa@}, {%pp.%} 
+112080c112080
+< <>{@-ṇī@}, {%f|%} = -paṇi; {@-pat-kāla,@} {%m.%} season of calamity; <lbinfo n="5"/>
+---
+> <>{@-ṇī@}, {%f.%} = -paṇi; {@-pat-kāla,@} {%m.%} season of calamity; <lbinfo n="5"/>
+112165c112165
+< <>{@-pāṇḍura@}, {%a|%} pallid, pale; {@-pādikā,@} {%f.%} blisters <lbinfo n="4"/>
+---
+> <>{@-pāṇḍura@}, {%a.%} pallid, pale; {@-pādikā,@} {%f.%} blisters <lbinfo n="4"/>
+112197c112197
+< <>hair, {@-jaghana@}, {%a|%} having large hips, {@-tā,@} {%f.%} 
+---
+> <>hair, {@-jaghana@}, {%a.%} having large hips, {@-tā,@} {%f.%} 
+112369c112369
+< <>{%a.%} weak; {@-bāṇa@}, {%a|%} arrowless; {@-bālī́,@} {%f. N. %}
+---
+> <>{%a.%} weak; {@-bāṇa@}, {%a.%} arrowless; {@-bālī́,@} {%f. N. %}
+112375c112375
+< <>{@-taṭinī@}, {%f|%} river of the gods, ganges; {@-priya,@} 
+---
+> <>{@-taṭinī@}, {%f.%} river of the gods, Ganges; {@-priya,@} 
+112381c112381
+< <>{@-anucara@}, {%m|%} attendant of a god; {@-āvāsa,@} 
+---
+> <>{@-anucara@}, {%m.%} attendant of a god; {@-āvāsa,@} 
+112453c112453
+< <>{@-kānta, -īśa@}, {%m|%} moon; {@-bhā́-vasu,@} {%a.%} radiantly <lbinfo n="2"/>
+---
+> <>{@-kānta, -īśa@}, {%m.%} moon; {@-bhā́-vasu,@} {%a.%} radiantly <lbinfo n="2"/>
+112694c112694
+< <>{@n-madhya-haṃsa@}, {%m|%} sun; {@n-maya,@} {%a.%} ({@ī@}) 
+---
+> <>{@n-madhya-haṃsa@}, {%m.%} sun; {@n-maya,@} {%a.%} ({@ī@}) 
+112732c112732
+< <>{@-rañcya@}, {%m| ep| of%} brahman; {@-rata,@} {%pp.%} 
+---
+> <>{@-rañcya@}, {%m. ep. of%} Brahman; {@-rata,@} {%pp.%} 
+112799c112799
+< <>{@-dhṛ@}, {%m|%} insulter; {@-rādha,@} {%m. N. of a Rākṣasa%}: <lbinfo n="5"/>
+---
+> <>{@-dhṛ@}, {%m.%} insulter; {@-rādha,@} {%m. N. of a Rākṣasa%}: <lbinfo n="5"/>
+112815c112815
+< <>{%m. id.%}; {@-riñcya@}, {%m| id|%}; {@-ribdha,@} {%m.%} tone, 
+---
+> <>{%m. id.%}; {@-riñcya@}, {%m. id.%}; {@-ribdha,@} {%m.%} tone, 
+112871c112871
+< <>{@-nu@}, {%a|%} shining, brilliant; {@-roddhavya,@} {%fp.%} to 
+---
+> <>{@-nu@}, {%a.%} shining, brilliant; {@-roddhavya,@} {%fp.%} to 
+112954c112954
+< <>{@-bāṇa@}, {%m|%} god of love; {@-bhavana,@} {%n.%} pleasure <lbinfo n="4"/>
+---
+> <>{@-bāṇa@}, {%m.%} god of love; {@-bhavana,@} {%n.%} pleasure <lbinfo n="4"/>
+112964c112964
+< <>{@-śīla@}, {%m| n| of a king%}; {@-sadman,@} {%n.%} pleasure <lbinfo n="4"/>
+---
+> <>{@-śīla@}, {%m. N. of a king%}; {@-sadman,@} {%n.%} pleasure <lbinfo n="4"/>
+113201c113201
+< <>discussion, criticism; {%n.,%} {@ā|,@} {%f.%} distinguishing.
+---
+> <>discussion, criticism; {%n.,%} {@ā.,@} {%f.%} distinguishing.
+113437c113437
+< <>({@a@}) {@-karaṇa@}, {%a|%} ({@ī@}) healing arrow-wounds: {@ī,@} 
+---
+> <>({@a@}) {@-karaṇa@}, {%a.%} ({@ī@}) healing arrow-wounds: {@ī,@} 
+113483c113483
+< <>{%a.%} wishing to rest; {@-śiṣṭa@}, {%pp|%} √ śiṣ: {@-tā,@} {%f.%} 
+---
+> <>{%a.%} wishing to rest; {@-śiṣṭa@}, {%pp.%} √ śiṣ: {@-tā,@} {%f.%} 
+113593c113593
+< <>{%ritual sense%}); {@-śodh-in@}, {%a|%} cleansing: ({@-i@}) {@-tva,@} 
+---
+> <>{%ritual sense%}); {@-śodh-in@}, {%a.%} cleansing: ({@-i@}) {@-tva,@} 
+113744c113744
+< <>universe; {@-ruci@}, {%m| n| of a dānava%}; {@-rūpa,@} 
+---
+> <>universe; {@-ruci@}, {%m. N. of a Dānava%}; {@-rūpa,@} 
+113807c113807
+< <>all people ({%RV.%}); {@ā-vaṭva@}, {%m| n|%}; {@ā́-vasu,@} 
+---
+> <>all people ({%RV.%}); {@ā-vaṭva@}, {%m. N.%}; {@ā́-vasu,@} 
+113873c113873
+< <>{%or%} guided by ({%in.%}); {%pp.%} {@viṣṭá@}| {@pari,@} ({%V., %}
+---
+> <>{%or%} guided by ({%in.%}); {%pp.%} {@viṣṭá@}. {@pari,@} ({%V., %}
+114016c114016
+< <>{@-jña@}, {%a|%} specialist; {@-tā,@} {%f.%} being the object of 
+---
+> <>{@-jña@}, {%a.%} specialist; {@-tā,@} {%f.%} being the object of 
+114054c114054
+< <>poisoned condition; {@-śūka@}, {%m|%} wasp; {@-han,@} 
+---
+> <>poisoned condition; {@-śūka@}, {%m.%} wasp; {@-han,@} 
+114463c114463
+< <>√ sphar; {@-sphuṭa@}, {%a|%} gaping; {@-sphuliṅga,@} 
+---
+> <>√ sphar; {@-sphuṭa@}, {%a.%} gaping; {@-sphuliṅga,@} 
+114568c114568
+< <>of (-°); {@-gṛha@}, {%n|%} play-house; {@-dāsī,@} {%f.%} convent <lbinfo n="3"/>
+---
+> <>of (-°); {@-gṛha@}, {%n.%} play-house; {@-dāsī,@} {%f.%} convent <lbinfo n="3"/>
+114593c114593
+< <>{@-hiṃsana@}, {%n|,%} {@-hiṃsā@}, {%f| id|%} ({%g|,%} -°); {@-hita,@} 
+---
+> <>{@-hiṃsana@}, {%n.,%} {@-hiṃsā@}, {%f. id.%} ({%g.,%} -°); {@-hita,@} 
+114681c114681
+< <>{@abhi@}, {%cs|%} fan| {@upa,@} {%cs. id.%}. {@pari,@} {%cs. id.%}.
+---
+> <>{@abhi@}, {%cs.%} fan. {@upa,@} {%cs. id.%}. {@pari,@} {%cs. id.%}.
+114707c114707
+< <>({%or%} {@i@}), {%a|%} hard-hoofed ({%rv|%}); {@ú‡aṅga,@} {%a.%} 
+---
+> <>({%or%} {@i@}), {%a.%} hard-hoofed ({%RV.%}); {@ú‡aṅga,@} {%a.%} 
+114721c114721
+< <>{%a fly%}; {@-vatsa-rāja@}, {%m| n| of a king%}; {@-vādá,@} 
+---
+> <>{%a fly%}; {@-vatsa-rāja@}, {%m. N. of a king%}; {@-vādá,@} 
+114738c114738
+< <>¤4.¤ {@vi‡ita@} (√i; {%c|%}); ¤5|¤ {@-tá,@} smooth, straight 
+---
+> <>¤4.¤ {@vi‡ita@} (√i; {%C.%}); ¤5.¤ {@-tá,@} smooth, straight 
+114750c114750
+< <>{@-ṭha@}, {%a|%} smooth-backed ({%courser%}; {%v|%}); {@-bhaya,@} 
+---
+> <>{@-ṭha@}, {%a.%} smooth-backed ({%courser%}; {%V.%}); {@-bhaya,@} 
+114761c114761
+< <>{@-saṃdeha@}, {%a|%} subject to no doubt; {@-sūtra,@} 
+---
+> <>{@-saṃdeha@}, {%a.%} subject to no doubt; {@-sūtra,@} 
+114826c114826
+< <>{%kings%}; {@-kṣurikā@}, {%f|%} dagger; {@-gati,@} {%f.%} lot of 
+---
+> <>{%kings%}; {@-kṣurikā@}, {%f.%} dagger; {@-gati,@} {%f.%} lot of 
+115008c115008
+< <>-°). {@saṃ-pari@}, {%cs|%} surround| {@pra,@} ward 
+---
+> <>-°). {@saṃ-pari@}, {%cs.%} surround. {@pra,@} ward 
+115048c115048
+< <>{%pp.%} {@vṛtá@}, chosen {%etc|%}; {%cs|%} {@varaya,@} P. Ā. 
+---
+> <>{%pp.%} {@vṛtá@}, chosen {%etc.%}; {%cs.%} {@varaya,@} P. Ā. 
+115164c115164
+< <>{@parā-vṛkta@}, outcast ({%son%})| {@pari,@} ({%V.%}) turn aside; 
+---
+> <>{@parā-vṛkta@}, outcast ({%son%}). {@pari,@} ({%V.%}) turn aside; 
+115257c115257
+< <>{@-vartyáte@} ({%br|%}), {@varīvartate,@} roll, revolve 
+---
+> <>{@-vartyáte@} ({%Br.%}), {@varīvartate,@} roll, revolve 
+115447c115447
+< <>{@saṃ-pari@}, turn round, revolve| {@pra,@} be set in 
+---
+> <>{@saṃ-pari@}, turn round, revolve. {@pra,@} be set in 
+115690c115690
+< <>{@-cāṇakya@}, {%m|%} cāṇakya the elder; {@-tā,@} {%f.%} old 
+---
+> <>{@-cāṇakya@}, {%m.%} Cāṇakya the elder; {@-tā,@} {%f.%} old 
+116153c116153
+< <>{@-yaṣṭi@}, {%f|%} bamboo cane; {@-vana,@} {%n.%} forest of 
+---
+> <>{@-yaṣṭi@}, {%f.%} bamboo cane; {@-vana,@} {%n.%} forest of 
+116323c116323
+< <>{@-nyāsin@}, {%a| id|%}; {@-samāpti,@} {%f.%} completion of 
+---
+> <>{@-nyāsin@}, {%a. id.%}; {@-samāpti,@} {%f.%} completion of 
+116483c116483
+< <>quaking: {@-bhṛt@}, {%a|%} trembling ({%c|%}); {@-mat,@} 
+---
+> <>quaking: {@-bhṛt@}, {%a.%} trembling ({%C.%}); {@-mat,@} 
+116533c116533
+< <>{%gnly. pr. pt.%} {@vellat@} {%or pp|%} {@vellita,@} waving, <lbinfo n="3"/>
+---
+> <>{%gnly. pr. pt.%} {@vellat@} {%or pp.%} {@vellita,@} waving, <lbinfo n="3"/>
+116639c116639
+< <>{@veṣṭitá@}| {@anu,@} {%cs.%} spread out ({%a mat%}). {@abhi,@} 
+---
+> <>{@veṣṭitá@}. {@anu,@} {%cs.%} spread out ({%a mat%}). {@abhi,@} 
+117551c117551
+< <>{@-ja@}, {%m|%} son of a vaiśya woman; {@-putra,@} {%m.%} 
+---
+> <>{@-ja@}, {%m.%} son of a Vaiśya woman; {@-putra,@} {%m.%} 
+117901c117901
+< <>({%ac.%}) with ({%in.%}); {%ps.%} {@vidhyate@}: {%pp|%} {@viddhá,@} 
+---
+> <>({%ac.%}) with ({%in.%}); {%ps.%} {@vidhyate@}: {%pp.%} {@viddhá,@} 
+117905c117905
+< <>{%verb%}: {%pp.%} {@vedhita|@} {@ati,@} pierce, perforate. 
+---
+> <>{%verb%}: {%pp.%} {@vedhita.@} {@ati,@} pierce, perforate. 
+117985c117985
+< <>{@-apoḍha@}, {%pp|, v|%} √ ¤1|¤ ūh; {@-apoha,@} {%m.%} removal; <lbinfo n="2"/>
+---
+> <>{@-apoḍha@}, {%pp., v.%} √ ¤1.¤ ūh; {@-apoha,@} {%m.%} removal; <lbinfo n="2"/>
+118422c118422
+< <>{@vraj@}, interfere with ({%lc|%}); {@-pāra-ka,@} {%a.%} (-°) 
+---
+> <>{@vraj@}, interfere with ({%lc.%}); {@-pāra-ka,@} {%a.%} (-°) 
+118425c118425
+< <>{@-pāra-śata@}, {%n|%} hundred attempts; {@-pārita,@} 
+---
+> <>{@-pāra-śata@}, {%n.%} hundred attempts; {@-pārita,@} 
+118636c118636
+< <>Ganges; {@-gamana,@} {%a.%} ({@ī@}) {%w|%} {@vidyā,@} {%f.%} magical <lbinfo n="4"/>
+---
+> <>Ganges; {@-gamana,@} {%a.%} ({@ī@}) {%w.%} {@vidyā,@} {%f.%} magical <lbinfo n="4"/>
+118947c118947
+< <>{%fp.%} praiseworthy; {@-itṛ@}, {%m|%} reciter; {@-in,@} {%a.%} 
+---
+> <>{%fp.%} praiseworthy; {@-itṛ@}, {%m.%} reciter; {@-in,@} {%a.%} 
+118952c118952
+< <>({@śāṃs@}) -{@tṛ@}, reciter ({%v|%}); ({@śáṃs@}) {@-ya,@} {%fp.%} 
+---
+> <>({@śāṃs@}) -{@tṛ@}, reciter ({%V.%}); ({@śáṃs@}) {@-ya,@} {%fp.%} 
+119036c119036
+< <>{%pp.%} {@ita| vi,@} {%id.%}.
+---
+> <>{%pp.%} {@ita. vi,@} {%id.%}.
+119180c119180
+< <>{%n.%} rainbow; {@-kāṣṭhā@}, {%f|%} east; {@-ketu,@} {%m.%} 
+---
+> <>{%n.%} rainbow; {@-kāṣṭhā@}, {%f.%} east; {@-ketu,@} {%m.%} 
+119188c119188
+< <>city; {@-bāṇāsana@}, {%n|%} rainbow; {@-bhakṣa,@} 
+---
+> <>city; {@-bāṇāsana@}, {%n.%} rainbow; {@-bhakṣa,@} 
+119194c119194
+< <>rainbow; {@-aśana@}, {%n|%} hemp; {@-āsana,@} {%n.%} 
+---
+> <>rainbow; {@-aśana@}, {%n.%} hemp; {@-āsana,@} {%n.%} 
+119232c119232
+< <>{@śaṅkaya@}, fill with anxiety about ({%lc|%})| {@ati,@} 
+---
+> <>{@śaṅkaya@}, fill with anxiety about ({%lc.%}). {@ati,@} 
+119345c119345
+< <>town; {@-rāja@}, {%m| n| of a%} king; {@-likhita,@} {%pp.%} 
+---
+> <>town; {@-rāja@}, {%m. N. of a%} king; {@-likhita,@} {%pp.%} 
+119408c119408
+< <>disperse, destroy: {%pp.%} {@śātita@}| {@pra,@} pluck. 
+---
+> <>disperse, destroy: {%pp.%} {@śātita@}. {@pra,@} pluck. 
+119481c119481
+< <>{@-cāpa@}, {%m| n|%} rainbow; {@-mayūkha,@} {%m.%} (hundred-rayed) <lbinfo n="4"/>
+---
+> <>{@-cāpa@}, {%m. n.%} rainbow; {@-mayūkha,@} {%m.%} (hundred-rayed) <lbinfo n="4"/>
+119512c119512
+< <>{%a.%} ({@-ghnī́@}) slaying a hundred ({%v|%}): {@-ghnī,@} 
+---
+> <>{%a.%} ({@-ghnī́@}) slaying a hundred ({%V.%}): {@-ghnī,@} 
+119594c119594
+< <>{%and pp.%} {@śanna@}, fall off {%or%} out| {@vi‡ava,@} 
+---
+> <>{%and pp.%} {@śanna@}, fall off {%or%} out. {@vi‡ava,@} 
+119757c119757
+< <>{@-kośa@}, {%m|%} treasury of words, dictionary; {@-tva,@} 
+---
+> <>{@-kośa@}, {%m.%} treasury of words, dictionary; {@-tva,@} 
+119792c119792
+< <>{@-sphoṭa@}, {%m|%} crackling ({%of fire%}); {@-hīna,@} ({%pp.%}) 
+---
+> <>{@-sphoṭa@}, {%m.%} crackling ({%of fire%}); {@-hīna,@} ({%pp.%}) 
+119800c119800
+< <>{@-mat@} {%a|%} possessed of sound {%etc|%}; {@-anurūpa,@} 
+---
+> <>{@-mat@} {%a.%} possessed of sound {%etc.%}; {@-anurūpa,@} 
+119971c119971
+< <>{%m.,%} {@-vṛkṣa@}, {%m|,%} {@-latā,@} {%f.%} the Śamī-tree ({%C.%}); 
+---
+> <>{%m.,%} {@-vṛkṣa@}, {%m.,%} {@-latā,@} {%f.%} the Śamī-tree ({%C.%}); 
+120070c120070
+< <> {@-gṛha@}, {%n|,%} {@-bhūmi,@} {%f.%} sleeping chamber; <lbinfo n="4"/>
+---
+> <> {@-gṛha@}, {%n.,%} {@-bhūmi,@} {%f.%} sleeping chamber; <lbinfo n="4"/>
+120123c120123
+< <>{@-ha@}, {%n|%} bed-chamber; {@-pālaka,@} {%m.%} guardian 
+---
+> <>{@-ha@}, {%n.%} bed-chamber; {@-pālaka,@} {%m.%} guardian 
+120126c120126
+< <>{@-veśman@}, {%n|%} bed-chamber; {@-āsana-bhoga,@} 
+---
+> <>{@-veśman@}, {%n.%} bed-chamber; {@-āsana-bhoga,@} 
+120237c120237
+< <>{@-dhima-ruci@}, {%m|%} autumnal moon; {@-vadhū,@} 
+---
+> <>{@-dhima-ruci@}, {%m.%} autumnal moon; {@-vadhū,@} 
+120380c120380
+< <>son; god of love; {@-janman@}, {%a| id|%}; {@-tulya,@} {%a.%} 
+---
+> <>son; god of love; {@-janman@}, {%a. id.%}; {@-tulya,@} {%a.%} 
+120383c120383
+< <>life; {@-daṇḍa@}, {%m|%} corporal punishment; {@-dhātu,@} 
+---
+> <>life; {@-daṇḍa@}, {%m.%} corporal punishment; {@-dhātu,@} 
+120385c120385
+< <>{%etc.%}); {@-dhṛk@}, {%m|%} corporeal being; {@-nipāta,@} {%m.%} 
+---
+> <>{%etc.%}); {@-dhṛk@}, {%m.%} corporeal being; {@-nipāta,@} {%m.%} 
+120563c120563
+< <>{@ucchalita@}, sprung up, risen| {@pra‡ud,@} {%pr. pt.%} 
+---
+> <>{@ucchalita@}, sprung up, risen. {@pra‡ud,@} {%pr. pt.%} 
+120641c120641
+< <>{%m.%} surgeon; {@-kṛnta@}, {%m| id|%}; {@-vat,@} {%a.%} having 
+---
+> <>{%m.%} surgeon; {@-kṛnta@}, {%m. id.%}; {@-vat,@} {%a.%} having 
+120748c120748
+< <> {@-tejas@}, {%m| n| of a fairy%}; {@-divākara,@} 
+---
+> <> {@-tejas@}, {%m. N. of a fairy%}; {@-divākara,@} 
+120810c120810
+< <>{@-bhuj, -bhojana@}, {%m|%} grass-eater; {@-āda,@} {%a.%} 
+---
+> <>{@-bhuj, -bhojana@}, {%m.%} grass-eater; {@-āda,@} {%a.%} 
+120866c120866
+< <>{@-yāṇa@}, {%a| id|%}; {@-nyāsa,@} {%m.%} laying down of 
+---
+> <>{@-yāṇa@}, {%a. id.%}; {@-nyāsa,@} {%m.%} laying down of 
+120921c120921
+< <>regale, with ({%in.%}): {%pp.%} {@śitá@}| {@ā,@} cause to 
+---
+> <>regale, with ({%in.%}): {%pp.%} {@śitá@}. {@ā,@} cause to 
+121212c121212
+< <>touchstone; {@-aśman@}, {%m| id|%}; {@-upala,@} {%m.%} 
+---
+> <>touchstone; {@-aśman@}, {%m. id.%}; {@-upala,@} {%m.%} 
+121371c121371
+< <>{@-na@}, {%n|%} vessel for propitiatory water; {@-salila,@} 
+---
+> <>{@-na@}, {%n.%} vessel for propitiatory water; {@-salila,@} 
+121793c121793
+< <>{%cs.%} {@śāsaya@}, p| recommend ({%rare%})| {@anu,@} direct, <lbinfo n="2"/>
+---
+> <>{%cs.%} {@śāsaya@}, P. recommend ({%rare%}). {@anu,@} direct, <lbinfo n="2"/>
+121810,121811c121810,121811
+< <>({%ord. mg.%}): {@rājyam@} --, rule ({%int|%})| {@prati,@} 
+< <>{%pp.%} {@-śiṣṭa@}, despatched| {@sam,@} call upon, direct <lbinfo n="2"/>
+---
+> <>({%ord. mg.%}): {@rājyam@} --, rule ({%int.%}). {@prati,@} 
+> <>{%pp.%} {@-śiṣṭa@}, despatched. {@sam,@} call upon, direct <lbinfo n="2"/>
+121845c121845
+< <>{@śāsanāt@}, by command of ({%g|%}): {@-dhara,@} {%m.%} 
+---
+> <>{@śāsanāt@}, by command of ({%g.%}): {@-dhara,@} {%m.%} 
+122047c122047
+< <>{@-diś@}, {%f|%} agni's quarter, south-east; {@-dyut,@} {%a.%} 
+---
+> <>{@-diś@}, {%f.%} Agni's quarter, south-east; {@-dyut,@} {%a.%} 
+122342c122342
+< <>mountain; {@-jatu@}, {%n|%} bitumen; {@-tala,@} {%n.%} slab 
+---
+> <>mountain; {@-jatu@}, {%n.%} bitumen; {@-tala,@} {%n.%} slab 
+122439c122439
+< <>{%N.%}; {@-diś@}, {%f|%} north-east; {@-pura,@} {%n.,%} {@ī,@} {%f. N. of %}
+---
+> <>{%N.%}; {@-diś@}, {%f.%} north-east; {@-pura,@} {%n.,%} {@ī,@} {%f. N. of %}
+122487c122487
+< <>{@-kara, -kiraṇa@}, {%m|%} moon; {@-tā,@} {%f.%} coolness, 
+---
+> <>{@-kara, -kiraṇa@}, {%m.%} moon; {@-tā,@} {%f.%} coolness, 
+122528c122528
+< <> {@-jana@}, {%m|%} children; {@-tā,@} {%f.,%} {@-tva,@} {%n.%} 
+---
+> <> {@-jana@}, {%m.%} children; {@-tā,@} {%f.,%} {@-tva,@} {%n.%} 
+123315c123315
+< <>{@-māna@}, glide along| {@pra,@} {%id.%}.
+---
+> <>{@-māna@}, glide along. {@pra,@} {%id.%}.
+123369c123369
+< <>{@-darśana@}, {%a|%} beautiful; {@-dina,@} {%n.%} auspicious 
+---
+> <>{@-darśana@}, {%a.%} beautiful; {@-dina,@} {%n.%} auspicious 
+123500c123500
+< <>({%V., C.%}); destroy ({%C.%}): {%pp.%} {@śoṣita@}| {@anu,@} 
+---
+> <>({%V., C.%}); destroy ({%C.%}): {%pp.%} {@śoṣita@}. {@anu,@} 
+123884c123884
+< {#SfD#}¦ŚṚDH, I.Ā. {@-śardha@}, fart| {@ava,@} 
+---
+> {#SfD#}¦ŚṚDH, I.Ā. {@-śardha@}, fart. {@ava,@} 
+124020c124020
+< <>{@-bhuj@}, {%a|%} eating the remnants; {@-bhūta,@} {%pp.%} 
+---
+> <>{@-bhuj@}, {%a.%} eating the remnants; {@-bhūta,@} {%pp.%} 
+124457c124457
+< <>{@śnathitá@}| {@ni,@} strike down; {%cs. id.%} {@pari-ni,@} {%id.%}.
+---
+> <>{@śnathitá@}. {@ni,@} strike down; {%cs. id.%} {@pari-ni,@} {%id.%}.
+124493c124493
+< <>{@śyāna@}, become dry ({%c|, rare%})| {@ā,@} Ā. become 
+---
+> <>{@śyāna@}, become dry ({%C., rare%}). {@ā,@} Ā. become 
+124609c124609
+< {#SraR#}¦ŚRAṆ, {%cs.%} {@-śrāṇaya@}, p| {@vi,@} give 
+---
+> {#SraR#}¦ŚRAṆ, {%cs.%} {@-śrāṇaya@}, P. {@vi,@} give 
+124699c124699
+< <>of (-°); {%cs.%} {@-śramaya@}, p| fatigue, tire| {@vi,@} 
+---
+> <>of (-°); {%cs.%} {@-śramaya@}, P. fatigue, tire. {@vi,@} 
+124707c124707
+< <>{@-ita@}| {@pari-vi,@} {%pp.%} completely rested. {@sam,@} 
+---
+> <>{@-ita@}. {@pari-vi,@} {%pp.%} completely rested. {@sam,@} 
+124739c124739
+< <>{@-śīkara@}, {%m|%} perspiration; {@-ādhāyin,@} {%a.%} causing <lbinfo n="4"/>
+---
+> <>{@-śīkara@}, {%m.%} perspiration; {@-ādhāyin,@} {%a.%} causing <lbinfo n="4"/>
+124745c124745
+< <>{@-srambha@})| {@vi,@} confide {%or%} trust in, 
+---
+> <>{@-srambha@}). {@vi,@} confide {%or%} trust in, 
+125031c125031
+< <>{@-paya@}, p| increase| {@abhi‡ud,@} {%pp.%} towering, 
+---
+> <>{@-paya@}, P. increase. {@abhi‡ud,@} {%pp.%} towering, 
+125087c125087
+< <>{@-śriṣaḥ@}, to unite ({%rv|¹%})| {@ā,@} adhere to ({%lc.%}). 
+---
+> <>{@-śriṣaḥ@}, to unite ({%RV.¹%}). {@ā,@} adhere to ({%lc.%}). 
+125141c125141
+< <>{%m. N.%}; {@-ḍhakka@}, {%n| of a locality%}; {@-da,@} {%a.%} 
+---
+> <>{%m. N.%}; {@-ḍhakka@}, {%N. of a locality%}; {@-da,@} {%a.%} 
+125143c125143
+< <>{@-ana@}, {%m| n|%}; {@-deva,@} {%m. N.%}; {@-dhara,@} {%m.%} 
+---
+> <>{@-ana@}, {%m. N.%}; {@-deva,@} {%m. N.%}; {@-dhara,@} {%m.%} 
+125153c125153
+< <> {%N.%}; {@-parṇa@}, {%n|%} lotus; {@-parvata,@} {%m. N. %}
+---
+> <> {%N.%}; {@-parṇa@}, {%n.%} lotus; {@-parvata,@} {%m. N. %}
+125477c125477
+< <>({%g.%}); {@-paraṃparā@}, {%f|%} hearsay; {@-pā́,@} {%a.%} protecting <lbinfo n="3"/>
+---
+> <>({%g.%}); {@-paraṃparā@}, {%f.%} hearsay; {@-pā́,@} {%a.%} protecting <lbinfo n="3"/>
+125479c125479
+< <>{@-puṭa@}, {%m| id|%}; {@-peya,@} {%fp.%} to be imbibed by the 
+---
+> <>{@-puṭa@}, {%m. id.%}; {@-peya,@} {%fp.%} to be imbibed by the 
+125506c125506
+< <>{@-ṛṣi@}, {%m| pat| of%} devabhāga; {@-mārga,@} {%m.%} 
+---
+> <>{@-ṛṣi@}, {%m. pat. of%} Devabhāga; {@-mārga,@} {%m.%} 
+125581c125581
+< <>close: {%pp.%} {@śleṣita@}, united with ({%in|%})| {@ā,@} 
+---
+> <>close: {%pp.%} {@śleṣita@}, united with ({%in.%}). {@ā,@} 
+125703c125703
+< <>{%RV.%}); {%cs.%} {@śvañcáya@}, p| open ({%tr|, rv|¹%})| {@ud,@} 
+---
+> <>{%RV.%}); {%cs.%} {@śvañcáya@}, P. open ({%tr., RV.¹%}). {@ud,@} 
+125722c125722
+< <>{@-paca@}, {%m| id|%}: {@ā,@} {%f.%}; ({@á@}) {@-pad,@} {%m.%} wild animal 
+---
+> <>{@-paca@}, {%m. id.%}: {@ā,@} {%f.%}; ({@á@}) {@-pad,@} {%m.%} wild animal 
+125726c125726
+< <>-pada; {@-puccha@}, {%n|%} dog's tail; {@-poṣaka,@} {%m.%} 
+---
+> <>-pada; {@-puccha@}, {%n.%} dog's tail; {@-poṣaka,@} {%m.%} 
+125770c125770
+< <>{@-śvaśurāḥ@}, {%pl|%} parents-in-law; {@-snuṣe,@} {%f. %}
+---
+> <>{@-śvaśurāḥ@}, {%pl.%} parents-in-law; {@-snuṣe,@} {%f. %}
+125857c125857
+< <>{%pp.%} {@ucchūna@}, swollen; increased| {@vi,@} swell 
+---
+> <>{%pp.%} {@ucchūna@}, swollen; increased. {@vi,@} swell 
+125881c125881
+< <>{@-an@}, {%m|%} king of the beasts; {@-sevita,@} {%pp.%} infested <lbinfo n="2"/>
+---
+> <>{@-an@}, {%m.%} king of the beasts; {@-sevita,@} {%pp.%} infested <lbinfo n="2"/>
+126001c126001
+< <>{@pl| his school@}: {@-upaniṣad,@} {%f. N. of an%} Upaniṣad. <lbinfo n="3"/>
+---
+> <>{@pl. his school@}: {@-upaniṣad,@} {%f. N. of an%} Upaniṣad. <lbinfo n="3"/>
+126071c126071
+< <>bee: {@-jya@}, {%a|%} strung with bees ({%bow%}); {@-pāda,@} 
+---
+> <>bee: {@-jya@}, {%a.%} strung with bees ({%bow%}); {@-pāda,@} 
+126075c126075
+< <>{@-ṣaṣṭi@}, {%f| sg| & pl|%} sixty-six; {@-sapta,@} {%a. %}
+---
+> <>{@-ṣaṣṭi@}, {%f. sg. & pl.%} sixty-six; {@-sapta,@} {%a. %}
+126087c126087
+< <>{@-aśīti@}, {%f|%} eighty-six; {@-ahá,@} {%m.%} period of six 
+---
+> <>{@-aśīti@}, {%f.%} eighty-six; {@-ahá,@} {%m.%} period of six 
+126116c126116
+< <>{@-bhuja@}, {%a|%} six-armed; hexagonal; {@-rasa,@} {%a.%} 
+---
+> <>{@-bhuja@}, {%a.%} six-armed; hexagonal; {@-rasa,@} {%a.%} 
+126125c126125
+< <>twenty-six; {@-viṃśati@}, {%f|%} twenty-six: {@-tama,@} 
+---
+> <>twenty-six; {@-viṃśati@}, {%f.%} twenty-six: {@-tama,@} 
+126269c126269
+< <>{@-bhuja@}, {%a|%} sixteen-armed; {@-vidha,@} {%a.%} of sixteen <lbinfo n="3"/>
+---
+> <>{@-bhuja@}, {%a.%} sixteen-armed; {@-vidha,@} {%a.%} of sixteen <lbinfo n="3"/>
+126288c126288
+< <>{@ṣṭhīva@}, spit, upon ({%lc|%})| {@ni,@} spit upon 
+---
+> <>{@ṣṭhīva@}, spit, upon ({%lc.%}). {@ni,@} spit upon 
+126301c126301
+< <>{@-tvā@} ({%s|, very rare%})| {@nis,@} spit ({%only in%} {@nir-@}
+---
+> <>{@-tvā@} ({%S., very rare%}). {@nis,@} spit ({%only in%} {@nir-@}
+126391c126391
+< <>{@-ya@}, {%n|%} participation in a sacrifice: {@ā,@} {%f. du. %}
+---
+> <>{@-ya@}, {%n.%} participation in a sacrifice: {@ā,@} {%f. du. %}
+126462c126462
+< <>{@-rāṇā@}, {%fp| pt|%} √ rā; {@-rāga,@} {%m.%} redness; passion, <lbinfo n="3"/>
+---
+> <>{@-rāṇā@}, {%fp. pt.%} √ rā; {@-rāga,@} {%m.%} redness; passion, <lbinfo n="3"/>
+126516c126516
+< <>{@-varaṇīya@}, {%fp|%} to be concealed; {@-vargá,@} {%a.%} 
+---
+> <>{@-varaṇīya@}, {%fp.%} to be concealed; {@-vargá,@} {%a.%} 
+126571c126571
+< <>{@vi‡ati-kram@}, break an agreement; ¤2|¤ {@-vid,@} 
+---
+> <>{@vi‡ati-kram@}, break an agreement; ¤2.¤ {@-vid,@} 
+126682c126682
+< <>√śā: {@-vāc@}, {%a|%} speaking sharply, {@-ātman,@} {%a.%} 
+---
+> <>√śā: {@-vāc@}, {%a.%} speaking sharply, {@-ātman,@} {%a.%} 
+126710c126710
+< <>{@śrita@}, {%pp|%} √ śri; {%m|%} dependent, servant: {@-vat,@} 
+---
+> <>{@śrita@}, {%pp.%} √ śri; {%m.%} dependent, servant: {@-vat,@} 
+126845c126845
+< <>{@-ta‡ukti@}, {%f|%} polished expression; {@-skriyā,@} {%f.%} 
+---
+> <>{@-ta‡ukti@}, {%f.%} polished expression; {@-skriyā,@} {%f.%} 
+126855c126855
+< <> {@-staraṇa@}, {%n|%} bestrewing; {@-stava,@} {%m.%} 
+---
+> <> {@-staraṇa@}, {%n.%} bestrewing; {@-stava,@} {%m.%} 
+126945c126945
+< <>{%created%}); {@-hartṛ@}, {%m|%} destroyer; {@-harṣa,@} {%m.%} 
+---
+> <>{%created%}); {@-hartṛ@}, {%m.%} destroyer; {@-harṣa,@} {%m.%} 
+127006,127007c127006,127007
+< <>{@-karuṇa@}, {%a|%} piteous; compassionate: {@-m,@} {%ad.%} 
+< <>{@-karṇa@}, {%a|%} having ears, hearing: {@-ka,@} {%a.%} 
+---
+> <>{@-karuṇa@}, {%a.%} piteous; compassionate: {@-m,@} {%ad.%} 
+> <>{@-karṇa@}, {%a.%} having ears, hearing: {@-ka,@} {%a.%} 
+127547c127547
+< <>{@-man@}, {%n|,%} {@-śālā@}, {%f| id|%}; {@-artha,@} {%m.%} burden 
+---
+> <>{@-man@}, {%n.,%} {@-śālā@}, {%f. id.%}; {@-artha,@} {%m.%} burden 
+127595c127595
+< <>{@-rāja@}, {%m| n| of two%} kings; {@-vardhana,@} {%m. %}
+---
+> <>{@-rāja@}, {%m. N. of two%} kings; {@-vardhana,@} {%m. %}
+127617c127617
+< <>{@-cārin@}, {%a|%} gregarious; {@-ghaṭana@}, {%n|,%} {@ā,@} {%f.%} 
+---
+> <>{@-cārin@}, {%a.%} gregarious; {@-ghaṭana@}, {%n.,%} {@ā,@} {%f.%} 
+127922c127922
+< <>on ({%lc.%}); pimp; {%des.%} {@-sisaṅkṣati@}| {@ati,@} {%pp.%} 
+---
+> <>on ({%lc.%}); pimp; {%des.%} {@-sisaṅkṣati@}. {@ati,@} {%pp.%} 
+128184c128184
+< <>tale; {@-kartṛ@}, {%m|%} benefactor; {@-karman,@} {%n.%} 
+---
+> <>tale; {@-kartṛ@}, {%m.%} benefactor; {@-karman,@} {%n.%} 
+128244c128244
+< <>{%f.%} hospital, asylum; {@-śālā@}, {%f| id|%}; {@-sadman,@} 
+---
+> <>{%f.%} hospital, asylum; {@-śālā@}, {%f. id.%}; {@-sadman,@} 
+128352c128352
+< <>truth; {@-dṛś@}, {%a| id|%}; {@-dhana,@} {%a.%} rich in truth, 
+---
+> <>truth; {@-dṛś@}, {%a. id.%}; {@-dhana,@} {%a.%} rich in truth, 
+128781c128781
+< <>{@-duḥkha@}, {%a|%} sad; {@-dūrva,@} {%a.%} covered with 
+---
+> <>{@-duḥkha@}, {%a.%} sad; {@-dūrva,@} {%a.%} covered with 
+128792c128792
+< <> ({%d.%}; {%V., P.%}; {%rare%}); {@-dṛś@}, {%a|%} ({%nm|%} {@ṅ,@} {%V.%}; 
+---
+> <> ({%d.%}; {%V., P.%}; {%rare%}); {@-dṛś@}, {%a.%} ({%nm.%} {@ṅ,@} {%V.%}; 
+128798c128798
+< <>{@-vṛtti@}, {%a|%} behaving similarity: {@-tā,@} {%f.%} identity <lbinfo n="4"/>
+---
+> <>{@-vṛtti@}, {%a.%} behaving similarity: {@-tā,@} {%f.%} identity <lbinfo n="4"/>
+128837c128837
+< <> {@-śrī@}, {%f| n| of a goddess%}; {@-bhūta,@} {%pp.%} 
+---
+> <> {@-śrī@}, {%f. N. of a goddess%}; {@-bhūta,@} {%pp.%} 
+129231c129231
+< <>{%etc.%}; {@-trāṇa@}, {%n|%} deliverance, rescue; {@-trāsa,@} 
+---
+> <>{%etc.%}; {@-trāṇa@}, {%n.%} deliverance, rescue; {@-trāsa,@} 
+129523c129523
+< <>guiding; {@-yantṛ@}, {%m|%} restrainer; {@-yama,@} {%m.%} 
+---
+> <>guiding; {@-yantṛ@}, {%m.%} restrainer; {@-yama,@} {%m.%} 
+129535c129535
+< <>{@-veśayitavya@}, {%fp|%} to be inserted; {@-hita,@} {%pp.%} 
+---
+> <>{@-veśayitavya@}, {%fp.%} to be inserted; {@-hita,@} {%pp.%} 
+129555c129555
+< <>rite; {@-maṇi@}, {%m|%} genuine gem; {@-mati,@} {%a.%} well-disposed, <lbinfo n="4"/>
+---
+> <>rite; {@-maṇi@}, {%m.%} genuine gem; {@-mati,@} {%a.%} well-disposed, <lbinfo n="4"/>
+129673c129673
+< <>({@á@}) {@-daśan@}, {%a| pl|%} seventeen; {@-dvīpa,@} {%a.%} consisting <lbinfo n="3"/>
+---
+> <>({@á@}) {@-daśan@}, {%a. pl.%} seventeen; {@-dvīpa,@} {%a.%} consisting <lbinfo n="3"/>
+129836c129836
+< <>{@-ma-cārin@}, {%m|%}: (ṇ) {@-ī,@} {%f.%} fellow-pupil, student 
+---
+> <>{@-ma-cārin@}, {%m.%}: (ṇ) {@-ī,@} {%f.%} fellow-pupil, student 
+129962c129962
+< <>{@-ṃ tulaya@}, p| balance {%one another%}; {@-kāla,@} °- 
+---
+> <>{@-ṃ tulaya@}, P. balance {%one another%}; {@-kāla,@} °- 
+129989c129989
+< <>{@-varaṇa@}, {%a|%} entirely golden; {@-indu,@} {%m.%} full moon.
+---
+> <>{@-varaṇa@}, {%a.%} entirely golden; {@-indu,@} {%m.%} full moon.
+130059c130059
+< <>{@-deśa@}, {%m|%} even ground; {@-dharma,@} {%a.%} resembling <lbinfo n="5"/>
+---
+> <>{@-deśa@}, {%m.%} even ground; {@-dharma,@} {%a.%} resembling <lbinfo n="5"/>
+130198c130198
+< <>{@-paya@}, fix, settle; {%in|%} {@samayena,@} according 
+---
+> <>{@-paya@}, fix, settle; {%in.%} {@samayena,@} according 
+130216c130216
+< <>{@-ti@}, {%f|%} neglect of time; {@-dharma,@} {%m.%} obligation <lbinfo n="6"/>
+---
+> <>{@-ti@}, {%f.%} neglect of time; {@-dharma,@} {%m.%} obligation <lbinfo n="6"/>
+130258c130258
+< <>{@-śiras@}, {%n|%} van of battle; {@-sīman,@} {%m. or f.%} 
+---
+> <>{@-śiras@}, {%n.%} van of battle; {@-sīman,@} {%m. or f.%} 
+130277c130277
+< <>of battle; {@-uddeśa@}, {%m|%} battle-field; {@-upāya,@} 
+---
+> <>of battle; {@-uddeśa@}, {%m.%} battle-field; {@-upāya,@} 
+130362c130362
+< <>{@'smi@}, i have grown so old; {@-sthāna,@} {%n.%} 
+---
+> <>{@'smi@}, I have grown so old; {@-sthāna,@} {%n.%} 
+130525c130525
+< <>{@-jñāna@}, {%n|%} recognition as (-°); {@-dāna,@} {%n.%} 
+---
+> <>{@-jñāna@}, {%n.%} recognition as (-°); {@-dāna,@} {%n.%} 
+130811c130811
+< <>{@-hartṛ@}, {%m|%} collector ({%an official%}); {@-hāra,@} {%m.%} 
+---
+> <>{@-hartṛ@}, {%m.%} collector ({%an official%}); {@-hāra,@} {%m.%} 
+130819c130819
+< <>{@-tṛ@}, {%m|%} challenger to ({%d|%}); {@-hvāna,@} {%n.%} calling 
+---
+> <>{@-tṛ@}, {%m.%} challenger to ({%d.%}); {@-hvāna,@} {%n.%} calling 
+130960c130960
+< <>{@-ṭā@}, {%f|%} longing for (-°); {@-karṣa,@} {%m.%} laying 
+---
+> <>{@-ṭā@}, {%f.%} longing for (-°); {@-karṣa,@} {%m.%} laying 
+130979c130979
+< <>{@-pīḍana@}, {%n|%} pressing, squeezing; {@-phulla,@} 
+---
+> <>{@-pīḍana@}, {%n.%} pressing, squeezing; {@-phulla,@} 
+131106c131106
+< <>{@-upaveśa@}, {%m|%}: {@-na,@} {%n.%} seat; {@-upastambha,@} 
+---
+> <>{@-upaveśa@}, {%m.%}: {@-na,@} {%n.%} seat; {@-upastambha,@} 
+131226c131226
+< <>to prove right; {@-pīḍa@}, {%m|%} pressure: {@ā,@} {%f.%} 
+---
+> <>to prove right; {@-pīḍa@}, {%m.%} pressure: {@ā,@} {%f.%} 
+131296c131296
+< <>(regard, -°); {@-dhāraṇa@}, {%n|,%} {@ā,@} {%f.%} deliberation; <lbinfo n="8"/>
+---
+> <>(regard, -°); {@-dhāraṇa@}, {%n.,%} {@ā,@} {%f.%} deliberation; <lbinfo n="8"/>
+131433c131433
+< <>{@-nipuṇa@}, {%a|%} clever talk; {@-bhāṣita,@} ({%pp.%}) 
+---
+> <>{@-nipuṇa@}, {%a.%} clever talk; {@-bhāṣita,@} ({%pp.%}) 
+131442c131442
+< <>{@-bhṛti@}, {%f|%} preparation; {@-bheda,@} {%m.%} sowing 
+---
+> <>{@-bhṛti@}, {%f.%} preparation; {@-bheda,@} {%m.%} sowing 
+131447c131447
+< <>{@-tṛ@}, {%m|%} enjoyer; {@-bhogá,@} {%m. V., C.%}: enjoyment, 
+---
+> <>{@-tṛ@}, {%m.%} enjoyer; {@-bhogá,@} {%m. V., C.%}: enjoyment, 
+131453c131453
+< <> use; {@-bhojana@}, {%n|%} common meal: {@ī,@} 
+---
+> <> use; {@-bhojana@}, {%n.%} common meal: {@ī,@} 
+131511c131511
+< <>clandestinely; {@-mūḍha@}, {%pp|%} √ muh: {@-tā,@} {%f.,%} 
+---
+> <>clandestinely; {@-mūḍha@}, {%pp.%} √ muh: {@-tā,@} {%f.,%} 
+131543c131543
+< <>{%a. id.%}; {@-darśin@}, {%a| id|%}; {@-vānta,@} {%pp.%} having 
+---
+> <>{%a. id.%}; {@-darśin@}, {%a. id.%}; {@-vānta,@} {%pp.%} having 
+131672c131672
+< <>{@-ja‡akṣī@}, {%f|%} lotus-eyed woman; {@-ruha,@} {%n.%} 
+---
+> <>{@-ja‡akṣī@}, {%f.%} lotus-eyed woman; {@-ruha,@} {%n.%} 
+131686c131686
+< <>{@-aṇa@}, {%a|%} lotus-eyed; {@-ruh,@} {%n.%} lotus; {@-ruha,@} 
+---
+> <>{@-aṇa@}, {%a.%} lotus-eyed; {@-ruh,@} {%n.%} lotus; {@-ruha,@} 
+131856c131856
+< <>{@-daṣṭa@}, ({%pp|%}) {%n|%} snake-bite; {@-dviṣ,@} {%m.%} 
+---
+> <>{@-daṣṭa@}, ({%pp.%}) {%n.%} snake-bite; {@-dviṣ,@} {%m.%} 
+132039c132039
+< <>{@-tṛ@}, {%m|%} all-subduer: {@-tva,@} {%n. abst. N.%}; {@-paṭṭa-@}
+---
+> <>{@-tṛ@}, {%m.%} all-subduer: {@-tva,@} {%n. abst. N.%}; {@-paṭṭa-@}
+132046c132046
+< <>{@-yaścitti@}, {%f|%} complete atonement; {@-bhakṣa,@} 
+---
+> <>{@-yaścitti@}, {%f.%} complete atonement; {@-bhakṣa,@} 
+132078c132078
+< <>through;. ({@sárva-@} {%av|, or%} {@sarvá-@} {%śb|%}) {@-rūpa,@} 
+---
+> <>through;. ({@sárva-@} {%AV., or%} {@sarvá-@} {%ŚB.%}) {@-rūpa,@} 
+132091c132091
+< <>{@-vijñān-in@}, {%a|%} knowing everything: ({@-i@}) {@-tā,@} 
+---
+> <>{@-vijñān-in@}, {%a.%} knowing everything: ({@-i@}) {@-tā,@} 
+132135c132135
+< <>{@-sādhāraṇa@}, {%a|%} ({@ā, ī@}) common to all; {@-sādhu,@} 
+---
+> <>{@-sādhāraṇa@}, {%a.%} ({@ā, ī@}) common to all; {@-sādhu,@} 
+132164c132164
+< <>{@-añc@}, {%a|%} turned in all directions; {@-atithi,@} {%a.%} 
+---
+> <>{@-añc@}, {%a.%} turned in all directions; {@-atithi,@} {%a.%} 
+132183c132183
+< <>{@-saṃdhaka@}, {%a|%} deceiving every one; {@-āyu,@} {%a.%} 
+---
+> <>{@-saṃdhaka@}, {%a.%} deceiving every one; {@-āyu,@} {%a.%} 
+132503c132503
+< <>{@saścat@}, pursuer, foe| {@anu,@} be gracious to 
+---
+> <>{@saścat@}, pursuer, foe. {@anu,@} be gracious to 
+132528c132528
+< <>{@-saṃvāda@}, {%a|%} agreeing: {@-m,@} {%ad.%}; {@-saṃvid@}, 
+---
+> <>{@-saṃvāda@}, {%a.%} agreeing: {@-m,@} {%ad.%}; {@-saṃvid@}, 
+132535c132535
+< <>{@-va@}, {%a|%} attended by {%his%} ministers; {@-sattva,@} {%a.%} 
+---
+> <>{@-va@}, {%a.%} attended by {%his%} ministers; {@-sattva,@} {%a.%} 
+132644,132645c132644,132645
+< <>{%pp.%} {@sāḍhá@}, ({%v|, rare%}), {@soḍha@}; {%des|%} {@sīkṣa,@} Ā. 
+< <>({%pt.%} {@sī́kṣat@}) wish to overcome ({%v|%})| {@abhi,@} 
+---
+> <>{%pp.%} {@sāḍhá@}, ({%V., rare%}), {@soḍha@}; {%des.%} {@sīkṣa,@} Ā. 
+> <>({%pt.%} {@sī́kṣat@}) wish to overcome ({%V.%}). {@abhi,@} 
+132658c132658
+< <>{@-ita| pra,@} {%V.%}: conquer, be victorious; {%C.%}: 
+---
+> <>{@-ita. pra,@} {%V.%}: conquer, be victorious; {%C.%}: 
+132670c132670
+< <>viṣajyati: {%pp.%} {@visoḍha@}, endured| {@sam,@} be 
+---
+> <>viṣajyati: {%pp.%} {@visoḍha@}, endured. {@sam,@} be 
+132721c132721
+< <>of a mango-tree, {@-mañjarī@}, {%f| n|%}; {@-kār-in,@} 
+---
+> <>of a mango-tree, {@-mañjarī@}, {%f. N.%}; {@-kār-in,@} 
+132878c132878
+< <>{@-guṇa@}, {%a|%} thousandfold: {@-tā,@} {%f. abst. N.%}: 
+---
+> <>{@-guṇa@}, {%a.%} thousandfold: {@-tā,@} {%f. abst. N.%}: 
+133078c133078
+< {#sA#}¦SĀ, IV.P. {@-syati@}; {%cs|%} {@-sāyáya,@} P. 
+---
+> {#sA#}¦SĀ, IV.P. {@-syati@}; {%cs.%} {@-sāyáya,@} P. 
+133206c133206
+< <>{@yā@}, become a witness of ({%g|%}); {@-tva,@} {%n. id.%}.
+---
+> <>{@yā@}, become a witness of ({%g.%}); {@-tva,@} {%n. id.%}.
+133250c133250
+< <>{@-śukti@}, {%f|%} sea-shell; {@-anta,@} {%m.%} sea-coast; {%a.%} 
+---
+> <>{@-śukti@}, {%f.%} sea-shell; {@-anta,@} {%m.%} sea-coast; {%a.%} 
+133274c133274
+< <>{@-kṛtya@}, {%m| pat| from%} saṃkṛti: {@-āyana,@} 
+---
+> <>{@-kṛtya@}, {%m. pat. from%} Saṃkṛti: {@-āyana,@} 
+133506c133506
+< <>render (¤2¤ {%ac.%}); go, depart: {%pp.%} {@sādhita| upa,@} 
+---
+> <>render (¤2¤ {%ac.%}); go, depart: {%pp.%} {@sādhita. upa,@} 
+133786c133786
+< <>({%ac.%}): {%pp.%} {@ita|@} {@abhi,@} P. {%id.%} {@pari,@} P. {%id.%}.
+---
+> <>({%ac.%}): {%pp.%} {@ita.@} {@abhi,@} P. {%id.%} {@pari,@} P. {%id.%}.
+133911c133911
+< <>{@-pauruṣa,@} {%a.%} ({@ī@}) {%id|%}; {@-rātr-ika,@} {%a.%} ({@ī@}) lasting <lbinfo n="4"/>
+---
+> <>{@-pauruṣa,@} {%a.%} ({@ī@}) {%id.%}; {@-rātr-ika,@} {%a.%} ({@ī@}) lasting <lbinfo n="4"/>
+134329c134329
+< <>{@-nā@}, {%f|%} gazelle-eyed woman; {@-akṣī,@} {%f. id.%}.
+---
+> <>{@-nā@}, {%f.%} gazelle-eyed woman; {@-akṣī,@} {%f. id.%}.
+134682c134682
+< <>{@-pātam@}, {%ad| w|%} {@pra-anam,@} {%ad.%}.
+---
+> <>{@-pātam@}, {%ad. w.%} {@pra-anam,@} {%ad.%}.
+134748c134748
+< <>{@-lāñchana@}, {%m| n|%}; {@-aṅka,@} {%m. N.%}.
+---
+> <>{@-lāñchana@}, {%m. N.%}; {@-aṅka,@} {%m. N.%}.
+134805c134805
+< {#si#}¦SI, IX.P. {@sinā́ti@} ({%v|%}), bind: {%pp|%} {@sitá,@} 
+---
+> {#si#}¦SI, IX.P. {@sinā́ti@} ({%V.%}), bind: {%pp.%} {@sitá,@} 
+134839c134839
+< <> {@-rāja@}, {%m| n| of a%} king; {@-rotsikā,@} {%f. N. %}
+---
+> <> {@-rāja@}, {%m. N. of a%} king; {@-rotsikā,@} {%f. N. %}
+134855c134855
+< <>{%m.%} lion's cub; {@-śrī@}, {%f| n|%}; {@-svāmin,@} {%m. N. of %}
+---
+> <>{%m.%} lion's cub; {@-śrī@}, {%f. N.%}; {@-svāmin,@} {%m. N. of %}
+134914c134914
+< <>({%trees etc.%}): {%pp.%} {@secita@}| {@abhi,@} besprinkle, wet; 
+---
+> <>({%trees etc.%}): {%pp.%} {@secita@}. {@abhi,@} besprinkle, wet; 
+135005c135005
+< <>{%royally%}); {@-ātapa-vāraṇa@}, {%n| id|%}; {@-abhra,@} {%m.%} 
+---
+> <>{%royally%}); {@-ātapa-vāraṇa@}, {%n. id.%}; {@-abhra,@} {%m.%} 
+135066c135066
+< <>{@-rāja@}, {%m| n| a%} kind; {@-lakṣa,@} {%a.%} hitting 
+---
+> <>{@-rāja@}, {%m. N. a%} kind; {@-lakṣa,@} {%a.%} hitting 
+135135c135135
+< <> {@-jñāna@}, {%n|%} certain knowledge; {@-da,@} {%a.%} 
+---
+> <> {@-jñāna@}, {%n.%} certain knowledge; {@-da,@} {%a.%} 
+135155c135155
+< <>away ({%V.%}): {%pp.%} {@siddha@}| {@apa,@} drive {%or%} 
+---
+> <>away ({%V.%}): {%pp.%} {@siddha@}. {@apa,@} drive {%or%} 
+135436c135436
+< <>{@-dhi@}, {%m|%} meeting of boundaries; {@-setu,@} {%m.%} 
+---
+> <>{@-dhi@}, {%m.%} meeting of boundaries; {@-setu,@} {%m.%} 
+135479c135479
+< <>{@sunvāná, suvāná@}; {%pp|%} {@sutá,@} pressed, extracted. <lbinfo n="2"/>
+---
+> <>{@sunvāná, suvāná@}; {%pp.%} {@sutá,@} pressed, extracted. <lbinfo n="2"/>
+135494c135494
+< <>{@pra-sauti@} ({%rare%}), {%pp|%} {@suta,@} son, {%and%} {@súṣuti@}.
+---
+> <>{@pra-sauti@} ({%rare%}), {%pp.%} {@suta,@} son, {%and%} {@súṣuti@}.
+135526c135526
+< <>{@-ja, -janman@}, {%a| id|%}, {@-tā,@} {%f.%} noble birth; 
+---
+> <>{@-ja, -janman@}, {%a. id.%}, {@-tā,@} {%f.%} noble birth; 
+135561c135561
+< <>{@-kleśa@}, {%a|%} very distressing; {@-kṣatrá,@} {%a.%} ({%V.%}) 
+---
+> <>{@-kleśa@}, {%a.%} very distressing; {@-kṣatrá,@} {%a.%} ({%V.%}) 
+135620c135620
+< <>deep sleep; {@-rāja@}, {%m| n|%}; {@-rūpa,@} {%a.%} having 
+---
+> <>deep sleep; {@-rāja@}, {%m. N.%}; {@-rūpa,@} {%a.%} having 
+135645c135645
+< <>{@-yojya@}, {%fp|%} easy to attack; {@-abhyuday-ika,@} 
+---
+> <>{@-yojya@}, {%fp.%} easy to attack; {@-abhyuday-ika,@} 
+135665c135665
+< <>{@-śraya@}, {%a|%} productive of pleasure; {@-āsana,@} {%n.%} 
+---
+> <>{@-śraya@}, {%a.%} productive of pleasure; {@-āsana,@} {%n.%} 
+135704c135704
+< <>{@-gaṇa@}, {%m| n| of a rāgaputra%}; {@-gata,@} {%pp.%} 
+---
+> <>{@-gaṇa@}, {%m. N. of a Rāgaputra%}; {@-gata,@} {%pp.%} 
+135707c135707
+< <>{@-śāsana@}, {%n|%} buddhist doctrine {%or%} faith; {@-gati,@} 
+---
+> <>{@-śāsana@}, {%n.%} Buddhist doctrine {%or%} faith; {@-gati,@} 
+135778c135778
+< <>{@-ghaṭita@}, {%pp| id|%}; {@-ghana,@} {%a.%} very dense 
+---
+> <>{@-ghaṭita@}, {%pp. id.%}; {@-ghana,@} {%a.%} very dense 
+135795c135795
+< <> {@-cira@}, {%a|%} very long ({%of time%}): {@-m,@} 
+---
+> <> {@-cira@}, {%a.%} very long ({%of time%}): {@-m,@} 
+136014c136014
+< <>{@-dṛṣṭa@}, {%a|%} keen-sighted; {@-devá,@} {%m.%} good {%or%} 
+---
+> <>{@-dṛṣṭa@}, {%a.%} keen-sighted; {@-devá,@} {%m.%} good {%or%} 
+136098c136098
+< <>{@-nikṛṣṭa@}, {%pp|%} very low {%or%} base; {@-nikṣilam,@} 
+---
+> <>{@-nikṛṣṭa@}, {%pp.%} very low {%or%} base; {@-nikṣilam,@} 
+136103c136103
+< <>{@-bhṛtam@}, {%ad|%} very secretly; {@-nirūpita,@} {%pp.%} 
+---
+> <>{@-bhṛtam@}, {%ad.%} very secretly; {@-nirūpita,@} {%pp.%} 
+136157c136157
+< <>clay; {@-paṭha@}, {%a|%} easy to read, legible; {@-pati,@} 
+---
+> <>clay; {@-paṭha@}, {%a.%} easy to read, legible; {@-pati,@} 
+136198c136198
+< <>{@-puṣṭa@}, {%pp|%} well-fed; {@-puṣpa,@} {%a.%} having 
+---
+> <>{@-puṣṭa@}, {%pp.%} well-fed; {@-puṣpa,@} {%a.%} having 
+136274c136274
+< <>a-); {@-prāyaṇá@}, {%a|%} pleasant to tread; {@-prāvī́,@} 
+---
+> <>a-); {@-prāyaṇá@}, {%a.%} pleasant to tread; {@-prāvī́,@} 
+136621c136621
+< <>{@-vṛkṣa@}, {%m|%} indra's (pārijāta) tree; {@-loka,@} 
+---
+> <>{@-vṛkṣa@}, {%m.%} Indra's (Pārijāta) tree; {@-loka,@} 
+136802c136802
+< <>{@-locana@}, {%a|%} fine-eyed: {@ā,@} {%f. N. of a Yakṣiṇī%}; 
+---
+> <>{@-locana@}, {%a.%} fine-eyed: {@ā,@} {%f. N. of a Yakṣiṇī%}; 
+136854c136854
+< <> {@-vā́c@}, {%a| id|%} ({%v|%}); {@-vānta,@} {%pp.%} 
+---
+> <> {@-vā́c@}, {%a. id.%} ({%V.%}); {@-vānta,@} {%pp.%} 
+136926c136926
+< <>{@-vṛ́dh@}, {%a|%} glad, joyful ({%rv|%}); {@-vega,@} {%a.%} running, <lbinfo n="3"/>
+---
+> <>{@-vṛ́dh@}, {%a.%} glad, joyful ({%RV.%}); {@-vega,@} {%a.%} running, <lbinfo n="3"/>
+136954c136954
+< <>{@-śiṣya@}, {%m|%} good pupil; {@-śīghrá@}, °- {%or%} {@-m,@} 
+---
+> <>{@-śiṣya@}, {%m.%} good pupil; {@-śīghrá@}, °- {%or%} {@-m,@} 
+137170c137170
+< <>{@-hṛdaya@}, {%a|%} kind-hearted ({%v|%}): {@-tama,@} {%spv.%}; 
+---
+> <>{@-hṛdaya@}, {%a.%} kind-hearted ({%V.%}): {@-tama,@} {%spv.%}; 
+137252c137252
+< <>{@-dṛṣṭi@}, {%f|%} keen glance; {@-pāda,@} {%a.%} having 
+---
+> <>{@-dṛṣṭi@}, {%f.%} keen glance; {@-pāda,@} {%a.%} having 
+137356c137356
+< <>{@-geha@}, {%n|%} lying-in room; {@-māruta,@} {%m.%} vital 
+---
+> <>{@-geha@}, {%n.%} lying-in room; {@-māruta,@} {%m.%} vital 
+137544c137544
+< <> {@-candra@}, {%m| n|%}; {@-tapas,@} {%m. N. of a %}
+---
+> <> {@-candra@}, {%m. N.%}; {@-tapas,@} {%m. N. of a %}
+137557c137557
+< <>{@-maṇḍala@}, {%n| id|%}; {@-matī,@} {%f. N. of a princess%}; 
+---
+> <>{@-maṇḍala@}, {%n. id.%}; {@-matī,@} {%f. N. of a princess%}; 
+137580c137580
+< <>{@-más-ā@} ({%v|%}) {%or%} {@-au,@} {%m. nm. du.%} sun and moon; 
+---
+> <>{@-más-ā@} ({%V.%}) {%or%} {@-au,@} {%m. nm. du.%} sun and moon; 
+137638c137638
+< <>{@apa‡ā@} ({%metr| for%} apa), pass by ({%ab|%})| {@ud,@} 
+---
+> <>{@apa‡ā@} ({%metr. for%} apa), pass by ({%ab.%}). {@ud,@} 
+137805c137805
+< <>{@-sarjita@}, abandoned, {%etc|%} {@anu-vi,@} shoot in 
+---
+> <>{@-sarjita@}, abandoned, {%etc.%} {@anu-vi,@} shoot in 
+138014c138014
+< <>Indra: {@-cāpa@}, {%a|%} adorned with a rainbow, {@-tā,@} 
+---
+> <>Indra: {@-cāpa@}, {%a.%} adorned with a rainbow, {@-tā,@} 
+138349c138349
+< <>{@-paddhati,@} {%f.,%} {@-paraṃparā@}, {%f|,%} {@-mārga,@} {%m.%} 
+---
+> <>{@-paddhati,@} {%f.,%} {@-paraṃparā@}, {%f.,%} {@-mārga,@} {%m.%} 
+138355c138355
+< <>{%a.%} ({%nm.%} {@t@}) {%id|%}; {@-upālambha,@} {%a.%} conveying a 
+---
+> <>{%a.%} ({%nm.%} {@t@}) {%id.%}; {@-upālambha,@} {%a.%} conveying a 
+138460c138460
+< <>{@-ulluṇṭha@}, {%a|%} ironical, sarcastic: {@-m,@} {%ad.%} 
+---
+> <>{@-ulluṇṭha@}, {%a.%} ironical, sarcastic: {@-m,@} {%ad.%} 
+138552c138552
+< <>Indra (Sutrāman): {%w.%} {@diś@}, {%f|%} the east: {@ī́,@} {%f. a %}
+---
+> <>Indra (Sutrāman): {%w.%} {@diś@}, {%f.%} the east: {@ī́,@} {%f. a %}
+138770c138770
+< <>{@-ana@}, {%a|%} pleasant to look at: {@ā,@} {%f. N. of a %}
+---
+> <>{@-ana@}, {%a.%} pleasant to look at: {@ā,@} {%f. N. of a %}
+139048c139048
+< <>{@vi@} ({@-ṣk-@}), fix ({%v|%}); {%cs| pp|%} {@viṣkabhita,@} fixed; 
+---
+> <>{@vi@} ({@-ṣk-@}), fix ({%V.%}); {%cs. pp.%} {@viṣkabhita,@} fixed; 
+139132c139132
+< <>{@-koṭi@}, {%f|%} nipple; {@-koraka,@} {%m. n.%} bud-like 
+---
+> <>{@-koṭi@}, {%f.%} nipple; {@-koraka,@} {%m. n.%} bud-like 
+139239c139239
+< <>{@-ita| ava,@} fix; support, sustain; obstruct, 
+---
+> <>{@-ita. ava,@} fix; support, sustain; obstruct, 
+139257c139257
+< <>{@vi-ṣṭambhaya@}, p| check, stop, arrest| {@sam,@} 
+---
+> <>{@vi-ṣṭambhaya@}, P. check, stop, arrest. {@sam,@} 
+139413c139413
+< <>{@abhi-ṣṭuta@}, praised; consecrated| {@upa,@} praise, 
+---
+> <>{@abhi-ṣṭuta@}, praised; consecrated. {@upa,@} praise, 
+139415c139415
+< <>{@pari@} ({@-ṣṭauti@}), praise, laud| {@pra,@} praise 
+---
+> <>{@pari@} ({@-ṣṭauti@}), praise, laud. {@pra,@} praise 
+139603c139603
+< <>{@-tṛ@}, {%m|%} praiser, worshipper, believer; {@-trá,@} 
+---
+> <>{@-tṛ@}, {%m.%} praiser, worshipper, believer; {@-trá,@} 
+140277c140277
+< <>{@-cyuta@}, {%pp|%} removed from {%one's%} place; {@-tā,@} {%f.%} 
+---
+> <>{@-cyuta@}, {%pp.%} removed from {%one's%} place; {@-tā,@} {%f.%} 
+140346c140346
+< <>{@-anyitṛ@}, {%m|%} establisher, founder; {@-ita,@} {%cs. pp.%} 
+---
+> <>{@-anyitṛ@}, {%m.%} establisher, founder; {@-ita,@} {%cs. pp.%} 
+140390c140390
+< <>caldron: ({@sthā́tī@} {@-pāka@} ({%av|%}) {%or%} {@-pāká,@} (Ś{%B.%}), 
+---
+> <>caldron: ({@sthā́tī@} {@-pāka@} ({%AV.%}) {%or%} {@-pāká,@} (Ś{%B.%}), 
+140567c140567
+< <>{@-ṇa@}, {%m| kind of array of troops%}; {@-pakṣa,@} {%m. %}
+---
+> <>{@-ṇa@}, {%m. kind of array of troops%}; {@-pakṣa,@} {%m. %}
+140591c140591
+< <>{@-keśa@}, {%m| n| of a Ṛṣi%}; {@-tā,@} {%f.%} largeness, 
+---
+> <>{@-keśa@}, {%m. N. of a Ṛṣi%}; {@-tā,@} {%f.%} largeness, 
+140595c140595
+< <>{@-pañca@}, {%m|%} gross material world; {@-bāhu,@} {%m. %}
+---
+> <>{@-pañca@}, {%m.%} gross material world; {@-bāhu,@} {%m. %}
+140715c140715
+< <>{@-droṇī@}, {%f|%} bathing tub; {@-bhū,@} {%f.%} bathing-place, 
+---
+> <>{@-droṇī@}, {%f.%} bathing tub; {@-bhū,@} {%f.%} bathing-place, 
+140766c140766
+< <>{@-rūkṣa@}, {%a|%} slippery, cool, and rough: {@-tva,@} 
+---
+> <>{@-rūkṣa@}, {%a.%} slippery, cool, and rough: {@-tva,@} 
+140981c140981
+< <>{@spṛtá@} ({%v|%}); {%cs|%} {@spāráya,@} P. {%id.%} ({%V.%}). {@apa,@} 
+---
+> <>{@spṛtá@} ({%V.%}); {%cs.%} {@spāráya,@} P. {%id.%} ({%V.%}). {@apa,@} 
+141031c141031
+< <>({%lc.%}). {@ni@} ({%rv|%}), touch caressingly| {@sam,@} P. 
+---
+> <>({%lc.%}). {@ni@} ({%RV.%}), touch caressingly. {@sam,@} P. 
+141202c141202
+< <>{%bolt%}): {%pp.%} {@sphoṭita@}, split {%etc|%} {@ā,@} {%cs.%} cleave, 
+---
+> <>{%bolt%}): {%pp.%} {@sphoṭita@}, split {%etc.%} {@ā,@} {%cs.%} cleave, 
+141533c141533
+< <>{@-bhraṃsa@}, {%m|%} loss of memory; {@-mat,@} {%a.%} having <lbinfo n="3"/>
+---
+> <>{@-bhraṃsa@}, {%m.%} loss of memory; {@-mat,@} {%a.%} having <lbinfo n="3"/>
+141553c141553
+< <>{%or%} {@syá@}, {%m|,%} {@syā́,@} {%f.%}.
+---
+> <>{%or%} {@syá@}, {%m.,%} {@syā́,@} {%f.%}.
+141653c141653
+< <>loosen: {%pp.%} {@saṃsita@}, loosened| {@ava,@} fall 
+---
+> <>loosen: {%pp.%} {@saṃsita@}, loosened. {@ava,@} fall 
+141893c141893
+< <>{%one's%} own kin: {@-ja@}, {%a| id|%}; {@-kulya,@} {%a. id.%}; 
+---
+> <>{%one's%} own kin: {@-ja@}, {%a. id.%}; {@-kulya,@} {%a. id.%}; 
+142018c142018
+< <>({@ā@}) taste, enjoy ({%c|%})| {@prati,@} {%cs.%} {@-ṣvādaya,@} 
+---
+> <>({@ā@}) taste, enjoy ({%C.%}). {@prati,@} {%cs.%} {@-ṣvādaya,@} 
+142123c142123
+< <>{@-yate@}: {%pp|%} {@suptá,@} fallen asleep, sleeping; benumbed, <lbinfo n="2"/>
+---
+> <>{@-yate@}: {%pp.%} {@suptá,@} fallen asleep, sleeping; benumbed, <lbinfo n="2"/>
+142140c142140
+< <>{@-ṇa@}, {%m| one's%} own stake; {@-patita,@} {%pp.%} fallen 
+---
+> <>{@-ṇa@}, {%m. one's%} own stake; {@-patita,@} {%pp.%} fallen 
+142270c142270
+< <>to (-°); {@-janita@}, {%pp| id|%}; {@-dveṣa,@} {%m.%} natural 
+---
+> <>to (-°); {@-janita@}, {%pp. id.%}; {@-dveṣa,@} {%m.%} natural 
+142317c142317
+< <>forcible seizure; {@-grahaṇa@}, {%a| id|%}; {@-grāha,@} 
+---
+> <>forcible seizure; {@-grahaṇa@}, {%a. id.%}; {@-grāha,@} 
+142531c142531
+< <>heaven; {@-yāṇa@}, {%n|%} way to heaven; {@-yonī,@} {%f.%} 
+---
+> <>heaven; {@-yāṇa@}, {%n.%} way to heaven; {@-yonī,@} {%f.%} 
+142579c142579
+< <>{%king%}; {@-cūla@}, {%m|%} blue jay; {@-da,@} {%a.%} giving gold.
+---
+> <>{%king%}; {@-cūla@}, {%m.%} blue jay; {@-da,@} {%a.%} giving gold.
+142592c142592
+< <>{@-gāra@}, {%m|%} golden water-pot; {@-mūla,@} {%m. N. of %}
+---
+> <>{@-gāra@}, {%m.%} golden water-pot; {@-mūla,@} {%m. N. of %}
+142662c142662
+< <>{@-ka,@} {%a.%} ({@ikā@}) {%id|%}; {@-tantra,@} {%a.%} consisting of 
+---
+> <>{@-ka,@} {%a.%} ({@ikā@}) {%id.%}; {@-tantra,@} {%a.%} consisting of 
+142666c142666
+< <>pain; {@-dṛś@}, {%a|%} very short-sighted ({%fig|%}); {@-bala,@} 
+---
+> <>pain; {@-dṛś@}, {%a.%} very short-sighted ({%fig.%}); {@-bala,@} 
+142816c142816
+< <>{@citta@}, {%n|%} sound in mind, {@-tā,@} {%f.%} well-being, 
+---
+> <>{@citta@}, {%n.%} sound in mind, {@-tā,@} {%f.%} well-being, 
+143074c143074
+< <>Kumāra); {@-guṇa@}, {%m|%} virtue of a ruler; {@-tā,@} 
+---
+> <>Kumāra); {@-guṇa@}, {%m.%} virtue of a ruler; {@-tā,@} 
+143324c143324
+< <>{@-leśa@}, {%m| id|%}; {@-vāri,@} {%n.%} perspiration; {@-ambu,@} 
+---
+> <>{@-leśa@}, {%m. id.%}; {@-vāri,@} {%n.%} perspiration; {@-ambu,@} 
+143542c143542
+< <>{@-ghanat, jáṅghnat@}, {%and%} {@jánighnat@}| {@vi‡ati,@} 
+---
+> <>{@-ghanat, jáṅghnat@}, {%and%} {@jánighnat@}. {@vi‡ati,@} 
+143648c143648
+< <>of: {@-a,@} {%a.%} -° ({@ī@}) {%id|%} ({%rare%}); {@-ana,@} {%n.%} striking, 
+---
+> <>of: {@-a,@} {%a.%} -° ({@ī@}) {%id.%} ({%rare%}); {@-ana,@} {%n.%} striking, 
+143971c143971
+< <>{%id.%} ({%E.%}); {@-siṃha@}, {%m| n| of a king%}; {@-soma,@} 
+---
+> <>{%id.%} ({%E.%}); {@-siṃha@}, {%m. N. of a king%}; {@-soma,@} 
+144056c144056
+< <>{@-niḥevana@}, {%m|%} shout of joy; {@-pura,@} {%n. N. of %}
+---
+> <>{@-niḥevana@}, {%m.%} shout of joy; {@-pura,@} {%n. N. of %}
+144140c144140
+< <>{@-guṇa@}, {%m|%} quality of the sacrificial food; {@-dā́,@} 
+---
+> <>{@-guṇa@}, {%m.%} quality of the sacrificial food; {@-dā́,@} 
+144322c144322
+< <>{@-jāgarika@}, {%m|%} keeper of an elephant; {@-danta,@} 
+---
+> <>{@-jāgarika@}, {%m.%} keeper of an elephant; {@-danta,@} 
+144708c144708
+< <>{%for%} {@-jigā-ti, -tu@}: {%pp|%} {@práhita,@} {%P.%}: urged on, 
+---
+> <>{%for%} {@-jigā-ti, -tu@}: {%pp.%} {@práhita,@} {%P.%}: urged on, 
+144921c144921
+< <>{@-dhāman@}, {%m| id|%}; {@-pāta,@} {%m.%} cold rain; fall of 
+---
+> <>{@-dhāman@}, {%m. id.%}; {@-pāta,@} {%m.%} cold rain; fall of 
+145159c145159
+< <> fire, Agni; {@-aśana@}, {%m| id|%}: {@-vat,@} {%a.%} supplied <lbinfo n="3"/>
+---
+> <> fire, Agni; {@-aśana@}, {%m. id.%}: {@-vat,@} {%a.%} supplied <lbinfo n="3"/>
+145457c145457
+< <>{@-śiṣṭa@}, {%pp|%} spared from pillage; {@-sarvasva,@} 
+---
+> <>{@-śiṣṭa@}, {%pp.%} spared from pillage; {@-sarvasva,@} 
+145509c145509
+< <>{@-saṃsarga@}, {%m|%} union of hearts; {@-stha,@} {%a.%} 
+---
+> <>{@-saṃsarga@}, {%m.%} union of hearts; {@-stha,@} {%a.%} 
+145676c145676
+< <>lotus; {@-kartṛ@}, {%m|%} goldsmith; {@-kāra,@} {%m. id.%}: 
+---
+> <>lotus; {@-kartṛ@}, {%m.%} goldsmith; {@-kāra,@} {%m. id.%}: 
+146113c146113
+< {#hru#}¦HRU, IX.P. {@-hruṇāti@}: {%pp|%} {@hruta,@} crooked. <lbinfo n="5"/>
+---
+> {#hru#}¦HRU, IX.P. {@-hruṇāti@}: {%pp.%} {@hruta,@} crooked. <lbinfo n="5"/>
+146139c146139
+< <> {%pp.%} {@blādita@}| {@ā,@} {%cs. id.%}. {@pra,@} be refreshed, <lbinfo n="2"/>
+---
+> <> {%pp.%} {@blādita@}. {@ā,@} {%cs. id.%}. {@pra,@} be refreshed, <lbinfo n="2"/>
+146145c146145
+< <>{%a.%} ({@ikā@}) cooling, refreshing ({%v|%}); {@-ana,@} {%a.%} 
+---
+> <>{%a.%} ({@ikā@}) cooling, refreshing ({%V.%}); {@-ana,@} {%a.%} 
+146177c146177
+< <>{@nāmnā@} --, call by name ({%c|%}): {%pp|%} {@hūtá,@} called, 
+---
+> <>{@nāmnā@} --, call by name ({%C.%}): {%pp.%} {@hūtá,@} called, 
+146220c146220
+< <>{@-as, -juhuras@}: {%pl|%} {@juhurat, juhurāṇá@}| {@ā,@} 
+---
+> <>{@-as, -juhuras@}: {%pl.%} {@juhurat, juhurāṇá@}. {@ā,@} 
+146367c146367
+< <>({%about a%} handful); {@-kṛta@}, {%pp|%} kṛ: {@-tva,@} 
+---
+> <>({%about a%} handful); {@-kṛta@}, {%pp.%} kṛ: {@-tva,@} 
+146530c146530
+< <>{@-ghāṇa@}, {%m|%} = -ghaṇa; {@-ghoṣa,@} {%m.%} sound, 
+---
+> <>{@-ghāṇa@}, {%m.%} = -ghaṇa; {@-ghoṣa,@} {%m.%} sound, 
+146555c146555
+< <>{@-ṇa@}, {%n|%} setting to work: {@ī,@} {%f. king of%} supplementary <lbinfo n="6"/>
+---
+> <>{@-ṇa@}, {%n.%} setting to work: {@ī,@} {%f. king of%} supplementary <lbinfo n="6"/>
