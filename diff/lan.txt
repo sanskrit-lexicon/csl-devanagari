@@ -1,0 +1,774 @@
+540c540
+< <div n="2"/>{@—5|@} {@átho,@} {%<ab>i. e.</ab>%} {@átha u,@} and also, <ls n="lan,90,16">90<sup>16</sup></ls>; <div n="2"/>{@—6.@}
+---
+> <div n="2"/>{@—5.@} {@átho,@} {%<ab>i. e.</ab>%} {@átha u,@} and also, <ls n="lan,90,16">90<sup>16</sup></ls>; <div n="2"/>{@—6.@}
+546c546
+< {@vā;@} <div n="2"/>{@—7|@} {@atha vā,@} or rather, <ls n="lan,26,7">26<sup>7</sup></ls><ab>N.</ab> [<ab>pron.</ab>
+---
+> {@vā;@} <div n="2"/>{@—7.@} {@atha vā,@} or rather, <ls n="lan,26,7">26<sup>7</sup></ls><ab>N.</ab> [<ab>pron.</ab>
+759c759
+< {%see%} {@ṛtvij|@} [{@√adhvarya,@} <ls n="wg,1178">1178h</ls>.]
+---
+> {%see%} {@ṛtvij.@} [{@√adhvarya,@} <ls n="wg,1178">1178h</ls>.]
+1233c1233
+< {@prati h|,@} love of one towards
+---
+> {@prati h.,@} love of one towards
+1599c1599
+< {@amāvāsyà,@}¦ {%<ab>a.</ab>%} of {@amāvāsa;@} {%<ab>f|</ab>%} {@-ā́,@} {%<ab>w.</ab> or%}
+---
+> {@amāvāsyà,@}¦ {%<ab>a.</ab>%} of {@amāvāsa;@} {%<ab>f.</ab>%} {@-ā́,@} {%<ab>w.</ab> or%}
+1736c1736
+< greedy; <div n="2"/>{@—3|@} hostile; {%as <ab>m|</ab>%} enemy| [{@√ṛ,@}
+---
+> greedy; <div n="2"/>{@—3.@} hostile; {%as <ab>m.</ab>%} enemy. [{@√ṛ,@}
+2299c2299
+< <ls n="wg,1226">1226</ls> (<ab>cf.</ab> <ls n="wg,1188">1188f</ls>), and {@as-u@} <ab>fr|</ab> {@√1as,@}
+---
+> <ls n="wg,1226">1226</ls> (<ab>cf.</ab> <ls n="wg,1188">1188f</ls>), and {@as-u@} <ab>fr.</ab> {@√1as,@}
+2465c2465
+< <div n="2"/>{@—2|@} mine| [{@√3kṛ + ā,@} <ab>q. v.</ab>]
+---
+> <div n="2"/>{@—2.@} mine. [{@√3kṛ + ā,@} <ab>q. v.</ab>]
+2498c2498
+< <div n="2"/>{@—2|@} {%<ab>fig|</ab>%} confused; agitated| [{@√3kṛ + ā,@}
+---
+> <div n="2"/>{@—2.@} {%<ab>fig.</ab>%} confused; agitated. [{@√3kṛ + ā,@}
+2502c2502
+< {@√ākulaya@}¦ {@(ākulayati)@}| confuse; {@ākulita,@} <lbinfo n="āku-lita,"/>
+---
+> {@√ākulaya@}¦ {@(ākulayati)@}. confuse; {@ākulita,@} <lbinfo n="āku-lita,"/>
+2583c2583
+< <ab>etc.</ab>); {%<ab>cf.</ab>%} {@ghṛta|@} [{@√añj + ā,@} see <ls n="lan,100,20">100<sup>20</sup></ls>:
+---
+> <ab>etc.</ab>); {%<ab>cf.</ab>%} {@ghṛta.@} [{@√añj + ā,@} see <ls n="lan,100,20">100<sup>20</sup></ls>:
+2714c2714
+< {@ādya,@}¦ {%<ab>a.</ab>%} first; {%<ab>equiv.</ab> to%} {@ādi@} {%in use%} 2| [{@ādi,@}
+---
+> {@ādya,@}¦ {%<ab>a.</ab>%} first; {%<ab>equiv.</ab> to%} {@ādi@} {%in use%} 2. [{@ādi,@}
+3090c3090
+< {%later word%} homa. [{@√hu + ā:@} <ab>w|</ab> {@-huti,@} <ab>cf.</ab>
+---
+> {%later word%} homa. [{@√hu + ā:@} <ab>w.</ab> {@-huti,@} <ab>cf.</ab>
+3171c3171
+< {@íj,@}¦ {%<ab>vbl.</ab>%} sacrificing, {%in%} {@ṛtv-íj|@} [{@√yaj,@} <ls n="wg,252">252.</ls>]
+---
+> {@íj,@}¦ {%<ab>vbl.</ab>%} sacrificing, {%in%} {@ṛtv-íj.@} [{@√yaj,@} <ls n="wg,252">252.</ls>]
+3225c3225
+< {@iti@} {%doubled,%} <ls n="lan,60,11">60<sup>11</sup></ls>; <div n="2"/>{@—5|@} {@iti ha = iti,@} <ls n="lan,12,8">12<sup>8</sup></ls>,
+---
+> {@iti@} {%doubled,%} <ls n="lan,60,11">60<sup>11</sup></ls>; <div n="2"/>{@—5.@} {@iti ha = iti,@} <ls n="lan,12,8">12<sup>8</sup></ls>,
+3235c3235
+< {@itthā́@}¦ {%(<ab>v|</ab> only) and%} {@itthám,@} {%<ab>adv.</ab>%} in this
+---
+> {@itthā́@}¦ {%(<ab>V.</ab> only) and%} {@itthám,@} {%<ab>adv.</ab>%} in this
+3523,3525c3523,3525
+< {@īm,@}¦ {%<ab>encl.</ab>%} <div n="2"/>{@—1|@} {%as <ab>acc|</ab> <ab>s|</ab> of <ab>pron|</ab> root%} {@i,@} him,
+< her, it; him, <ls n="lan,79,7">79<sup>7</sup></ls>; <div n="2"/>{@—2|@} {%<ab>indef|</ab>,%} {@yá īm,@}
+< {%quicunque,%} <ab>RV.</ab> x. <ls n="wg,125">125.</ls> 4; <div n="2"/>{@—3| ká īm,@} who
+---
+> {@īm,@}¦ {%<ab>encl.</ab>%} <div n="2"/>{@—1.@} {%as <ab>acc.</ab> <ab>s.</ab> of <ab>pron.</ab> root%} {@i,@} him,
+> her, it; him, <ls n="lan,79,7">79<sup>7</sup></ls>; <div n="2"/>{@—2.@} {%<ab>indef.</ab>,%} {@yá īm,@}
+> {%quicunque,%} <ab>RV.</ab> x. <ls n="wg,125">125.</ls> 4; <div n="2"/>{@—3. ká īm,@} who
+3652c3652
+< diverse. [{@ud + ca@} <ab>w|</ab> {@ava + ca,@} <ls n="wg,1314">1314b</ls>.]
+---
+> diverse. [{@ud + ca@} <ab>w.</ab> {@ava + ca,@} <ls n="wg,1314">1314b</ls>.]
+4361c4361
+< <ls n="lan,75,7">75<sup>7</sup></ls>; <div n="2"/>{@—3|@} truth, <ls n="lan,98,8, 9">98<sup>8, 9</sup></ls>; {@--ṛtena,@} rightly.
+---
+> <ls n="lan,75,7">75<sup>7</sup></ls>; <div n="2"/>{@—3.@} truth, <ls n="lan,98,8, 9">98<sup>8, 9</sup></ls>; {@--ṛtena,@} rightly.
+4384c4384
+< {%<ab>i. e.</ab>%} season; <div n="2"/>{@—3|@} the menses| [{@√ṛ,@} <ls n="wg,1161">1161a</ls>:
+---
+> {%<ab>i. e.</ab>%} season; <div n="2"/>{@—3.@} the menses. [{@√ṛ,@} <ls n="wg,1161">1161a</ls>:
+4574c4574
+< {@etā-dṛ́śa,@}¦ {%<ab>a.</ab>%} such; {@et|…yat,@} such…
+---
+> {@etā-dṛ́śa,@}¦ {%<ab>a.</ab>%} such; {@et.…yat,@} such…
+4736c4736
+< (<ls n="lan,18,17">18<sup>17</sup></ls>); {@kim@} {%<ab>w|</ab> <ab>instr|</ab>: <ab>e| g|</ab>%} {@kiṃ yuddhena,@}
+---
+> (<ls n="lan,18,17">18<sup>17</sup></ls>); {@kim@} {%<ab>w.</ab> <ab>instr.</ab>: <ab>e. g.</ab>%} {@kiṃ yuddhena,@}
+4750c4750
+< us not over to any foe; <div n="2"/>{@—2b| ka ca,@}
+---
+> us not over to any foe; <div n="2"/>{@—2b. ka ca,@}
+4769c4769
+< <div n="2"/>{@—2e| ka api,@} something, somebody, <ls n="lan,17,11">17<sup>11</sup></ls>;
+---
+> <div n="2"/>{@—2e. ka api,@} something, somebody, <ls n="lan,17,11">17<sup>11</sup></ls>;
+4772c4772
+< <div n="1"/><div n="2"/>{@—3|@} {%derivs of%} {@ka,@} {%see%} <ls n="wg,505">505</ls>; <div n="2"/>{@—4.@} {%exclamatory,%} <lbinfo n="exclam-atory,"/>
+---
+> <div n="1"/><div n="2"/>{@—3.@} {%derivs of%} {@ka,@} {%see%} <ls n="wg,505">505</ls>; <div n="2"/>{@—4.@} {%exclamatory,%} <lbinfo n="exclam-atory,"/>
+4963c4963
+< {%word,%} <ls n="lan,79,11">79<sup>11</sup></ls>; <div n="2"/>{@—2|@} {%<ab>interr|</ab> <ab>pcl|</ab>,%} <ls n="lan,88,10">88<sup>10</sup></ls>| [{@ka,@}
+---
+> {%word,%} <ls n="lan,79,11">79<sup>11</sup></ls>; <div n="2"/>{@—2.@} {%<ab>interr.</ab> <ab>pcl.</ab>,%} <ls n="lan,88,10">88<sup>10</sup></ls>. [{@ka,@}
+5320c5320
+< {@kím,@}¦ <div n="2"/>{@—1|@} {%as <ab>nom|</ab> <ab>acc|</ab> <ab>s|</ab> <ab>n|</ab> to%} {@ká,@} {%see%} {@1ká;@}
+---
+> {@kím,@}¦ <div n="2"/>{@—1.@} {%as <ab>nom.</ab> <ab>acc.</ab> <ab>s.</ab> <ab>n.</ab> to%} {@ká,@} {%see%} {@1ká;@}
+5324c5324
+< <div n="2"/>{@—4|@} {%in connection <ab>w|</ab> other pcls:%} {@kiṃ ca,@}
+---
+> <div n="2"/>{@—4.@} {%in connection <ab>w.</ab> other pcls:%} {@kiṃ ca,@}
+5383c5383
+< <div n="2"/>{@—2|@} repeat; call| [{@kīrtí,@} <ls n="wg,1061">1061<sup>2</sup></ls>.]
+---
+> <div n="2"/>{@—2.@} repeat; call. [{@kīrtí,@} <ls n="wg,1061">1061<sup>2</sup></ls>.]
+5449c5449
+< war {%--see%} {@kārttikeya;@} {%--<ab>f|</ab>%} {@-rī́,@} girl. [<ab>cf.</ab>
+---
+> war {%--see%} {@kārttikeya;@} {%--<ab>f.</ab>%} {@-rī́,@} girl. [<ab>cf.</ab>
+5576c5576
+< <div n="2"/>{@—10|@} {%<ab>w|</ab> <ab>adv|</ab> in%} {@-dhā,@} divide in parts,
+---
+> <div n="2"/>{@—10.@} {%<ab>w.</ab> <ab>adv.</ab> in%} {@-dhā,@} divide in parts,
+5605c5605
+< {@apakṛ|@} [<ab>w|</ab> the use of {@upa,@} <ab>cf.</ab> that of {%sub%}
+---
+> {@apakṛ.@} [<ab>w.</ab> the use of {@upa,@} <ab>cf.</ab> that of {%sub%}
+5804c5804
+< {@√kṛṣṇāya@}¦ ({@kṛṣṇāyáte@})| blacken| [{@kṛṣṇá,@}
+---
+> {@√kṛṣṇāya@}¦ ({@kṛṣṇāyáte@}). blacken. [{@kṛṣṇá,@}
+5932c5932
+< ceremony, {%<ab>cf.</ab>%} {@yajñakratu|@} [{@√1kṛ,@} ‘do,
+---
+> ceremony, {%<ab>cf.</ab>%} {@yajñakratu.@} [{@√1kṛ,@} ‘do,
+6105c6105
+< it. [from {@kṣa = √1kṣi@} 2: <ab>cf|</ab> {@kṣatra-pa,@}
+---
+> it. [from {@kṣa = √1kṣi@} 2: <ab>cf.</ab> {@kṣatra-pa,@}
+6178c6178
+< <div n="1"/><div n="2"/>{@—1| kṣé-ti,@} {%3d <ab>pl.</ab>%} {@kṣi-y-ánti:@} abide {%or%}
+---
+> <div n="1"/><div n="2"/>{@—1. kṣé-ti,@} {%3d <ab>pl.</ab>%} {@kṣi-y-ánti:@} abide {%or%}
+6202c6202
+< <ab>cf.</ab> {@kṣar:@} <ab>w|</ab> the secondary {@kṣa-n,@} <ab>cf.</ab>
+---
+> <ab>cf.</ab> {@kṣar:@} <ab>w.</ab> the secondary {@kṣa-n,@} <ab>cf.</ab>
+6428c6428
+< going, {%in%} {@durga, suga|@} [{@√gam,@} <ab>cf.</ab> <ls n="wg,333">333.</ls>]
+---
+> going, {%in%} {@durga, suga.@} [{@√gam,@} <ab>cf.</ab> <ls n="wg,333">333.</ls>]
+6479c6479
+<  {%in%} {@durgata, sugata|@} [{@√gam,@}
+---
+>  {%in%} {@durgata, sugata.@} [{@√gam,@}
+6539c6539
+< {@gabhīrá@}¦ ({%<ab>v|</ab>, later%}) {@gambhīrá,@} {%<ab>a.</ab>%} deep.
+---
+> {@gabhīrá@}¦ ({%<ab>V.</ab>, later%}) {@gambhīrá,@} {%<ab>a.</ab>%} deep.
+6642c6642
+< {%and so%} <div n="2"/>{@—4|@} a new-born child| [{@√grabh,@}
+---
+> {%and so%} <div n="2"/>{@—4.@} a new-born child. [{@√grabh,@}
+6797c6797
+< [<ls n="wg,222">222<sup>3</sup></ls>]; {@gū́hitum; -gúhya@})| hide; {@gūḻhá,@}
+---
+> [<ls n="wg,222">222<sup>3</sup></ls>]; {@gū́hitum; -gúhya@}). hide; {@gūḻhá,@}
+6910c6910
+< <div n="2"/>{@—4|@} {%observe that%} {@gavyūti, gotra, gopa,@}
+---
+> <div n="2"/>{@—4.@} {%observe that%} {@gavyūti, gotra, gopa,@}
+6962c6962
+< {@go@} 4); {%<ab>w|</ab>%} {@ānaḍuha,@} dung of a steer,
+---
+> {@go@} 4); {%<ab>w.</ab>%} {@ānaḍuha,@} dung of a steer,
+6981c6981
+< the three {@guṇa's,@} {%see%} {@guṇa@} 3| [{@guṇa,@}
+---
+> the three {@guṇa's,@} {%see%} {@guṇa@} 3. [{@guṇa,@}
+7195c7195
+< ({%<ab>e. g.</ab>%} <ls n="lan,24,23">24<sup>23</sup></ls>; {%so%} <ls n="lan,34,18">34<sup>18</sup></ls>; <ls n="lan,41,7">41<sup>7</sup></ls>); <div n="2"/>{@—3| anyac ca,@}
+---
+> ({%<ab>e. g.</ab>%} <ls n="lan,24,23">24<sup>23</sup></ls>; {%so%} <ls n="lan,34,18">34<sup>18</sup></ls>; <ls n="lan,41,7">41<sup>7</sup></ls>); <div n="2"/>{@—3. anyac ca,@}
+7273c7273
+< {@catúr@}¦ [<ls n="wg,482">482d</ls>], {%<ab>num|</ab>%} four| [<ab>w|</ab> {@catvā́ras,@} <ab>cf.</ab>
+---
+> {@catúr@}¦ [<ls n="wg,482">482d</ls>], {%<ab>num.</ab>%} four. [<ab>w.</ab> {@catvā́ras,@} <ab>cf.</ab>
+7320c7320
+< form of {@√kan:@} <ab>cf|</ab> {@√kan, kāma,@}
+---
+> form of {@√kan:@} <ab>cf.</ab> {@√kan, kāma,@}
+7837c7837
+< moves, {%<ab>equiv.</ab> to the ancient%} {@jágat|@} [{@√gam,@}
+---
+> moves, {%<ab>equiv.</ab> to the ancient%} {@jágat.@} [{@√gam,@}
+7981c7981
+< {@jā:@} <ab>cf|</ab> {@já,@} later form of {@jā́.@}]
+---
+> {@jā:@} <ab>cf.</ab> {@já,@} later form of {@jā́.@}]
+8352c8352
+< {@sa bhīmas, bhīma,@} <ls n="lan,1,15">1<sup>15</sup></ls>. [<ab>w.</ab> {@sa, sā, tad,@}
+---
+> {@sa bhīmas, Bhīma,@} <ls n="lan,1,15">1<sup>15</sup></ls>. [<ab>w.</ab> {@sa, sā, tad,@}
+8460c8460
+< {%see%} {@ca@} 3; <div n="2"/>{@—4| tathā_api,@} so even, even
+---
+> {%see%} {@ca@} 3; <div n="2"/>{@—4. tathā_api,@} so even, even
+8469c8469
+< {@tád,@}¦ <div n="2"/>{@—1|@} {%as <ab>nom|</ab> <ab>acc|</ab> <ab>s|</ab> <ab>n|</ab> to%} {@ta,@} {%see%} {@ta;@} {%used%}
+---
+> {@tád,@}¦ <div n="2"/>{@—1.@} {%as <ab>nom.</ab> <ab>acc.</ab> <ab>s.</ab> <ab>n.</ab> to%} {@ta,@} {%see%} {@ta;@} {%used%}
+8637c8637
+< {@tandrita,@}¦ {%<ab>a.</ab>%} wearied, {%only <ab>w.</ab>%} {@a-|@} [{@tandrā,@} <lbinfo n="[tand-rā,"/>
+---
+> {@tandrita,@}¦ {%<ab>a.</ab>%} wearied, {%only <ab>w.</ab>%} {@a-.@} [{@tandrā,@} <lbinfo n="[tand-rā,"/>
+8686c8686
+< <ab>prob.</ab>, ‘be dark,’ see {@tamas:@} <ab>cf|</ab> {@támisrā,@}
+---
+> <ab>prob.</ab>, ‘be dark,’ see {@tamas:@} <ab>cf.</ab> {@támisrā,@}
+8754c8754
+< {@tala,@}¦ {%<ab>m.</ab> <ab>n.</ab>%} <div n="2"/>{@—1|@} surface; {@-tale,@} {%at end of%}
+---
+> {@tala,@}¦ {%<ab>m.</ab> <ab>n.</ab>%} <div n="2"/>{@—1.@} surface; {@-tale,@} {%at end of%}
+8827c8827
+< <ls n="lan,101,9">101<sup>9</sup></ls>, <ls n="lan,105,4">105<sup>4</sup></ls>; <div n="2"/>{@—2|@} {@tāvat,@} {%as <ab>adv.</ab>%} so much;
+---
+> <ls n="lan,101,9">101<sup>9</sup></ls>, <ls n="lan,105,4">105<sup>4</sup></ls>; <div n="2"/>{@—2.@} {@tāvat,@} {%as <ab>adv.</ab>%} so much;
+8877c8877
+< upright--{@ūrdhva@}); <div n="2"/>{@—3|@} {%<ab>acc|</ab> <ab>s|</ab> <ab>n|</ab>%} {@tiryak,@}
+---
+> upright--{@ūrdhva@}); <div n="2"/>{@—3.@} {%<ab>acc.</ab> <ab>s.</ab> <ab>n.</ab>%} {@tiryak,@}
+8933c8933
+< {@1turá,@}¦ {%<ab>a.</ab>%} <div n="2"/>{@—1|@} swift, {%<ab>esp|</ab>%} of horses; {@-am,@}
+---
+> {@1turá,@}¦ {%<ab>a.</ab>%} <div n="2"/>{@—1.@} swift, {%<ab>esp.</ab>%} of horses; {@-am,@}
+9290c9290
+< {%<ab>pron.</ab>%} thou; {%see%} {@tvat|@} [<ab>w|</ab> the real root {@tu,@}
+---
+> {%<ab>pron.</ab>%} thou; {%see%} {@tvat.@} [<ab>w.</ab> the real root {@tu,@}
+9296c9296
+< {@tvaritá; tvaráyati@})| hasten; {@tvarita,@}
+---
+> {@tvaritá; tvaráyati@}). hasten; {@tvarita,@}
+9564c9564
+< ceremonies, {%<ab>esp.</ab>%} {@kuśa-grass,@} Poa
+---
+> ceremonies, {%<ab>esp.</ab>%} {@Kuśa-grass,@} Poa
+9632c9632
+< be pained {%or%} tortured; <div n="2"/>{@—3|@} {@dagdha,@} {%see%}
+---
+> be pained {%or%} tortured; <div n="2"/>{@—3.@} {@dagdha,@} {%see%}
+9818c9818
+< <ab>RV.</ab> vi. 51. 5; <div n="2"/>{@—1b| duhitā́ divás,@} of the
+---
+> <ab>RV.</ab> vi. 51. 5; <div n="2"/>{@—1b. duhitā́ divás,@} of the
+9909c9909
+< {%in%} {@su-dītí|@} [{@√dī,@} <ls n="wg,1157">1157.</ls> 1a.]
+---
+> {%in%} {@su-dītí.@} [{@√dī,@} <ls n="wg,1157">1157.</ls> 1a.]
+10247c10247
+< {@√dṛh@}¦ ({@dṛ́ṃhati, -te@} [<ab>mg</ab> 1, {%<ab>cf|</ab>%} <ls n="wg,758">758]</ls>; {@dṛ́hyati,@}
+---
+> {@√dṛh@}¦ ({@dṛ́ṃhati, -te@} [<ab>mg</ab> 1, {%<ab>cf.</ab>%} <ls n="wg,758">758]</ls>; {@dṛ́hyati,@}
+10266c10266
+< {@tridaśa@}); <div n="2"/>{@—2b|@} {@víśve devā́s,@} all the gods;
+---
+> {@tridaśa@}); <div n="2"/>{@—2b.@} {@víśve devā́s,@} all the gods;
+10269,10270c10269,10270
+< {%and see%} {@viśvádeva@}); <div n="2"/>{@—2c| devī́,@} The Goddess, <lbinfo n="God-dess,"/>
+<  {%<ab>i. e.</ab>%} Śiva's wife, Durgā; <div n="2"/>{@—2d| -deva,@}
+---
+> {%and see%} {@viśvádeva@}); <div n="2"/>{@—2c. devī́,@} The Goddess, <lbinfo n="God-dess,"/>
+>  {%<ab>i. e.</ab>%} Śiva's wife, Durgā; <div n="2"/>{@—2d. -deva,@}
+10272c10272
+< {%so, <ab>e. g.</ab>,%} {@guṇadeva; --3|@} {%<ab>m|</ab>%} {@manuṣya-deva,@}
+---
+> {%so, <ab>e. g.</ab>,%} {@guṇadeva; --3.@} {%<ab>m.</ab>%} {@manuṣya-deva,@}
+10363c10363
+< the body, {%see%} {@muṣka-, skandha-|@} [{@√diś,@}
+---
+> the body, {%see%} {@muṣka-, skandha-.@} [{@√diś,@}
+10405c10405
+< Vedic hymn; <div n="2"/>{@—2|@} idol, <ls n="lan,62,18">62<sup>18</sup></ls>| [{@devatā,@}
+---
+> Vedic hymn; <div n="2"/>{@—2.@} idol, <ls n="lan,62,18">62<sup>18</sup></ls>. [{@devatā,@}
+10765c10765
+< <div n="2"/>{@—1a| dharmeṇa,@} {%<ab>adv.</ab>:%} as was right, <ls n="lan,14,17">14<sup>17</sup></ls>;
+---
+> <div n="2"/>{@—1a. dharmeṇa,@} {%<ab>adv.</ab>:%} as was right, <ls n="lan,14,17">14<sup>17</sup></ls>;
+10823c10823
+< {@√dhav@}¦ ({@dhávate@})| run| [see under {@√dhū,@}
+---
+> {@√dhav@}¦ ({@dhávate@}). run. [see under {@√dhū,@}
+10833c10833
+< {@-te;@} {%<ab>v|</ab>%} {@-dhita,@} {%later%} {@hitá@} [<ls n="wg,954">954c</ls>]; {@dhā́tum;@}
+---
+> {@-te;@} {%<ab>V.</ab>%} {@-dhita,@} {%later%} {@hitá@} [<ls n="wg,954">954c</ls>]; {@dhā́tum;@}
+10849c10849
+< <div n="2"/>{@—10| hita,@} {%see <ab>s. v.</ab>;%} <div n="2"/>{@—11.@} {%<ab>desid.</ab> <ab>act.</ab>%} desire
+---
+> <div n="2"/>{@—10. hita,@} {%see <ab>s. v.</ab>;%} <div n="2"/>{@—11.@} {%<ab>desid.</ab> <ab>act.</ab>%} desire
+11022c11022
+< {@dhī́@}¦ [<ls n="wg,351">351]</ls>, {%<ab>f|</ab>%} <div n="2"/>{@—1|@} thought; {@dhiyā́-dhiyā,@}
+---
+> {@dhī́@}¦ [<ls n="wg,351">351]</ls>, {%<ab>f.</ab>%} <div n="2"/>{@—1.@} thought; {@dhiyā́-dhiyā,@}
+11054c11054
+< man; <div n="2"/>{@—2|@} a fisher| [{@dhī́,@} <ls n="wg,1171">1171.</ls>]
+---
+> man; <div n="2"/>{@—2.@} a fisher. [{@dhī́,@} <ls n="wg,1171">1171.</ls>]
+11219c11219
+< vanish, be off; <div n="2"/>{@—3|@} {%only in <ab>ppl|</ab>%} {@dhvasta,@}
+---
+> vanish, be off; <div n="2"/>{@—3.@} {%only in <ab>ppl.</ab>%} {@dhvasta,@}
+11231c11231
+< ). <div n="2"/>{@—1|@} cover one's self; {@dhvānta,@}
+---
+> ). <div n="2"/>{@—1.@} cover one's self; {@dhvānta,@}
+11259c11259
+< {@ahám|@} [<ab>w|</ab> {@nas,@} ‘us,’ <ab>cf.</ab> <lang n="greek">νώ</lang>, ‘we two,’
+---
+> {@ahám.@} [<ab>w.</ab> {@nas,@} ‘us,’ <ab>cf.</ab> <lang n="greek">νώ</lang>, ‘we two,’
+11271c11271
+< <ls n="lan,2,12">2<sup>12</sup></ls>, <ls n="lan,63,4">63<sup>4</sup></ls>; <div n="2"/>{@—1c|@} {%combinations:%} {@na ca,@} <ls n="lan,8,16">8<sup>16</sup></ls>;
+---
+> <ls n="lan,2,12">2<sup>12</sup></ls>, <ls n="lan,63,4">63<sup>4</sup></ls>; <div n="2"/>{@—1c.@} {%combinations:%} {@na ca,@} <ls n="lan,8,16">8<sup>16</sup></ls>;
+11286c11286
+< {%see%} {@mā́; --1j| ná,@} ‘not,’ {%coalesces metrically %} <lbinfo n="met-rically"/>
+---
+> {%see%} {@mā́; --1j. ná,@} ‘not,’ {%coalesces metrically %} <lbinfo n="met-rically"/>
+11667c11667
+< {%times, <ab>e. g.</ab>%} <ls n="lan,19,11">19<sup>11</sup></ls>; <div n="2"/>{@—3|@} {@nāma,@} {%<ab>adv.</ab>%} [<ls n="wg,1111">1111b</ls>],
+---
+> {%times, <ab>e. g.</ab>%} <ls n="lan,19,11">19<sup>11</sup></ls>; <div n="2"/>{@—3.@} {@nāma,@} {%<ab>adv.</ab>%} [<ls n="wg,1111">1111b</ls>],
+12063c12063
+< ethics; <div n="2"/>{@—2|@} leading| [{@√nī,@} ‘condúct.’]
+---
+> ethics; <div n="2"/>{@—2.@} leading. [{@√nī,@} ‘condúct.’]
+12134c12134
+< <ls n="lan,78,12">78<sup>12</sup></ls>; <div n="2"/>{@—2|@} {%asseverative:%} {@nakir nu,@} surely
+---
+> <ls n="lan,78,12">78<sup>12</sup></ls>; <div n="2"/>{@—2.@} {%asseverative:%} {@nakir nu,@} surely
+12606c12606
+< <div n="2"/>{@—4|@} {%<ab>a|</ab> and <ab>subst|</ab>%} other, <ls n="lan,64,13">64<sup>13</sup></ls>; {@eka…para,@}
+---
+> <div n="2"/>{@—4.@} {%<ab>a.</ab> and <ab>subst.</ab>%} other, <ls n="lan,64,13">64<sup>13</sup></ls>; {@eka…para,@}
+12705c12705
+< {@párāñc@}¦ [<ls n="wg,409">409a</ls>], {%<ab>f|</ab>%} {@párācī,@} {%<ab>a.</ab>%} directed away;
+---
+> {@párāñc@}¦ [<ls n="wg,409">409a</ls>], {%<ab>f.</ab>%} {@párācī,@} {%<ab>a.</ab>%} directed away;
+12802c12802
+< back. [for {@paro|'kṣa,@} {%<ab>i. e.</ab>%} {@parás + akṣá,@}
+---
+> back. [for {@paro.'kṣa,@} {%<ab>i. e.</ab>%} {@parás + akṣá,@}
+13357c13357
+< {@púnar,@}¦ {%<ab>adv.</ab>%} <div n="2"/>{@—1|@} back; home; {%<ab>w|</ab>%} {@ā-gam,@}
+---
+> {@púnar,@}¦ {%<ab>adv.</ab>%} <div n="2"/>{@—1.@} back; home; {%<ab>w.</ab>%} {@ā-gam,@}
+13411c13411
+< {%and%} {@dhā:@} {%<ab>w|</ab>%} {@kṛ,@} put in front, appoint; {%<ab>w.</ab>%}
+---
+> {%and%} {@dhā:@} {%<ab>w.</ab>%} {@kṛ,@} put in front, appoint; {%<ab>w.</ab>%}
+13511c13511
+< ‘lotus blossom,’ {%and%} {@puṣkalá|@} [{@√puṣ,@}
+---
+> ‘lotus blossom,’ {%and%} {@puṣkalá.@} [{@√puṣ,@}
+13610c13610
+<  <div n="2"/>{@—2|@} {%used like%} {@pūrva@} 3| [{@pūrva,@}
+---
+>  <div n="2"/>{@—2.@} {%used like%} {@pūrva@} 3. [{@pūrva,@}
+14010c14010
+< {@pratyáñc@}¦ [<ls n="wg,408">408]</ls>, {%<ab>f|</ab>%} [<ls n="wg,410">410]</ls> {@pratīcī́,@} {%<ab>a.</ab>%} <div n="2"/>{@—1.@}
+---
+> {@pratyáñc@}¦ [<ls n="wg,408">408]</ls>, {%<ab>f.</ab>%} [<ls n="wg,410">410]</ls> {@pratīcī́,@} {%<ab>a.</ab>%} <div n="2"/>{@—1.@}
+14068c14068
+< right; <div n="2"/>{@—2|@} {@-ám,@} {%<ab>adv.</ab>%} to the right, so that
+---
+> right; <div n="2"/>{@—2.@} {@-ám,@} {%<ab>adv.</ab>%} to the right, so that
+14274c14274
+< {@dvi-|@} [{@√vraj + pra,@} <ls n="wg,1183">1183<sup>3</sup></ls>: for <ab>mg</ab>, <ab>cf.</ab>
+---
+> {@dvi-.@} [{@√vraj + pra,@} <ls n="wg,1183">1183<sup>3</sup></ls>: for <ab>mg</ab>, <ab>cf.</ab>
+14279c14279
+< {@praśís@}¦ [<ls n="wg,392">392]</ls>, {%<ab>f|</ab>%} command| [{@√śās + pra,@}
+---
+> {@praśís@}¦ [<ls n="wg,392">392]</ls>, {%<ab>f.</ab>%} command. [{@√śās + pra,@}
+14303c14303
+< {@prasiddha|@} [{@√2sidh,@} ‘succeed,’ {@+ pra.@}]
+---
+> {@prasiddha.@} [{@√2sidh,@} ‘succeed,’ {@+ pra.@}]
+14307c14307
+< <div n="2"/>{@—2|@} rock, <ls n="lan,33,10">33<sup>10</sup></ls>| [{@√stṛ,@} ‘strew,’ {@+ pra:@}
+---
+> <div n="2"/>{@—2.@} rock, <ls n="lan,33,10">33<sup>10</sup></ls>. [{@√stṛ,@} ‘strew,’ {@+ pra:@}
+14387c14387
+< {@prā́ñc@}¦ [<ls n="wg,408">408]</ls>, {%<ab>f|</ab>%} {@prā́cī,@} {%<ab>a.</ab>%} <div n="2"/>{@—1.@} directed forwards; <lbinfo n="for-wards;"/>
+---
+> {@prā́ñc@}¦ [<ls n="wg,408">408]</ls>, {%<ab>f.</ab>%} {@prā́cī,@} {%<ab>a.</ab>%} <div n="2"/>{@—1.@} directed forwards; <lbinfo n="for-wards;"/>
+14394c14394
+< <ls n="lan,101,3">101<sup>3</sup></ls>; <div n="2"/>{@—3| prāk,@} {%<ab>acc.</ab> <ab>s.</ab> <ab>n.</ab> as <ab>adv.</ab>%} before:
+---
+> <ls n="lan,101,3">101<sup>3</sup></ls>; <div n="2"/>{@—3. prāk,@} {%<ab>acc.</ab> <ab>s.</ab> <ab>n.</ab> as <ab>adv.</ab>%} before:
+14504c14504
+< {%<ab>w.</ab> <ab>gen.</ab>%} (<ls n="wg,296">296b</ls>), <ls n="lan,84,18">84<sup>18</sup></ls>; <div n="2"/>{@—1b| priyā,@} {%<ab>f.</ab>%} the
+---
+> {%<ab>w.</ab> <ab>gen.</ab>%} (<ls n="wg,296">296b</ls>), <ls n="lan,84,18">84<sup>18</sup></ls>; <div n="2"/>{@—1b. priyā,@} {%<ab>f.</ab>%} the
+14537,14538c14537,14538
+<  <div n="2"/>{@—1b| prīṇā́ti,@} have pleasure in;
+< <div n="2"/>{@—1c| prīṇīté,@} be glad {%or%} content; <div n="2"/>{@—2.@}
+---
+>  <div n="2"/>{@—1b. prīṇā́ti,@} have pleasure in;
+> <div n="2"/>{@—1c. prīṇīté,@} be glad {%or%} content; <div n="2"/>{@—2.@}
+14551c14551
+< {@prīti,@}¦ {%<ab>f.</ab>%} <div n="2"/>{@—1|@} pleasure; {@prītyā,@} with pleasure, <lbinfo n="pleas-ure,"/>
+---
+> {@prīti,@}¦ {%<ab>f.</ab>%} <div n="2"/>{@—1.@} pleasure; {@prītyā,@} with pleasure, <lbinfo n="pleas-ure,"/>
+14569c14569
+< world ({%<ab>opp.</ab> to%} {@iha@})| [{@√i + pra,@} <ls n="wg,992">992.</ls>]
+---
+> world ({%<ab>opp.</ab> to%} {@iha@}). [{@√i + pra,@} <ls n="wg,992">992.</ls>]
+14601c14601
+< <div n="2"/>{@—6|@} spring; {@--pluta,@} floating, {%and so%} ({%see%}
+---
+> <div n="2"/>{@—6.@} spring; {@--pluta,@} floating, {%and so%} ({%see%}
+15160c15160
+< {@brāhmá,@}¦ {%<ab>f.</ab>%} {@-ī,@} {%<ab>a.</ab>%} <div n="2"/>{@—1|@} pertaining to {@bráhman,@} <lbinfo n="bráh-man,"/>
+---
+> {@brāhmá,@}¦ {%<ab>f.</ab>%} {@-ī,@} {%<ab>a.</ab>%} <div n="2"/>{@—1.@} pertaining to {@bráhman,@} <lbinfo n="bráh-man,"/>
+15255c15255
+< <div n="2"/>{@—4|@} loveliness| [{@√bhaj,@} <ls n="wg,216">216.</ls> 1: --1. <ab>cf.</ab>
+---
+> <div n="2"/>{@—4.@} loveliness. [{@√bhaj,@} <ls n="wg,216">216.</ls> 1: --1. <ab>cf.</ab>
+15699c15699
+< {@bhī́@}¦ [<ls n="wg,351">351]</ls>, {%<ab>f|</ab>%} fear| [{@√bhī,@} <ls n="wg,348">348.</ls> 1.]
+---
+> {@bhī́@}¦ [<ls n="wg,351">351]</ls>, {%<ab>f.</ab>%} fear. [{@√bhī,@} <ls n="wg,348">348.</ls> 1.]
+15808c15808
+< {@bhūtvā́; -bhū́ya;@} {%<ab>caus|</ab>%} {@bhāváyati,@} <lbinfo n="bhāvá-yati,"/>
+---
+> {@bhūtvā́; -bhū́ya;@} {%<ab>caus.</ab>%} {@bhāváyati,@} <lbinfo n="bhāvá-yati,"/>
+15974c15974
+< <div n="2"/>{@—1|@} {@bhūṣati,@} be busy for; <div n="2"/>{@—2| bhūṣayati,@}
+---
+> <div n="2"/>{@—1.@} {@bhūṣati,@} be busy for; <div n="2"/>{@—2. bhūṣayati,@}
+15987c15987
+<  <div n="2"/>{@—2|@} bear (in the womb); {@abharat,@}
+---
+>  <div n="2"/>{@—2.@} bear (in the womb); {@abharat,@}
+16316c16316
+< <div n="2"/>{@—1|@} stir {%or%} whirl; {%<ab>w|</ab>%} {@agnim,@} produce fire
+---
+> <div n="2"/>{@—1.@} stir {%or%} whirl; {%<ab>w.</ab>%} {@agnim,@} produce fire
+16318c16318
+< piece of wood; <div n="2"/>{@—2| shake, agitate,@} distress. <lbinfo n="dis-tress."/>
+---
+> piece of wood; <div n="2"/>{@—2. shake, agitate,@} distress. <lbinfo n="dis-tress."/>
+16376c16376
+< {@mádhya,@}¦ <div n="2"/>{@—1|@} {%as <ab>n|</ab>%} middle; {%<ab>w|</ab>%} {@nabhasas,@}
+---
+> {@mádhya,@}¦ <div n="2"/>{@—1.@} {%as <ab>n.</ab>%} middle; {%<ab>w.</ab>%} {@nabhasas,@}
+16460c16460
+< and hymn ({%<ab>cf.</ab>%} {@dhī́ 2@})| [{@√man,@} <ls n="wg,1197">1197b</ls>.]
+---
+> and hymn ({%<ab>cf.</ab>%} {@dhī́ 2@}). [{@√man,@} <ls n="wg,1197">1197b</ls>.]
+16464c16464
+< wise; <div n="2"/>{@—2|@} prayerful, devout| [{@manīṣā́,@}
+---
+> wise; <div n="2"/>{@—2.@} prayerful, devout. [{@manīṣā́,@}
+17005c17005
+< <div n="2"/>{@—5|@} {%<ab>w|</ab>%} {@u, mo,@} {%see%} {@u.@} [<ab>cf.</ab> <lang n="greek">μή</lang>, Elian <lang n="greek">μά</lang>,
+---
+> <div n="2"/>{@—5.@} {%<ab>w.</ab>%} {@u, mo,@} {%see%} {@u.@} [<ab>cf.</ab> <lang n="greek">μή</lang>, Elian <lang n="greek">μά</lang>,
+17100c17100
+< <div n="2"/>{@—3|@} honor| [{@√man,@} <ls n="wg,1148">1148.</ls> 2.]
+---
+> <div n="2"/>{@—3.@} honor. [{@√man,@} <ls n="wg,1148">1148.</ls> 2.]
+17144c17144
+<  {%as <ab>m.</ab>%} man ({%<ab>cf.</ab>%} {@mānava@})| [{@mánus,@}
+---
+>  {%as <ab>m.</ab>%} man ({%<ab>cf.</ab>%} {@mānava@}). [{@mánus,@}
+17492c17492
+< {@muditá@})| be glad, rejoice; {@mudita,@} glad,
+---
+> {@muditá@}). be glad, rejoice; {@mudita,@} glad,
+17769c17769
+< {@meka,@}¦ a setting up, {%in%} {@su-méka|@} [{@√1mi,@}
+---
+> {@meka,@}¦ a setting up, {%in%} {@su-méka.@} [{@√1mi,@}
+17908c17908
+< <ls n="lan,29,7">29<sup>7</sup></ls>; {%so%} <ls n="lan,37,11">37<sup>11</sup></ls>, <ls n="lan,66,18">66<sup>18</sup></ls>; <div n="2"/>{@—7|@} {@ya,@} if anybody,
+---
+> <ls n="lan,29,7">29<sup>7</sup></ls>; {%so%} <ls n="lan,37,11">37<sup>11</sup></ls>, <ls n="lan,66,18">66<sup>18</sup></ls>; <div n="2"/>{@—7.@} {@ya,@} if anybody,
+17910c17910
+< <div n="2"/>{@—8|@} {@ya, and…he,@} <ls n="lan,74,15">74<sup>15</sup></ls>; <div n="2"/>{@—9.@} {%for further%}
+---
+> <div n="2"/>{@—8.@} {@ya, and…he,@} <ls n="lan,74,15">74<sup>15</sup></ls>; <div n="2"/>{@—9.@} {%for further%}
+18108c18108
+< <div n="1"/><div n="2"/>{@—3|@} {%correlative omitted:%} {@buddhim prakuruṣva,@} <lbinfo n="pra-kuruṣva,"/>
+---
+> <div n="1"/><div n="2"/>{@—3.@} {%correlative omitted:%} {@buddhim prakuruṣva,@} <lbinfo n="pra-kuruṣva,"/>
+18221c18221
+< {@yád,@}¦ <div n="2"/>{@—1|@} {%as <ab>nom|</ab> <ab>acc|</ab> <ab>s|</ab> <ab>n|</ab> to%} {@ya,@} {%see%} {@ya;@}
+---
+> {@yád,@}¦ <div n="2"/>{@—1.@} {%as <ab>nom.</ab> <ab>acc.</ab> <ab>s.</ab> <ab>n.</ab> to%} {@ya,@} {%see%} {@ya;@}
+18243c18243
+< <div n="1"/><div n="2"/>{@—4|@} {%temporal:%} as, <ls n="lan,86,6">86<sup>6</sup></ls>; {@tad…yad,@}
+---
+> <div n="1"/><div n="2"/>{@—4.@} {%temporal:%} as, <ls n="lan,86,6">86<sup>6</sup></ls>; {@tad…yad,@}
+18261c18261
+< {@tadā|@} [<ab>pron|</ab> root {@ya,@} <ls n="wg,1103">1103a</ls>.]
+---
+> {@tadā.@} [<ab>pron.</ab> root {@ya,@} <ls n="wg,1103">1103a</ls>.]
+18303c18303
+< raise; <div n="2"/>{@—2|@} set about; {@samudyata,@} having  <lbinfo n="hav-ing"/>
+---
+> raise; <div n="2"/>{@—2.@} set about; {@samudyata,@} having  <lbinfo n="hav-ing"/>
+18402c18402
+< <ls n="lan,19,21">19<sup>21</sup></ls>; {%so%} <ls n="lan,17,22">17<sup>22</sup></ls>, <ab>etc.</ab>; <div n="2"/>{@—4|@} {@yātu,@} let it go,
+---
+> <ls n="lan,19,21">19<sup>21</sup></ls>; {%so%} <ls n="lan,17,22">17<sup>22</sup></ls>, <ab>etc.</ab>; <div n="2"/>{@—4.@} {@yātu,@} let it go,
+18458c18458
+< {%<ab>correl.</ab>%} {@tāvant;@} <div n="2"/>{@—2| yā́vat,@} {%<ab>adv.</ab>%} as long,
+---
+> {%<ab>correl.</ab>%} {@tāvant;@} <div n="2"/>{@—2. yā́vat,@} {%<ab>adv.</ab>%} as long,
+18463c18463
+< <ls n="lan,22,7">22<sup>7</sup></ls>; <div n="2"/>{@—3|@} {@yāvat,@} {%as quasi-<ab>prep.</ab> <ab>w.</ab> <ab>acc.</ab>:%}
+---
+> <ls n="lan,22,7">22<sup>7</sup></ls>; <div n="2"/>{@—3.@} {@yāvat,@} {%as quasi-<ab>prep.</ab> <ab>w.</ab> <ab>acc.</ab>:%}
+18475c18475
+< {@√1yu@}¦ ({@yaúti@} [<ls n="wg,626">626]</ls>, {%3rd <ab>pl|</ab>%} {@yuvánti,@} {%<ab>mid.</ab>%}
+---
+> {@√1yu@}¦ ({@yaúti@} [<ls n="wg,626">626]</ls>, {%3rd <ab>pl.</ab>%} {@yuvánti,@} {%<ab>mid.</ab>%}
+18499c18499
+< <div n="2"/>{@—2|@} yoke, team| [{@√yuj,@} <ls n="wg,1157">1157,</ls> <ls n="wg,219">219</ls>: <ab>cf.</ab>
+---
+> <div n="2"/>{@—2.@} yoke, team. [{@√yuj,@} <ls n="wg,1157">1157,</ls> <ls n="wg,219">219</ls>: <ab>cf.</ab>
+18504c18504
+< <div n="2"/>{@—3|@} {%<ab>esp|</ab> <ab>w|</ab>%} {@mānuṣa,@} a human generation
+---
+> <div n="2"/>{@—3.@} {%<ab>esp.</ab> <ab>w.</ab>%} {@mānuṣa,@} a human generation
+18675c18675
+< {@kṣema; --4|@} connection, relation; {@-yogāt,@}
+---
+> {@kṣema; --4.@} connection, relation; {@-yogāt,@}
+19047,19048c19047,19048
+< <ab>w.</ab> {@rāj@} 1, <ab>cf|</ab> {@√1ṛj,@} ‘reach out’;
+< <ab>w.</ab> {@rāj@} 2, <ab>cf|</ab> {@√3ṛj,@} ‘be bright,’ and {@√raj:@}
+---
+> <ab>w.</ab> {@rāj@} 1, <ab>cf.</ab> {@√1ṛj,@} ‘reach out’;
+> <ab>w.</ab> {@rāj@} 2, <ab>cf.</ab> {@√3ṛj,@} ‘be bright,’ and {@√raj:@}
+19072c19072
+< also to {@varuna,@} <ls n="lan,83,12">83<sup>12</sup></ls>, <ls n="lan,75,3">75<sup>3</sup></ls>, <ls n="lan,76,17">76<sup>17</sup></ls>,
+---
+> also to {@Varuna,@} <ls n="lan,83,12">83<sup>12</sup></ls>, <ls n="lan,75,3">75<sup>3</sup></ls>, <ls n="lan,76,17">76<sup>17</sup></ls>,
+19074c19074
+< <ls n="lan,84,20">84<sup>20</sup></ls>; <div n="2"/>{@—2|@} {%<ab>equiv|</ab> to%} {@rājanya,@} a {@kṣatriya@}
+---
+> <ls n="lan,84,20">84<sup>20</sup></ls>; <div n="2"/>{@—2.@} {%<ab>equiv.</ab> to%} {@rājanya,@} a {@kṣatriya@}
+20779c20779
+< {@uta; --2| vā,@} {%for%} {@eva,@} <ls n="lan,59,10">59<sup>10</sup></ls><ab>N.</ab>; <div n="2"/>{@—3.@} {%with%}
+---
+> {@uta; --2. vā,@} {%for%} {@eva,@} <ls n="lan,59,10">59<sup>10</sup></ls><ab>N.</ab>; <div n="2"/>{@—3.@} {%with%}
+21043c21043
+< vehicle; <div n="2"/>{@—2|@} the carrying, <ls n="lan,34,13">34<sup>13</sup></ls>| [{@√vah,@}
+---
+> vehicle; <div n="2"/>{@—2.@} the carrying, <ls n="lan,34,13">34<sup>13</sup></ls>. [{@√vah,@}
+21171c21171
+< <div n="2"/>{@—2|@} recognize as; {@nalam māṃ viddhi,@}
+---
+> <div n="2"/>{@—2.@} recognize as; {@nalam māṃ viddhi,@}
+21283c21283
+< {%<ab>Eng.</ab>,%} <div n="2"/>{@—2|@} {%<ab>f|</ab>%} lightning| [{@√dyut + vi,@}
+---
+> {%<ab>Eng.</ab>,%} <div n="2"/>{@—2.@} {%<ab>f.</ab>%} lightning. [{@√dyut + vi,@}
+21678c21678
+< <div n="2"/>{@—2|@} ({%like%} {@viśeṣeṇa,@} {%see above%}) especially.
+---
+> <div n="2"/>{@—2.@} ({%like%} {@viśeṣeṇa,@} {%see above%}) especially.
+21704c21704
+< <ls n="lan,88,6, 8">88<sup>6, 8</sup></ls>, <ls n="lan,90,8">90<sup>8</sup></ls>; <div n="2"/>{@—1c| víśvam,@} {%as <ab>n.</ab>%} The All,
+---
+> <ls n="lan,88,6, 8">88<sup>6, 8</sup></ls>, <ls n="lan,90,8">90<sup>8</sup></ls>; <div n="2"/>{@—1c. víśvam,@} {%as <ab>n.</ab>%} The All,
+21849c21849
+< {@śivá|@} [<ab>prob|</ab> ‘the mighty worker,’ {@√viṣ,@}
+---
+> {@śivá.@} [<ab>prob.</ab> ‘the mighty worker,’ {@√viṣ,@}
+22004c22004
+< {@ūrṇa, varuṇa:@} <ab>cf|</ab> the derivs {@vala, vṛtra,@}
+---
+> {@ūrṇa, varuṇa:@} <ab>cf.</ab> the derivs {@vala, vṛtra,@}
+22171c22171
+< turn away; <div n="2"/>{@—4|@} turn from, abstain; {@--nivṛtta,@} <lbinfo n="--ni-vṛtta,"/>
+---
+> turn away; <div n="2"/>{@—4.@} turn from, abstain; {@--nivṛtta,@} <lbinfo n="--ni-vṛtta,"/>
+22339c22339
+< {%<ab>q. v.</ab>: <ab>esp.</ab>%} <div n="2"/>{@—1|@} bull; {%with%} {@sahasra-śṛṅga,@}
+---
+> {%<ab>q. v.</ab>: <ab>esp.</ab>%} <div n="2"/>{@—1.@} bull; {%with%} {@sahasra-śṛṅga,@}
+22355c22355
+< {@√vṛṣāya@}¦ ({@vṛṣāyáte@})| act as a {@vṛṣa,@} {%<ab>i. e.</ab>:%}
+---
+> {@√vṛṣāya@}¦ ({@vṛṣāyáte@}). act as a {@vṛṣa,@} {%<ab>i. e.</ab>:%}
+22407c22407
+< knowing, {%<ab>cf.</ab>%} {@na-vedas|@} [{@√1vid,@} ‘know’:
+---
+> knowing, {%<ab>cf.</ab>%} {@na-vedas.@} [{@√1vid,@} ‘know’:
+22413c22413
+< property, {%<ab>cf.</ab>%} {@vitta|@} [{@√2vid,@} ‘get.’]
+---
+> property, {%<ab>cf.</ab>%} {@vitta.@} [{@√2vid,@} ‘get.’]
+22555c22555
+< perishing, {%<ab>w.</ab>%} {@a-|@} [{@√i + vi,@} <ls n="wg,1148">1148.</ls> 1b.]
+---
+> perishing, {%<ab>w.</ab>%} {@a-.@} [{@√i + vi,@} <ls n="wg,1148">1148.</ls> 1b.]
+22616c22616
+< {%see%} {@nara-vyāghra|@} [perhaps <ab>fr|</ab> {@√1ghṛ,@}
+---
+> {%see%} {@nara-vyāghra.@} [perhaps <ab>fr.</ab> {@√1ghṛ,@}
+22669c22669
+< as its measure, {%see%} {@mātrā|@} [{@mātrā,@}
+---
+> as its measure, {%see%} {@mātrā.@} [{@mātrā,@}
+22694c22694
+< {@vratá,@}¦ {%<ab>n.</ab>%} <div n="2"/>{@—1|@} will; {@devānām ati vratam,@}
+---
+> {@vratá,@}¦ {%<ab>n.</ab>%} <div n="2"/>{@—1.@} will; {@devānām ati vratam,@}
+22730c22730
+< {%so%} <div n="2"/>{@—2|@} {%generalized,%} praise; {@śasta,@} {%see <ab>s. v.</ab>;%}
+---
+> {%so%} <div n="2"/>{@—2.@} {%generalized,%} praise; {@śasta,@} {%see <ab>s. v.</ab>;%}
+23378c23378
+< lie; <div n="2"/>{@—2|@} sleep| [<ab>w|</ab> {@śé-te,@} <ab>cf.</ab> <lang n="greek">κεῖ-ται</lang>,
+---
+> lie; <div n="2"/>{@—2.@} sleep. [<ab>w.</ab> {@śé-te,@} <ab>cf.</ab> <lang n="greek">κεῖ-ται</lang>,
+23498c23498
+< {%<ab>mid.</ab>%} become pure; <div n="2"/>{@—2| śúdhyati,@} become
+---
+> {%<ab>mid.</ab>%} become pure; <div n="2"/>{@—2. śúdhyati,@} become
+23649c23649
+< <ls n="lan,12,10">12<sup>10</sup></ls>; <div n="2"/>{@—2|@} {%<ab>a|</ab>%} remaining, <ls n="lan,55,15">55<sup>15</sup></ls>| [{@√1śiṣ,@}
+---
+> <ls n="lan,12,10">12<sup>10</sup></ls>; <div n="2"/>{@—2.@} {%<ab>a.</ab>%} remaining, <ls n="lan,55,15">55<sup>15</sup></ls>. [{@√1śiṣ,@}
+23790c23790
+< <ls n="lan,91,15">91<sup>15</sup></ls>; <div n="2"/>{@—2|@} glory, <ls n="lan,74,6">74<sup>6</sup></ls>; fame| [{@√śru,@}
+---
+> <ls n="lan,91,15">91<sup>15</sup></ls>; <div n="2"/>{@—2.@} glory, <ls n="lan,74,6">74<sup>6</sup></ls>; fame. [{@√śru,@}
+23915c23915
+< {%for%} {@śruta|@} [{@√śru,@} <ls n="wg,1157">1157.</ls> 1a.]
+---
+> {%for%} {@śruta.@} [{@√śru,@} <ls n="wg,1157">1157.</ls> 1a.]
+23995c23995
+< {@śvaśrū́@}¦ [<ls n="wg,355">355c</ls>], {%<ab>f|</ab>%} mother-in-law| [{@śváśura,@} <lbinfo n="[śvá-śura,"/>
+---
+> {@śvaśrū́@}¦ [<ls n="wg,355">355c</ls>], {%<ab>f.</ab>%} mother-in-law. [{@śváśura,@} <lbinfo n="[śvá-śura,"/>
+24030c24030
+< be pronounced {@śvapāda@} (<ab>cf|</ab> {@pāvaka,@}
+---
+> be pronounced {@śvapāda@} (<ab>cf.</ab> {@pāvaka,@}
+24105c24105
+< {@saṃśaya,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1|@} doubt; {@na saṃśayas,@}
+---
+> {@saṃśaya,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1.@} doubt; {@na saṃśayas,@}
+24393c24393
+< <div n="2"/>{@—3|@} {%<ab>n|</ab>%} vow, promise, oath; {@satyam brū,@}
+---
+> <div n="2"/>{@—3.@} {%<ab>n.</ab>%} vow, promise, oath; {@satyam brū,@}
+24461c24461
+< <div n="2"/>{@—3|@} {@āsādya,@} {%often so attenuated in <ab>mg</ab> as%}
+---
+> <div n="2"/>{@—3.@} {@āsādya,@} {%often so attenuated in <ab>mg</ab> as%}
+24574c24574
+< excellent, <ls n="lan,19,8, 20">19<sup>8, 20</sup></ls>, <ls n="lan,28,11">28<sup>11</sup></ls>; <div n="2"/>{@—4|@} {@satī́,@} {%<ab>f.</ab>%} a
+---
+> excellent, <ls n="lan,19,8, 20">19<sup>8, 20</sup></ls>, <ls n="lan,28,11">28<sup>11</sup></ls>; <div n="2"/>{@—4.@} {@satī́,@} {%<ab>f.</ab>%} a
+24577c24577
+< existence; <div n="2"/>{@—6|@} {@sat-kṛ,@} make good, treat
+---
+> existence; <div n="2"/>{@—6.@} {@sat-kṛ,@} make good, treat
+24606c24606
+< {@saṃdehá,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1|@} doubt; {@-āt,@} from (by
+---
+> {@saṃdehá,@}¦ {%<ab>m.</ab>%} <div n="2"/>{@—1.@} doubt; {@-āt,@} from (by
+24613c24613
+< <div n="2"/>{@—2|@} promise| [{@√1dhā,@} ‘put,’ {@+ sam:@} for
+---
+> <div n="2"/>{@—2.@} promise. [{@√1dhā,@} ‘put,’ {@+ sam:@} for
+24624c24624
+< <lang n="greek">θεσις</lang>; <div n="2"/>{@—2|@} {%like%} {@saṃdhā́,@} compact, alliance,
+---
+> <lang n="greek">θεσις</lang>; <div n="2"/>{@—2.@} {%like%} {@saṃdhā́,@} compact, alliance,
+24638c24638
+< {@yuga@}), <ls n="lan,58,3">58<sup>3</sup></ls>| [{@saṃdhí,@} <ab>cf.</ab> <ls n="wg,1212">1212b</ls>.]
+---
+> {@yuga@}), <ls n="lan,58,3">58<sup>3</sup></ls>. [{@saṃdhí,@} <ab>cf.</ab> <ls n="wg,1212">1212b</ls>.]
+24863c24863
+< {@antika,@} {%<ab>q. v.</ab>;%} <div n="2"/>{@—2a| samīpam,@} {%<ab>w.</ab> <ab>gen.</ab> or in%}
+---
+> {@antika,@} {%<ab>q. v.</ab>;%} <div n="2"/>{@—2a. samīpam,@} {%<ab>w.</ab> <ab>gen.</ab> or in%}
+24866c24866
+< <div n="2"/>{@—2b| samīpe,@} {%<ab>w.</ab> <ab>gen.</ab> or in <ab>cpd</ab>%} (in the
+---
+> <div n="2"/>{@—2b. samīpe,@} {%<ab>w.</ab> <ab>gen.</ab> or in <ab>cpd</ab>%} (in the
+24991c24991
+< {@sárasvant,@}¦ <div n="2"/>{@—1|@} {%<ab>a|</ab>%} rich in waters; {@-vatī,@}
+---
+> {@sárasvant,@}¦ <div n="2"/>{@—1.@} {%<ab>a.</ab>%} rich in waters; {@-vatī,@}
+25039c25039
+< <ab>etc.</ab>; <div n="2"/>{@—2c| idaṃ sarvam,@} <ls n="lan,63,21">63<sup>21</sup></ls>, {%see%} {@idam;@}
+---
+> <ab>etc.</ab>; <div n="2"/>{@—2c. idaṃ sarvam,@} <ls n="lan,63,21">63<sup>21</sup></ls>, {%see%} {@idam;@}
+25240c25240
+< {@1sahá,@}¦ <div n="2"/>{@—1|@} {%<ab>adv|</ab>%} together; {@saha na etad,@}
+---
+> {@1sahá,@}¦ <div n="2"/>{@—1.@} {%<ab>adv.</ab>%} together; {@saha na etad,@}
+25486c25486
+< <div n="2"/>{@—2|@} evening; {@sāyám,@} {%<ab>adv.</ab>%} at evening.
+---
+> <div n="2"/>{@—2.@} evening; {@sāyám,@} {%<ab>adv.</ab>%} at evening.
+25635c25635
+< [<ab>prop.</ab> {@sīū@} (765): <ab>cf|</ab> {@√sā, si,@} ‘bind,’ {@sū́tra,@} <lbinfo n="sū́-tra,"/>
+---
+> [<ab>prop.</ab> {@sīū@} (765): <ab>cf.</ab> {@√sā, si,@} ‘bind,’ {@sū́tra,@} <lbinfo n="sū́-tra,"/>
+25667c25667
+< {@sú,@}¦ <div n="2"/>{@—1|@} {%<ab>adv|</ab>%} [<ls n="wg,1121">1121d</ls>], well; {%with%} {@sthā,@} stand
+---
+> {@sú,@}¦ <div n="2"/>{@—1.@} {%<ab>adv.</ab>%} [<ls n="wg,1121">1121d</ls>], well; {%with%} {@sthā,@} stand
+26067c26067
+< {@√sūcaya@}¦ ({@sūcayáti@})| indicate; {@sūcita,@}
+---
+> {@√sūcaya@}¦ ({@sūcayáti@}). indicate; {@sūcita,@}
+26137c26137
+< ({%<ab>q. v.</ab>%}) and the later {@yajamāna|@} [{@√2su,@}
+---
+> ({%<ab>q. v.</ab>%}) and the later {@yajamāna.@} [{@√2su,@}
+26396c26396
+< {@√stā@}¦ ({@stāyánt@})| be stealthy| [see {@stená,@}
+---
+> {@√stā@}¦ ({@stāyánt@}). be stealthy. [see {@stená,@}
+26561c26561
+< the interest of it, <ls n="lan,46,20">46<sup>20</sup></ls>; <div n="2"/>{@—8| sthitá,@} {%see <ab>s. v.</ab>;%}
+---
+> the interest of it, <ls n="lan,46,20">46<sup>20</sup></ls>; <div n="2"/>{@—8. sthitá,@} {%see <ab>s. v.</ab>;%}
+26808c26808
+< <ab>RV.</ab> x. <ls n="wg,125">125.</ls> 7; <div n="2"/>{@—2|@} {%<ab>w|</ab>%} {@apás,@} touch water,
+---
+> <ab>RV.</ab> x. <ls n="wg,125">125.</ls> 7; <div n="2"/>{@—2.@} {%<ab>w.</ab>%} {@apás,@} touch water,
+26983c26983
+< {@sva|@} [{@sva,@} <ls n="wg,1222">1222a</ls>.]
+---
+> {@sva.@} [{@sva,@} <ls n="wg,1222">1222a</ls>.]
+27221c27221
+< blessing; <div n="2"/>{@—2|@} {@svastí,@} {%<ab>instr.</ab>%} [<ls n="wg,336">336<sup>3</sup></ls> end],
+---
+> blessing; <div n="2"/>{@—2.@} {@svastí,@} {%<ab>instr.</ab>%} [<ls n="wg,336">336<sup>3</sup></ls> end],
+27614c27614
+<  <div n="2"/>{@—3|@} {%as <ab>n|</ab>%} welfare, safety| [{@√1dhā,@}
+---
+>  <div n="2"/>{@—3.@} {%as <ab>n.</ab>%} welfare, safety. [{@√1dhā,@}
+27705c27705
+< god. [<ab>orig.</ab> {@*ghū:@} <ab>w|</ab> {@hū-tá,@} ‘called upon,
+---
+> god. [<ab>orig.</ab> {@*ghū:@} <ab>w.</ab> {@hū-tá,@} ‘called upon,
+27832c27832
+< proof; <div n="2"/>{@—3|@} means, <ls n="lan,41,16">41<sup>16</sup></ls>| [{@√hi,@} <ls n="wg,1161">1161a</ls>.]
+---
+> proof; <div n="2"/>{@—3.@} means, <ls n="lan,41,16">41<sup>16</sup></ls>. [{@√hi,@} <ls n="wg,1161">1161a</ls>.]
+27871c27871
+< {@āhuti|@} [{@√hu,@} <ls n="wg,1166">1166.</ls>]
+---
+> {@āhuti.@} [{@√hu,@} <ls n="wg,1166">1166.</ls>]

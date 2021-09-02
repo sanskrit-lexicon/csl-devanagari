@@ -40,6 +40,7 @@ def run_code(dictcode):
 	else:
 		data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
 		data = convert_partially_to_slp1('{%', '%}', 'iast', data)
+		data = convert_partially_to_slp1('{@', ',@}', 'iast', data)
 	fout.write(data)
 	fout.close()
 	
