@@ -89,11 +89,9 @@ def run_code(dictcode):
         data = convert_to_slp1(data)
     elif dictcode in ['mw', 'krm']:
         data = convert_partially_to_slp1('<s>', '</s>', 'slp1', data)
-    elif dictcode in ['ap90', 'mwe', 'bor', 'ae', 'pwg', 'pw', 'ccs', 'mw72', 'bop', 'inm', 'vei', 'pui', 'bhs', 'acc', 'ieg', 'snp', 'pe', 'pgn', 'mci', 'ben', 'bur', 'gst', 'lan', 'md', 'sch', 'shs', 'stc', 'wil', 'yat', 'gra']:
-        data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
+    # elif dictcode in ['ap90', 'mwe', 'bor', 'ae', 'pwg', 'pw', 'ccs', 'mw72', 'bop', 'inm', 'vei', 'pui', 'bhs', 'acc', 'ieg', 'snp', 'pe', 'pgn', 'mci', 'ben', 'bur', 'gst', 'lan', 'md', 'sch', 'shs', 'stc', 'wil', 'yat', 'gra']:
     else:
         data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
-        data = convert_partially_to_slp1('{%', '%}', 'iast', data)
     # Write result to output file.
     fout.write(data)
     fout.close()
