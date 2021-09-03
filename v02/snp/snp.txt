@@ -92,7 +92,7 @@
 ; ENTRIES, part 1
 ;
 
-<L>1<pc>521<k1>akza<k2>akza
+<L>1<pc>521<k1>अक्ष<k2>अक्ष
 {%akṣa%}¦
 <div n="P"/>(1) = {%vibhītaka%} (Avk; Bpn, p. 9; Dgv, nr. 149; Dn 1, 212; Gul; HB;
 <div n="lb"/>HK; KB 2, p. 1017-1020; MW; Pr 220; PW; Rn 11, 322-323; V 6, p.
@@ -107,7 +107,7 @@
 <div n="P"/>(4) = {%devaśirīṣa%} (Vśs, unidentified).
 <LEND>
 
-<L>2<pc>521<k1>agaru<k2>agaru
+<L>2<pc>521<k1>अगरु<k2>अगरु
 {%agaru%}¦ (sometimes considered to be a synonym of {%aguru%})
 <div n="P"/>(1) a) Chopra: [<bot>COMMIPHORA ROXBURGHII (ARN.) ENGL.</bot>] = [<bot>C.
 <div n="lb"/>AGALLOCHA (WIGHT ET ARN.) ENGL.</bot>] = <bot>BALSAMODENDRUM
@@ -147,7 +147,7 @@
 <div n="lb"/>902).
 <LEND>
 
-<L>3<pc>522<k1>aguru<k2>aguru
+<L>3<pc>522<k1>अगुरु<k2>अगुरु
 {%aguru%}¦
 <div n="P"/>(1) <bot>AQUILARIA AGALLOCHA ROXB.</bot> (Ainslie 1, p. 479; Avk; Bpn, p.
 <div n="lb"/>194; Dgv, nr. 272; DWH 3, p. 217-224; Dy, p. 674-677; Gul; HB; HK;
@@ -166,7 +166,7 @@
 <LEND>
 [Page-523+ 37]
 
-<L>4<pc>523<k1>agnimanTa<k2>agnimanTa
+<L>4<pc>523<k1>अग्निमन्थ<k2>अग्निमन्थ
 {%agnimantha%}¦
 <div n="P"/>(1) <bot>PREMNA INTEGRIFOLIA LINN.</bot> (Ainslie 2, p. 210-211; Avk; Bpn,
 <div n="lb"/>p. 281-282: {%bṛhadagnimantha;%} Chopra, Ind. drugs; Dutt; DWH 3, p.
@@ -189,7 +189,7 @@
 <div n="lb"/><bot>C. INERME R. BR.</bot>
 <LEND>
 
-<L>5<pc>523<k1>aNkola<k2>aNkola
+<L>5<pc>523<k1>अङ्कोल<k2>अङ्कोल
 {%aṅkola = aṅkoṭa%}¦
 <div n="P"/><bot>ALANGIUM DECAPETALUM LAM.</bot> [Intern. Code] (AFM 1, p. 16-19;
 <div n="lb"/>Avk; Nadk. 1, nr. 88) = <bot>A. HEXAPETALUM LAM.</bot> (Dutt; HK; Kav;
@@ -202,7 +202,7 @@
 <div n="lb"/>FOLIA LINN. F.</bot>
 <LEND>
 
-<L>6<pc>523<k1>ajamodA<k2>ajamodA
+<L>6<pc>523<k1>अजमोदा<k2>अजमोदा
 {%ajamodā%}¦
 <div n="P"/>(1) <bot>APIUM GRAVEOLENS LINN.</bot> (Avk; Bpn, p. 27; Chopra; Gul; KB
 <div n="lb"/>2, p. 1199-1201; Na 1, nr. 250; Nadk. 1, nr. 205; V 1, p. 15);
@@ -233,7 +233,7 @@
 <div n="lb"/>LINN.</bot> (Avk).
 <LEND>
 
-<L>7<pc>524<k1>ajAjI<k2>ajAjI
+<L>7<pc>524<k1>अजाजी<k2>अजाजी
 {%ajājī̆%}¦
 <div n="P"/>(1) <bot>CUMINUM CYMINUM LINN.</bot> (Ainslie 1, p. 100-101; Avk, = {%sthūla-%}
 <div n="lb"/>{%jīraka;%} Bpn, p. 30-33; Dgv, nr. 176; HB; HK, = {%jīraka;%} Kav; KB 2,
@@ -249,12 +249,12 @@
 <div n="lb"/>SITIFOLIA WILLD.</bot> (Avk; MW; PW: = {%kākoḍumbarikā;%} Vśs).
 <LEND>
 
-<L>8<pc>524<k1>atasI<k2>atasI
+<L>8<pc>524<k1>अतसी<k2>अतसी
 {%atasī%}¦
 <div n="lb"/><bot>LINUM USITATISSIMUM LINN.</bot>
 <LEND>
 
-<L>9<pc>524<k1>apAmArga<k2>apAmArga
+<L>9<pc>524<k1>अपामार्ग<k2>अपामार्ग
 {%apāmārga%}¦
 <div n="P"/>(1) <bot>ACHYRANTHES ASPERA LINN.</bot> (AFM 1, p. 4-6; Ainslie 2, p. 221-
 [Page-525+ 37]
@@ -272,7 +272,7 @@
 <div n="lb"/>{%mārga%}) = <bot>DESMOCHAETA PROSTRATA DC.</bot> = <bot>PUPALIA PROSTRATA R. BR.</bot>
 <LEND>
 
-<L>10<pc>525<k1>amlavetasa<k2>amlavetasa
+<L>10<pc>525<k1>अम्लवेतस<k2>अम्लवेतस
 {%amlavetasa%}¦
 <div n="P"/>(1) <bot>RUMEX VESICARIUS LINN.</bot> (Avk; Dutt: = {%cukra;%} HB; HK; Kav;
 <div n="lb"/>KB 3, p. 2114-2115; MW; PW; V 1, p. 66-67; Vśs; Wise);
@@ -291,7 +291,7 @@
 <div n="lb"/>there are many different opinions.
 <LEND>
 
-<L>11<pc>525<k1>amlikA<k2>amlikA
+<L>11<pc>525<k1>अम्लिका<k2>अम्लिका
 {%amlikā%}¦
 <div n="P"/>(1) <bot>TAMARINDUS INDICA LINN.</bot> (Ainslie 1, p. 425-428; Avk; Bpn, p.
 <div n="lb"/>581; Dgv, nr. 120; Dutt; DWH 1, p. 532-536; Dy, p. 270-272; Gul;
@@ -313,14 +313,14 @@
 <div n="lb"/>riety of ginger; the plant is difficult to identify.”
 <LEND>
 
-<L>12<pc>526<k1>amlIkA<k2>amlIkA
+<L>12<pc>526<k1>अम्लीका<k2>अम्लीका
 {%amlīkā%}¦
 <div n="P"/>(1) <bot>TAMARINDUS INDICA LINN.</bot> (HK);
 <div n="P"/>(2) <bot>OXALIS CORNICULATA LINN.</bot> (MW);
 <div n="P"/>(3) = {%amlikā%} (PW).
 <LEND>
 
-<L>13<pc>526<k1>arjaka<k2>arjaka
+<L>13<pc>526<k1>अर्जक<k2>अर्जक
 {%arjaka%}¦
 <div n="P"/>(1) <bot>OCIMUM GRATISSIMUM LINN.</bot> (MW; PW; V 1, p. 78);
 <div n="P"/>(2) <bot>O. BASILICUM LINN.</bot> (Avk; Bpn, p. 511-512);
@@ -332,12 +332,12 @@
 <div n="lb"/>511-512).
 <LEND>
 
-<L>14<pc>526<k1>aSvatTa<k2>aSvatTa
+<L>14<pc>526<k1>अश्वत्थ<k2>अश्वत्थ
 {%aśvattha%}¦
 <div n="P"/><bot>FICUS RELIGIOSA LINN.</bot> = <bot>UROSTIGMA RELIGIOSUM GASP.</bot>
 <LEND>
 
-<L>15<pc>526<k1>AQakI<k2>AQakI
+<L>15<pc>526<k1>आढकी<k2>आढकी
 {%āḍhakī%}¦
 <div n="P"/><bot>CAJANUS CAJAN (LINN.) MILLSP.</bot> [Intern. Code] (Chopra; IRM 2, p.
 <div n="lb"/>6-11) = <bot>C. INDICUS SPRENG.</bot> (Avk; Bpn, p. 647; Chopra; Dutt; DWH
@@ -352,7 +352,7 @@
 <LEND>
 [Page-527+ 33]
 
-<L>16<pc>527<k1>Amalaka<k2>Amalaka
+<L>16<pc>527<k1>आमलक<k2>आमलक
 {%āmalaka = āmalakī%}¦
 <div n="P"/>(1) <bot>PHYLLANTHUS EMBLICA LINN.</bot> = <bot>EMBLICA OFFICINALIS GAERTN.</bot>;
 <div n="P"/>(2) <bot>JUSTICIA GENDARUSSA BURM. F.</bot> = <bot>GENDARUSSA VULGARIS NEES</bot>
@@ -362,13 +362,13 @@
 <div n="P"/>(4) = {%padmakāṣṭha%} (Vśs).
 <LEND>
 
-<L>17<pc>527<k1>Amra<k2>Amra
+<L>17<pc>527<k1>आम्र<k2>आम्र
 {%āmra%}¦
 <div n="P"/><bot>MANGIFERA INDICA LINN.</bot> = <bot>M. DOMESTICA GAERTN.</bot> (Nadk. 1, nr.
 <div n="lb"/>1547) = <bot>M. MONTANA HEYNE EX WIGHT ET ARN.</bot> (Nadk. 1, nr. 1547).
 <LEND>
 
-<L>18<pc>527<k1>AmrAtaka<k2>AmrAtaka
+<L>18<pc>527<k1>आम्रातक<k2>आम्रातक
 {%āmrātaka%}¦
 <div n="P"/>(1) <bot>SPONDIAS MANGIFERA WILLD.</bot> (Avk; Bpn, p. 551; Chopra; Dutt;
 <div n="lb"/>DWH 1, p. 395-396; Gul; HB; HK; KB 1, p. 673-675; MW; Na 1,
@@ -381,7 +381,7 @@
 <div n="lb"/>EX HOOK. F.</bot> (Avk).
 <LEND>
 
-<L>19<pc>527<k1>Ardraka<k2>Ardraka
+<L>19<pc>527<k1>आर्द्रक<k2>आर्द्रक
 {%ārdraka%}¦
 <div n="P"/><bot>ZINGIBER OFFICINALE ROSC.</bot> (Avk; Bpn, p. 14; Chopra; Dgv, nr.
 <div n="lb"/>309; Dutt; DWH 3, p. 420-425; Gul; HB; HK; KB 4, p. 2435-2438;
@@ -392,19 +392,19 @@
 <div n="lb"/>Rosc.] (PA 1, 9, p. 114).
 <LEND>
 
-<L>20<pc>527<k1>AsurI<k2>AsurI
+<L>20<pc>527<k1>आसुरी<k2>आसुरी
 {%āsurī̆%}¦
 <div n="P"/>= {%rājikā%} (Bpn, {%dhānyavarga%} 72; Dgm, p. 115; Dn, {%varga%} 4, 60; KB
 <div n="lb"/>1, p. 168-170; MW; Pr 243; PW; Rn, {%varga%} 16, 90; V 9, p. 1).
 <LEND>
 
-<L>21<pc>527<k1>ikzu<k2>ikzu
+<L>21<pc>527<k1>इक्षु<k2>इक्षु
 {%ikṣu%}¦ — sugar-cane.
 <div n="P"/><bot>SACCHARUM OFFICINARUM LINN.</bot>
 <LEND>
 [Page-528+ 34]
 
-<L>22<pc>528<k1>ikzvAku<k2>ikzvAku
+<L>22<pc>528<k1>इक्ष्वाकु<k2>इक्ष्वाकु
 {%ikṣvāku = kaṭutumbī = tiktatumbī%}¦
 <div n="P"/>(1) a) <bot>LAGENARIA SICERARIA STANDLEY</bot> = <bot>L. VULGARIS SERINGE</bot>
 <div n="lb"/>(Avk; Bpn, p. 671; Dgv, nr. 165; DWH 2, p. 63: the bitter
@@ -417,12 +417,12 @@
 <div n="P"/>(3) <bot>CITRULLUS COLOCYNTHIS SCHRAD.</bot> (MW; PW).
 <LEND>
 
-<L>23<pc>528<k1>indrayava<k2>indrayava
+<L>23<pc>528<k1>इन्द्रयव<k2>इन्द्रयव
 {%indrayava%}¦
 <div n="P"/>= the seeds of {%kuṭaja.%}
 <LEND>
 
-<L>24<pc>528<k1>utpala<k2>utpala
+<L>24<pc>528<k1>उत्पल<k2>उत्पल
 {%utpala%}¦
 <div n="P"/>(1) <bot>NYMPHAEA STELLATA WILLD.</bot> (Chopra; Dutt; Gul; HK; KB 1,
 <div n="lb"/>p. 113-115; Na 1, nr. 18; Nadk. 1, nr. 1726) = <bot>N. CYANEA ROXB.</bot>
@@ -439,7 +439,7 @@
 <div n="lb"/>PHYLLUM CAV.</bot> (Vśs).
 <LEND>
 
-<L>25<pc>528<k1>udIcya<k2>udIcya
+<L>25<pc>528<k1>उदीच्य<k2>उदीच्य
 {%udīcya = udīcī%}¦
 <div n="P"/>(1) = {%bālā%} (HK; Kav; KB 1, p. 323-324);
 <div n="P"/>(2) = {%hrīvera%} (KB 1, p. 323-324: = {%bālā = hrīvera;%} Vśs);
@@ -447,7 +447,7 @@
 <div n="lb"/>thirteen times in Ca., is not explained by Cakra.
 <LEND>
 
-<L>26<pc>528<k1>udumbara<k2>udumbara
+<L>26<pc>528<k1>उदुम्बर<k2>उदुम्बर
 {%udumbara%}¦
 <div n="P"/>(1) <bot>FICUS RACEMOSA WALL.</bot> = <bot>F. RACEMOSA</bot> (Nadk. 1, nr. 1041) [=
 <div n="lb"/><bot>F. RACEMOSA LINN.</bot>] (acc. to Chopra, but the Index Kewensis indicates
@@ -467,7 +467,7 @@
 <div n="P"/>(4) <bot>F. CARICA LINN.</bot> (Ainslie 1, p. 131-132; Ghosh).
 <LEND>
 
-<L>27<pc>529<k1>uddAla<k2>uddAla
+<L>27<pc>529<k1>उद्दाल<k2>उद्दाल
 {%uddāla(ka)%}¦
 <div n="P"/>(1) <bot>PASPALUM SCROBICULATUM LINN.</bot> (Bpn, p. 654; KB 4, p. 2705-
 <div n="lb"/>2706) = <bot>P. FRUMENTACEUM ROTTL. EX ROEM. ET SCHULT.</bot> (HK; MW;
@@ -490,12 +490,12 @@
 <div n="P"/>(5) <bot>B. ACUMINATA LINN.</bot> (Kav, p. 620: acc. to Gaṅgādhara).
 <LEND>
 
-<L>28<pc>529<k1>umA<k2>umA
+<L>28<pc>529<k1>उमा<k2>उमा
 {%umā%}¦
 <div n="lb"/>= {%atasī.%}
 <LEND>
 
-<L>29<pc>529<k1>uSIra<k2>uSIra
+<L>29<pc>529<k1>उशीर<k2>उशीर
 {%uśīra%}¦ is the root of
 <div n="P"/>(1) [<bot>VETIVERIA ZIZANIOIDES (LINN.) NASH</bot>] (Bpn, p. 239; Chopra) =
 [Page-530+ 36]
@@ -515,7 +515,7 @@
 <div n="lb"/>STEUD.</bot> = <bot>A. LANIGER MUNRO.</bot>
 <LEND>
 
-<L>30<pc>530<k1>UzaRa<k2>UzaRa
+<L>30<pc>530<k1>ऊषण<k2>ऊषण
 {%ūṣaṇa%}¦
 <div n="P"/>(1) = {%marica%} (Bpn; Dgv; Dn; MW; Pr; Rn);
 <div n="P"/>(2) = {%pippalī%} (PW, = {%uṣaṇā%});
@@ -525,7 +525,7 @@
 <div n="P"/>(6) = {%citraka%} (Bpn; KB 2, p. 1466-1469).
 <LEND>
 
-<L>31<pc>530<k1>ervAru<k2>ervAru
+<L>31<pc>530<k1>एर्वारु<k2>एर्वारु
 {%ervāru(ka)%}¦
 <div n="P"/>(1) [<bot>CUCUMIS MELO LINN. VAR. MOMORDICA DUTHIE ET FULLER</bot>]
 <div n="lb"/>(Chopra; HK; KB 2, p. 1142; Watt CP, p. 438-439); see Duthie 1,
@@ -536,7 +536,7 @@
 <div n="lb"/>p. 671; Gul; HB; HSu; KB 2, p. 1143; MW; PW; Vśs).
 <LEND>
 
-<L>32<pc>530<k1>elavAlu<k2>elavAlu
+<L>32<pc>530<k1>एलवालु<k2>एलवालु
 {%elavālu (ka)%}¦
 <div n="P"/>Much confusion exists concerning this substance as will become
 <div n="lb"/>apparent from the material collected:
@@ -583,7 +583,7 @@
 <div n="lb"/>{%la;%}” {%kaṭphala%} is usually identified as <bot>MYRICA NAGI THUNB.</bot>
 <LEND>
 
-<L>33<pc>531<k1>elA<k2>elA
+<L>33<pc>531<k1>एला<k2>एला
 {%elā%}¦
 <div n="P"/>Two kinds of {%elā%} are distinguished: 1) {%sūkṣmailā%} or {%kṣudrailā,%} the
 <div n="lb"/>small cardamom, and 2) {%sthūlailā%} or {%bṛhadelā,%} the large cardamom.
@@ -603,7 +603,7 @@
 <div n="P"/>(6) <bot>A. AROMATICUM ROXB.</bot> (Bpn, p. 222: used as a substitute).
 <LEND>
 
-<L>34<pc>532<k1>elAvAluka<k2>elAvAluka
+<L>34<pc>532<k1>एलावालुक<k2>एलावालुक
 {%elāvāluka%}¦
 <div n="P"/>This term occurs Kauṭ. 2, 25, 27 (text p. 79; transl. Kangle p. 178;
 <div n="lb"/>transl. <bot>J. J.</bot> Meyer p. 187; transl. Sham. p. 133). Sham. renders it by
@@ -615,12 +615,12 @@
 <div n="lb"/>{%elavāluka.%}
 <LEND>
 
-<L>35<pc>532<k1>ozWopamaPalA<k2>ozWopamaPalA
+<L>35<pc>532<k1>ओष्ठोपमफला<k2>ओष्ठोपमफला
 {%oṣṭhopamaphalā%}¦
 <div n="lb"/>= {%bimbī.%}
 <LEND>
 
-<L>36<pc>532<k1>kakkola<k2>kakkola
+<L>36<pc>532<k1>कक्कोल<k2>कक्कोल
 {%kakkola%}¦
 <div n="P"/>(1) <bot>PIPER CUBEBA LINN. F.</bot> (Gul);
 <div n="P"/>(2) possibly the fruit of <bot>COCCULUS INDICUS</bot> (Avk; Vśs); Index
@@ -633,14 +633,14 @@
 <LEND>
 [Page-533+ 37]
 
-<L>37<pc>533<k1>kaNkola<k2>kaNkola
+<L>37<pc>533<k1>कङ्कोल<k2>कङ्कोल
 {%kaṅkola%}¦
 <div n="P"/>(1) <bot>PIPER CUBEBA LINN. F.</bot> (Bpn, p. 258-259; Dgv, nr. 267; DWH 3,
 <div n="lb"/>p. 180-183; HK; MW; PW; V 2, p. 66);
 <div n="P"/>(2) a particular substance sold under that name (Vśs).
 <LEND>
 
-<L>38<pc>533<k1>kaNgu<k2>kaNgu
+<L>38<pc>533<k1>कङ्गु<k2>कङ्गु
 {%kaṅgu%}¦
 <div n="P"/>(1) <bot>SETARIA ITALICA BEAUV.</bot> (Avk; Chopra; Dutt; DWH 3, p. 619;
 <div n="lb"/>HK; KB 4, p. 2718-2719; Nadk. 1, nr. 2291; V 2, p. 113; Watt CP, p.
@@ -662,7 +662,7 @@
 <div n="lb"/>this species is also described in the Flora Iranica.
 <LEND>
 
-<L>39<pc>533<k1>kawukA<k2>kawukA
+<L>39<pc>533<k1>कटुका<k2>कटुका
 {%kaṭukā%}¦
 <div n="P"/>(1) <bot>PICRORRHIZA KURROA ROYLE EX BENTH.</bot> (Bpn, p. 70; Chopra) =
 <div n="lb"/><bot>P. KURROA ROYLE</bot> (DWH 2, p. 459; Dy, p. 577-578) = [<bot>P. KURROA
@@ -697,7 +697,7 @@
 <div n="P"/>(16) <bot>S. RHEEDEI C. B. CLARKE</bot> (DWH 2, p. 502-505).
 <LEND>
 
-<L>40<pc>534<k1>kawukI<k2>kawukI
+<L>40<pc>534<k1>कटुकी<k2>कटुकी
 {%kaṭukī%}¦
 <div n="P"/>(1) <bot>PICRORRHIZA KURROA ROYLE EX BENTH.</bot> (Avk; Dutt; DWH 3,
 <div n="lb"/><bot>P.</bot> 10-13; Dy, p. 510-511; HK; V 2, p. 147);
@@ -709,12 +709,12 @@
 <div n="lb"/>SER.</bot> (Nadk. 1, nr. 1516).
 <LEND>
 
-<L>41<pc>534<k1>kawutumbI<k2>kawutumbI
+<L>41<pc>534<k1>कटुतुम्बी<k2>कटुतुम्बी
 {%kaṭutumbī%}¦
 <div n="lb"/>= {%ikṣvāku.%}
 <LEND>
 
-<L>42<pc>534<k1>kawurohiRI<k2>kawurohiRI
+<L>42<pc>534<k1>कटुरोहिणी<k2>कटुरोहिणी
 {%kaṭurohiṇī%}¦
 <div n="P"/>(1) <bot>PICRORRHIZA KURROA ROYLE EX BENTH.</bot> (Avk; Bpn, p. 70; Dgv,
 <div n="lb"/>nr. 235; Dutt; DWH 3, p. 10-13; Dy, p. 577-578; Gul; HK; Kav; KB
@@ -726,7 +726,7 @@
 <LEND>
 [Page-535+ 36]
 
-<L>43<pc>535<k1>kaRA<k2>kaRA
+<L>43<pc>535<k1>कणा<k2>कणा
 {%kaṇā%}¦
 <div n="P"/>(1) <bot>PIPER LONGUM LINN.</bot> (Bpn; Dgv; Dutt; DWH 3, p. 176; MW;
 <div n="lb"/>PW; V 6, p. 120; Vśs);
@@ -735,7 +735,7 @@
 <div n="P"/>(3) = {%vanajīraka%} (see {%jīraka%}) (Avk; KB 2, p. 1325-1327).
 <LEND>
 
-<L>44<pc>535<k1>kaRwakArikA<k2>kaRwakArikA
+<L>44<pc>535<k1>कण्टकारिका<k2>कण्टकारिका
 {%kaṇṭakārikā%}¦
 <div n="P"/>(1) <bot>SOLANUM XANTHOCARPUM SCHRAD. ET WENDL.</bot> (Avk; Bpn, p.
 <div n="lb"/>289-292; Chopra; Dutt; DWH 2, p. 557-559; Dy, p. 636-637; Gul;
@@ -752,7 +752,7 @@
 <div n="P"/>(6) <bot>S. VERBASCIFOLIUM LINN.</bot> (DWH 2, p. 560: incorrectly used).
 <LEND>
 
-<L>45<pc>535<k1>kadamba<k2>kadamba
+<L>45<pc>535<k1>कदम्ब<k2>कदम्ब
 {%kadamba%}¦
 <div n="P"/>(1) <bot>ANTHOCEPHALUS INDICUS A. RICH.</bot> (Chopra; PA 1, 5, p. 45) =
 <div n="lb"/><bot>A. CADAMBA MIQ.</bot> (Avk; Bpn, p. 496; Chopra; DWH 2, p. 169-171;
@@ -781,7 +781,7 @@
 <div n="lb"/>b) white mustard (PW).
 <LEND>
 
-<L>46<pc>536<k1>kapikacCU<k2>kapikacCU
+<L>46<pc>536<k1>कपिकच्छू<k2>कपिकच्छू
 {%kapikacchū̆%}¦
 <div n="P"/><bot>MUCUNA PRURITA HOOK.</bot> (Chopra; KB 1, p. 778-780; MW; Nadk. 1,
 <div n="lb"/>nr. 1663; PA 1, 5, p. 4; PW) = <bot>M. PRURIENS DC.</bot> (Dutt; DWH 1, p.
@@ -794,7 +794,7 @@
 <div n="lb"/><bot>DOLICHOS PRURIENS LINN.</bot> (Ainslie 1, p. 92-94; Nadk. 1, nr. 1663).
 <LEND>
 
-<L>47<pc>536<k1>kapitTa<k2>kapitTa
+<L>47<pc>536<k1>कपित्थ<k2>कपित्थ
 {%kapittha%}¦
 <div n="P"/>(1) <bot>FERONIA ELEPHANTUM CORR.</bot> (AFM 1, p. 68-71; Ainslie 2, p.
 <div n="lb"/>82-83: {%bhūkapittha;%} Bpn, p. 560; Chopra; Dgv, nr. 73; Dutt; Gul;
@@ -808,7 +808,7 @@
 <div n="P"/>(3) <bot>GISEKIA PHARNACIOIDES LINN.</bot> (V 6, p. 67; see: {%elavāluka%}).
 <LEND>
 
-<L>48<pc>536<k1>kamala<k2>kamala
+<L>48<pc>536<k1>कमल<k2>कमल
 {%kamala%}¦
 <div n="P"/>(1) <bot>NELUMBIUM SPECIOSUM WILLD.</bot> (Bpn, p. 480; Dgv, nr. 80; Dutt;
 <div n="lb"/>Gul; HB; HK; Kav; KB 1, p. 116-120; V 2, p. 70; Vśs) [= <bot>N. SPECIO-
@@ -825,7 +825,7 @@
 <div n="P"/>(4) = {%kuṅkuma%} (Vśs, <bot>CROCUS SATIVUS LINN.</bot>).
 <LEND>
 
-<L>49<pc>537<k1>karaYja<k2>karaYja
+<L>49<pc>537<k1>करञ्ज<k2>करञ्ज
 {%karañja%}¦
 <div n="P"/>(1) <bot>PONGAMIA PINNATA (LINN.) PIERRE</bot> [Intern. Code] [= <bot>P. PINNATA</bot>
 <div n="lb"/>(<bot>LINN.</bot>) MERRILL] (Chopra) = <bot>P. PINNATA MERRILL</bot> = <bot>P. GLABRA
@@ -860,7 +860,7 @@
 <LEND>
 [Page-538+ 36]
 
-<L>50<pc>538<k1>karamarda<k2>karamarda
+<L>50<pc>538<k1>करमर्द<k2>करमर्द
 {%karamarda(ka)%}¦
 <div n="P"/>(1) <bot>CARISSA CARANDAS LINN.</bot> [Intern. Code] (Avk; Bpn, p. 565; Dutt;
 <div n="lb"/>DWH 2, p. 419-420; Dy, p. 507-508; Gul; HK; IRM 2, p. 82; Kav;
@@ -880,7 +880,7 @@
 <div n="lb"/>RAEUSCH.</bot> = <bot>F. JANGOMAS STEUD.</bot> = <bot>STIGMAROTA JANGOMAS LOUR.</bot>
 <LEND>
 
-<L>51<pc>538<k1>karIra<k2>karIra
+<L>51<pc>538<k1>करीर<k2>करीर
 {%karīra%}¦
 <div n="P"/>(1) <bot>CAPPARIS APHYLLA ROTH</bot> (Avk; Bpn, p. 541; Chopra; Dgm, p.
 <div n="lb"/>151-152; Dgv, nr. 32; Dutt; DWH 1, p. 131-132; Dy, p. 64; Gul; HK;
@@ -896,7 +896,7 @@
 <div n="lb"/>only: <bot>CADABA JUNCEA HARV.</bot> = <bot>C. APHYLLA (THUNB.) WILLD.</bot>
 <LEND>
 
-<L>52<pc>538<k1>karkanDU<k2>karkanDU
+<L>52<pc>538<k1>कर्कन्धू<k2>कर्कन्धू
 {%karkandhū̆%}¦
 <div n="P"/>(1) <bot>ZIZYPHUS JUJUBA LAM.</bot> (Bpn, p. 563-564; HB; HK: the variety
 <div n="lb"/>with small fruits; MW; PW: the variety with a large type of fruit,
@@ -913,7 +913,7 @@
 <div n="P"/>b) = 2), acc. to KB 1, p. 595-596 and Roxb., p. 206.
 <LEND>
 
-<L>53<pc>539<k1>karkowa<k2>karkowa
+<L>53<pc>539<k1>कर्कोट<k2>कर्कोट
 {%karkoṭa%}¦
 <div n="P"/>(1) a) <bot>MOMORDICA COCHINCHINENSIS SPRENG.</bot> (Avk; HK) = <bot>MURI-
 <div n="lb"/>CIA COCHINCHINENSIS LOUR.</bot> (Avk);
@@ -925,7 +925,7 @@
 <div n="P"/>(4) <bot>SACCHARUM OFFICINARUM LINN.</bot> (Vśs).
 <LEND>
 
-<L>54<pc>539<k1>karkowaka<k2>karkowaka
+<L>54<pc>539<k1>कर्कोटक<k2>कर्कोटक
 {%karkoṭaka%}¦
 <div n="P"/>(1) <bot>MOMORDICA COCHINCHINENSIS SPRENG.</bot> (Avk) = <bot>M. MIXTA ROXB.</bot>
 <div n="lb"/>(Kav; MW; PW) = <bot>M. DIOICA WALL.</bot> = <bot>MURICIA COCHINCHINENSIS
@@ -939,7 +939,7 @@
 <div n="lb"/>Vśs).
 <LEND>
 
-<L>55<pc>539<k1>karkowikA<k2>karkowikA
+<L>55<pc>539<k1>कर्कोटिका<k2>कर्कोटिका
 {%karkoṭikā%}¦
 <div n="P"/>(1) <bot>MOMORDICA COCHINCHINENSIS SPRENG.</bot> (Avk) = <bot>M. MIXTA ROXB.</bot>
 <div n="lb"/>(MW; PW) = <bot>MURICIA COCHINCHINENSIS LOUR.</bot> (Avk);
@@ -949,7 +949,7 @@
 <LEND>
 [Page-540+ 36]
 
-<L>56<pc>540<k1>karpUra<k2>karpUra
+<L>56<pc>540<k1>कर्पूर<k2>कर्पूर
 {%karpūra%}¦
 <div n="P"/>(1) <bot>CINNAMOMUM CAMPHORA T. NEES ET EBERM.</bot> (Avk; Bpn, p.
 <div n="lb"/>173-176; Chopra; Dutt; DWH 3, p. 199-203); Dy, p. 665; HK; KB 3,
@@ -969,7 +969,7 @@
 <div n="lb"/>ZERUMBET ROXB.</bot> = <bot>AMOMUM ZEDOARIA BERGIUS.</bot>
 <LEND>
 
-<L>57<pc>540<k1>kalAya<k2>kalAya
+<L>57<pc>540<k1>कलाय<k2>कलाय
 {%kalāya%}¦
 <div n="P"/>(1) <bot>PISUM SATIVUM LINN.</bot> (Bpn, p. 648; Dutt; HK; Kav; KB 1,
 <div n="lb"/>p. 772-773; V 8, p. 12; Vśs);
@@ -984,7 +984,7 @@
 <div n="lb"/>{%khaṇḍikā:%} <bot>LATHYRUS SATIVUS LINN.</bot>
 <LEND>
 
-<L>58<pc>540<k1>kaSeru<k2>kaSeru
+<L>58<pc>540<k1>कशेरु<k2>कशेरु
 {%kaśeru (ka) = kaseru (ka)%}¦
 <div n="P"/>(1) <bot>SCIRPUS KYSOOR ROXB.</bot> (Avk; Chopra; Dgv, nr. 338; Dutt; Gul;
 <div n="lb"/>HK; Kav; KB 4, p. 2646; Nadk. 1, nr. 2255; PW; V 2, p. 100; Vśs);
@@ -1008,13 +1008,13 @@
 <div n="lb"/>3) [<bot>MARSILEA DENTATA</bot>] (Vśs).
 <LEND>
 
-<L>59<pc>541<k1>kAkaRantI<k2>kAkaRantI
+<L>59<pc>541<k1>काकणन्ती<k2>काकणन्ती
 {%kākaṇantī = kākaṇantikā%}¦
 <div n="P"/>(1) <bot>ABRUS PRECATORIUS LINN.</bot>;
 <div n="P"/>(2) = {%muñja%} (HK).
 <LEND>
 
-<L>60<pc>541<k1>kAkatinduka<k2>kAkatinduka
+<L>60<pc>541<k1>काकतिन्दुक<k2>काकतिन्दुक
 {%kākatinduka%}¦
 <div n="P"/>(1) <bot>DIOSPYROS TOMENTOSA ROXB.</bot> (Avk; Dutt; HK; KB 2, p. 1504-
 <div n="lb"/>1505; Nadk. 1, nr. 852; PW; Vśs);
@@ -1028,7 +1028,7 @@
 <div n="lb"/>DC.</bot> (KB 1, p. 199-200).
 <LEND>
 
-<L>61<pc>541<k1>kAkAdanI<k2>kAkAdanI
+<L>61<pc>541<k1>काकादनी<k2>काकादनी
 {%kākādanī%}¦
 <div n="P"/>(1) <bot>ABRUS PRECATORIUS LINN.</bot> (KB 1, p. 764-767);
 <div n="lb"/>a) the white variety (MW; PW; Vśs);
@@ -1051,7 +1051,7 @@
 <div n="P"/>(10) = {%kākatinduka%} (Vśs).
 <LEND>
 
-<L>62<pc>542<k1>kARqekzu<k2>kARqekzu
+<L>62<pc>542<k1>काण्डेक्षु<k2>काण्डेक्षु
 {%kāṇḍekṣu%}¦
 <div n="P"/>(1) <bot>HYGROPHILA SPINOSA T. ANDERS.</bot> (Kav; KB 3, p. 1864-1865;
 <div n="lb"/>Vśs) = <bot>ASTERACANTHA LONGIFOLIA NEES</bot> (KB 3, p. 1864-1865; MW;
@@ -1062,7 +1062,7 @@
 <div n="lb"/>and is much harder; Vśs: white sugar-cane, dark sugar-cane).
 <LEND>
 
-<L>63<pc>542<k1>kArpAsI<k2>kArpAsI
+<L>63<pc>542<k1>कार्पासी<k2>कार्पासी
 {%kārpāsī%}¦
 <div n="P"/>(1) <bot>GOSSYPIUM HERBACEUM LINN.</bot> (Ainslie 2, p. 282-284; Avk; Bpn,
 <div n="lb"/>p. 374; Chopra; Dgv, nr. 45; Dutt; Dy, p. 109-112; Gul; KB 1, p.
@@ -1074,7 +1074,7 @@
 <div n="lb"/>224-228); see Hooker 1, p. 346-347.
 <LEND>
 
-<L>64<pc>542<k1>kAlamAla<k2>kAlamAla
+<L>64<pc>542<k1>कालमाल<k2>कालमाल
 {%kālamāla(ka) = kālamālā%}¦
 <div n="P"/>(1) <bot>OCIMUM SANCTUM LINN.</bot> (HK; MW);
 <div n="lb"/>a) the type with dark leaves (PW);
@@ -1085,13 +1085,13 @@
 <LEND>
 [Page-543+ 36]
 
-<L>65<pc>543<k1>kASa<k2>kASa
+<L>65<pc>543<k1>काश<k2>काश
 {%kāśa = kāsa%}¦
 <div n="P"/><bot>SACCHARUM SPONTANEUM LINN.</bot> (Bpn, p. 380; Gul; HB; HK; Kav;
 <div n="lb"/>KB 4, p. 2668-2669; Nadk. 1, nr. 2185; MW; PW; Vśs).
 <LEND>
 
-<L>66<pc>543<k1>kASmarya<k2>kASmarya
+<L>66<pc>543<k1>काश्मर्य<k2>काश्मर्य
 {%kāśmarya = kāśmarī%}¦
 <div n="P"/>(1) <bot>GMELINA ARBOREA ROXB.</bot> (AFM 1, p. 74-77; KB 3, p. 1932-1934;
 <div n="lb"/>PA 1, 2, p. 63-74; PW) [= <bot>G. ARBOREA LINN.</bot>] (Bpn, p. 277; Dutt;
@@ -1102,7 +1102,7 @@
 <div n="P"/>(3) <bot>MYRICA NAGI THUNB.</bot> (Vśs: = {%kāyaphala = kaṭphala%}).
 <LEND>
 
-<L>67<pc>543<k1>kuwaja<k2>kuwaja
+<L>67<pc>543<k1>कुटज<k2>कुटज
 {%kuṭaja%}¦
 <div n="P"/>(1) <bot>HOLARRHENA ANTIDYSENTERICA WALL.</bot> (Bpn, p. 347; Chopra;
 <div n="lb"/>Dgv, nr. 210: {%śvetakuṭaja;%} Dutt; DWH 2, p. 391-397; Dy, p. 497-500;
@@ -1128,7 +1128,7 @@
 <div n="lb"/>2216) = <bot>CLUYTIA COLLINA ROXB.</bot> (KB 3, p. 2215-2216).
 <LEND>
 
-<L>68<pc>543<k1>kuWera<k2>kuWera
+<L>68<pc>543<k1>कुठेर<k2>कुठेर
 {%kuṭhera (ka)%}¦
 <div n="P"/>(1) <bot>OCIMUM BASILICUM LINN.</bot> (Avk; Bpn, p. 511-512);
 [Page-544+ 36]
@@ -1145,7 +1145,7 @@
 <div n="lb"/>{%kuṇṭha;%} Rn, {%varga%} 10, 84-85: = {%arjaka = kṣudratulasī%} (see {%tulasī%}).
 <LEND>
 
-<L>69<pc>544<k1>kumBI<k2>kumBI
+<L>69<pc>544<k1>कुम्भी<k2>कुम्भी
 {%kumbhī(vṛkṣa)%}¦
 <div n="P"/>(1) <bot>CAREYA ARBOREA ROXB.</bot> (Chopra; DWH 2, p. 19-20; IRM 2, p.
 <div n="lb"/>76; Na 1, nr. 216; Nadk. 1, nr. 475; V 2, p. 18);
@@ -1168,7 +1168,7 @@
 <div n="P"/>(10) = {%pṛśniparṇī%} (Vśs).
 <LEND>
 
-<L>70<pc>544<k1>kulatTa<k2>kulatTa
+<L>70<pc>544<k1>कुलत्थ<k2>कुलत्थ
 {%kulattha%}¦
 <div n="P"/>(1) <bot>DOLICHOS BIFLORUS LINN.</bot> (AFM 1, p. 64-66; Avk; Bpn, p. 649;
 <div n="lb"/>Chopra; Dutt; DWH 1, p. 489; Ghosh; Gul; HK; IRM 3, p. 101-104;
@@ -1180,7 +1180,7 @@
 <div n="P"/>(2) <bot>CASSIA ABSUS LINN.</bot> (KB 2, p. 873-874).
 <LEND>
 
-<L>71<pc>545<k1>kuvala<k2>kuvala
+<L>71<pc>545<k1>कुवल<k2>कुवल
 {%kuvala%}¦
 <div n="P"/>(1) <bot>ZIZYPHUS JUJUBA LAM.</bot> (MW; PW; Vśs);
 <div n="P"/>(2) <bot>Z. SATIVA GAERTN.</bot> (Gul);
@@ -1191,7 +1191,7 @@
 <div n="lb"/>c) = {%utpala%} (Vśs).
 <LEND>
 
-<L>72<pc>545<k1>kuzWa<k2>kuzWa
+<L>72<pc>545<k1>कुष्ठ<k2>कुष्ठ
 {%kuṣṭha%}¦
 <div n="P"/>(1) <bot>SAUSSUREA LAPPA C. B. CLARKE</bot> (Bpn, p. 91; Chopra; Dgv, nr.
 <div n="lb"/>191; Dutt; DWH 2, p. 296-303; Dy, p. 449-456; Gul; HK; KB 2,
@@ -1207,12 +1207,12 @@
 <div n="lb"/>sources, except Wise).
 <LEND>
 
-<L>73<pc>545<k1>kusumBa<k2>kusumBa
+<L>73<pc>545<k1>कुसुम्भ<k2>कुसुम्भ
 {%kusumbha (ka)%}¦
 <div n="P"/><bot>CARTHAMUS TINCTORIUS LINN.</bot>
 <LEND>
 
-<L>74<pc>545<k1>kfzRA<k2>kfzRA
+<L>74<pc>545<k1>कृष्णा<k2>कृष्णा
 {%kṛṣṇā%}¦
 <div n="P"/>(1) <bot>PIPER LONGUM LINN.</bot> (Ainslie 1, p. 308; Bpn, p. 15; Dutt; HK;
 <div n="lb"/>MW; PW; V 6, p. 120; Vśs);
@@ -1242,7 +1242,7 @@
 <div n="lb"/>{%bākucī:%} <bot>PSORALEA CORYLIFOLIA LINN.</bot> (MW; PW; Vśs).
 <LEND>
 
-<L>75<pc>546<k1>keSara<k2>keSara
+<L>75<pc>546<k1>केशर<k2>केशर
 {%keśara = kesara%}¦
 <div n="P"/>(1) = {%nāgakeśara%} (Bpn, p. 229-232; Gul; HK; Kav; KB 1, p. 274-
 <div n="lb"/>276; MW; PW; V 5, p. 122-123; Vśs);
@@ -1256,7 +1256,7 @@
 <div n="P"/>(7) <bot>MALLOTUS PHILIPPINENSIS MUELL. ARG.</bot> (KB 3, p. 2267-2270).
 <LEND>
 
-<L>76<pc>546<k1>kodrava<k2>kodrava
+<L>76<pc>546<k1>कोद्रव<k2>कोद्रव
 {%kodrava%}¦
 <div n="P"/><bot>PASPALUM SCROBICULATUM LINN.</bot>; Nadk. 1, nr. 1817, p. 924: the
 <div n="lb"/>new grain is said to be powerfully narcotic and is eaten only by the
@@ -1267,12 +1267,12 @@
 <LEND>
 [Page-547+ 35]
 
-<L>77<pc>547<k1>koradUza<k2>koradUza
+<L>77<pc>547<k1>कोरदूष<k2>कोरदूष
 {%koradūṣa%}¦
 <div n="lb"/>= {%kodrava.%}
 <LEND>
 
-<L>78<pc>547<k1>kola<k2>kola
+<L>78<pc>547<k1>कोल<k2>कोल
 {%kola%}¦
 <div n="P"/>(1) <bot>ZIZYPHUS JUJUBA LAM.</bot>;
 <div n="P"/>(2) <bot>Z. OENOPLIA MILL.</bot> (Nadk. 1, nr. 2662);
@@ -1289,7 +1289,7 @@
 <div n="P"/>(13) = {%bahuvāra:%} a species of Cordia (Vśs).
 <LEND>
 
-<L>79<pc>547<k1>kramuka<k2>kramuka
+<L>79<pc>547<k1>क्रमुक<k2>क्रमुक
 {%kramuka%}¦
 <div n="P"/>(1) <bot>ARECA CATECHU LINN.</bot> (Ainslie 2, p. 268-271; Dutt; DWH 3, p.
 <div n="lb"/>522-532; Dy, p. 802-804; HK; Kav; KB 4, p. 2547-2549; MW; Nadk.
@@ -1305,7 +1305,7 @@
 <div n="P"/>(7) the fruit of {%kārpāsī%} (MW; PW).
 <LEND>
 
-<L>80<pc>547<k1>kzavaka<k2>kzavaka
+<L>80<pc>547<k1>क्षवक<k2>क्षवक
 {%kṣavaka%}¦
 <div n="P"/>(1) <bot>ACHYRANTHES ASPERA LINN.</bot> (HB; HK; MW; PW);
 <div n="P"/>(2) <bot>CENTIPEDA ORBICULARIS LOUR.</bot> (Gul; KB 2, p. 1388-1389) = <bot>C.
@@ -1321,7 +1321,7 @@
 <div n="lb"/>is well known as {%cihvariyāka%} in Pāriyātra.
 <LEND>
 
-<L>81<pc>548<k1>Kadira<k2>Kadira
+<L>81<pc>548<k1>खदिर<k2>खदिर
 {%khadira%}¦
 <div n="P"/>(1) <bot>ACACIA CATECHU WILLD.</bot> (Ainslie 1, p. 63-66; Avk; Bpn, p. 525;
 <div n="lb"/>Chopra; DWH 1, p. 557-559; Dy, p. 283-285; Gul; IRM 1, p. 9-13;
@@ -1340,7 +1340,7 @@
 <div n="lb"/>{%śvetakhadira%}).
 <LEND>
 
-<L>82<pc>548<k1>Karapatra<k2>Karapatra
+<L>82<pc>548<k1>खरपत्र<k2>खरपत्र
 {%kharapatra%}¦
 <div n="P"/>(1) <bot>MAJORANA HORTENSIS MOENCH.</bot> [Intern. Code] = <bot>ORIGANUM
 <div n="lb"/>MAJORANA LINN.</bot> (<bot>KB.</bot> 3, p. 1985-1986);
@@ -1362,7 +1362,7 @@
 <div n="lb"/>{%patraka%}).
 <LEND>
 
-<L>83<pc>549<k1>KarjUra<k2>KarjUra
+<L>83<pc>549<k1>खर्जूर<k2>खर्जूर
 {%kharjūra%}¦
 <div n="P"/>(1) <bot>PHOENIX SYLVESTRIS ROXB.</bot> (Avk; Bpn, p. 574-576; Chopra;
 <div n="lb"/>Dutt; DWH 3, p. 520; Dy, p. 801; HK; Kav; KB 4, p. 2563-2565;
@@ -1373,7 +1373,7 @@
 <div n="lb"/>usually distinguished as {%piṇḍakharjūra.%}
 <LEND>
 
-<L>84<pc>549<k1>gajapippalI<k2>gajapippalI
+<L>84<pc>549<k1>गजपिप्पली<k2>गजपिप्पली
 {%gajapippalī%}¦
 <div n="P"/>(1) <bot>SCINDAPSUS OFFICINALIS SCHOTT</bot> = <bot>POTHOS OFFICINALIS ROXB.</bot>
 <div n="P"/>(2) <bot>LITSEA POLYANTHA JUSS.</bot> (KB 3, p. 2160-2161);
@@ -1381,7 +1381,7 @@
 <div n="lb"/>734) = <bot>TOMEX SEBIFERA WILLD.</bot> (Roxb., p. 734).
 <LEND>
 
-<L>85<pc>549<k1>gaRqIra<k2>gaRqIra
+<L>85<pc>549<k1>गण्डीर<k2>गण्डीर
 {%gaṇḍīra%}¦
 <div n="P"/>(1) a) a particular plant eaten as a vegetable (PW; Vśs);
 <div n="lb"/>b) a kind of potherb described as growing in watery ground
@@ -1401,13 +1401,13 @@
 <LEND>
 [Page-550+ 35]
 
-<L>86<pc>550<k1>ganDaka<k2>ganDaka
+<L>86<pc>550<k1>गन्धक<k2>गन्धक
 {%gandhaka%}¦
 <div n="P"/><bot>MORINGA OLEIFERA LAM.</bot> = <bot>M. PTERYGOSPERMA GAERTN.</bot> (KB 1,
 <div n="lb"/>p. 677-682; MW; PW; Vśs).
 <LEND>
 
-<L>87<pc>550<k1>ganDapatra<k2>ganDapatra
+<L>87<pc>550<k1>गन्धपत्र<k2>गन्धपत्र
 {%gandhapatra%}¦
 <div n="P"/>(1) a) <bot>MAJORANA HORTENSIS MOENCH.</bot> [Intern. Code] = <bot>ORIGANUM
 <div n="lb"/>MAJORANA LINN.</bot> (KB 3, p. 1985-1986);
@@ -1423,13 +1423,13 @@
 <div n="lb"/>229: {%rudrajaṭā%} = <bot>ARISTOLOCHIA INDICA LINN.</bot>).
 <LEND>
 
-<L>88<pc>550<k1>guYjA<k2>guYjA
+<L>88<pc>550<k1>गुञ्जा<k2>गुञ्जा
 {%guñjā%}¦
 <div n="P"/><bot>ABRUS PRECATORIUS LINN.</bot> = <bot>A. MINOR DESV.</bot> (Nadk. 1, nr. 6) =
 <div n="lb"/><bot>A. PAUCIFLORUS DESV.</bot> (Nadk. 1, nr. 6) = <bot>GLYCINE ABRUS LINN.</bot>
 <LEND>
 
-<L>89<pc>550<k1>guqUcI<k2>guqUcI
+<L>89<pc>550<k1>गुडूची<k2>गुडूची
 {%guḍūcī%}¦
 <div n="P"/>(1) [<bot>TINOSPORA CORDIFOLIA (WILLD.) MIERS</bot>] (Bpn, p. 269-270;
 <div n="lb"/>Chopra) = <bot>T. CORDIFOLIA MIERS</bot> (Avk; Dgm, p. 25; Dgv, nr. 14; Dutt;
@@ -1451,7 +1451,7 @@
 <div n="lb"/>TOMENTOSUM ROXB.</bot>
 <LEND>
 
-<L>90<pc>551<k1>gokzura<k2>gokzura
+<L>90<pc>551<k1>गोक्षुर<k2>गोक्षुर
 {%gokṣura (ka)%}¦
 <div n="P"/>(1) <bot>TRIBULUS TERRESTRIS LINN.</bot> (Avk; Bpn, p. 292-293; Chopra;
 <div n="lb"/>Dgv, nr. 60; Dutt; DWH 1, p. 243-245; Dy, p. 119-120; Ghosh; Gul;
@@ -1468,7 +1468,7 @@
 <div n="P"/>(5) <bot>BARLERIA LONGIFLORA LINN. F.</bot> (KB 3, p. 1882).
 <LEND>
 
-<L>91<pc>551<k1>gojihvA<k2>gojihvA
+<L>91<pc>551<k1>गोजिह्वा<k2>गोजिह्वा
 {%gojihvā%}¦
 <div n="P"/>(1) <bot>ELEPHANTOPUS SCABER LINN.</bot> (Avk; Bpn, p. 471-472; Chopra;
 <div n="lb"/>Dutt; DWH 2, p. 243-244; Dy, p. 423; Gul; HK; IRM 3, p. 149;
@@ -1486,7 +1486,7 @@
 <div n="P"/>(7) = {%dārvikā%} (PW; unidentified, but probably = {%dārvī%}).
 <LEND>
 
-<L>92<pc>551<k1>granTi<k2>granTi
+<L>92<pc>551<k1>ग्रन्थि<k2>ग्रन्थि
 {%granthi%}¦
 <div n="P"/>(1) the root of <bot>PIPER LONGUM LINN.</bot> (MW);
 <div n="P"/>(2) <bot>CYNODON DACTYLON (LINN.) PERS.</bot> [Intern. Code] (DWH 3, p.
@@ -1499,7 +1499,7 @@
 <div n="P"/>(7) = {%hitāvalī%} (MW; PW; unidentified).
 <LEND>
 
-<L>93<pc>552<k1>granTiparRa<k2>granTiparRa
+<L>93<pc>552<k1>ग्रन्थिपर्ण<k2>ग्रन्थिपर्ण
 {%granthiparṇa%}¦
 <div n="P"/>(1) <bot>POLYGONUM AVICULARE LINN.</bot> (Bpn, p. 252);
 <div n="P"/>(2) <bot>ARTEMISIA VULGARIS LINN.</bot> (KB 2, p. 1395-1397);
@@ -1507,7 +1507,7 @@
 <div n="P"/>(4) = {%coraka%} (MW; PW; Vśs).
 <LEND>
 
-<L>94<pc>552<k1>GaRwApAwali<k2>GaRwApAwali
+<L>94<pc>552<k1>घण्टापाटलि<k2>घण्टापाटलि
 {%ghaṇṭāpāṭali = ghaṇṭāpāṭalaka = muṣkaka = mokṣaka = kṣāraśreṣṭha%}¦
 <div n="P"/>(1) <bot>SCHREBERA SWIETENIOIDES ROXB.</bot> [Intern. Code] (Avk; Bpn, p.
 <div n="lb"/>544; Chopra; KB 2, p. 1531-1532; MW; Na 1, nr. 318; Vśs);
@@ -1517,13 +1517,13 @@
 <div n="lb"/>LENS ROXB.</bot> (MW; PW).
 <LEND>
 
-<L>95<pc>552<k1>caRaka<k2>caRaka
+<L>95<pc>552<k1>चणक<k2>चणक
 {%caṇaka%}¦
 <div n="lb"/><bot>CICER ARIETINUM LINN.</bot>; see about {%caṇaka:%} Gode, St. <bot>I.</bot><bot>C.</bot><bot>H.</bot> 1, p.
 <div n="lb"/>193-217; p. 218-232; p. 233-239; p. 240-244; p. 245-255.
 <LEND>
 
-<L>96<pc>552<k1>candana<k2>candana
+<L>96<pc>552<k1>चन्दन<k2>चन्दन
 {%candana%}¦
 <div n="P"/>(1) <bot>SANTALUM ALBUM LINN.</bot> = <bot>S. MYRTIFOLIUM ROXB.</bot> = <bot>SIRIUM
 <div n="lb"/>MYRTIFOLIUM LINN.</bot>;
@@ -1534,18 +1534,18 @@
 <div n="P"/>(5) <bot>CROCUS SATIVUS LINN.</bot> (KB 4, p. 2462-2464).
 <LEND>
 
-<L>97<pc>552<k1>cavika<k2>cavika
+<L>97<pc>552<k1>चविक<k2>चविक
 {%cavika%}¦
 <div n="lb"/>= {%cavya.%}
 <LEND>
 
-<L>98<pc>552<k1>cavya<k2>cavya
+<L>98<pc>552<k1>चव्य<k2>चव्य
 {%cavya%}¦
 <div n="P"/><bot>PIPER CHABA HUNTER.</bot>
 <LEND>
 [Page-553+ 36]
 
-<L>99<pc>553<k1>cANgerI<k2>cANgerI
+<L>99<pc>553<k1>चाङ्गेरी<k2>चाङ्गेरी
 {%cāṅgerī%}¦
 <div n="P"/>(1) <bot>OXALIS CORNICULATA LINN.</bot> (AFM 1, p. 100-102; Avk; Bpn, p.
 <div n="lb"/>663; Dgv, nr. 62; Dutt; DWH 1, p. 246-247; Dy, p. 121-122; Gul;
@@ -1560,7 +1560,7 @@
 <div n="lb"/>{%pālaṅka%}).
 <LEND>
 
-<L>100<pc>553<k1>citraka<k2>citraka
+<L>100<pc>553<k1>चित्रक<k2>चित्रक
 {%citraka%}¦
 <div n="P"/>(1) <bot>PLUMBAGO ZEYLANICA LINN.</bot> (Ainslie 2, p. 77-79; Avk; Bpn, p.
 <div n="lb"/>21-24; Chopra; Dgv, nr. 200: {%śvetacitraka;%} Dutt; DWH 2, p. 329-340;
@@ -1580,7 +1580,7 @@
 <div n="lb"/>463.
 <LEND>
 
-<L>101<pc>553<k1>cirBiwa<k2>cirBiwa
+<L>101<pc>553<k1>चिर्भिट<k2>चिर्भिट
 {%cirbhiṭa%}¦
 <div n="P"/>(1) a) [<bot>CUCUMIS MELO LINN. VAR. MOMORDICA DUTHIE ET FULLER</bot>]
 <div n="lb"/>(KB 2, p. 1142: {%kṣetracirbhiṭa%}) = <bot>C. MOMORDICA ROXB.</bot> (Bpn,
@@ -1598,7 +1598,7 @@
 <div n="P"/>(4) <bot>CARICA PAPAYA LINN.</bot> (KB 2, p. 1097-2000).
 <LEND>
 
-<L>102<pc>554<k1>cukrikA<k2>cukrikA
+<L>102<pc>554<k1>चुक्रिका<k2>चुक्रिका
 {%cukrikā = cukra%}¦
 <div n="P"/>(1) <bot>RUMEX VESICARIUS LINN.</bot> (Ainslie 1, p. 398-400; Bpn, p. 663;
 <div n="lb"/>Chopra; Dgv, nr. 260; DWH 3, p. 157-158; Dy, p. 658-659; Gul; HK;
@@ -1616,7 +1616,7 @@
 <div n="P"/>(9) <bot>TAMARINDUS INDICA LINN.</bot> (KB 2, p. 887-890; PW; Vśs).
 <LEND>
 
-<L>103<pc>554<k1>coca<k2>coca
+<L>103<pc>554<k1>चोच<k2>चोच
 {%coca%}¦
 <div n="P"/>(1) = {%tvac, tvacā̆%} (Bpn, p. 224-225; Dgv, nr. 270; HK; MW; Nadk.
 <div n="lb"/>1, nr. 579; PW; Vśs);
@@ -1633,7 +1633,7 @@
 <LEND>
 [Page-555+ 36]
 
-<L>104<pc>555<k1>coraka<k2>coraka
+<L>104<pc>555<k1>चोरक<k2>चोरक
 {%coraka%}¦
 <div n="P"/>(1) <bot>TRIGONELLA CORNICULATA LINN.</bot> (HB; MW; PW);
 <div n="P"/>(2) <bot>CHRYSOPOGON ACICULATUS TRIN.</bot> (HK) = <bot>ANDROPOGON ACICU-
@@ -1646,7 +1646,7 @@
 <div n="P"/>(6) = {%granthiparṇa%} (Aruṇa and He. on <bot>A.</bot>h.Sū. 15, 43).
 <LEND>
 
-<L>105<pc>555<k1>jambIra<k2>jambIra
+<L>105<pc>555<k1>जम्बीर<k2>जम्बीर
 {%jambīra%}¦
 <div n="P"/>(1) a) <bot>OCIMUM CANUM SIMS</bot> (KB 3, p. 1960-1961);
 <div n="lb"/>b) a kind of Ocimum (MW; PW);
@@ -1655,7 +1655,7 @@
 <div n="P"/>(3) <bot>CITRUS MEDICA LINN.</bot> (Vśs) = <bot>C. ACIDA PERS.</bot> (Vśs).
 <LEND>
 
-<L>106<pc>555<k1>jambU<k2>jambU
+<L>106<pc>555<k1>जम्बू<k2>जम्बू
 {%jambū̆%}¦
 <div n="P"/>(1) [<bot>SYZYGIUM CUMINI (LINN.) SKEELS</bot>] (Chopra) = <bot>S. CUMINI SKEELS</bot>
 <div n="lb"/>= <bot>S. JAMBOLANUM DC.</bot> (AFM 1, p. 119-122; Kav; Nadk. 1, nr. 2424;
@@ -1696,7 +1696,7 @@
 <div n="P"/>(9) = {%nāgadamanī%} (MW; PW; Vśs).
 <LEND>
 
-<L>107<pc>556<k1>jalapippalI<k2>jalapippalI
+<L>107<pc>556<k1>जलपिप्पली<k2>जलपिप्पली
 {%jalapippalī%}¦
 <div n="P"/>(1) <bot>LIPPIA NODIFLORA MICHX.</bot> (Avk; Bpn, p. 470; KB 3, p. 1916-
 <div n="lb"/>1917); [Flora Iranica: <bot>PHYLA NODIFLORA (LINN.) GREENE</bot> = <bot>VERBENA
@@ -1708,7 +1708,7 @@
 <div n="lb"/>is identical with {%jalapippalī.%}
 <LEND>
 
-<L>108<pc>556<k1>jIraka<k2>jIraka
+<L>108<pc>556<k1>जीरक<k2>जीरक
 {%jīraka%}¦
 <div n="P"/>(1) <bot>CUMINUM CYMINUM LINN.</bot> ({%śveta-%} or {%śuklajīraka%}) (Avk; Bpn, p.
 <div n="lb"/>31-32; Chopra; Dgv, nr. 176; Dutt; DWH 2, p. 113-115; Dy, p. 369-
@@ -1736,7 +1736,7 @@
 <div n="P"/>(5) <bot>PANICUM MILIACEUM LINN.</bot> (MW).
 <LEND>
 
-<L>109<pc>557<k1>jUrRAhvA<k2>jUrRAhvA
+<L>109<pc>557<k1>जूर्णाह्वा<k2>जूर्णाह्वा
 {%jūrṇāhvā̆, jūrṇāhvaya%}¦
 <div n="P"/>[<bot>SORGHUM VULGARE (LINN.) PERS. VAR. SACCHARATUM BOERL.</bot>] =
 <div n="lb"/><bot>S. VULGARE PERS.</bot> = <bot>ANDROPOGON BICOLOR ROXB.</bot> (MW) = <bot>A. SACCHA-
@@ -1744,7 +1744,7 @@
 <div n="lb"/>{%varga%} 16, 169: = {%devadhānya.%}
 <LEND>
 
-<L>110<pc>557<k1>jyotizmatI<k2>jyotizmatI
+<L>110<pc>557<k1>ज्योतिष्मती<k2>ज्योतिष्मती
 {%jyotiṣmatī%}¦
 <div n="P"/>(1) <bot>CELASTRUS PANICULATUS WILLD.</bot> (Avk: {%mahājyotiṣmatī;%} Bpn, p.
 <div n="lb"/>90; Dgv, nr. 83; DWH 1, p. 343-345; Gul; IRM 2, p. 112-113; KB 1,
@@ -1754,7 +1754,7 @@
 <div n="lb"/>nr. 107: acc. to some; Nadk. 1, nr. 473; Roxb., p. 335; V 2, p. 45; Vśs).
 <LEND>
 
-<L>111<pc>557<k1>tagara<k2>tagara
+<L>111<pc>557<k1>तगर<k2>तगर
 {%tagara%}¦
 <div n="P"/>(1) <bot>ERVATAMIA DIVARICATA BURKILL</bot> (<bot>W.</bot> Rau) = <bot>TABERNAEMON-
 <div n="lb"/>TANA CORONARIA WILLD.</bot> (KB 2, p. 1577-1578) [= <bot>T. CORONARIA R.
@@ -1772,7 +1772,7 @@
 <div n="lb"/>WIGHT ET ARN.</bot>;
 <LEND>
 
-<L>112<pc>558<k1>taRqula<k2>taRqula
+<L>112<pc>558<k1>तण्डुल<k2>तण्डुल
 {%taṇḍula%}¦
 <div n="P"/>(1) <bot>ORYZA SATIVA LINN.</bot>;
 <div n="P"/>(2) <bot>EMBELIA RIBES BURM. F.</bot> (Bpn, p. 52; KB 2, p. 1478-1480; MW;
@@ -1780,7 +1780,7 @@
 <div n="P"/>(3) = {%taṇḍulīya%} (KB 3, p. 2057-2059; MW; PW).
 <LEND>
 
-<L>113<pc>558<k1>taRqulIya<k2>taRqulIya
+<L>113<pc>558<k1>तण्डुलीय<k2>तण्डुलीय
 {%taṇḍulīya (ka)%}¦
 <div n="P"/>(1) <bot>AMARANTHUS POLYGAMUS LINN.</bot> (Dutt; Gul; HK) = <bot>A. POLY-
 <div n="lb"/>GONOIDES ROXB.</bot> (MW; PW) = <bot>AMBLOGYNA POLYGONOIDES DALZ. ET
@@ -1797,19 +1797,19 @@
 <div n="P"/>(7) <bot>COMMELINA BENGHALENSIS LINN.</bot> (KB 4, p. 2536).
 <LEND>
 
-<L>114<pc>558<k1>tAla<k2>tAla
+<L>114<pc>558<k1>ताल<k2>ताल
 {%tāla%}¦
 <div n="P"/><bot>BORASSUS FLABELLIFER LINN.</bot> = <bot>B. FLABELLIFORMIS MURR.</bot>
 <LEND>
 
-<L>115<pc>558<k1>tila<k2>tila
+<L>115<pc>558<k1>तिल<k2>तिल
 {%tila%}¦
 <div n="P"/>(1) <bot>SESAMUM INDICUM DC.</bot> = <bot>S. ORIENTALE LINN.</bot> = <bot>S. LUTEUM
 <div n="lb"/>RETZ.</bot> (Nadk. 1, nr. 2285);
 <div n="P"/>(2) <bot>S. TRIFOLIATUM MILL.</bot> (Nadk. 1, nr. 2285).
 <LEND>
 
-<L>116<pc>558<k1>tIkzRaganDa<k2>tIkzRaganDa
+<L>116<pc>558<k1>तीक्ष्णगन्ध<k2>तीक्ष्णगन्ध
 {%tīkṣṇagandha%}¦
 <div n="P"/>(1) <bot>MAJORANA HORTENSIS MOENCH.</bot> [Intern. Code] (MW);
 <div n="P"/>(2) a) = {%phaṇijjhaka%} (PW; Vśs);
@@ -1827,7 +1827,7 @@
 <div n="P"/>(8) = {%elā%} (Vśs).
 <LEND>
 
-<L>117<pc>559<k1>tuRqikerI<k2>tuRqikerI
+<L>117<pc>559<k1>तुण्डिकेरी<k2>तुण्डिकेरी
 {%tuṇḍikerī%}¦
 <div n="P"/>(1) = {%kārpāsī%} (Dgv, nr. 45; KB 1, p. 344-346; MW; Na 1, nr. 55;
 <div n="lb"/>PW);
@@ -1835,7 +1835,7 @@
 <div n="lb"/>nr. 167; DWH 2, p. 86; KB 2, p. 1151-1154; MW; PW).
 <LEND>
 
-<L>118<pc>559<k1>tumbaru<k2>tumbaru
+<L>118<pc>559<k1>तुम्बरु<k2>तुम्बरु
 {%tumbaru = tumburu%}¦
 <div n="P"/>(1) <bot>ZANTHOXYLUM ALATUM ROXB.</bot> (Avk; Bpn, p. 56; Chopra; Dgv,
 <div n="lb"/>nr. 95; Dutt; DWH 1, p. 255-260; Gul; HB; HK; Kav; KB 1, p. 460-
@@ -1858,7 +1858,7 @@
 <LEND>
 [Page-560+ 37]
 
-<L>119<pc>560<k1>tulasI<k2>tulasI
+<L>119<pc>560<k1>तुलसी<k2>तुलसी
 {%tulasī%}¦
 <div n="P"/>(1) <bot>OCIMUM SANCTUM LINN.</bot> (Avk: {%kṛṣṇatulasī;%} Bpn, p. 509; Dgv,
 <div n="lb"/>nr. 250; Dutt; DWH 3, p. 86-88; HK; KB 3, p. 1965-1968; Nadk. 1,
@@ -1875,7 +1875,7 @@
 <div n="lb"/>FLORUM BLUME</bot> (Avk).
 <LEND>
 
-<L>120<pc>560<k1>tejovatI<k2>tejovatI
+<L>120<pc>560<k1>तेजोवती<k2>तेजोवती
 {%tejovatī%}¦
 <div n="P"/>(1) = {%jyotiṣmatī%} (HK);
 <div n="P"/>(2) = {%mahājyotiṣmatī%} (see {%jyotiṣmatī%}) (MW; PW; Vśs);
@@ -1893,7 +1893,7 @@
 <div n="lb"/>of plants is called {%jīvantī.%}
 <LEND>
 
-<L>121<pc>560<k1>tripuwa<k2>tripuwa
+<L>121<pc>560<k1>त्रिपुट<k2>त्रिपुट
 {%tripuṭa%}¦
 <div n="P"/>(1) = {%tripuṭakalāya:%} <bot>LATHYRUS SATIVUS LINN.</bot> (Bpn, p. 649; Dutt:
 <div n="lb"/>{%tripuṭī;%} DWH 1, p. 489-491; KB 1, p. 770-771; Na 1, nr. 139; Nadk.
@@ -1905,7 +1905,7 @@
 <LEND>
 [Page-561+ 37]
 
-<L>122<pc>561<k1>tvac<k2>tvac
+<L>122<pc>561<k1>त्वच्<k2>त्वच्
 {%tvac(ā̆)%}¦
 <div n="P"/>(1) a) <bot>CINNAMOMUM ZEYLANICUM NEES</bot> (Avk); many sources identify
 <div n="lb"/>{%tvac%} with <bot>C. ZEYLANICUM BREYN</bot>, the name used by Hooker,
@@ -1926,7 +1926,7 @@
 <div n="P"/>(6) [<bot>C. LAURUS</bot>] (Nadk. 1, nr. 579).
 <LEND>
 
-<L>123<pc>561<k1>dantI<k2>dantI
+<L>123<pc>561<k1>दन्ती<k2>दन्ती
 {%dantī%}¦
 <div n="P"/>(1) <bot>BALIOSPERMUM AXILLARE BLUME</bot> = <bot>B. MONTANUM MUELL. ARG.</bot>
 <div n="lb"/>= <bot>CROTON POLYANDRUS ROXB.</bot> = <bot>JATROPHA MONTANA WILLD.</bot>;
@@ -1936,7 +1936,7 @@
 <div n="P"/>(4) <bot>J. MULTIFIDA LINN.</bot> (V 5, p. 59: {%bṛhaddantī%}).
 <LEND>
 
-<L>124<pc>561<k1>darBa<k2>darBa
+<L>124<pc>561<k1>दर्भ<k2>दर्भ
 {%darbha%}¦
 <div n="P"/>(1) <bot>IMPERATA ARUNDINACEA CYRILL.</bot> (Dutt; HK) = <bot>I. CYLINDRICA
 <div n="lb"/>BEAUV.</bot> (Dutt; HK; Vśs, = {%uluka%}) = <bot>SACCHARUM CYLINDRICUM LAM.</bot>
@@ -1956,12 +1956,12 @@
 <div n="lb"/>needle; {%darbha%} has leaves which are broad, long and rough.”
 <LEND>
 
-<L>125<pc>562<k1>dAqima<k2>dAqima
+<L>125<pc>562<k1>दाडिम<k2>दाडिम
 {%dāḍima%}¦
 <div n="P"/><bot>PUNICA GRANATUM LINN.</bot>
 <LEND>
 
-<L>126<pc>562<k1>dAruharidrA<k2>dAruharidrA
+<L>126<pc>562<k1>दारुहरिद्रा<k2>दारुहरिद्रा
 {%dāruharidrā%}¦
 <div n="P"/>(1) <bot>BERBERIS ARISTATA DC.</bot> (AFM 1, p. 60; Avk; Bpn, p. 119; Cho-
 <div n="lb"/>pra; Dgm, p. 44; Dgv, nr. 17; Dutt; DWH 1, p. 64-68; Dy, p. 35-37;
@@ -1989,13 +1989,13 @@
 <div n="P"/>(10) <bot>MORINDA UMBELLATA LINN.</bot> (KB 2, p. 1296-1297).
 <LEND>
 
-<L>127<pc>562<k1>dArvI<k2>dArvI
+<L>127<pc>562<k1>दार्वी<k2>दार्वी
 {%dārvī%}¦
 <div n="lb"/>= {%dāruharidrā.%}
 <LEND>
 [Page-563+ 35]
 
-<L>128<pc>563<k1>dIpya<k2>dIpya
+<L>128<pc>563<k1>दीप्य<k2>दीप्य
 {%dīpya(ka)%}¦
 <div n="P"/>(1) <bot>APIUM GRAVEOLENS LINN.</bot> (Avk; Bpn, p. 27; KB 2, p. 1199-
 <div n="lb"/>1201);
@@ -2023,12 +2023,12 @@
 <div n="P"/>(12) = {%tagara%} (Vśs).
 <LEND>
 
-<L>129<pc>563<k1>durAlaBA<k2>durAlaBA
+<L>129<pc>563<k1>दुरालभा<k2>दुरालभा
 {%durālabhā%}¦
 <div n="P"/>= {%yavāsa.%}
 <LEND>
 
-<L>130<pc>563<k1>devaDAnya<k2>devaDAnya
+<L>130<pc>563<k1>देवधान्य<k2>देवधान्य
 {%devadhānya%}¦
 <div n="P"/>(1) [<bot>SORGHUM VULGARE (LINN.) PERS. VAR. SACCHARATUM BOERL.</bot>] =
 <div n="lb"/><bot>S. VULGARE PERS.</bot> = <bot>S. SACCHARATUM MOENCH.</bot> (DWH 3, p. 621) =
@@ -2040,12 +2040,12 @@
 <LEND>
 [Page-564+ 36]
 
-<L>131<pc>564<k1>drAkzA<k2>drAkzA
+<L>131<pc>564<k1>द्राक्षा<k2>द्राक्षा
 {%drākṣā%}¦
 <div n="P"/><bot>VITIS VINIFERA LINN.</bot>
 <LEND>
 
-<L>132<pc>564<k1>DattUra<k2>DattUra
+<L>132<pc>564<k1>धत्तूर<k2>धत्तूर
 {%dhattūra%}¦
 <div n="P"/>(1) <bot>DATURA STRAMONIUM LINN.</bot> (Bpn, p. 317-320; Chopra; DWH 2,
 <div n="lb"/>p. 584-624; KB 3, p. 1784-1787; V 5, p. 93-94: {%kṛṣṇadhattūra%}) = <bot>D.
@@ -2075,7 +2075,7 @@
 <div n="lb"/>of the species.
 <LEND>
 
-<L>133<pc>564<k1>DAtakI<k2>DAtakI
+<L>133<pc>564<k1>धातकी<k2>धातकी
 {%dhātakī%}¦
 <div n="P"/>(1) <bot>WOODFORDIA FLORIBUNDA SALISB.</bot> = <bot>W. FRUTICOSA KURZ</bot> =
 <div n="lb"/><bot>W. TOMENTOSA BEDD.</bot> = <bot>GRISLEA TOMENTOSA BUCH.</bot>-<bot>HAM.</bot> = <bot>LY-
@@ -2086,7 +2086,7 @@
 <LEND>
 [Page-565+ 36]
 
-<L>134<pc>565<k1>DAtrI<k2>DAtrI
+<L>134<pc>565<k1>धात्री<k2>धात्री
 {%dhātrī%}¦
 <div n="P"/>(1) = {%āmalaka:%} <bot>PHYLLANTHUS EMBLICA LINN.</bot>;
 <div n="P"/>(2) = {%dhātakī:%} <bot>WOODFORDIA FLORIBUNDA SALISB.</bot> = <bot>W. FRUTICOSA
@@ -2094,14 +2094,14 @@
 <div n="lb"/>p. 317).
 <LEND>
 
-<L>135<pc>565<k1>DAnyaka<k2>DAnyaka
+<L>135<pc>565<k1>धान्यक<k2>धान्यक
 {%dhānyaka%}¦
 <div n="P"/><bot>CORIANDRUM SATIVUM LINN.</bot> (Ainslie 1, p. 91-92; Bpn, p. 34; Dgv,
 <div n="lb"/>nr. 180; Dutt; Gul; HB; HK; Kav; KB 2, p. 1225-1227; MW; Na 1, nr.
 <div n="lb"/>257; Nadk. 1, nr. 679: PA 1, 9, p. 128-136; PW; Roxb., p. 272).
 <LEND>
 
-<L>136<pc>565<k1>nandIvfkza<k2>nandIvfkza
+<L>136<pc>565<k1>नन्दीवृक्ष<k2>नन्दीवृक्ष
 {%nandīvṛkṣa%}¦
 <div n="P"/>(1) <bot>CEDRELA TOONA ROXB. EX ROTTL.</bot> (Chopra; Dutt; DWH 1, p.
 <div n="lb"/>339; HK; IRM 2, p. 104-106; KB 1, p. 562-564; MW; Nadk. 1, nr.
@@ -2137,7 +2137,7 @@
 <div n="P"/>(15) = {%meṣaśṛṅgī%} (PW; Vśs).
 <LEND>
 
-<L>137<pc>566<k1>nAgakeSara<k2>nAgakeSara
+<L>137<pc>566<k1>नागकेशर<k2>नागकेशर
 {%nāgakeśara = nāgakesara%}¦
 <div n="P"/>(1) <bot>MESUA FERREA LINN.</bot> (Avk; Bpn, p. 229-232; Chopra; Dgm, p.
 <div n="lb"/>226; Dgv, nr. 38; Dutt; DWH 1, p. 170-172; HK; Kav; KB 1, p.
@@ -2159,7 +2159,7 @@
 <div n="lb"/>(Ainslie 1, p. 60).
 <LEND>
 
-<L>138<pc>566<k1>nAgadamanI<k2>nAgadamanI
+<L>138<pc>566<k1>नागदमनी<k2>नागदमनी
 {%nāgadamanī%}¦
 <div n="P"/>(1) <bot>ARTEMISIA VULGARIS LINN.</bot> (Chopra; DWH 2, p. 285-286; KB 2,
 <div n="lb"/>p. 1395-1397; MW; Nadk. 1, nr. 244; V 2, p. 128; Vśs) = <bot>A. INDICA
@@ -2175,24 +2175,24 @@
 <LEND>
 [Page-567+ 33]
 
-<L>139<pc>567<k1>nAgapuzpa<k2>nAgapuzpa
+<L>139<pc>567<k1>नागपुष्प<k2>नागपुष्प
 {%nāgapuṣpa%}¦
 <div n="lb"/>= {%nāgakeśara.%}
 <LEND>
 
-<L>140<pc>567<k1>nAgara<k2>nAgara
+<L>140<pc>567<k1>नागर<k2>नागर
 {%nāgara:%}¦ dried ginger
 <div n="P"/>See: {%ārdraka.%}
 <LEND>
 
-<L>141<pc>567<k1>nAgaramusta<k2>nAgaramusta
+<L>141<pc>567<k1>नागरमुस्त<k2>नागरमुस्त
 {%nāgaramusta%}¦
 <div n="P"/><bot>CYPERUS SCARIOSUS R. BR.</bot> (Bpn, p. 243-244; Chopra; Dutt; DWH
 <div n="lb"/>3, p. 554-555; KB 4, p. 2637-2638; Nadk. 1, nr. 783; V 5, p. 120) =
 <div n="lb"/><bot>C. PERTENUIS ROXB.</bot> (Avk; Dutt; Dy, p. 845-846; Vśs).
 <LEND>
 
-<L>142<pc>567<k1>nAgavallI<k2>nAgavallI
+<L>142<pc>567<k1>नागवल्ली<k2>नागवल्ली
 {%nāgavallī%}¦
 <div n="P"/>(1) <bot>PIPER BETLE LINN.</bot> (Avk; Bpn, p. 272; Dgv, nr. 265; Dutt;
 <div n="lb"/>DWH 3, p. 183-192; MW; Nadk. 1, nr. 1925; PW; Vśs; Watt CP,
@@ -2210,7 +2210,7 @@
 <div n="lb"/>1271); see Hooker 3, p. 89-90.
 <LEND>
 
-<L>143<pc>567<k1>nimbU<k2>nimbU
+<L>143<pc>567<k1>निम्बू<k2>निम्बू
 {%nimbū(ka)%}¦
 <div n="P"/>(1) a) <bot>CITRUS MEDICA LINN.</bot> = <bot>C. ACIDA PERS.</bot> (Ainslie 1, p. 193-194;
 <div n="lb"/>Bpn, p. 580; Dgv, nr. 68; MW; Na 1, nr. 96);
@@ -2228,12 +2228,12 @@
 <div n="lb"/>Asia and Europe, JAOS 57, 1937, p. 381-396.
 <LEND>
 
-<L>144<pc>568<k1>niSAhvaya<k2>niSAhvaya
+<L>144<pc>568<k1>निशाह्वय<k2>निशाह्वय
 {%niśāhvaya%}¦
 <div n="lb"/>= {%haridrā.%}
 <LEND>
 
-<L>145<pc>568<k1>nizpAva<k2>nizpAva
+<L>145<pc>568<k1>निष्पाव<k2>निष्पाव
 {%niṣpāva(ka)%}¦
 <div n="P"/>(1) <bot>VIGNA SINENSIS SAVI EX HASSK.</bot> = <bot>DOLICHOS SINENSIS LINN.</bot>
 <div n="lb"/>(Dutt; HK; Kav; MW; Nadk. 1, nr. 867; PW) = <bot>D. CYLINDRICUS
@@ -2250,7 +2250,7 @@
 <div n="lb"/>{%pāva;%} Vśs).
 <LEND>
 
-<L>146<pc>568<k1>nIlI<k2>nIlI
+<L>146<pc>568<k1>नीली<k2>नीली
 {%nīlī = nīlikā = nīlinī = nīlā%}¦
 <div n="P"/>(1) <bot>INDIGOFERA TINCTORIA LINN.</bot> (Avk; Bpn, p. 406; Chopra; Dgv,
 <div n="lb"/>nr. 101; Dutt; DWH 1, p. 406-411; Dy, p. 213-215; Gul; HK; KB 1,
@@ -2275,7 +2275,7 @@
 <div n="lb"/><bot>I. ANGUSTIFOLIA BLANCO</bot>, c) <bot>I. STRICTA LINN.</bot> = <bot>I. ANGUSTIFOLIA CURT.</bot>
 <LEND>
 
-<L>147<pc>569<k1>nIvAra<k2>nIvAra
+<L>147<pc>569<k1>नीवार<k2>नीवार
 {%nīvāra%}¦
 <div n="P"/>(1) a) the wild variety of rice (Dutt; HK; MW; PW; Vśs);
 <div n="lb"/>b) <bot>ORYZA SATIVA LINN.</bot> (KB 4, p. 2651-2653);
@@ -2285,13 +2285,13 @@
 <div n="lb"/>p. 655).
 <LEND>
 
-<L>148<pc>569<k1>nyagroDa<k2>nyagroDa
+<L>148<pc>569<k1>न्यग्रोध<k2>न्यग्रोध
 {%nyagrodha%}¦
 <div n="P"/>(1) = {%vaṭa;%}
 <div n="P"/>(2) = {%śamī%} (MW; PW).
 <LEND>
 
-<L>149<pc>569<k1>pawola<k2>pawola
+<L>149<pc>569<k1>पटोल<k2>पटोल
 {%paṭola%}¦
 <div n="P"/>(1) <bot>TRICHOSANTHES DIOICA ROXB.</bot> (Avk; Bpn, p. 674; Chopra; Dgv,
 <div n="lb"/>nr. 166; Dutt; DWH 2, p. 72-74; Dy, p. 343-344; Ghosh; Gul; HB;
@@ -2310,7 +2310,7 @@
 <div n="lb"/>ROXB.</bot>; this is not confirmed by the Index Kewensis.
 <LEND>
 
-<L>150<pc>569<k1>patra<k2>patra
+<L>150<pc>569<k1>पत्र<k2>पत्र
 {%patra%}¦
 <div n="P"/>(1) <bot>CINNAMOMUM TAMALA T. NEES ET EBERM.</bot> (Bpn, p. 228: = {%tamāla-%}
 [Page-570+ 35]
@@ -2331,7 +2331,7 @@
 <div n="lb"/>CHYMUS PICTORIUS ROXB.</bot> (MW: {%tamālapatra%}).
 <LEND>
 
-<L>151<pc>570<k1>padma<k2>padma
+<L>151<pc>570<k1>पद्म<k2>पद्म
 {%padma%}¦
 <div n="P"/>(1) = {%kamala;%}
 <div n="P"/>(2) <bot>EURYALE FEROX SALISB.</bot> (KB 1, p. 115-116) = <bot>ANNESLEA SPINOSA
@@ -2347,14 +2347,14 @@
 <div n="lb"/>Der Lotus in der Sanskrit-Literatur, ZDMG 67, 1913, p. 462-470.
 <LEND>
 
-<L>152<pc>570<k1>padmakAzWa<k2>padmakAzWa
+<L>152<pc>570<k1>पद्मकाष्ठ<k2>पद्मकाष्ठ
 {%padmakāṣṭha%}¦
 <div n="P"/>(1) <bot>PRUNUS PUDDUM ROXB. EX WALL.</bot> (DWH 1, p. 567; Kav; KB
 <div n="lb"/>2, p. 959-960; V 6, p. 33) = <bot>P. CERASOIDES D. DON</bot> (Kav; KB 2, p.
 <div n="lb"/>959-960; V 6, p. 33) = <bot>CERASUS PUDDUM WALL.</bot> (MW; PW).
 <LEND>
 
-<L>153<pc>570<k1>panasa<k2>panasa
+<L>153<pc>570<k1>पनस<k2>पनस
 {%panasa%}¦
 <div n="P"/>(1) <bot>ARTOCARPUS INTEGRIFOLIA LINN.</bot><bot>F.</bot> (Avk; Chopra; Dutt; DWH
 <div n="lb"/>3, p. 355; Gul; HK; IRM 1, p. 125; KB 3, p. 2336-2338; MW; Nadk. 1,
@@ -2367,7 +2367,7 @@
 <div n="lb"/>CARIA LESCH.</bot> = <bot>IPO TOXICARIA PERS.</bot>
 <LEND>
 
-<L>154<pc>571<k1>parUza<k2>parUza
+<L>154<pc>571<k1>परूष<k2>परूष
 {%parūṣa(ka)%}¦
 <div n="P"/>(1) <bot>GREWIA ASIATICA LINN.</bot> (Avk; Bpn, p. 570; Chopra; Dgv, nr.
 <div n="lb"/>56; Dutt; DWH 1, p. 238; Gul; HB; HK; Kav; KB 1, p. 388-389;
@@ -2382,7 +2382,7 @@
 <div n="lb"/>(MW; PW; Vśs).
 <LEND>
 
-<L>155<pc>571<k1>parRAsa<k2>parRAsa
+<L>155<pc>571<k1>पर्णास<k2>पर्णास
 {%parṇāsa%}¦
 <div n="P"/>(1) a) <bot>OCIMUM SANCTUM LINN.</bot> (DWH 3, p. 86-88; KB 3, p. 1965-
 <div n="lb"/>1968; Roxb., p. 463; Sanyal);
@@ -2393,7 +2393,7 @@
 <div n="P"/>(3) <bot>CEDRELA TOONA ROXB. EX ROTTL.</bot> (MW).
 <LEND>
 
-<L>156<pc>571<k1>parpawa<k2>parpawa
+<L>156<pc>571<k1>पर्पट<k2>पर्पट
 {%parpaṭa(ka)%}¦
 <div n="P"/>(1) <bot>OLDENLANDIA CORYMBOSA LINN.</bot> (Avk: {%kṣetraparpaṭa;%} Bpn, p.
 <div n="lb"/>325-328; Chopra; Dgm, p. 110; Dgv, nr. 182; Dutt; DWH 2, p. 197-
@@ -2432,7 +2432,7 @@
 <div n="P"/>(15) = {%kumbhīvṛkṣa.%}
 <LEND>
 
-<L>157<pc>572<k1>palASa<k2>palASa
+<L>157<pc>572<k1>पलाश<k2>पलाश
 {%palāśa%}¦
 <div n="P"/>(1) <bot>BUTEA MONOSPERMA (LAM.) TAUB.</bot> [Intern. Code] = [<bot>B. MONO-
 <div n="lb"/>SPERMA (LAM.) KUNTZE</bot>] (Chopra; IRM 1, p. 251-252) = <bot>B. MONO-
@@ -2456,7 +2456,7 @@
 <div n="lb"/>(Bpn, p. 514-515; Vśs).
 <LEND>
 
-<L>158<pc>573<k1>pAwalA<k2>pAwalA
+<L>158<pc>573<k1>पाटला<k2>पाटला
 {%pāṭalā%}¦
 <div n="P"/>(1) <bot>STEREOSPERMUM SUAVEOLENS DC.</bot> (Avk; Bpn, p. 279-281; Dgv,
 <div n="lb"/>nr. 238; Dutt; DWH 3, p. 20-22; Dy, p. 546; HK; Kav; KB 3, p.
@@ -2474,7 +2474,7 @@
 <div n="P"/>(6) = {%raktalodhra%} (see: {%lodhra%}) (MW; PW).
 <LEND>
 
-<L>159<pc>573<k1>pAWA<k2>pAWA
+<L>159<pc>573<k1>पाठा<k2>पाठा
 {%pāṭhā%}¦
 <div n="P"/>(1) <bot>CISSAMPELOS PAREIRA LINN.</bot> (Avk; Bpn, p. 395; Chopra; Dgm,
 <div n="lb"/>p. 34-35; Dgv, nr. 15: {%laghupāṭhā;%} DWH 1, p. 53-54; Dy, p. 29-30;
@@ -2497,7 +2497,7 @@
 <div n="lb"/>substitute; Dgv, nr. 15: {%rājapāṭhā;%} Gul; Na 1, nr. 15).
 <LEND>
 
-<L>160<pc>574<k1>pArISa<k2>pArISa
+<L>160<pc>574<k1>पारीश<k2>पारीश
 {%pārī̆śa, pārīṣa%}¦
 <div n="P"/>(1) <bot>THESPESIA POPULNEA (LINN.) SOLAND. EX CORREA</bot> [Intern. Code]
 <div n="lb"/>(Bpn, p. 514-515; Chopra; Dutt; KB 1, p. 340-343; MW; Na 1, nr. 61;
@@ -2510,7 +2510,7 @@
 <div n="P"/>(5) = {%hrasvaplakṣa%} (Vśs: unidentified).
 <LEND>
 
-<L>161<pc>574<k1>piRqAlu<k2>piRqAlu
+<L>161<pc>574<k1>पिण्डालु<k2>पिण्डालु
 {%piṇḍālu%}¦
 <div n="P"/>(1) a) <bot>DIOSCOREA ALATA LINN.</bot> (Chopra; Nadk. 1, nr. 838; V 3, p. 37);
 <div n="lb"/>b) <bot>D. GLOBOSA ROXB.</bot> (Chopra; Dutt; DWH 3, p. 551; Gul;
@@ -2541,12 +2541,12 @@
 <div n="lb"/>(PW: = {%kandaguḍūcī;%} Vśs: = {%kandaguḍūcī;%} identical with {%guḍūcī%}).
 <LEND>
 
-<L>162<pc>575<k1>pippalI<k2>pippalI
+<L>162<pc>575<k1>पिप्पली<k2>पिप्पली
 {%pippalī%}¦
 <div n="P"/><bot>PIPER LONGUM LINN.</bot>
 <LEND>
 
-<L>163<pc>575<k1>pIlu<k2>pIlu
+<L>163<pc>575<k1>पीलु<k2>पीलु
 {%pīlu%}¦
 <div n="P"/>(1) <bot>SALVADORA PERSICA LINN.</bot> (Avk; Chopra: {%bṛhatpīlu;%} Dgv, nr.
 <div n="lb"/>209; Dutt; DWH 2, p. 380-384; Gul; HB; HK; Kav; KB 2, p. 1537-
@@ -2563,7 +2563,7 @@
 <div n="P"/>(2) <bot>CAREYA ARBOREA ROXB.</bot> (KB 2, p. 1061-1063; MW; PW).
 <LEND>
 
-<L>164<pc>575<k1>punarnavA<k2>punarnavA
+<L>164<pc>575<k1>पुनर्नवा<k2>पुनर्नवा
 {%punarnavā%}¦
 <div n="P"/>(1) <bot>BOERHAAVIA REPENS LINN.</bot> (Chopra; Dgm, p. 210; DWH 3, p.
 <div n="lb"/>130-132; Gul; HK; IRM 1, p. 199; Nadk. 1, nr. 363; PA 1, 5, p. 9-26;
@@ -2600,7 +2600,7 @@
 <div n="P"/>(9) <bot>T. CRYSTALLINA VAHL</bot> (Dgm, p. 210).
 <LEND>
 
-<L>165<pc>576<k1>punnAga<k2>punnAga
+<L>165<pc>576<k1>पुन्नाग<k2>पुन्नाग
 {%punnāga%}¦
 <div n="P"/>(1) <bot>CALOPHYLLUM INOPHYLLUM LINN.</bot> (Dgv, nr. 40; Dgm, p. 235-236;
 <div n="lb"/>Dutt; DWH 1, p. 173-176; HK; IRM 2, p. 18-19; KB 1, p. 270-271;
@@ -2618,7 +2618,7 @@
 <div n="P"/>(9) white lotus (MW; PW; Vśs: {%śvetapadma%}).
 <LEND>
 
-<L>166<pc>576<k1>pfTvIkA<k2>pfTvIkA
+<L>166<pc>576<k1>पृथ्वीका<k2>पृथ्वीका
 {%pṛthvīkā%}¦
 <div n="P"/>(1) <bot>ELETTARIA CARDAMOMUM MATON</bot> (KB 4, p. 2442-2444; MW; PW;
 <div n="lb"/>Vśs);
@@ -2639,7 +2639,7 @@
 <div n="P"/>(11) <bot>CALOTROPIS GIGANTEA [DRYAND. IN] AIT.</bot> (Vśs).
 <LEND>
 
-<L>167<pc>577<k1>pfSniparRI<k2>pfSniparRI
+<L>167<pc>577<k1>पृश्निपर्णी<k2>पृश्निपर्णी
 {%pṛśniparṇī%}¦
 <div n="P"/>(1) <bot>URARIA LAGOPOIDES DC.</bot> (Avk; Bpn, p. 287; Chopra; Dutt;
 <div n="lb"/>DWH 1, p. 426-428; Dy, p. 221-222; HK; Kav; KB 1, p. 750-751;
@@ -2664,7 +2664,7 @@
 <div n="lb"/>by Roxburgh (Flora Indica, p. 756).
 <LEND>
 
-<L>168<pc>577<k1>prasAraRI<k2>prasAraRI
+<L>168<pc>577<k1>प्रसारणी<k2>प्रसारणी
 {%prasāraṇī = prasāriṇī%}¦
 <div n="P"/>(1) <bot>PAEDERIA FOETIDA LINN.</bot> (Avk; Bpn, p. 424-425; Chopra; DWH
 [Page-578+ 37]
@@ -2683,7 +2683,7 @@
 <div n="P"/>(6) = {%devadhānya%} (Vśs).
 <LEND>
 
-<L>169<pc>578<k1>priyaNgu<k2>priyaNgu
+<L>169<pc>578<k1>प्रियङ्गु<k2>प्रियङ्गु
 {%priyaṅgu%}¦
 <div n="P"/>(1) <bot>SETARIA ITALICA BEAUV.</bot> (Avk; Gul; HK; KB 4, p. 2718-2719;
 <div n="lb"/>MW; PW; Vśs) = <bot>PANICUM ITALICUM LINN.</bot> (Avk; Roxb., p. 101;
@@ -2711,7 +2711,7 @@
 <LEND>
 [Page-579+ 36]
 
-<L>170<pc>579<k1>plakza<k2>plakza
+<L>170<pc>579<k1>प्लक्ष<k2>प्लक्ष
 {%plakṣa%}¦
 <div n="P"/>(1) <bot>FICUS INFECTORIA ROXB.</bot> (Bpn, p. 518; Chopra; Dutt; HK; KB
 <div n="lb"/>3, p. 2319-2321; Nadk. 1, nr. 1044; V 6, p. 103) = <bot>F. LACOR BUCH.-
@@ -2731,7 +2731,7 @@
 <div n="lb"/>LINN.</bot> (Vśs).
 <LEND>
 
-<L>171<pc>579<k1>PaRijJaka<k2>PaRijJaka
+<L>171<pc>579<k1>फणिज्झक<k2>फणिज्झक
 {%phaṇijjhaka = phaṇijja(ka)%}¦
 <div n="P"/>(1) a) <bot>MAJORANA HORTENSIS MOENCH.</bot> [Intern. Code] = <bot>ORIGANUM
 <div n="lb"/>MAJORANA LINN.</bot> (Bpn, p. 510; HB; KB 3, p. 1985-1986; MW;
@@ -2749,7 +2749,7 @@
 <div n="P"/>(5) = {%palāśa%} (Vśs).
 <LEND>
 
-<L>172<pc>579<k1>PalAmla<k2>PalAmla
+<L>172<pc>579<k1>फलाम्ल<k2>फलाम्ल
 {%phalāmla%}¦
 <div n="P"/>(1) <bot>RUMEX VESICARIUS LINN.</bot> (KB 3, p. 2114-2115; MW; PW; Vśs:
 <div n="lb"/>= {%amlavetasa%});
@@ -2761,7 +2761,7 @@
 <div n="lb"/>ROXB.</bot> (KB 1, p. 262-264). See also {%phalāmla,%} App. 3.
 <LEND>
 
-<L>173<pc>580<k1>bakula<k2>bakula
+<L>173<pc>580<k1>बकुल<k2>बकुल
 {%bakula%}¦
 <div n="P"/><bot>MIMUSOPS ELENGI LINN.</bot>; <bot>M. ELENGI</bot> without an author's name de-
 <div n="lb"/>signates <bot>M. ELENGI LINN.</bot> or two other species:
@@ -2769,7 +2769,7 @@
 <div n="lb"/>b) <bot>LABRAMIA BOJERI A.</bot><bot>DC.</bot> = <bot>M. ELENGI SIEBER EX A.</bot><bot>DC.</bot>
 <LEND>
 
-<L>174<pc>580<k1>badara<k2>badara
+<L>174<pc>580<k1>बदर<k2>बदर
 {%badara%}¦
 <div n="P"/>(1) <bot>ZIZYPHUS JUJUBA LAM.</bot> (Ainslie 2, p. 94-96; Avk; Bpn, p. 563-
 <div n="lb"/>564; Chopra; Dutt, = {%kola;%} DWH 1, p. 350; Gul; HK, = {%kola;%} KB
@@ -2789,12 +2789,12 @@
 <div n="lb"/>about a number of different identifications of {%devasarṣapa.%}
 <LEND>
 
-<L>175<pc>580<k1>badarI<k2>badarI
+<L>175<pc>580<k1>बदरी<k2>बदरी
 {%badarī%}¦
 <div n="lb"/>= {%badara.%}
 <LEND>
 
-<L>176<pc>580<k1>barbara<k2>barbara
+<L>176<pc>580<k1>बर्बर<k2>बर्बर
 {%barbara%}¦
 <div n="P"/>(1) <bot>OCIMUM BASILICUM LINN.</bot> (Dutt; KB 3, p. 1963; Sanyal) [= <bot>O.
 <div n="lb"/>PILOSUM LINN.</bot>] (Dutt) = <bot>O. PILOSUM WILLD.</bot>;
@@ -2820,7 +2820,7 @@
 <div n="lb"/>ANTIQUORUM LINN.</bot> = <bot>TITHYMALUS ANTIQUORUM MOENCH.</bot>).
 <LEND>
 
-<L>177<pc>581<k1>barbaracandana<k2>barbaracandana
+<L>177<pc>581<k1>बर्बरचन्दन<k2>बर्बरचन्दन
 {%barbaracandana%}¦
 <div n="P"/>Dn, {%varga%} 3, 9: {%barbarika%} is a white, odourless type of {%candana;%}
 <div n="lb"/>Rn, {%varga,%} 12, 17: {%barbaraka,%} (also called) white {%barbaraka,%} is (a kind of
@@ -2828,12 +2828,12 @@
 <div n="lb"/>explained in PW as white sandalwood.
 <LEND>
 
-<L>178<pc>581<k1>barbarikA<k2>barbarikA
+<L>178<pc>581<k1>बर्बरिका<k2>बर्बरिका
 {%barbarikā%}¦
 <div n="P"/>Is not recorded in the dictionaries; see {%vanabarbarikā.%}
 <LEND>
 
-<L>179<pc>581<k1>barbarI<k2>barbarI
+<L>179<pc>581<k1>बर्बरी<k2>बर्बरी
 {%barbarī%}¦
 <div n="P"/>(1) a) <bot>OCIMUM BASILICUM LINN.</bot> (Avk; Bpn, p. 511-512; KB 3, p.
 <div n="lb"/>1961-1964) [= <bot>O. BASILICUM VAR. THYRSIFLORA BENTH.</bot>] (Avk);
@@ -2867,7 +2867,7 @@
 <div n="lb"/>LINN.</bot> = <bot>A. INDICA ROYLE</bot>, is called {%kumārī%} or {%ghṛtakumārī.%}
 <LEND>
 
-<L>180<pc>582<k1>bimbI<k2>bimbI
+<L>180<pc>582<k1>बिम्बी<k2>बिम्बी
 {%bimbī%}¦
 <div n="P"/><bot>COCCINIA INDICA WIGHT ET ARN.</bot> (Avk; Bpn, p. 674; Chopra; Dgv,
 <div n="lb"/>nr. 167; Gul; HK; IRM 2, p. 257; Kav; KB 2, p. 1151-1154; Nadk.
@@ -2880,12 +2880,12 @@
 <div n="lb"/>PW; Roxb., p. 696; Vśs; Wise) = <bot>BRYONIA CORDIFOLIA LINN.</bot>
 <LEND>
 
-<L>181<pc>582<k1>bilva<k2>bilva
+<L>181<pc>582<k1>बिल्व<k2>बिल्व
 {%bilva%}¦
 <div n="P"/><bot>AEGLE MARMELOS (LINN.) CORREA</bot> [Intern. Code].
 <LEND>
 
-<L>182<pc>582<k1>bIjapUra<k2>bIjapUra
+<L>182<pc>582<k1>बीजपूर<k2>बीजपूर
 {%bījapūra(ka)%}¦
 <div n="P"/>(1) a) <bot>CITRUS MEDICA LINN.</bot> (Chopra; Dgv, nr. 66; Gul; HK; MW;
 <div n="lb"/>Na 1, nr. 88; PW; V 6, p. 21) = <bot>C. ACIDA PERS.</bot> (Bpn, p. 578)
@@ -2901,7 +2901,7 @@
 <div n="P"/>(2) <bot>PUNICA GRANATUM LINN.</bot> (KB 2, p. 1084-1087).
 <LEND>
 
-<L>183<pc>583<k1>bfhatI<k2>bfhatI
+<L>183<pc>583<k1>बृहती<k2>बृहती
 {%bṛhatī%}¦
 <div n="P"/>(1) <bot>SOLANUM INDICUM LINN.</bot> (Ainslie 2, p. 207-208; Bpn, p. 288-289;
 <div n="lb"/>Dgv, nr. 229; Dutt; DWH 2, p. 555-557; Dy, p. 637-638; Ghosh; Gul;
@@ -2920,7 +2920,7 @@
 <div n="lb"/>duced, used as a substitute of <bot>S. XANTHOCARPUM</bot>).
 <LEND>
 
-<L>184<pc>583<k1>BadramustA<k2>BadramustA
+<L>184<pc>583<k1>भद्रमुस्ता<k2>भद्रमुस्ता
 {%bhadramustā̆%}¦
 <div n="P"/>(1) <bot>CYPERUS ROTUNDUS LINN.</bot> (Dgv, nr. 337; HB; HK; Kav; KB 4,
 <div n="lb"/>p. 2638-2640; Nadk. 1, nr. 782);
@@ -2936,7 +2936,7 @@
 <LEND>
 [Page-584+ 38]
 
-<L>185<pc>584<k1>BUtANkuSa<k2>BUtANkuSa
+<L>185<pc>584<k1>भूताङ्कुश<k2>भूताङ्कुश
 {%bhūtāṅkuśa%}¦
 <div n="P"/>(1) <bot>CROTON OBLONGIFOLIUS ROXB.</bot> (Chopra; KB 3, p. 2254-2255;
 <div n="lb"/>Nadk. 1, nr. 717; V 3, p. 141);
@@ -2955,7 +2955,7 @@
 <div n="P"/>(10) = {%tīkṣṇa%} (PW: name of a number of plants).
 <LEND>
 
-<L>186<pc>584<k1>BUstfRa<k2>BUstfRa
+<L>186<pc>584<k1>भूस्तृण<k2>भूस्तृण
 {%bhūstṛṇa%}¦
 <div n="P"/>(1) [<bot>CYMBOPOGON CITRATUS (DC.) STAPF</bot>] (Chopra) = <bot>C. CITRATUS
 <div n="lb"/>STAPF</bot> (Bpn, p. 383-384; IRM 2, p. 412-414; KB 4, p. 2681-2683;
@@ -2981,19 +2981,19 @@
 <LEND>
 [Page-585+ 36]
 
-<L>187<pc>585<k1>makuzwaka<k2>makuzwaka
+<L>187<pc>585<k1>मकुष्टक<k2>मकुष्टक
 {%makuṣṭaka%}¦
 <div n="P"/>See: {%makuṣṭha(ka).%}
 <LEND>
 
-<L>188<pc>585<k1>makuzWa<k2>makuzWa
+<L>188<pc>585<k1>मकुष्ठ<k2>मकुष्ठ
 {%makuṣṭha(ka)%}¦
 <div n="P"/><bot>PHASEOLUS ACONITIFOLIUS JACQ.</bot> (Bpn, p. 646; Chopra; Dutt; DWH
 <div n="lb"/>1, p. 488; Gul; HK; KB 1, p. 798-799; MW; Na 1, nr. 149; Nadk. 1,
 <div n="lb"/>nr. 1860; V 8, p. 102; Vśs).
 <LEND>
 
-<L>189<pc>585<k1>maNgalya<k2>maNgalya
+<L>189<pc>585<k1>मङ्गल्य<k2>मङ्गल्य
 {%maṅgalya%}¦
 <div n="P"/>(1) <bot>LENS ESCULENTA MOENCH.</bot> [Intern. Code] = <bot>ERVUM LENS LINN.</bot>
 <div n="lb"/>(Vśs) = <bot>CICER LENS WILLD.</bot> (MW; Vśs) = <bot>VICIA LENS COSS. ET GERM.</bot>
@@ -3022,7 +3022,7 @@
 <div n="lb"/>in PW, a. o. {%pataṅga:%} <bot>CAESALPINIA SAPPAN LINN.</bot>).
 <LEND>
 
-<L>190<pc>585<k1>maYjizWA<k2>maYjizWA
+<L>190<pc>585<k1>मञ्जिष्ठा<k2>मञ्जिष्ठा
 {%mañjiṣṭhā%}¦
 <div n="P"/>(1) <bot>RUBIA CORDIFOLIA LINN.</bot> = <bot>R. MUNJISTA ROXB.</bot> (Dutt; HK;
 <div n="lb"/>Nadk. 1, nr. 2162) = <bot>R. SECUNDA MOON</bot> (Nadk. 1, nr. 2162);
@@ -3030,7 +3030,7 @@
 <LEND>
 [Page-586+ 39]
 
-<L>191<pc>586<k1>madana<k2>madana
+<L>191<pc>586<k1>मदन<k2>मदन
 {%madana%}¦
 <div n="P"/>(1) <bot>RANDIA DUMETORUM LAM.</bot> (Avk; Bpn, p. 77; Chopra; Dgv, nr.
 <div n="lb"/>183; Dutt; DWH 2, p. 204-207; Dy, p. 406-408; Gul; HK; Kav; KB
@@ -3073,7 +3073,7 @@
 <LEND>
 [Page-587+ 37]
 
-<L>192<pc>587<k1>maDuka<k2>maDuka
+<L>192<pc>587<k1>मधुक<k2>मधुक
 {%madhuka%}¦
 <div n="P"/>(1) a) <bot>GLYCYRRHIZA GLABRA LINN.</bot> = <bot>G. GLANDULIFERA WALDST.
 <div n="lb"/>ET KIT.</bot> (Nadk. 1, nr. 1136);
@@ -3089,7 +3089,7 @@
 <div n="P"/>(6) = {%jīvaka%} (Vśs: <bot>TERMINALIA TOMENTOSA WIGHT ET ARN.</bot>).
 <LEND>
 
-<L>193<pc>587<k1>maDurasA<k2>maDurasA
+<L>193<pc>587<k1>मधुरसा<k2>मधुरसा
 {%madhurasā%}¦
 <div n="P"/>(1) <bot>VITIS VINIFERA LINN.</bot> (Bpn, p. 573; KB 1, p. 607-609; MW; PW;
 <div n="lb"/>V 1, p. 11; Vśs);
@@ -3105,7 +3105,7 @@
 <div n="lb"/>THUM SOWA KURZ.</bot>
 <LEND>
 
-<L>194<pc>587<k1>maDUka<k2>maDUka
+<L>194<pc>587<k1>मधूक<k2>मधूक
 {%madhūka%}¦
 <div n="P"/>(1) [<bot>MADHUCA INDICA J. F. GMEL.</bot>] (Chopra) [= <bot>M. LATIFOLIA</bot>
 <div n="lb"/>(<bot>ROXB.</bot>) <bot>MACBRIDE</bot>] (Chopra) = <bot>MADHUCA LATIFOLIA MACBRIDE</bot> =
@@ -3124,7 +3124,7 @@
 <div n="P"/>(4) <bot>GLYCYRRHIZA GLABRA LINN</bot>, (MW; PW).
 <LEND>
 
-<L>195<pc>588<k1>maDUlikA<k2>maDUlikA
+<L>195<pc>588<k1>मधूलिका<k2>मधूलिका
 {%madhūlikā%}¦
 <div n="P"/>(1) a) = {%mūrvā%} (Vśs);
 <div n="lb"/>b) <bot>CLEMATIS TRILOBA HEYNE EX ROTH</bot> (KB 1, p. 4-5, = {%mūrvā%});
@@ -3134,7 +3134,7 @@
 <div n="P"/>(5) a small kind of wheat (Vśs).
 <LEND>
 
-<L>196<pc>588<k1>marica<k2>marica
+<L>196<pc>588<k1>मरिच<k2>मरिच
 {%marica%}¦
 <div n="P"/>(1) <bot>PIPER NIGRUM LINN.</bot> [= <bot>P. NIGRUM LINN. VAR. TRIOICUM CAV.</bot>]
 <div n="lb"/>(PA 1, 9, p. 64) (see Hooker 5, p. 90-91: <bot>P. NIGRUM VAR. TRIOICUM C.
@@ -3153,14 +3153,14 @@
 <div n="P"/>(6) = {%kakkola%} (MW; PW; Vśs).
 <LEND>
 
-<L>197<pc>588<k1>marIca<k2>marIca
+<L>197<pc>588<k1>मरीच<k2>मरीच
 {%marīca%}¦
 <div n="P"/>(1) = {%marica%} (Dgv, nr. 266; MW; PW; Vśs);
 <div n="P"/>(2) = {%marubaka%} (MW; PW; Vśs);
 <div n="P"/>(3) <bot>STRYCHNOS POTATORUM LINN. F.</bot> (MW; Vśs).
 <LEND>
 
-<L>198<pc>588<k1>marubaka<k2>marubaka
+<L>198<pc>588<k1>मरुबक<k2>मरुबक
 {%marubaka = maruva (ka)%}¦
 <div n="P"/>(1) <bot>MAJORANA HORTENSIS MOENCH.</bot> [Intern. Code] (Chopra: {%maru%})
 <div n="lb"/>= <bot>ORIGANUM MAJORANA LINN.</bot> (Avk; Bpn, p. 510; Chopra; Dgv, nr.
@@ -3176,30 +3176,30 @@
 <div n="P"/>(8) a kind of {%jambīra%} (Vśs).
 <LEND>
 
-<L>199<pc>589<k1>markawahastatfRa<k2>markawahastatfRa
+<L>199<pc>589<k1>मर्कटहस्ततृण<k2>मर्कटहस्ततृण
 {%markaṭahastatṛṇa%}¦
 <div n="P"/>= {%madhūlikā%} (Cakra on Ca. Vi. 8, 139).
 <LEND>
 
-<L>200<pc>589<k1>masUra<k2>masUra
+<L>200<pc>589<k1>मसूर<k2>मसूर
 {%masūra%}¦
 <div n="P"/><bot>LENS ESCULENTA MOENCH.</bot> [Intern. Code] = <bot>L. CULINARIS MEDIC.</bot>
 <div n="lb"/>= <bot>ERVUM LENS LINN.</bot> = <bot>CICER LENS WILLD.</bot>
 <LEND>
 
-<L>201<pc>589<k1>mahOzaDa<k2>mahOzaDa
+<L>201<pc>589<k1>महौषध<k2>महौषध
 {%mahauṣadha%}¦
 <div n="P"/>= dried ginger; see {%ārdraka.%}
 <LEND>
 
-<L>202<pc>589<k1>mAtuluNga<k2>mAtuluNga
+<L>202<pc>589<k1>मातुलुङ्ग<k2>मातुलुङ्ग
 {%mātuluṅga%}¦
 <div n="P"/>Is considered as a synonym of {%bījapūra,%} but acc. to Gul it is <bot>CITRUS
 <div n="lb"/>DECUMANA MURR.</bot>; acc. to KB 1, p. 488-489 it may also designate
 <div n="lb"/>[<bot>CITRUS MEDICA LINN. VAR. LIMONUM</bot>].
 <LEND>
 
-<L>203<pc>589<k1>mAza<k2>mAza
+<L>203<pc>589<k1>माष<k2>माष
 {%māṣa%}¦
 <div n="P"/><bot>PHASEOLUS MUNGO LINN.</bot> (Gul) [= <bot>PH. MUNGO LINN. VAR. RADIATUS
 <div n="lb"/>LINN.</bot>] (Dutt; DWH 1, p. 488; HK) (see Hooker 2, p. 203) = <bot>PH.
@@ -3213,13 +3213,13 @@
 <div n="lb"/>(Phaseolus).
 <LEND>
 
-<L>204<pc>589<k1>mAzakalAya<k2>mAzakalAya
+<L>204<pc>589<k1>माषकलाय<k2>माषकलाय
 {%māṣakalāya%}¦
 <div n="P"/>= {%māṣavrīhi%} (Vśs, unidentified).
 <LEND>
 [Page-590+ 35]
 
-<L>205<pc>590<k1>muYja<k2>muYja
+<L>205<pc>590<k1>मुञ्ज<k2>मुञ्ज
 {%muñja%}¦
 <div n="P"/>(1) <bot>SACCHARUM ARUNDINACEUM RETZ.</bot> (Chopra; HK; KB 4, p. 2665-
 <div n="lb"/>2666; V 9, p. 92) = <bot>S. CILIARE ANDERSS.</bot> (KB 4, p. 2666-2668) = <bot>S.
@@ -3229,7 +3229,7 @@
 <div n="P"/>(2) <bot>S. SARA ROXB.</bot> (MW; Vśs).
 <LEND>
 
-<L>206<pc>590<k1>mudga<k2>mudga
+<L>206<pc>590<k1>मुद्ग<k2>मुद्ग
 {%mudga%}¦
 <div n="P"/><bot>PHASEOLUS MUNGO LINN.</bot> (the greater part of the sources) [= <bot>PH.
 <div n="lb"/>MUNGO WILLD.</bot>] (Roxb., p. 556) = <bot>PH. RADIATUS LINN.</bot> (Gul) [= <bot>PH.
@@ -3237,7 +3237,7 @@
 <div n="lb"/>for references to literature on the nomenclature.
 <LEND>
 
-<L>207<pc>590<k1>mustA<k2>mustA
+<L>207<pc>590<k1>मुस्ता<k2>मुस्ता
 {%mustā̆%}¦
 <div n="P"/>(See also {%nāgaramusta%} and {%bhadramustā̆.%})
 <div n="P"/>(1) <bot>CYPERUS ROTUNDUS LINN.</bot> (Avk; Bpn, p. 243; Chopra; Dgv, nr.
@@ -3251,7 +3251,7 @@
 <div n="P"/>(4) <bot>KYLLINGA MONOCEPHALA ROTTB.</bot> (KB 4, p. 2634-2635).
 <LEND>
 
-<L>208<pc>590<k1>mUrvA<k2>mUrvA
+<L>208<pc>590<k1>मूर्वा<k2>मूर्वा
 {%mūrvā%}¦
 <div n="P"/>(1) <bot>SANSEVIERIA ROXBURGHIANA SCHULT.</bot><bot>F.</bot> (Avk; Bpn, p. 435-437;
 <div n="lb"/>Dutt; HK; Kav; MW; Nadk. 1, nr. 2216; PA 1, 2, p. 1-14; PW; Vśs)
@@ -3274,7 +3274,7 @@
 <div n="P"/>(9) <bot>HELICTERES ISORA LINN.</bot> (Bpn, p. 435-437).
 <LEND>
 
-<L>209<pc>591<k1>mUlaka<k2>mUlaka
+<L>209<pc>591<k1>मूलक<k2>मूलक
 {%mūlaka%}¦
 <div n="P"/>(1) <bot>RAPHANUS SATIVUS LINN.</bot>;
 <div n="P"/>(2) = {%uśīra%} (Vśs);
@@ -3283,12 +3283,12 @@
 <div n="P"/>(5) a sort of yam (i. e. a species of <bot>DIOSCOREA</bot>) (MW).
 <LEND>
 
-<L>210<pc>591<k1>mfdvIkA<k2>mfdvIkA
+<L>210<pc>591<k1>मृद्वीका<k2>मृद्वीका
 {%mṛdvīkā%}¦
 <div n="P"/>grapes, i. e. the fruits of <bot>VITIS VINIFERA LINN.</bot>
 <LEND>
 
-<L>211<pc>591<k1>mezaSfNgI<k2>mezaSfNgI
+<L>211<pc>591<k1>मेषशृङ्गी<k2>मेषशृङ्गी
 {%meṣaśṛṅgī = ajaśṛṅgī%}¦
 <div n="P"/>(1) <bot>GYMNEMA SYLVESTRE R. BR.</bot> (Avk; Bpn, p. 443; Chopra; Dutt;
 <div n="lb"/>DWH 2, p. 450-455; Dy, p. 521-523; HK; KB 3, p. 1625-1627; MW;
@@ -3311,7 +3311,7 @@
 <LEND>
 [Page-592+ 33]
 
-<L>212<pc>592<k1>morawa<k2>morawa
+<L>212<pc>592<k1>मोरट<k2>मोरट
 {%moraṭa%}¦
 <div n="P"/>(1) <bot>ALANGIUM DECAPETALUM LAM.</bot> [Intern. Code] = <bot>A. HEXAPETA-
 <div n="lb"/>LUM ROXB.</bot> (MW; PW; Kauṭ., transl. <bot>J. J.</bot> Meyer p. 187, note 3 and
@@ -3329,7 +3329,7 @@
 <div n="lb"/>{%śigru = śigru%}).
 <LEND>
 
-<L>213<pc>592<k1>morawA<k2>morawA
+<L>213<pc>592<k1>मोरटा<k2>मोरटा
 {%moraṭā%}¦
 <div n="P"/>(1) = {%mūrvā%} (DWH 3, p. 493; MW; PW);
 <div n="P"/>(2) <bot>HELIOTROPIUM INDICUM LINN.</bot> (Kauṭ., transl. <bot>J. J.</bot> Meyer p. 187,
@@ -3340,14 +3340,14 @@
 <div n="lb"/>LUM ROXB.</bot> (Kauṭ., transl. Sham. p. 133).
 <LEND>
 
-<L>214<pc>592<k1>yava<k2>yava
+<L>214<pc>592<k1>यव<k2>यव
 {%yava%}¦
 <div n="P"/>(1) <bot>HORDEUM VULGARE LINN.</bot> = <bot>H. SATIVUM PERS.</bot> = <bot>H. HEXASTI-
 <div n="lb"/>CHON LINN.</bot> = <bot>H. DISTICHON LINN.</bot>;
 <div n="P"/>(2) = {%indrayava%} (Bpn, p. 642).
 <LEND>
 
-<L>215<pc>592<k1>yavaka<k2>yavaka
+<L>215<pc>592<k1>यवक<k2>यवक
 {%yavaka%}¦
 <div n="P"/>(1) = {%yava;%}
 <div n="P"/>(2) a) wild barley (Gul);
@@ -3357,7 +3357,7 @@
 <LEND>
 [Page-593+ 36]
 
-<L>216<pc>593<k1>yavAnI<k2>yavAnI
+<L>216<pc>593<k1>यवानी<k2>यवानी
 {%yavānī = yamānī;%}¦ see also {%vanayamānī%}
 <div n="P"/>(1) <bot>TRACHYSPERMUM COPTICUM (LINN.) LINK</bot> [Intern. Code] = <bot>CA-
 <div n="lb"/>RUM COPTICUM BENTH. ET HOOK.</bot><bot>F.</bot> (Avk; Dutt; DWH 2, p. 116-119;
@@ -3380,7 +3380,7 @@
 <div n="P"/>(7) <bot>H. MUTICUS LINN.</bot> (DWH 2, p. 626-632).
 <LEND>
 
-<L>217<pc>593<k1>yAvanAla<k2>yAvanAla
+<L>217<pc>593<k1>यावनाल<k2>यावनाल
 {%yā̆vanāla;%}¦ see also {%devadhānya%}
 <div n="P"/>(1) [<bot>SORGHUM VULGARE (LINN.) PERS. VAR. SACCHARATUM BOERL.</bot>]
 <div n="lb"/>= <bot>S. VULGARE PERS.</bot> (AB 1, p. 354; DWH 3, p. 618-619; KB 4, p.
@@ -3390,7 +3390,7 @@
 <div n="lb"/>2653; Vśs).
 <LEND>
 
-<L>218<pc>593<k1>yavAsa<k2>yavAsa
+<L>218<pc>593<k1>यवास<k2>यवास
 {%yavāsa = yāsa = dhanvayavāsa = dhanvayāsa = durālabhā%}¦
 <div n="P"/>(1) <bot>ALHAGI CAMELORUM FISCH.</bot> (Avk; Bpn, p. 411-412; DWH 1, p.
 <div n="lb"/>417-420; KB 1, p. 743-744; PA 1, 6, p. 97-116) [= <bot>A. PSEUDALHAGI</bot>
@@ -3427,7 +3427,7 @@
 <div n="P"/>(7) = {%spṛkkā%} (Vśs).
 <LEND>
 
-<L>219<pc>594<k1>rAjAdana<k2>rAjAdana
+<L>219<pc>594<k1>राजादन<k2>राजादन
 {%rājādana = rājādanī%}¦
 <div n="P"/>(1) <bot>MANILKARA HEXANDRA DUBARD</bot> [Intern. Code: Manilkara is a
 <div n="lb"/>nom. conserv.] = <bot>MIMUSOPS HEXANDRA ROXB.</bot> (Avk; Bpn, p. 567;
@@ -3453,7 +3453,7 @@
 <div n="lb"/>mentioned species of <bot>MANILKARA.</bot>
 <LEND>
 
-<L>220<pc>595<k1>rAjikA<k2>rAjikA
+<L>220<pc>595<k1>राजिका<k2>राजिका
 {%rājikā%}¦
 <div n="P"/>(1) <bot>BRASSICA JUNCEA COSS.</bot> (Nadk. 1, nr. 378) [= <bot>B. JUNCEA HOOK. F.
 <div n="lb"/>ET THOMS.</bot>] (Dutt; Dy, p. 59: probably; HK; KB 1, p. 166-167) (see
@@ -3490,13 +3490,13 @@
 <div n="lb"/>183.
 <LEND>
 
-<L>221<pc>596<k1>rudrAkza<k2>rudrAkza
+<L>221<pc>596<k1>रुद्राक्ष<k2>रुद्राक्ष
 {%rudrākṣa%}¦
 <div n="P"/>(1) <bot>ELAEOCARPUS GANITRUS ROXB.</bot>;
 <div n="P"/>(2) <bot>E. TUBERCULATUS ROXB.</bot> (Nadk. 1, nr. 921).
 <LEND>
 
-<L>222<pc>596<k1>rohiRI<k2>rohiRI
+<L>222<pc>596<k1>रोहिणी<k2>रोहिणी
 {%rohiṇī%}¦
 <div n="P"/>(1) a) <bot>PICRORRHIZA KURROA ROYLE EX BENTH.</bot> (Bpn, p. 69 and HB:
 <div n="lb"/>= {%kaṭurohiṇī;%} Kav);
@@ -3532,22 +3532,22 @@
 <LEND>
 [Page-597+ 31]
 
-<L>223<pc>597<k1>rOhiRIka<k2>rOhiRIka
+<L>223<pc>597<k1>रौहिणीक<k2>रौहिणीक
 {%rauhiṇīka%}¦
 <div n="P"/>Cakra on Ca. Ni. 2, 4: = the potherb called {%rohiṇī.%}
 <LEND>
 
-<L>224<pc>597<k1>lakuca<k2>lakuca
+<L>224<pc>597<k1>लकुच<k2>लकुच
 {%lakuca%}¦
 <div n="P"/><bot>ARTOCARPUS LAKOOCHA ROXB.</bot>
 <LEND>
 
-<L>225<pc>597<k1>lambA<k2>lambA
+<L>225<pc>597<k1>लम्बा<k2>लम्बा
 {%lambā%}¦
 <div n="P"/>= {%ikṣvāku%} (Ca. Ka. 3, 3cd-4ab).
 <LEND>
 
-<L>226<pc>597<k1>lavaNga<k2>lavaNga
+<L>226<pc>597<k1>लवङ्ग<k2>लवङ्ग
 {%lavaṅga%}¦
 <div n="P"/>(1) <bot>SYZYGIUM AROMATICUM (LINN.) MERRILL ET PERRY</bot> (Bpn, p. 219;
 <div n="lb"/>Chopra) = <bot>EUGENIA CARYOPHYLLATA THUNB.</bot> (Watt CP, p. 526-530)
@@ -3563,14 +3563,14 @@
 <div n="lb"/>(Nadk. 1, nr. 1682).
 <LEND>
 
-<L>227<pc>597<k1>laSuna<k2>laSuna
+<L>227<pc>597<k1>लशुन<k2>लशुन
 {%laśuna%}¦
 <div n="P"/><bot>ALLIUM SATIVUM LINN.</bot>; see <bot>R.</bot> Bedi: Garlic, in <bot>P. K.</bot> Gode Comm.
 <div n="lb"/>Vol., 1960, p. 9-18; <bot>J.</bot> Jolly: Der Knoblauch in der indischen Medizin,
 <div n="lb"/>in: Festgruss an <bot>R.</bot> von Roth, 1893, p. 18-20.
 <LEND>
 
-<L>228<pc>597<k1>loDra<k2>loDra
+<L>228<pc>597<k1>लोध्र<k2>लोध्र
 {%lodhra%}¦
 <div n="P"/>(1) <bot>SYMPLOCOS RACEMOSA ROXB.</bot>;
 <div n="P"/>(2) <bot>S. THEIFOLIA</bot> (Nadk. 1, nr. 2420); the Index Kewensis records:
@@ -3592,7 +3592,7 @@
 <div n="lb"/>core-Cochin or in India”).
 <LEND>
 
-<L>229<pc>598<k1>vaMSa<k2>vaMSa
+<L>229<pc>598<k1>वंश<k2>वंश
 {%vaṃśa%}¦
 <div n="P"/>(1) <bot>BAMBUSA BAMBOS DRUCE</bot> (Chopra) = <bot>B. ARUNDINACEA WILLD.</bot>
 <div n="lb"/>(Bpn, p. 376; Chopra; Gul; IRM 1, p. 153-154) [= <bot>B. ARUNDINACEA
@@ -3619,7 +3619,7 @@
 <div n="P"/>(7) <bot>SHOREA ROBUSTA GAERTN.</bot><bot>F.</bot> (KB 1, p. 288-290; MW; PW; Vśs).
 <LEND>
 
-<L>230<pc>598<k1>vawa<k2>vawa
+<L>230<pc>598<k1>वट<k2>वट
 {%vaṭa%}¦
 <div n="P"/><bot>FICUS BENGHALENSIS LINN.</bot> = <bot>F. INDICA LINN.</bot> (Ainslie 2, p. 10-11)
 <div n="lb"/>[= <bot>F. INDICA ROXB.</bot>] (Dutt; HK; Roxb., p. 639) = <bot>F. INDICA</bot> (MW;
@@ -3628,7 +3628,7 @@
 <div n="lb"/>3, p. 2312-2314); see Hooker 5, p. 499-500 about the nomenclature.
 <LEND>
 
-<L>231<pc>599<k1>vanakArpAsI<k2>vanakArpAsI
+<L>231<pc>599<k1>वनकार्पासी<k2>वनकार्पासी
 {%vanakārpāsī%}¦
 <div n="P"/>(1) <bot>HIBISCUS VITIFOLIUS LINN.</bot> (Avk; Dutt; Kav and Vśs, = {%bhārad-%}
 <div n="lb"/>{%vājī%}) = <bot>H. TRUNCATUS ROXB.</bot> (Avk);
@@ -3640,18 +3640,18 @@
 <div n="lb"/>b) <bot>G. ARBOREUM LINN.</bot>
 <LEND>
 
-<L>232<pc>599<k1>vanakodrava<k2>vanakodrava
+<L>232<pc>599<k1>वनकोद्रव<k2>वनकोद्रव
 {%vanakodrava = kodrava%}¦
 <LEND>
 
-<L>233<pc>599<k1>vanabarbarikA<k2>vanabarbarikA
+<L>233<pc>599<k1>वनबर्बरिका<k2>वनबर्बरिका
 {%vanabarbarikā%}¦
 <div n="P"/>(1) <bot>OCIMUM GRATISSIMUM LINN.</bot> (KB 3, p. 1964-1965);
 <div n="P"/>(2) <bot>O. BASILICUM LINN.</bot> = <bot>O. PILOSUM WILLD.</bot> (MW);
 <div n="P"/>(3) = {%kuṭhera%} (PW).
 <LEND>
 
-<L>234<pc>599<k1>vanamudga<k2>vanamudga
+<L>234<pc>599<k1>वनमुद्ग<k2>वनमुद्ग
 {%vanamudga%}¦
 <div n="P"/>(1) <bot>PHASEOLUS TRILOBUS AIT.</bot> (Avk; KB 1, p. 794-795; Nadk. 1, nr.
 <div n="lb"/>1870, = {%mudgaparṇī%});
@@ -3662,7 +3662,7 @@
 <div n="lb"/>800: {%araṇyamudga%}) = <bot>PH. ROSTRATUS WALL.</bot> (KB 1, p. 799-800).
 <LEND>
 
-<L>235<pc>599<k1>vanayamAnI<k2>vanayamAnI
+<L>235<pc>599<k1>वनयमानी<k2>वनयमानी
 {%vanayamānī%}¦
 <div n="P"/>(1) <bot>SESELI INDICUM WIGHT ET ARN.</bot> (Avk; Chopra; Dutt; Kav; KB
 <div n="lb"/>2, p. 1209-1210; Nadk. 1, nr. 2289; V 1, p. 21; Vśs) = <bot>CNIDIUM DIFFU-
@@ -3670,7 +3670,7 @@
 <div n="lb"/>p. 1209-1210; Vśs).
 <LEND>
 
-<L>236<pc>599<k1>vArAhIkanda<k2>vArAhIkanda
+<L>236<pc>599<k1>वाराहीकन्द<k2>वाराहीकन्द
 {%vārāhīkanda%}¦
 <div n="P"/>(1) <bot>TACCA INTEGRIFOLIA KER</bot>-<bot>GAWL</bot> = <bot>T. ASPERA ROXB.</bot> (Bpn, p.
 <div n="lb"/>386-387; Chopra; DWH 3, p. 549-550; KB 4, p. 2476-2477);
@@ -3687,7 +3687,7 @@
 <div n="lb"/>Nadk. 1, nr. 1618).
 <LEND>
 
-<L>237<pc>600<k1>viqaNga<k2>viqaNga
+<L>237<pc>600<k1>विडङ्ग<k2>विडङ्ग
 {%viḍaṅga%}¦
 <div n="P"/>(1) <bot>EMBELIA RIBES BURM. F.</bot> (Avk; Bpn, p. 52; Chopra; Dgv, nr. 201;
 <div n="lb"/>Dutt; DWH 2, p. 349-354; HB; HK; IRM 3, p. 167-168; Kav; KB 2,
@@ -3699,7 +3699,7 @@
 <div n="P"/>(3) <bot>E. ROBUSTA ROXB.</bot> (Avk); see Hooker 3, p. 515.
 <LEND>
 
-<L>238<pc>600<k1>vidalAmalaka<k2>vidalAmalaka
+<L>238<pc>600<k1>विदलामलक<k2>विदलामलक
 {%vidalāmalaka%}¦
 <div n="P"/>This term occurs Kauṭ. 2, 15, 18 (text p. 74; transl. Kangle p. 142;
 <div n="lb"/>transl. <bot>J. J.</bot> Meyer p. 141; transl. Sham. p. 101); (see App. 3: {%amla%}).
@@ -3723,13 +3723,13 @@
 <div n="lb"/>lates: pomegranate).
 <LEND>
 
-<L>239<pc>601<k1>viBItaka<k2>viBItaka
+<L>239<pc>601<k1>विभीतक<k2>विभीतक
 {%vibhītaka%}¦
 <div n="P"/><bot>TERMINALIA BELLERICA ROXB.</bot> = <bot>T. BELIRICA WALL.</bot> = <bot>T. PUNC-
 <div n="lb"/>TATA ROTH</bot> = <bot>MYROBALANUS BELLIRICA GAERTN.</bot>
 <LEND>
 
-<L>240<pc>601<k1>vilaNga<k2>vilaNga
+<L>240<pc>601<k1>विलङ्ग<k2>विलङ्ग
 {%vilaṅga%}¦
 <div n="P"/>This plant is mentioned Kauṭ. 2, 25, 29 (text p. 79; transl. Kangle
 <div n="lb"/>p. 178; transl. <bot>J. J.</bot> Meyer p. 186; transl. Sham. p. 132); see App. 3:
@@ -3749,7 +3749,7 @@
 <div n="lb"/>{%āmalakī%}).
 <LEND>
 
-<L>241<pc>601<k1>vfkzAmla<k2>vfkzAmla
+<L>241<pc>601<k1>वृक्षाम्ल<k2>वृक्षाम्ल
 {%vṛkṣāmla%}¦
 <div n="P"/>(1) <bot>SPONDIAS PINNATA KURZ</bot> = <bot>S. MANGIFERA WILLD.</bot> (HK; MW;
 <div n="lb"/>PW; Vśs: = {%āmrātaka%});
@@ -3765,7 +3765,7 @@
 <LEND>
 [Page-602+ 35]
 
-<L>242<pc>602<k1>vEkuRWa<k2>vEkuRWa
+<L>242<pc>602<k1>वैकुण्ठ<k2>वैकुण्ठ
 {%vaikuṇṭha%}¦
 <div n="P"/>(1) <bot>ANISOMELES MALABARICA R. BR. EX SIMS</bot> (Chopra; KB 3, p.
 <div n="lb"/>2011-2012; V 4, p. 70);
@@ -3774,7 +3774,7 @@
 <div n="lb"/>c) = {%kuṭhera%} (HK).
 <LEND>
 
-<L>243<pc>602<k1>SamI<k2>SamI
+<L>243<pc>602<k1>शमी<k2>शमी
 {%śamī%}¦
 <div n="P"/>(1) <bot>ACACIA SUNDRA DC.</bot> = <bot>A. SUMA BUCH.</bot>-<bot>HAM. EX WALL.</bot> (Kav;
 <div n="lb"/>KB 2, p. 935-936) = <bot>MIMOSA SUMA ROXB.</bot> (? Index Kewensis) (Chopra;
@@ -3788,7 +3788,7 @@
 <div n="P"/>(4) = {%somarājī%} (Vśs: <bot>VERNONIA ANTHELMINTICA WILLD.</bot>).
 <LEND>
 
-<L>244<pc>602<k1>SAlaparRI<k2>SAlaparRI
+<L>244<pc>602<k1>शालपर्णी<k2>शालपर्णी
 {%śālaparṇī%}¦
 <div n="P"/><bot>DESMODIUM GANGETICUM DC.</bot> (Bpn, p. 285; Chopra; Dutt; DWH 1,
 <div n="lb"/>p. 428-429; Dy, p. 222; Gul; HK; IRM 3, p. 41; Kav; MW; Nadk. 1,
@@ -3797,7 +3797,7 @@
 <div n="lb"/>Wise).
 <LEND>
 
-<L>245<pc>602<k1>SAlmalI<k2>SAlmalI
+<L>245<pc>602<k1>शाल्मली<k2>शाल्मली
 {%śālmalī̆%}¦
 <div n="P"/>(1) <bot>BOMBAX CEIBA LINN.</bot> (Chopra; Goudr.; KB 1, p. 354-357; Na 1,
 <div n="lb"/>nr. 66); (<bot>I</bot> deviate from the Index Kewensis in this case; see Biswas 1,
@@ -3821,7 +3821,7 @@
 <div n="lb"/>360) = <bot>GOSSAMPINUS RUMPHII SCHOTT ET ENDL.</bot>
 <LEND>
 
-<L>246<pc>603<k1>Sigru<k2>Sigru
+<L>246<pc>603<k1>शिग्रु<k2>शिग्रु
 {%śigru = śobhāñjana%}¦
 <div n="P"/>(1) <bot>MORINGA PTERYGOSPERMA GAERTN.</bot> (AFM 1, p. 91-93; Avk;
 <div n="lb"/>Bpn, p. 339-340; Chopra; Dgv, nr. 95; Dutt; DWH 1, p. 396-399;
@@ -3840,7 +3840,7 @@
 <div n="lb"/>used as a substitute; PA 1, 4, p. 19: {%madhuśigru;%} V 10, p. 1).
 <LEND>
 
-<L>247<pc>603<k1>SirIza<k2>SirIza
+<L>247<pc>603<k1>शिरीष<k2>शिरीष
 {%śirīṣa%}¦
 <div n="P"/>(1) <bot>ALBIZZIA LEBBEK BENTH.</bot> (AFM 1, p. 19-25; Avk: {%pītaśirīṣa;%} Bpn,
 <div n="lb"/>p. 518; Chopra; Dgv, nr. 132; Dutt; DWH 1, p. 561-563; Gul; HB;
@@ -3869,16 +3869,16 @@
 <div n="lb"/>ROXB.</bot> (Avk).
 <LEND>
 
-<L>248<pc>604<k1>SuRWI<k2>SuRWI
+<L>248<pc>604<k1>शुण्ठी<k2>शुण्ठी
 {%śuṇṭhī:%}¦ dried ginger
 <div n="P"/>See: {%ārdraka.%}
 <LEND>
 
-<L>249<pc>604<k1>SUkaSimbI<k2>SUkaSimbI
+<L>249<pc>604<k1>शूकशिम्बी<k2>शूकशिम्बी
 {%śūkaśimbī̆ = kapikacchū̆%}¦
 <LEND>
 
-<L>250<pc>604<k1>SEvAla<k2>SEvAla
+<L>250<pc>604<k1>शैवाल<k2>शैवाल
 {%śaivā̆la%}¦
 <div n="P"/>(1) <bot>VALLISNERIA SPIRALIS LINN.</bot> (Bpn, p. 486-487; Dutt; Gul; HK;
 <div n="lb"/>V 2, p. 105) [= <bot>BLYXA OCTANDRA RICH.</bot>] (Dutt; HK) [= <bot>B. SAIVALA
@@ -3906,7 +3906,7 @@
 <div n="P"/>(12) moss (Gul; Kav).
 <LEND>
 
-<L>251<pc>605<k1>SyAmA<k2>SyAmA
+<L>251<pc>605<k1>श्यामा<k2>श्यामा
 {%śyāmā%}¦
 <div n="P"/>(1) <bot>PANICUM COLONUM LINN.</bot> = <bot>P. FRUMENTACEUM ROXB.</bot> (Chopra;
 <div n="lb"/>IRM 3, p. 125-126; KB 4, p. 2715) [= <bot>ECHINOCHLOA COLONA LINK
@@ -3967,7 +3967,7 @@
 <div n="P"/>(35) = the seeds of {%padma%} (PW; Vśs).
 <LEND>
 
-<L>252<pc>606<k1>SyonAka<k2>SyonAka
+<L>252<pc>606<k1>श्योनाक<k2>श्योनाक
 {%śyonāka%}¦
 <div n="P"/>(1) <bot>OROXYLUM INDICUM VENT.</bot> (Avk; Bpn, p. 284; Chopra; Dgv,
 <div n="lb"/>nr. 237; Dutt; DWH 3, p. 15-20; HK; KB 3, p. 1839-1841; Nadk. 1,
@@ -3978,14 +3978,14 @@
 <div n="P"/>(2) = {%lodhra%} (Vśs).
 <LEND>
 
-<L>253<pc>606<k1>satIna<k2>satIna
+<L>253<pc>606<k1>सतीन<k2>सतीन
 {%satīna = satī̆lā%}¦
 <div n="P"/>(1) <bot>PISUM SATIVUM LINN.</bot> (Avk; Bpn, p. 648; Chopra; Dutt; DWH
 <div n="lb"/>1, p. 489; HK; KB 1, p. 772-773; Vśs);
 <div n="P"/>(2) <bot>P. ARVENSE LINN.</bot> (HK; MW; PW).
 <LEND>
 
-<L>254<pc>606<k1>sarzapa<k2>sarzapa
+<L>254<pc>606<k1>सर्षप<k2>सर्षप
 {%sarṣapa%}¦
 <div n="P"/>(1) <bot>BRASSICA CAMPESTRIS LINN.</bot> (Bpn, p. 651; Dgm, p. 121; Gul;
 [Page-607+ 36]
@@ -4013,12 +4013,12 @@
 <div n="P"/>(5) <bot>PANICUM COLONUM LINN.</bot> (Wise).
 <LEND>
 
-<L>255<pc>607<k1>sahakAra<k2>sahakAra
+<L>255<pc>607<k1>सहकार<k2>सहकार
 {%sahakāra%}¦
 <div n="P"/><bot>A</bot> fragrant mango-tree, = {%āmra.%}
 <LEND>
 
-<L>256<pc>607<k1>sidDArTa<k2>sidDArTa
+<L>256<pc>607<k1>सिद्धार्थ<k2>सिद्धार्थ
 {%siddhārtha(ka)%}¦
 <div n="P"/>(1) <bot>BRASSICA CAMPESTRIS LINN.</bot> (DWH 1, p. 122-129; Dy, p. 58;
 <div n="lb"/>HK) [= <bot>B. CAMPESTRIS LINN. VAR. RAPA (LINN.) HARTM.</bot>] (KB 1, p.
@@ -4034,7 +4034,7 @@
 <LEND>
 [Page-608+ 37]
 
-<L>257<pc>608<k1>sumuKa<k2>sumuKa
+<L>257<pc>608<k1>सुमुख<k2>सुमुख
 {%sumukha%}¦
 <div n="P"/>(1) a) <bot>OCIMUM BASILICUM LINN.</bot> (HK) = <bot>O. ALBUM LINN.</bot> (HK);
 <div n="P"/>b) [<bot>O. BASILICUM PILOSUM</bot>] (MW; PW);
@@ -4053,7 +4053,7 @@
 <div n="P"/>(7) = {%rājikā%} (Vśs; Ḍa. on Su.Sū. 38, 18).
 <LEND>
 
-<L>258<pc>608<k1>surasa<k2>surasa
+<L>258<pc>608<k1>सुरस<k2>सुरस
 {%surasa%}¦
 <div n="P"/>(1) <bot>OCIMUM BASILICUM LINN.</bot> (KB 3, p. 1963; MW; PW);
 <div n="P"/>(2) <bot>O. SANCTUM LINN.</bot> (KB 3, p. 1967; Vśs);
@@ -4076,7 +4076,7 @@
 <div n="lb"/>partic. kind of {%guggulu%} (Vśs);
 <LEND>
 
-<L>259<pc>608<k1>guggulu<k2>guggulu
+<L>259<pc>608<k1>गुग्गुलु<k2>गुग्गुलु
 {%guggulu%}¦ usually designates the gum of <bot>COMMIPHORA MUKUL ENGL.</bot>;
 [Page-609+ 35]
 <div n="P"/>(12) <bot>CINNAMOMUM TAMALA T. NEES ET EBERM.</bot> (KB 3, p. 2146-
@@ -4086,7 +4086,7 @@
 <div n="P"/>(15) myrrh (MW; PW).
 <LEND>
 
-<L>260<pc>609<k1>sOvIra<k2>sOvIra
+<L>260<pc>609<k1>सौवीर<k2>सौवीर
 {%sauvīra(ka)%}¦
 <div n="P"/>See {%karkandhū̆, kola, badara.%}
 <div n="P"/>(1) <bot>ZIZYPHUS SATIVA GAERTN.</bot> (Dgv, nr. 84, = {%rājakola = rāja-%}
@@ -4100,7 +4100,7 @@
 <div n="lb"/>ripe and unripe, sweet.
 <LEND>
 
-<L>261<pc>609<k1>spfkkA<k2>spfkkA
+<L>261<pc>609<k1>स्पृक्का<k2>स्पृक्का
 {%spṛkkā%}¦
 <div n="P"/>(1) <bot>TRIGONELLA CORNICULATA LINN.</bot> (Dutt; HB; HK; MW; PW);
 <div n="P"/>(2) <bot>MELILOTUS OFFICINALIS LAM.</bot> (Gul) = <bot>TRIFOLIUM OFFICINALE
@@ -4111,7 +4111,7 @@
 <div n="P"/>(5) <bot>MIMOSA PUDICA LINN.</bot> (KB 2, p. 915-917; PW; Vśs).
 <LEND>
 
-<L>262<pc>609<k1>hapuzA<k2>hapuzA
+<L>262<pc>609<k1>हपुषा<k2>हपुषा
 {%hapuṣā%}¦
 <div n="P"/>(1) a) black stalks like those of black pepper, possessed of an aroma-
 <div n="lb"/>tic smell (Dutt; HK; Kav);
@@ -4139,7 +4139,7 @@
 <div n="P"/>(9) <bot>NERIUM ODORUM [SOLAND. IN] AIT.</bot> (Nadk. 1, nr. 2466).
 <LEND>
 
-<L>263<pc>610<k1>haridrA<k2>haridrA
+<L>263<pc>610<k1>हरिद्रा<k2>हरिद्रा
 {%haridrā%}¦
 <div n="P"/>(1) <bot>CURCUMA LONGA LINN.</bot> (AFM 1, p. 59-60; Ainslie 1, p. 454-455;
 <div n="lb"/>Bpn, p. 114; Chopra; DWH 3, p. 407-414; IRM 2, p. 402-405; KB 4,
@@ -4159,7 +4159,7 @@
 <div n="P"/>(6) = {%dāruharidrā.%}
 <LEND>
 
-<L>264<pc>610<k1>harItakI<k2>harItakI
+<L>264<pc>610<k1>हरीतकी<k2>हरीतकी
 {%harītakī%}¦
 <div n="P"/>(1) <bot>TERMINALIA CHEBULA RETZ.</bot> (Ainslie 2, p. 128-129; Avk; Bpn,
 <div n="lb"/>p. 7; Chopra; Dgv, nr. 148; Dutt; DWH 2, p. 1-5; Dy, p. 317-320;
@@ -4177,7 +4177,7 @@
 <div n="lb"/>and p. 166-167, footnote 441; PA 1, 7, p. 98-99.
 <LEND>
 
-<L>265<pc>611<k1>hareRu<k2>hareRu
+<L>265<pc>611<k1>हरेणु<k2>हरेणु
 {%hareṇu%}¦
 <div n="P"/>(1) a) <bot>PISUM SATIVUM LINN.</bot> (Ainslie 1, p. 297-299; Bpn, p. 648; Gul;
 <div n="lb"/>KB 1, p. 772-773; V 8, p. 12; Vśs: = {%kalāya%});
@@ -4189,7 +4189,7 @@
 <div n="P"/>(4) = {%parpaṭaka%} (Vśs).
 <LEND>
 
-<L>266<pc>611<k1>hiNgu<k2>hiNgu
+<L>266<pc>611<k1>हिङ्गु<k2>हिङ्गु
 {%hiṅgu%}¦
 <div n="P"/>(1) <bot>FERULA ASA</bot>-<bot>FOETIDA LINN.</bot> (Ainslie 1, p. 20; Dutt; Gul; HK;
 <div n="lb"/>Kav; MW; Nadk. 1, nr. 1023; PW; Vśs) = <bot>SCORODOSMA FOETIDUM
@@ -4208,7 +4208,7 @@
 <div n="lb"/>(KB 1, p. 536-541).
 <LEND>
 
-<L>267<pc>611<k1>hrIvera<k2>hrIvera
+<L>267<pc>611<k1>ह्रीवेर<k2>ह्रीवेर
 {%hrīvera%}¦
 <div n="P"/>(1) <bot>PAVONIA ODORATA WILLD.</bot> (Avk; Bpn, p. 237; Chopra; Dutt;
 <div n="lb"/>DWH 1, p. 224; Dy, p. 109; HB; HK; Kav; KB 1, p. 323-324; MW:
@@ -4339,7 +4339,7 @@ In {%Das%}
 [Page-428+ 29]
 <H>List of Additions
 
-<L>268<pc>428<k1>atimuktaka<k2>atimuktaka
+<L>268<pc>428<k1>अतिमुक्तक<k2>अतिमुक्तक
 atimuktaka¦
 <div n="P"/>(1) Hiptage benghalensis Kurz (Bt.; KB 1, p. 417-418: atimukta; WIRM
 <div n="lb"/>5, p. 101: atimukta) = H. madablota Gaertn. (Raison; Kai. Nigh., oṣadhi-
@@ -4350,7 +4350,7 @@ atimuktaka¦
 <div n="lb"/>bergioides Benth. (HK: atimukta = tiniśa).
 <LEND>
 
-<L>269<pc>428<k1>ativizA<k2>ativizA
+<L>269<pc>428<k1>अतिविषा<k2>अतिविषा
 ativiṣā¦
 <div n="P"/>(1) Aconitum heterophyllum Wall. (Chopra; Raison; HK; Sharma; DGV
 <div n="lb"/>5, p. 271-272; WIRM 1, p. 27; Nadk. 1, nr. 39; CD, p. 102; DWH 1, p. 15-18; KB
@@ -4359,12 +4359,12 @@ ativiṣā¦
 <div n="lb"/>ASL 1, 4, April 1982, p. 200-205).
 <LEND>
 
-<L>270<pc>428<k1>abda<k2>abda
+<L>270<pc>428<k1>अब्द<k2>अब्द
 abda¦
 <div n="P"/>= mustā̆ (Ḍa. on Su. Ci. 38, 51, U. 40, 67 and U. 52, 14).
 <LEND>
 
-<L>271<pc>428<k1>aBayA<k2>aBayA
+<L>271<pc>428<k1>अभया<k2>अभया
 abhayā¦
 <div n="P"/>(1) = harītakī (HK; Dgv; Na 1, nr. 206; Nadk. 1, nr. 2451; KB 2, p. 1020-
 <div n="lb"/>1023; Bt.; Ma.nigh. 1, 21; Bpn, harītakyādivarga 6; Dha.nigh. 1, 205;
@@ -4375,12 +4375,12 @@ abhayā¦
 <div n="lb"/>= vijayā).
 <LEND>
 
-<L>272<pc>428<k1>aBIru<k2>aBIru
+<L>272<pc>428<k1>अभीरु<k2>अभीरु
 abhīru¦
 <div n="P"/>= śatāvarī (Ḍa. on Su. Ci. 38, 57 and U. 42, 70).
 <LEND>
 
-<L>273<pc>428<k1>ambu<k2>ambu
+<L>273<pc>428<k1>अम्बु<k2>अम्बु
 ambu¦
 <div n="P"/>(1) = bālaka (Bt.; Bpn, karpūrādivarga 83; Kai.Nigh., oṣadhivarga
 [Page-429+ 32]
@@ -4388,7 +4388,7 @@ ambu¦
 <div n="P"/>(2) = hrīvera (Siddhasāra-Nigh. 42: different from bālaka).
 <LEND>
 
-<L>274<pc>429<k1>arizwa<k2>arizwa
+<L>274<pc>429<k1>अरिष्ट<k2>अरिष्ट
 ariṣṭa¦
 <div n="P"/>(1) = nimba: Azadirachta indica A. Juss. (Bt.);
 <div n="P"/>(2) Sapindus trifoliatus Linn. (Bt.);
@@ -4398,7 +4398,7 @@ ariṣṭa¦
 <div n="P"/>(6) = phenilā = updikā: Basella rubra Linn. (Ḍa. on Su. U. 39, 285).
 <LEND>
 
-<L>275<pc>429<k1>arjuna<k2>arjuna
+<L>275<pc>429<k1>अर्जुन<k2>अर्जुन
 arjuna¦
 <div n="P"/>(1) Terminalia arjuna (Roxb.) Wight et Arn. (Bpn, vaṭādivarga 26;
 <div n="lb"/>Nadk. 1, nr. 2448; Bt.; Chopra; Sharma; DGV 5, p. 31-35; CD, p. 18-25; KB
@@ -4410,14 +4410,14 @@ arjuna¦
 <div n="lb"/>(CD, p. 20; KB 2, p. 1080-1081; Nadk. 1, nr. 1420) = tiniśa.
 <LEND>
 
-<L>276<pc>429<k1>aSoka<k2>aSoka
+<L>276<pc>429<k1>अशोक<k2>अशोक
 aśoka¦
 <div n="P"/>Saraca asoca (Roxb.) De Wilde = S. indica auct. non Linn. (see
 <div n="lb"/>WIRM 9, p. 232). The name aśoka is also applied to Polyalthia longifolia
 <div n="lb"/>(Benth. et Hook. f. or Thw.; I do not know which name is valid).
 <LEND>
 
-<L>277<pc>429<k1>aSvakarRa<k2>aSvakarRa
+<L>277<pc>429<k1>अश्वकर्ण<k2>अश्वकर्ण
 aśvakarṇa¦
 <div n="P"/>(1) Shorea robusta Gaertn. f. (KB 1, p. 288-290; HK; Nadk. 1, nr. 2293;
 <div n="lb"/>Dutt; Indu on A.s.Ka. 3, 13: = sāla; Bpn, vaṭādivarga 19 = śāla; Nś. 102:
@@ -4432,7 +4432,7 @@ aśvakarṇa¦
 <div n="P"/>(7) = śālabheda (Śivadāsa on Cakradatta, viṣa 21).
 <LEND>
 
-<L>278<pc>430<k1>aSvaGna<k2>aSvaGna
+<L>278<pc>430<k1>अश्वघ्न<k2>अश्वघ्न
 aśvaghna¦
 <div n="P"/>(1) Thevetia peruviana (Pers.) K. Schum. (WIRM 10, p. 225: T. peruvi-
 <div n="lb"/>ana (Pers.) Merrill) = T. neriifolia Juss. (KB 2, p. 1554-1556);
@@ -4442,14 +4442,14 @@ aśvaghna¦
 <div n="lb"/>indica Lamk. (V. 4, p. 80: pārijāta).
 <LEND>
 
-<L>279<pc>430<k1>azwamUlI<k2>azwamUlI
+<L>279<pc>430<k1>अष्टमूली<k2>अष्टमूली
 aṣṭamūlī¦
 <div n="P"/>Unknown. Compare: aṣṭapādikā: Pa.ra. 311: śītabhīrur bhadramallī
 <div n="lb"/>bhūmimaṇḍo 'ṣṭapādikā (a string of synonyms); aṣṭāpadī = mallikā acc.
 <div n="lb"/>to Nś. 242.
 <LEND>
 
-<L>280<pc>430<k1>asana<k2>asana
+<L>280<pc>430<k1>असन<k2>असन
 asana¦
 <div n="P"/>(1) Pterocarpus marsupium Roxb. (Na 1, nr. 137; V. 1, p. 98; Kai.Nigh.,
 <div n="lb"/>oṣadhivarga 811cd-812; VG; Bt.; Bpn, vaṭādivarga 28; CD, p. 152-155; KB
@@ -4459,7 +4459,7 @@ asana¦
 <div n="lb"/>ASL 4, 1, July 1984, p. 63).
 <LEND>
 
-<L>281<pc>430<k1>Alu<k2>Alu
+<L>281<pc>430<k1>आलु<k2>आलु
 ālu(ka)¦
 <div n="P"/>(1) Dioscorea bulbifera Linn. (Bpn, śākavarga 94-95) and other
 <div n="lb"/>species of Dioscorea (DWH 3, p. 551-552);
@@ -4469,7 +4469,7 @@ asana¦
 <div n="P"/>(5) Amorphophallus campanulatus (Roxb.) Bl. ex Decne. (Raison).
 <LEND>
 
-<L>282<pc>430<k1>AsPotA<k2>AsPotA
+<L>282<pc>430<k1>आस्फोता<k2>आस्फोता
 āsphotā¦
 <div n="P"/>(1) Jasminum angustifolium Vahl (WIRM 5, p. 280; KB 2, p. 1519-1520);
 <div n="P"/>(2) J. sambac (Linn.) Ait. (Na 1, nr. 316; KB 2, p. 1515-1517);
@@ -4482,7 +4482,7 @@ asana¦
 <div n="lb"/>jitā; KB 1, p. 802-804).
 <LEND>
 
-<L>283<pc>431<k1>UzaRa<k2>UzaRa
+<L>283<pc>431<k1>ऊषण<k2>ऊषण
 ūṣaṇa,¦ neuter
 <div n="P"/>(1) = marica (Bpn, harītakyādivarga 59; WIRM 8, p. 99; Siddhasāra-Nigh.
 <div n="lb"/>25; Pa. ra. 222; Nś. 303cd-304ab);
@@ -4491,12 +4491,12 @@ asana¦
 <div n="P"/>(4) any of the pañcakola-group of drugs (masculine, neuter?) (Bt.).
 <LEND>
 
-<L>284<pc>431<k1>eraRqa<k2>eraRqa
+<L>284<pc>431<k1>एरण्ड<k2>एरण्ड
 eraṇḍa¦
 <div n="P"/>Ricinus communis Linn.
 <LEND>
 
-<L>285<pc>431<k1>kataka<k2>kataka
+<L>285<pc>431<k1>कतक<k2>कतक
 kataka¦
 <div n="P"/>Strychnos potatorum Linn. f. (HK; HB; Nadk. 1, nr. 2401; V. 5, p. 131;
 <div n="lb"/>Sharma; WIRM 10, p. 66; DEP 6, p. 382; Chopra; Bt.; Dutt; KB 3, p. 1647-
@@ -4504,14 +4504,14 @@ kataka¦
 <div n="lb"/>DWH 2, p. 505-508).
 <LEND>
 
-<L>286<pc>431<k1>kadalI<k2>kadalI
+<L>286<pc>431<k1>कदली<k2>कदली
 kadalī¦
 <div n="P"/>Musa x paradisiaca Linn. (the plantain) and Musa x sapientum Linn.
 <div n="lb"/>(the banana); these Linnaean names have been shown to represent hybrids
 <div n="lb"/>(see WIRM 6, p. 452).
 <LEND>
 
-<L>287<pc>431<k1>kanda<k2>kanda
+<L>287<pc>431<k1>कन्द<k2>कन्द
 kanda¦
 <div n="P"/>(1) Amorphophallus campanulatus (Roxb.) Bl. ex Decne. (Bpn, śāka-
 <div n="lb"/>varga 91-93; KB 4, p. 2609-2610). The modern Bengali name of this plant
@@ -4523,7 +4523,7 @@ kanda¦
 <LEND>
 [Page-432+ 31]
 
-<L>288<pc>432<k1>karamardI<k2>karamardI
+<L>288<pc>432<k1>करमर्दी<k2>करमर्दी
 karamardī¦
 <div n="P"/>Su. Sū. 38, 73 (omitted in Bt.), Ḍa.: karamardī kṣīraphalā ‘karamadī’
 <div n="lb"/>iti loke. Śiva. Dr., phalavarga 11 (karamarda): karamardaṃ kaṇṭakīpha-
@@ -4534,7 +4534,7 @@ karamardī¦
 <div n="lb"/>rum Linn.
 <LEND>
 
-<L>289<pc>432<k1>karavIra<k2>karavIra
+<L>289<pc>432<k1>करवीर<k2>करवीर
 karavīra¦
 <div n="P"/>(1) Nerium indicum Miller = N. odorum Solander (HK; Bpn, guḍūcyādi-
 <div n="lb"/>varga 82-84; Nadk. 1, nr. 1709; Na 1, nr. 326; KB 2, p. 1584-1586) (śvetapuṣpa
@@ -4544,12 +4544,12 @@ karavīra¦
 <div n="lb"/>species is a native of tropical America, now pantropic).
 <LEND>
 
-<L>290<pc>432<k1>karikesara<k2>karikesara
+<L>290<pc>432<k1>करिकेसर<k2>करिकेसर
 karikesara¦
 <div n="P"/>= nāgakesara.
 <LEND>
 
-<L>291<pc>432<k1>karkAru<k2>karkAru
+<L>291<pc>432<k1>कर्कारु<k2>कर्कारु
 karkāru¦ (ka)
 <div n="P"/>(1) = vaḍava trapuṣa (or trapusa) (Ḍa. on Su. Sū. 46, 216 and Ci. 31, 5);
 <div n="P"/>(2) = kūṣmāṇḍa (Ḍa. on Su. Ci. 18, 29);
@@ -4564,25 +4564,25 @@ karkāru¦ (ka)
 <div n="lb"/>c) Benincasa hispida (Thunb.) Cogn. (KB 2, p. 1127-1128).
 <LEND>
 
-<L>292<pc>432<k1>karpAsa<k2>karpAsa
+<L>292<pc>432<k1>कर्पास<k2>कर्पास
 karpāsa¦
 <div n="P"/>= kārpāsa.
 <LEND>
 [Page-433+ 27]
 
-<L>293<pc>433<k1>kalikA<k2>kalikA
+<L>293<pc>433<k1>कलिका<k2>कलिका
 kalikā̆¦
 <div n="P"/>Vśs: kalika = vaṃśadhānyabheda; kalikā = vṛścikālī, śarapuṅkhā,
 <div n="lb"/>hrasvanīlikā; Rā. nigh., pariśiṣṭa 23, tryarthāḥ 19: kalikā = pṛthvīkā.
 <LEND>
 
-<L>294<pc>433<k1>kANkzI<k2>kANkzI
+<L>294<pc>433<k1>काङ्क्षी<k2>काङ्क्षी
 kāṅkṣī¦
 <div n="P"/>A kind of clay: Cakra on Ca. Ci. 30, 121: = saurāṣṭrīmṛd; Śivadāsa on
 <div n="lb"/>Cakradatta, viṣa 22: = saurāṣṭramṛttikā.
 <LEND>
 
-<L>295<pc>433<k1>kAYcanAra<k2>kAYcanAra
+<L>295<pc>433<k1>काञ्चनार<k2>काञ्चनार
 kāñcanāra¦
 <div n="P"/>(1) Bauhinia variegata Linn. (DGV 5, p. 71; Bpn, guḍūcyādivarga 101-
 <div n="lb"/>102; Nadk. 1, nr. 331; Kai. Nigh., oṣadhivarga 935-936);
@@ -4590,7 +4590,7 @@ kāñcanāra¦
 <div n="P"/>(3) B. tomentosa Linn. (Bpn, guḍūcyādivarga 101-102).
 <LEND>
 
-<L>296<pc>433<k1>kAravella<k2>kAravella
+<L>296<pc>433<k1>कारवेल्ल<k2>कारवेल्ल
 kāravella¦
 <div n="P"/>(1) Momordica charantia Linn. (Dgv, nr. 168; Na 1, nr. 231; Nadk. 1,
 <div n="lb"/>nr. 1639; V. 2, p. 81; Bpn, śākavarga 63; Bt.; DEP 5, p. 256; Dutt; KB 2,
@@ -4598,25 +4598,25 @@ kāravella¦
 <div n="P"/>(2) M. cochinchinensis (Lour.) Spreng. (HK; Nadk. 1, nr. 1639).
 <LEND>
 
-<L>297<pc>433<k1>kArpAsa<k2>kArpAsa
+<L>297<pc>433<k1>कार्पास<k2>कार्पास
 kārpāsa¦
 <div n="P"/>Gossypium herbaceum Linn. (Bt.; HK; Gul; Nadk. 1, nr. 1145; DEP 4, p. 25;
 <div n="lb"/>Kai. Nigh., oṣadhivarga 1095cd-1096).
 <LEND>
 
-<L>298<pc>433<k1>kiMSuka<k2>kiMSuka
+<L>298<pc>433<k1>किंशुक<k2>किंशुक
 kiṃśuka¦
 <div n="P"/>Butea monosperma (Lamk.) Taub. (Na 1, nr. 130; V. 4, p. 118-119) = B.
 <div n="lb"/>frondosa Roxb. (HB; HK) [= B. frondosa Koen. ex Roxb.] (Bpn, vaṭādi-
 <div n="lb"/>varga 49; Kai. Nigh., oṣadhivarga 831cd-832; KB 1, p. 785-788).
 <LEND>
 
-<L>299<pc>433<k1>kuNkuma<k2>kuNkuma
+<L>299<pc>433<k1>कुङ्कुम<k2>कुङ्कुम
 kuṅkuma¦
 <div n="P"/>Crocus sativus Linn.
 <LEND>
 
-<L>300<pc>433<k1>kunda<k2>kunda
+<L>300<pc>433<k1>कुन्द<k2>कुन्द
 kunda¦
 <div n="P"/>(1) Jasminum multiflorum (Burm. f.) Andrews (Chopra; Bt.; WIRM 5, p.
 [Page-434+ 29]
@@ -4626,14 +4626,14 @@ kunda¦
 <div n="P"/>(2) J. arborescens Roxb. (Na 1, nr. 317).
 <LEND>
 
-<L>301<pc>434<k1>kumArI<k2>kumArI
+<L>301<pc>434<k1>कुमारी<k2>कुमारी
 kumārī¦
 <div n="P"/>Aloe vera Linn. (KB 4, p. 2505-2506; DEP 1, p. 183: ghṛtakumārī, p. 186:
 <div n="lb"/>ghṛtakumārī, kanyā) = A. barbadensis Mill. (Kai.Nigh., oṣadhivarga
 <div n="lb"/>1638; Bpn, guḍūcyādivarga 229-230; Chopra: ghṛtakumārī).
 <LEND>
 
-<L>302<pc>434<k1>kumuda<k2>kumuda
+<L>302<pc>434<k1>कुमुद<k2>कुमुद
 kumuda¦
 <div n="P"/>(1) Nymphaea alba Linn. (see Hooker 1, p. 114) (Sharma; Gul; Bpn, puṣ-
 <div n="lb"/>pavarga 15; Nadk. 1, nr. 1723; Bt.; KB 1, p. 111-113);
@@ -4641,12 +4641,12 @@ kumuda¦
 <div n="P"/>(3) N. stellata Willd. (see Hooker, ibid.) (Nadk. 1, nr. 1726).
 <LEND>
 
-<L>303<pc>434<k1>kumBAkArI<k2>kumBAkArI
+<L>303<pc>434<k1>कुम्भाकारी<k2>कुम्भाकारी
 kumbhākārī¦
 <div n="P"/>Yc., p. 168: kumbhakārī (Hindī comm.: bhāṣā meṃ puraïna).
 <LEND>
 
-<L>304<pc>434<k1>kuraRwa<k2>kuraRwa
+<L>304<pc>434<k1>कुरण्ट<k2>कुरण्ट
 kuraṇṭa(ka)¦ (see also the additions on p. 460)
 <div n="P"/>(1) Barleria prionitis Linn. (Kai.Nigh., oṣadhivarga 1049b; Nadk. 1,
 <div n="lb"/>nr. 312A; V. 2, p. 20; WIRM 1, p. 158; DGV 5, p. 293-295; KB 3, p. 1877-1879;
@@ -4654,7 +4654,7 @@ kuraṇṭa(ka)¦ (see also the additions on p. 460)
 <div n="P"/>(2) Celosia argentea Linn. (Bt.; CD, p. 84).
 <LEND>
 
-<L>305<pc>434<k1>kurabaka<k2>kurabaka
+<L>305<pc>434<k1>कुरबक<k2>कुरबक
 kurabaka¦ = kuravaka = kurubaka (see also the additions on pp. 460f.)
 <div n="P"/>(1) Barleria cristata Linn. (Kai.Nigh., oṣadhivarga 1049a; KB 3, p.
 <div n="lb"/>1879-1880);
@@ -4662,7 +4662,7 @@ kurabaka¦ = kuravaka = kurubaka (see also the additions on pp. 460f.)
 <div n="P"/>(3) Lawsonia inermis Linn. = L. alba Lamk. (Nadk. 1, nr. 1448).
 <LEND>
 
-<L>306<pc>434<k1>kUzmARqa<k2>kUzmARqa
+<L>306<pc>434<k1>कूष्माण्ड<k2>कूष्माण्ड
 kū̆ṣmāṇḍa¦
 <div n="P"/>Benincasa hispida (Thunb.) Cogn. (WIRM 1, p. 173; Na 1, nr. 226; KB 2, p.
 <div n="lb"/>1127-1128; Dgv, nr. 170) = B. cerifera Savi (HK; Nadk. 1, nr. 334; Raison;
@@ -4671,7 +4671,7 @@ kū̆ṣmāṇḍa¦
 <div n="lb"/>439; Sharma; VG; DWH 2, p. 68-70).
 <LEND>
 
-<L>307<pc>435<k1>kfmiSatru<k2>kfmiSatru
+<L>307<pc>435<k1>कृमिशत्रु<k2>कृमिशत्रु
 kṛmiśatru¦
 <div n="P"/>Probably = viḍaṅga: Embelia ribes Burm. f. (Kai.Nigh., oṣadhivarga
 <div n="lb"/>1147-1148: viḍaṅga = kṛmijit, kṛmihantṛ, kṛmihara, kṛmihṛt, jantughna);
@@ -4679,7 +4679,7 @@ kṛmiśatru¦
 <div n="lb"/>bījapūrṇa and bhallātaka.
 <LEND>
 
-<L>308<pc>435<k1>ketakI<k2>ketakI
+<L>308<pc>435<k1>केतकी<k2>केतकी
 ketakī¦
 <div n="P"/>Pandanus tectorius Soland. (Dgv, nr. 333; KB 4, p. 2592-2593: ketaka)
 <div n="lb"/>= P. odoratissimus Linn. f. (WIRM 7, p. 218) (P. odoratissimus Roxb. acc.
@@ -4687,7 +4687,7 @@ ketakī¦
 <div n="lb"/>tissimus Willd. acc. to Nadk. 1, nr. 1785, Raison and DEP 6, p. 5).
 <LEND>
 
-<L>309<pc>435<k1>kovidAra<k2>kovidAra
+<L>309<pc>435<k1>कोविदार<k2>कोविदार
 kovidāra¦
 <div n="P"/>(1) Bauhinia variegata Linn. (HK; Dgv, nr. 121; Gul; Bpn, guḍūcyādi-
 <div n="lb"/>varga 101-102; Nadk. 1, nr. 331; Na 1, nr. 180; Chopra; Bt.; KB 2, p. 898-
@@ -4697,7 +4697,7 @@ kovidāra¦
 <div n="P"/>(3) B. tomentosa Linn. (Bpn, guḍūcyādivarga 101-102).
 <LEND>
 
-<L>310<pc>435<k1>koSAtaka<k2>koSAtaka
+<L>310<pc>435<k1>कोशातक<k2>कोशातक
 kośātaka,¦ kośātakī
 <div n="P"/>(1) a) Luffa acutangula Roxb. (HK; Gul; Nadk. 1, nr. 1514; Na 1, nr. 230;
 <div n="lb"/>WIRM 6, p. 177; Sharma; Bt.; Chopra; Dutt; KB 2, p. 1121-1123; Kai.
@@ -4709,7 +4709,7 @@ kośātaka,¦ kośātakī
 <div n="P"/>(4) L. cylindrica (Linn.) M. J. Roemer (Bt.).
 <LEND>
 
-<L>311<pc>435<k1>koSAmra<k2>koSAmra
+<L>311<pc>435<k1>कोशाम्र<k2>कोशाम्र
 kośāmra¦
 <div n="P"/>Schleichera oleosa (Lour.) Oken = S. trijuga Willd. (Bpn, āmrādi-
 <div n="lb"/>phalavarga 23-24; Nadk. 1, nr. 118; KB 1, p. 629-631; V. 3, p. 29) [= S.
@@ -4717,12 +4717,12 @@ kośāmra¦
 <div n="lb"/>oleosa (Lour.) Merr.] (Bt.; Sharma).
 <LEND>
 
-<L>312<pc>436<k1>kzIrikA<k2>kzIrikA
+<L>312<pc>436<k1>क्षीरिका<k2>क्षीरिका
 kṣīrikā¦
 <div n="P"/>Mimusops hexandra Roxb. (Nadk. 1, nr. 309; Raison; KB 2, p. 1496-1497).
 <LEND>
 
-<L>313<pc>436<k1>kzIriRI<k2>kzIriRI
+<L>313<pc>436<k1>क्षीरिणी<k2>क्षीरिणी
 kṣīriṇī¦
 <div n="P"/>(1) Euphorbia hirta Linn. (Bt.);
 <div n="P"/>(2) E. microphylla Heyne (Bt.);
@@ -4735,19 +4735,19 @@ kṣīriṇī¦
 <div n="P"/>(7) Mimusops hexandra Roxb. (KB 2, p. 1496-1497).
 <LEND>
 
-<L>314<pc>436<k1>kzOdra<k2>kzOdra
+<L>314<pc>436<k1>क्षौद्र<k2>क्षौद्र
 kṣaudra¦
 <div n="P"/>= campaka (HK).
 <LEND>
 
-<L>315<pc>436<k1>KarjUrI<k2>KarjUrI
+<L>315<pc>436<k1>खर्जूरी<k2>खर्जूरी
 kharjūrī¦
 <div n="P"/>Phoenix species (Bt.: kharjūra is the name of the fruit, kharjūrī
 <div n="lb"/>of the plant). See also the entry on tṛṇadruma, tṛṇavṛkṣa below, where
 <div n="lb"/>kharjūra and kharjūrī appear to be different plants.
 <LEND>
 
-<L>316<pc>436<k1>gfDranaKI<k2>gfDranaKI
+<L>316<pc>436<k1>गृध्रनखी<k2>गृध्रनखी
 gṛdhranakhī¦
 <div n="P"/>(1) Hygrophila auriculata (Schum.) Heine = H. spinosa T. Anders.
 <div n="lb"/>(HK: = kokilākṣa);
@@ -4756,13 +4756,13 @@ gṛdhranakhī¦
 <div n="P"/>(4) Zizyphus species (Bt.; cf. Nś. 70cd-71: = badarī).
 <LEND>
 
-<L>317<pc>436<k1>goDUma<k2>goDUma
+<L>317<pc>436<k1>गोधूम<k2>गोधूम
 godhūma¦
 <div n="P"/>Triticum species (wheat).
 <LEND>
 [Page-437+ 27]
 
-<L>318<pc>437<k1>golla<k2>golla
+<L>318<pc>437<k1>गोल्ल<k2>गोल्ल
 golla¦
 <div n="P"/>Sbm. 4, 137 mentions a golajakaṣāya, comm. aśvatthaphalaṃ loke ‘gola’
 <div n="lb"/>nāmnā vyavahriyate. golaka = takkola acc. to comm. on Haram. 5, 129.
@@ -4773,37 +4773,37 @@ golla¦
 <div n="lb"/>cubeba Linn. f. (Sharma; Bt.).
 <LEND>
 
-<L>319<pc>437<k1>Gana<k2>Gana
+<L>319<pc>437<k1>घन<k2>घन
 ghana¦
 <div n="P"/>= musta.
 <LEND>
 
-<L>320<pc>437<k1>candraleKA<k2>candraleKA
+<L>320<pc>437<k1>चन्द्रलेखा<k2>चन्द्रलेखा
 candralekhā¦
 <div n="P"/>= somarājī.
 <LEND>
 
-<L>321<pc>437<k1>campa<k2>campa
+<L>321<pc>437<k1>चम्प<k2>चम्प
 campa¦
 <div n="P"/>= kovidāra (Vśs).
 <LEND>
 
-<L>322<pc>437<k1>campaka<k2>campaka
+<L>322<pc>437<k1>चम्पक<k2>चम्पक
 campaka¦
 <div n="P"/>Michelia champaca Linn.
 <LEND>
 
-<L>323<pc>437<k1>cAru<k2>cAru
+<L>323<pc>437<k1>चारु<k2>चारु
 cāru¦
 <div n="P"/>Crocus sativus Linn. (HK: saffron).
 <LEND>
 
-<L>324<pc>437<k1>ciYciRI<k2>ciYciRI
+<L>324<pc>437<k1>चिञ्चिणी<k2>चिञ्चिणी
 ciñciṇī¦
 <div n="P"/>Tamarindus indica Linn. (Raison).
 <LEND>
 
-<L>325<pc>437<k1>cirBawa<k2>cirBawa
+<L>325<pc>437<k1>चिर्भट<k2>चिर्भट
 cirbhaṭa,¦ cirbhaṭī, cirbhiṭa
 <div n="P"/>(1) a) Cucumis melo Linn. var. momordica Duthie et Fuller (Bt.; KB
 <div n="lb"/>2, p. 1142) = C. momordica Roxb. (Sharma; Bpn, āmrādiphalavarga
@@ -4814,42 +4814,42 @@ cirbhaṭa,¦ cirbhaṭī, cirbhiṭa
 <LEND>
 [Page-438+ 26]
 
-<L>326<pc>438<k1>cUta<k2>cUta
+<L>326<pc>438<k1>चूत<k2>चूत
 cūta¦
 <div n="P"/>= āmra: Mangifera indica Linn.
 <LEND>
 
-<L>327<pc>438<k1>jantuGna<k2>jantuGna
+<L>327<pc>438<k1>जन्तुघ्न<k2>जन्तुघ्न
 jantughna,¦ janturipu
 <div n="P"/>= kṛmiśatru.
 <LEND>
 
-<L>328<pc>438<k1>jalada<k2>jalada
+<L>328<pc>438<k1>जलद<k2>जलद
 jalada¦
 <div n="P"/>= mustā (Aruṇa and He. on A.h.Sū. 3, 23).
 <LEND>
 
-<L>329<pc>438<k1>jAtIPala<k2>jAtIPala
+<L>329<pc>438<k1>जातीफल<k2>जातीफल
 jātī̆phala¦
 <div n="P"/>Myristica fragrans Houtt.
 <LEND>
 
-<L>330<pc>438<k1>jAlinI<k2>jAlinI
+<L>330<pc>438<k1>जालिनी<k2>जालिनी
 jālinī¦
 <div n="P"/>= kośātakī: Luffa acutangula Roxb.
 <LEND>
 
-<L>331<pc>438<k1>jIra<k2>jIra
+<L>331<pc>438<k1>जीर<k2>जीर
 jīra¦
 <div n="P"/>= jīraka (Rā. nigh. 6, 100).
 <LEND>
 
-<L>332<pc>438<k1>wiRwuka<k2>wiRwuka
+<L>332<pc>438<k1>टिण्टुक<k2>टिण्टुक
 ṭiṇṭuka¦
 <div n="P"/>= śyonāka: Oroxylum indicum Vent.
 <LEND>
 
-<L>333<pc>438<k1>tamAla<k2>tamAla
+<L>333<pc>438<k1>तमाल<k2>तमाल
 tamāla¦
 <div n="P"/>(1) Garcinia xanthochymus Hook. f. (HK; KB 1, p. 265-266);
 <div n="P"/>(2) G. morella Desr. (Bpn, vaṭādivarga 44; Nadk. 1, nr. 1091; Chopra;
@@ -4859,7 +4859,7 @@ tamāla¦
 <div n="lb"/>VG; Chopra; KB 3, p. 2146-2147).
 <LEND>
 
-<L>334<pc>438<k1>tarkArI<k2>tarkArI
+<L>334<pc>438<k1>तर्कारी<k2>तर्कारी
 tarkārī¦
 <div n="P"/>(1) Clerodendrum phlomidis Linn. f. (Dgv, nr. 247; Bt.; Sharma; Kai.
 <div n="lb"/>Nigh., oṣadhivarga 25cd-26; CD, p. 267-270);
@@ -4869,12 +4869,12 @@ tarkārī¦
 <div n="P"/>(3) Sesbania aegyptiaca Pers. (HB).
 <LEND>
 
-<L>335<pc>439<k1>tAmbUlI<k2>tAmbUlI
+<L>335<pc>439<k1>ताम्बूली<k2>ताम्बूली
 tāmbūlī¦
 <div n="P"/>Piper betle Linn.
 <LEND>
 
-<L>336<pc>439<k1>tAlI<k2>tAlI
+<L>336<pc>439<k1>ताली<k2>ताली
 tālī¦
 <div n="P"/>(1) Corypha umbraculifera Linn. (WIRM 2, p. 359; KB 4, p. 2570-2571;
 <div n="lb"/>Nadk. 1, nr. 684);
@@ -4910,12 +4910,12 @@ tālī¦
 <div n="lb"/>6, 93; Kai.Nigh., dhānyavarga 73cd; Pa.ra. 703).
 <LEND>
 
-<L>337<pc>440<k1>tittiqikA<k2>tittiqikA
+<L>337<pc>440<k1>तित्तिडिका<k2>तित्तिडिका
 tittiḍikā¦
 <div n="P"/>Probably = tintiḍī(ka).
 <LEND>
 
-<L>338<pc>440<k1>tiniSa<k2>tiniSa
+<L>338<pc>440<k1>तिनिश<k2>तिनिश
 tiniśa¦
 <div n="P"/>(1) Ougeinia oojeinensis (Roxb.) Hochr. (KB 1, p. 755-756) = O. dal-
 <div n="lb"/>bergioides Benth. (HK; Nadk. 1, nr. 789; Chopra; Bt.; Sharma);
@@ -4923,7 +4923,7 @@ tiniśa¦
 <div n="lb"/>(Bpn, vaṭādivarga 76) = arjuna.
 <LEND>
 
-<L>339<pc>440<k1>tintiqI<k2>tintiqI
+<L>339<pc>440<k1>तिन्तिडी<k2>तिन्तिडी
 tintiḍī(ka)¦
 <div n="P"/>(1) Tamarindus indica Linn. (HK; DGV 2-3, p. 328; Nadk. 1, nr. 2434;
 <div n="lb"/>Na 1, nr. 178; Raison; V. 1, p. 145; DWH 1, p. 531; Dutt; DEP 6, 3, p. 404;
@@ -4932,7 +4932,7 @@ tintiḍī(ka)¦
 <div n="lb"/>VG; Bpn, āmrādivarga 142: tintiḍīka).
 <LEND>
 
-<L>340<pc>440<k1>tinduka<k2>tinduka
+<L>340<pc>440<k1>तिन्दुक<k2>तिन्दुक
 tinduka¦
 <div n="P"/>(1) Diospyros embryopteris Pers. (HK; Bpn, āmrādivarga 65; DWH 2,
 <div n="lb"/>p. 365-368; Nadk. 1, nr. 847; V. 5, p. 24) = D. peregrina (Gaertn.) Gurke
@@ -4940,7 +4940,7 @@ tinduka¦
 <div n="P"/>(2) D. paniculata Dalz. (WIRM 3, p. 85; Chopra; Nadk. 1, nr. 851).
 <LEND>
 
-<L>341<pc>440<k1>tilaka<k2>tilaka
+<L>341<pc>440<k1>तिलक<k2>तिलक
 tilaka¦
 <div n="P"/>(1) Symplocos racemosa Roxb. (HK: = lodhra; KB 2, p. 1511-1513; WIRM
 <div n="lb"/>10, p. 90);
@@ -4948,7 +4948,7 @@ tilaka¦
 <div n="lb"/>varga 1506cd-1508; DGV 5, p. 153).
 <LEND>
 
-<L>342<pc>440<k1>tfRadruma<k2>tfRadruma
+<L>342<pc>440<k1>तृणद्रुम<k2>तृणद्रुम
 tṛṇadruma,¦ tṛṇavṛkṣa
 <div n="P"/>The following are called tṛṇadrumāḥ or tṛṇavṛkṣāh: tāla and all si-
 <div n="lb"/>milar trees, kramuka, ketakī, kharjūrī and nālikera and the like (Rā.
@@ -4962,13 +4962,13 @@ tṛṇadruma,¦ tṛṇavṛkṣa
 <div n="lb"/>tālī, hintāla, ketaka, kramuka and nālikera (Nś. 183).
 <LEND>
 
-<L>343<pc>441<k1>trapusa<k2>trapusa
+<L>343<pc>441<k1>त्रपुस<k2>त्रपुस
 trapusa¦
 <div n="P"/>Cucumis sativus Linn. (cucumber) (Nadk. 1, nr. 731; HK; Na 1, nr. 234;
 <div n="lb"/>Bt.; Bpn, āmrādiphalavarga 47; KB 2, p. 1144-1146).
 <LEND>
 
-<L>344<pc>441<k1>trikaRwaka<k2>trikaRwaka
+<L>344<pc>441<k1>त्रिकण्टक<k2>त्रिकण्टक
 trikaṇṭaka¦
 <div n="P"/>(1) Tribulus terrestris Linn. (= gokṣura; Nadk. 1, nr. 2496; Na 1, nr.
 <div n="lb"/>83; V. 3, p. 128; KB 1, p. 420-424);
@@ -4979,14 +4979,14 @@ trikaṇṭaka¦
 <div n="P"/>(5) Martynia annua Linn. = M. diandra Glox. (CD, p. 76-77).
 <LEND>
 
-<L>345<pc>441<k1>triPalA<k2>triPalA
+<L>345<pc>441<k1>त्रिफला<k2>त्रिफला
 triphalā̆¦
 <div n="P"/>(1) = harītakī, āmalakī and vibhītaka;
 <div n="P"/>(2) = drākṣā, kāśmarya and parūṣaka (Śivadāsa on Cakradatta, unmāda
 <div n="lb"/>15).
 <LEND>
 
-<L>346<pc>441<k1>damanaka<k2>damanaka
+<L>346<pc>441<k1>दमनक<k2>दमनक
 damanaka¦
 <div n="P"/>(1) Artemisia vulgaris Linn. (Bpn, puṣpavarga 67-68; Kai. Nigh.,
 <div n="lb"/>oṣadhivarga 1569-1571ab);
@@ -4994,7 +4994,7 @@ damanaka¦
 <div n="lb"/>ra; KB 2, p. 1400-1401: A. sieversiana Willd.).
 <LEND>
 
-<L>347<pc>441<k1>dala<k2>dala
+<L>347<pc>441<k1>दल<k2>दल
 dala¦
 <div n="P"/>= patra: Cinnamomum tamala Nees et Eberm. (Bt.) dala = tamālapatra
 <div n="lb"/>(Nś. 31). dala = patra = tamālapatra (Dha.nigh. 2, 52; Rā.nigh. 6, 79;
@@ -5002,23 +5002,23 @@ dala¦
 <LEND>
 [Page-442+ 27]
 
-<L>348<pc>442<k1>dAqimba<k2>dAqimba
+<L>348<pc>442<k1>दाडिम्ब<k2>दाडिम्ब
 dāḍimba¦
 <div n="P"/>= dāḍima (KB 2, p. 1084-1087).
 <LEND>
 
-<L>349<pc>442<k1>dAru<k2>dAru
+<L>349<pc>442<k1>दारु<k2>दारु
 dāru¦
 <div n="P"/>= devadāru.
 <LEND>
 
-<L>350<pc>442<k1>Dava<k2>Dava
+<L>350<pc>442<k1>धव<k2>धव
 dhava¦
 <div n="P"/>Anogeissus latifolia Wall. (HK; Na 1, nr. 208; Bpn, vaṭādivarga 60;
 <div n="lb"/>Chopra; Bt.; Sharma; DWH 2, p. 12-13; Kai.Nigh., oṣadhivarga 837).
 <LEND>
 
-<L>351<pc>442<k1>nata<k2>nata
+<L>351<pc>442<k1>नत<k2>नत
 nata¦ = tagara
 <div n="P"/>On this see Meulenbeld, p. 557f. Add the following references and
 <div n="lb"/>identifications:
@@ -5029,7 +5029,7 @@ nata¦ = tagara
 <div n="P"/>(3) Delphinium brunonianum Royle (Sharma).
 <LEND>
 
-<L>352<pc>442<k1>nala<k2>nala
+<L>352<pc>442<k1>नल<k2>नल
 nala¦
 <div n="P"/>(1) Phragmites karka Trin. ex Steud. (HK; Bpn, guḍūcyādivarga 157;
 <div n="lb"/>Raison; Sharma) = P. maxima Blatter et McCann in parte (Bt.; Chopra;
@@ -5042,55 +5042,55 @@ nala¦
 <div n="lb"/>varga 157; Chopra; WIRM 6, p. 161; V. 5, p. 118).
 <LEND>
 
-<L>353<pc>442<k1>nAga<k2>nAga
+<L>353<pc>442<k1>नाग<k2>नाग
 nāga,¦ neuter
 <div n="P"/>= nāgakeśaracūrṇa (Śivadāsa on Cakradatta, arśas 25).
 <LEND>
 [Page-443+ 25]
 
-<L>354<pc>443<k1>nAga<k2>nAga
+<L>354<pc>443<k1>नाग<k2>नाग
 nāga,¦ masculine
 <div n="P"/>= nāgakesara (Nś. 10).
 <LEND>
 
-<L>355<pc>443<k1>nAgakusuma<k2>nAgakusuma
+<L>355<pc>443<k1>नागकुसुम<k2>नागकुसुम
 nāgakusuma¦
 <div n="P"/>(The flowers of) nāgakeśara: Mesua ferrea Linn. Cf. nāgapuṣpa =
 <div n="lb"/>nāgakesara (Nś. 10cd-11).
 <LEND>
 
-<L>356<pc>443<k1>nAgajihvA<k2>nAgajihvA
+<L>356<pc>443<k1>नागजिह्वा<k2>नागजिह्वा
 nāgajihvā¦
 <div n="P"/>(1) = sārivā (WIRM 5, p. 33);
 <div n="P"/>(2) Enicostemma littorale Blume (M.R. Uniyal et al. in JRIM 10, 4,
 <div n="lb"/>1975, p. 66ff.).
 <LEND>
 
-<L>357<pc>443<k1>nAgaraNga<k2>nAgaraNga
+<L>357<pc>443<k1>नागरङ्ग<k2>नागरङ्ग
 nāgaraṅga,¦ nāraṅga (see also the correction on p. 461)
 <div n="P"/>(1) Citrus aurantium Linn. (HK; Dgv; Na 1, nr. 87; Nadk. 1, nr. 598;
 <div n="lb"/>V. 5, p. 125; Raison; KB 1, p. 491-494);
 <div n="P"/>(2) C. reticulata Blanco (Bt.; AVI, p. 360; Sharma; VG).
 <LEND>
 
-<L>358<pc>443<k1>nAlikera<k2>nAlikera
+<L>358<pc>443<k1>नालिकेर<k2>नालिकेर
 nālikera,¦ nālikerī
 <div n="P"/>Cocos nucifera Linn.
 <LEND>
 
-<L>359<pc>443<k1>nicula<k2>nicula
+<L>359<pc>443<k1>निचुल<k2>निचुल
 nicula¦
 <div n="P"/>(1) Barringtonia acutangula (Linn.) Gaertn. (HK; Dgv, nr. 154; Bpn,
 <div n="lb"/>guḍūcyādivarga 138; Bt.; VG);
 <div n="P"/>(2) = vetasabheda (Indu on A.s. Ci. 21, 12).
 <LEND>
 
-<L>360<pc>443<k1>nimba<k2>nimba
+<L>360<pc>443<k1>निम्ब<k2>निम्ब
 nimba¦
 <div n="P"/>Azadirachta indica A. Juss.
 <LEND>
 
-<L>361<pc>443<k1>nirguRqI<k2>nirguRqI
+<L>361<pc>443<k1>निर्गुण्डी<k2>निर्गुण्डी
 nirguṇḍī¦
 <div n="P"/>Vitex negundo Linn. (HK; Dgv, nr. 245; Gul; HB; KB 3, p. 1937-1940;
 <div n="lb"/>Nadk. 1, nr. 2603; Chopra; Bpn, guḍūcyādivarga 113; Bt.; Kai.Nigh., oṣa-
@@ -5098,33 +5098,33 @@ nirguṇḍī¦
 <LEND>
 [Page-444+ 28]
 
-<L>362<pc>444<k1>niSA<k2>niSA
+<L>362<pc>444<k1>निशा<k2>निशा
 niśā¦
 <div n="P"/>= haridrā.
 <LEND>
 
-<L>363<pc>444<k1>nIlotpala<k2>nIlotpala
+<L>363<pc>444<k1>नीलोत्पल<k2>नीलोत्पल
 nīlotpala¦
 <div n="P"/>Nymphaea stellata Willd. (HK; HB; V. 3, p. 9-10; Dutt; Bt.; KB 1, p.
 <div n="lb"/>113-115).
 <LEND>
 
-<L>364<pc>444<k1>paYcamUla<k2>paYcamUla
+<L>364<pc>444<k1>पञ्चमूल<k2>पञ्चमूल
 pañcamūla¦
 <div n="P"/>(1) bṛhatpañcamūla: bilva, kāśmarī, araṇikā, pāṭalā, śyonāka;
 <div n="P"/>(2) hrasvapañcamūla: bṛhatī, kaṇṭakārikā, śālaparṇī, pṛśniparṇī,
 <LEND>
 
-<L>365<pc>444<k1>gokzuraka<k2>gokzuraka
+<L>365<pc>444<k1>गोक्षुरक<k2>गोक्षुरक
 gokṣuraka.¦
 <LEND>
 
-<L>366<pc>444<k1>padminI<k2>padminI
+<L>366<pc>444<k1>पद्मिनी<k2>पद्मिनी
 padminī¦
 <div n="P"/>The lotus plant: Nelumbo nucifera Gaertn.
 <LEND>
 
-<L>367<pc>444<k1>payasyA<k2>payasyA
+<L>367<pc>444<k1>पयस्या<k2>पयस्या
 payasyā¦
 <div n="P"/>(1) Cleome gynandra Linn. = Gynandropsis pentaphylla DC. (HB);
 <div n="P"/>(2) = vidārīkanda (Cakra on Ca.Sū. 4, 9);
@@ -5137,7 +5137,7 @@ payasyā¦
 <div n="lb"/>(He. on A.h.Ci. 3, 95 and Ka. 4, 25).
 <LEND>
 
-<L>368<pc>444<k1>palASinI<k2>palASinI
+<L>368<pc>444<k1>पलाशिनी<k2>पलाशिनी
 palāśinī¦
 <div n="P"/>(1) = padminī (Dha.nigh. 4, 157-158; Kai.Nigh., oṣadhivarga 1438cd);
 <div n="P"/>(2) Butea superba Roxb. (Bāpālāl G. Vaidya in his introd. to the
@@ -5145,14 +5145,14 @@ palāśinī¦
 <div n="lb"/>Baroda 1978).
 <LEND>
 
-<L>369<pc>444<k1>pallava<k2>pallava
+<L>369<pc>444<k1>पल्लव<k2>पल्लव
 pallava¦
 <div n="P"/>(1) Myristica fragrans Houtt. (HK: = jāti);
 [Page-445+ 26]
 <div n="P"/>(2) Trichosanthes dioica Roxb. (Raison).
 <LEND>
 
-<L>370<pc>445<k1>pArAvata<k2>pArAvata
+<L>370<pc>445<k1>पारावत<k2>पारावत
 pārāvata¦
 <div n="P"/>(1) Psidium guajava Linn. (Gul) (this plant is a native of tropi-
 <div n="lb"/>cal America, now pantropic);
@@ -5160,18 +5160,18 @@ pārāvata¦
 <div n="P"/>(3) G. mangostana Linn. (CD, p. 241).
 <LEND>
 
-<L>371<pc>445<k1>pArTa<k2>pArTa
+<L>371<pc>445<k1>पार्थ<k2>पार्थ
 pārtha¦
 <div n="P"/>= arjuna = kakubha (Kai.Nigh., oṣadhivarga 819; Dha.nigh. 5, 114;
 <div n="lb"/>Rā.nigh. 9, 191).
 <LEND>
 
-<L>372<pc>445<k1>picu<k2>picu
+<L>372<pc>445<k1>पिचु<k2>पिचु
 picu¦
 <div n="P"/>A fruit growing in Uttarāpatha (Ḍa. on Su.Sū. 46, 187).
 <LEND>
 
-<L>373<pc>445<k1>picuka<k2>picuka
+<L>373<pc>445<k1>पिचुक<k2>पिचुक
 picuka¦
 <div n="P"/>(1) Su.Ci. 7, 17, Ḍa.: picukaḥ karīraḥ, tasya phalam; kārpāsaphalam
 <div n="lb"/>ity eke;
@@ -5180,12 +5180,12 @@ picuka¦
 <div n="P"/>(3) Hibiscus cancellatus Roxb. (Bt.).
 <LEND>
 
-<L>374<pc>445<k1>picumanda<k2>picumanda
+<L>374<pc>445<k1>पिचुमन्द<k2>पिचुमन्द
 picumanda¦
 <div n="P"/>= nimba.
 <LEND>
 
-<L>375<pc>445<k1>piRyAka<k2>piRyAka
+<L>375<pc>445<k1>पिण्याक<k2>पिण्याक
 piṇyāka¦
 <div n="P"/>(1) = hiṅgu (HK; KB 2, p. 1216-1218);
 <div n="P"/>(2) = turuṣka (Dha.nigh. 3, 22; Rā.nigh. 12, 36-37).
@@ -5193,28 +5193,28 @@ piṇyāka¦
 <div n="lb"/>Kalyāṇakāraka 4, 46; Ananta 8, 642).
 <LEND>
 
-<L>376<pc>445<k1>pippala<k2>pippala
+<L>376<pc>445<k1>पिप्पल<k2>पिप्पल
 pippala¦
 <div n="P"/>Ficus religiosa Linn.
 <LEND>
 [Page-446+ 26]
 
-<L>377<pc>446<k1>piyAla<k2>piyAla
+<L>377<pc>446<k1>पियाल<k2>पियाल
 piyāla¦
 <div n="P"/>= priyāla.
 <LEND>
 
-<L>378<pc>446<k1>pUga<k2>pUga
+<L>378<pc>446<k1>पूग<k2>पूग
 pūga¦
 <div n="P"/>Areca catechu Linn.
 <LEND>
 
-<L>379<pc>446<k1>pfTakparRI<k2>pfTakparRI
+<L>379<pc>446<k1>पृथक्पर्णी<k2>पृथक्पर्णी
 pṛthakparṇī¦
 <div n="P"/>= pṛśniparṇī.
 <LEND>
 
-<L>380<pc>446<k1>Pala<k2>Pala
+<L>380<pc>446<k1>फल<k2>फल
 phala¦
 <div n="P"/>(1) Randia spinosa (Thunb.) Poir. = R. dumetorum Lamk. (= madana:
 <div n="lb"/>HK; Na 1, nr. 265; Dgv, nr. 183);
@@ -5222,19 +5222,19 @@ phala¦
 <div n="P"/>(3) Areca catechu Linn. (Nadk. 1, nr. 219: = kramuka).
 <LEND>
 
-<L>381<pc>446<k1>Palatrika<k2>Palatrika
+<L>381<pc>446<k1>फलत्रिक<k2>फलत्रिक
 phalatrika¦
 <div n="P"/>= triphalā.
 <LEND>
 
-<L>382<pc>446<k1>PalinI<k2>PalinI
+<L>382<pc>446<k1>फलिनी<k2>फलिनी
 phalinī¦
 <div n="P"/>(1) = priyaṅgu (Na 1, nr. 201; V. 6, p. 99; Bpn, karpūrādivarga 101;
 <div n="lb"/>Kai.Nigh., oṣadhivarga 1352);
 <div n="P"/>(2) = gandhapriyaṅgu (Indu on A.s. Ci. 2, 51).
 <LEND>
 
-<L>383<pc>446<k1>bAlaka<k2>bAlaka
+<L>383<pc>446<k1>बालक<k2>बालक
 bālaka¦
 <div n="P"/>(1) Valeriana wallichii DC. (Bt.);
 <div n="P"/>(2) V. hardwickii Wall. (Sharma);
@@ -5243,14 +5243,14 @@ bālaka¦
 <div n="lb"/>1365-1366).
 <LEND>
 
-<L>384<pc>446<k1>bIja<k2>bIja
+<L>384<pc>446<k1>बीज<k2>बीज
 bīja¦
 <div n="P"/>= bījaka (see Ḍa. on Su. Ci. 25, 32: bījasāra = asanasāra, on Su.U.
 <div n="lb"/>10, 8: bījaḥ pītasāraḥ ‘bījaka’ iti yāvat).
 <LEND>
 [Page-447+ 28]
 
-<L>385<pc>447<k1>bIjaka<k2>bIjaka
+<L>385<pc>447<k1>बीजक<k2>बीजक
 bījaka¦
 <div n="P"/>(1) = asana (Na 1, nr. 137; V. 1, p. 98; Dgv, nr. 109; Bpn, vaṭādivarga
 <div n="lb"/>28; Kai.Nigh., oṣadhivarga 811cd-812; Bt.) (see on asana and bījaka
@@ -5258,26 +5258,26 @@ bījaka¦
 <div n="P"/>(2) = mātuluṅga = bījapūra (HK; V. 6, p. 21; Nś. 53-54).
 <LEND>
 
-<L>386<pc>447<k1>BallAtaka<k2>BallAtaka
+<L>386<pc>447<k1>भल्लातक<k2>भल्लातक
 bhallātaka¦
 <div n="P"/>Semecarpus anacardium Linn. (HK; Gul; Na 1, nr. 119; Nadk. 1, nr. 2269;
 <div n="lb"/>HB; Sharma; Bt.; Bpn, harītakyādivarga 232; Kai.Nigh., oṣadhivarga
 <div n="lb"/>494; DWH 1, p. 389-392; KB 1, p. 667-670).
 <LEND>
 
-<L>387<pc>447<k1>Billowa<k2>Billowa
+<L>387<pc>447<k1>भिल्लोट<k2>भिल्लोट
 bhilloṭa¦
 <div n="P"/>(1) Euonymus tingens Wall. (Bt.; VG);
 <div n="P"/>(2) E. pendulus Wall. (Bt.);
 <div n="P"/>(3) Chloroxylon swietenia DC. (DGV 5, p. 214).
 <LEND>
 
-<L>388<pc>447<k1>BIru<k2>BIru
+<L>388<pc>447<k1>भीरु<k2>भीरु
 bhīru¦
 <div n="P"/>= śatāvarī (Raison).
 <LEND>
 
-<L>389<pc>447<k1>maDukarkawI<k2>maDukarkawI
+<L>389<pc>447<k1>मधुकर्कटी<k2>मधुकर्कटी
 madhukarkaṭī¦
 <div n="P"/>(1) Citrus grandis (Linn.) Osbeck = C. decumana Linn. (pomelo) (AVI,
 <div n="lb"/>p. 362; Kai.Nigh., oṣadhivarga 262; Bpn, āmrādivarga 133) = C. maxima
@@ -5287,12 +5287,12 @@ madhukarkaṭī¦
 <div n="P"/>(3) Carica papaya Linn. (Na 1, nr. 225).
 <LEND>
 
-<L>390<pc>447<k1>maDupuzpa<k2>maDupuzpa
+<L>390<pc>447<k1>मधुपुष्प<k2>मधुपुष्प
 madhupuṣpa¦
 <div n="P"/>= aśoka.
 <LEND>
 
-<L>391<pc>447<k1>mallikA<k2>mallikA
+<L>391<pc>447<k1>मल्लिका<k2>मल्लिका
 mallikā¦
 <div n="P"/>Jasminum sambac (Linn.) Ait. (HK; Dgv, nr. 207; Nadk. 1, nr. 704; Na
 <div n="lb"/>1, nr. 316; WIRM 5, p. 289; Bt.; Chopra; Bpn, puṣpavarga 39; Kai.Nigh.,
@@ -5300,30 +5300,30 @@ mallikā¦
 <LEND>
 [Page-448+ 28]
 
-<L>392<pc>448<k1>mallI<k2>mallI
+<L>392<pc>448<k1>मल्ली<k2>मल्ली
 mallī¦
 <div n="P"/>Jasminum sambac (Linn.) Ait. (KB 2, p. 1515-1517).
 <LEND>
 
-<L>393<pc>448<k1>mAkanda<k2>mAkanda
+<L>393<pc>448<k1>माकन्द<k2>माकन्द
 mākanda¦
 <div n="P"/>= āmra (Dha.nigh. 5, 2).
 <LEND>
 
-<L>394<pc>448<k1>mAtuluNgI<k2>mAtuluNgI
+<L>394<pc>448<k1>मातुलुङ्गी<k2>मातुलुङ्गी
 mātuluṅgī¦
 <div n="P"/>Śivadāsa on Cakradatta, agnimāndya 40 and vātavyādhi 40: = madhukuk-
 <div n="lb"/>kuṭī, probably identical with madhukarkaṭī.
 <LEND>
 
-<L>395<pc>448<k1>mADavI<k2>mADavI
+<L>395<pc>448<k1>माधवी<k2>माधवी
 mādhavī¦ (latā)
 <div n="P"/>Hiptage benghalensis (Linn.) Kurz (Na 1, nr. 82; WIRM 5, p. 101; Bt.;
 <div n="lb"/>Chopra; KB 1, p. 417-418) = H. madablota Gaertn. (HK; Nadk. 1, nr. 1234;
 <div n="lb"/>Bpn, puṣpavarga 41; Kai.Nigh., oṣadhivarga 1486).
 <LEND>
 
-<L>396<pc>448<k1>mAlatI<k2>mAlatI
+<L>396<pc>448<k1>मालती<k2>मालती
 mālatī¦
 <div n="P"/>(1) Aganosma calycina A.DC. (Chopra; Nadk. 1, nr. 68; KB 2, p. 1588);
 <div n="P"/>(2) A. dichotoma (Roth) K. Schum. (Chopra; KB 2, p. 1587-1588) = A.
@@ -5335,7 +5335,7 @@ mālatī¦
 <div n="P"/>(5) Hiptage benghalensis (Linn.) Kurz (KB 1, p. 417-418).
 <LEND>
 
-<L>397<pc>448<k1>murA<k2>murA
+<L>397<pc>448<k1>मुरा<k2>मुरा
 murā¦
 <div n="P"/>(1) Selinum tenuifolium Wall. ex DC. (Bt.);
 <div n="P"/>(2) Selinum species (Kai.Nigh., oṣadhivarga 1386cd-1387);
@@ -5343,7 +5343,7 @@ murā¦
 <div n="P"/>(4) Erythrina stricta Roxb. (Chopra).
 <LEND>
 
-<L>398<pc>448<k1>medA<k2>medA
+<L>398<pc>448<k1>मेदा<k2>मेदा
 medā¦
 <div n="P"/>(1) Leptadenia reticulata Wight et Arn. (WIRM 6, p. 73) = Gymnema au-
 <div n="lb"/>rantiaca Wall. (Nadk. 1, nr. 1168; Raison);
@@ -5360,40 +5360,40 @@ medā¦
 <div n="lb"/>p. 64).
 <LEND>
 
-<L>399<pc>449<k1>yazwI<k2>yazwI
+<L>399<pc>449<k1>यष्टी<k2>यष्टी
 yaṣṭī¦
 <div n="P"/>Glycyrrhiza glabra Linn.
 <LEND>
 
-<L>400<pc>449<k1>yUTI<k2>yUTI
+<L>400<pc>449<k1>यूथी<k2>यूथी
 yūthī¦
 <div n="P"/>Jasminum auriculatum Vahl (Bt.; HK; Nadk. 1, nr. 1361; V. 4, p. 109;
 <div n="lb"/>WIRM 5, p. 281; Na 1, nr. 315; Kai.Nigh., oṣadhivarga 1475; Bpn, puṣpavarga
 <div n="lb"/>29; KB 2, p. 1524-1525).
 <LEND>
 
-<L>401<pc>449<k1>rajanI<k2>rajanI
+<L>401<pc>449<k1>रजनी<k2>रजनी
 rajanī¦
 <div n="P"/>= niśā = haridrā.
 <LEND>
 
-<L>402<pc>449<k1>ramBA<k2>ramBA
+<L>402<pc>449<k1>रम्भा<k2>रम्भा
 rambhā¦
 <div n="P"/>= kadalī.
 <LEND>
 
-<L>403<pc>449<k1>rAja<k2>rAja
+<L>403<pc>449<k1>राज<k2>राज
 rāja¦
 <div n="P"/>= rājadruma? (rājadruma = āragvadha).
 <LEND>
 
-<L>404<pc>449<k1>rAWa<k2>rAWa
+<L>404<pc>449<k1>राठ<k2>राठ
 rāṭha¦
 <div n="P"/>= madana (Aruṇa on A.h.Ka. 1, 18 and U. 2, 17; Kai.Nigh., oṣadhivarga
 <div n="lb"/>900; Nś. 126; KB 2, p. 1273-1276).
 <LEND>
 
-<L>405<pc>449<k1>rAmaWa<k2>rAmaWa
+<L>405<pc>449<k1>रामठ<k2>रामठ
 rāmaṭha¦
 <div n="P"/>(1) = hiṅgu: Ferula species (Bpn, harītakyādivarga 100);
 [Page-450+ 30]
@@ -5402,7 +5402,7 @@ rāmaṭha¦
 <div n="P"/>(3) = toyāpāmārga (Kai.Nigh., oṣadhivarga 1037cd-1038: unidentified).
 <LEND>
 
-<L>406<pc>450<k1>latA<k2>latA
+<L>406<pc>450<k1>लता<k2>लता
 latā¦
 <div n="P"/>(1) = latākastūrī (Śivadāsa on Cakradatta, vātavyādhi 117);
 <div n="P"/>(2) = priyaṅgu (HK; Bt.; Na 1, nr. 201; Nś. 187; Śivadāsa on Cakradatta,
@@ -5419,7 +5419,7 @@ latā¦
 <div n="P"/>(11) = cirbhiṭī (Nś. 363).
 <LEND>
 
-<L>407<pc>450<k1>lANgalI<k2>lANgalI
+<L>407<pc>450<k1>लाङ्गली<k2>लाङ्गली
 lāṅgalī̆,¦ lāṅgalikā, etc.
 <div n="P"/>(1) Gloriosa superba Linn. (HK; Gul; HB; Nadk. 1, nr. 1129; WIRM 4, p.
 <div n="lb"/>139; CD, p. 247-249; KB 4, p. 2525-2528; Bt.; Dutt; Sharma; Kai.Nigh., oṣa-
@@ -5433,18 +5433,18 @@ lāṅgalī̆,¦ lāṅgalikā, etc.
 <div n="P"/>(6) = pṛśniparṇī (Nś. 198).
 <LEND>
 
-<L>408<pc>450<k1>lAmbu<k2>lAmbu
+<L>408<pc>450<k1>लाम्बु<k2>लाम्बु
 lāmbu¦
 <div n="P"/>= alābu?
 <LEND>
 [Page-451+ 30]
 
-<L>409<pc>451<k1>vacA<k2>vacA
+<L>409<pc>451<k1>वचा<k2>वचा
 vacā¦
 <div n="P"/>Acorus calamus Linn.
 <LEND>
 
-<L>410<pc>451<k1>varA<k2>varA
+<L>410<pc>451<k1>वरा<k2>वरा
 varā¦
 <div n="P"/>(1) = triphalā (HK; Raison; Bpn, harītakyādivarga 42);
 <div n="P"/>(2) = śatāvarī (HK);
@@ -5456,7 +5456,7 @@ varā¦
 <div n="P"/>(8) = haridrā (Rā.nigh. 6, 79-81).
 <LEND>
 
-<L>411<pc>451<k1>vArAhI<k2>vArAhI
+<L>411<pc>451<k1>वाराही<k2>वाराही
 vārāhī¦ (= varāhī?)
 <div n="P"/>(1) Dioscorea bulbifera Linn. (CD, p. 272-275; Kai.Nigh., oṣadhivar-
 <div n="lb"/>ga 1596; KB 4, p. 2485-2489) = D. sativa Thunb., non Linn. (Bpn, śāka-
@@ -5466,17 +5466,17 @@ vārāhī¦ (= varāhī?)
 <div n="lb"/>(Bpn, śākavarga 107; CD, p. 272-275; Chopra; KB 4, p. 2476-2477).
 <LEND>
 
-<L>412<pc>451<k1>vArtAka<k2>vArtAka
+<L>412<pc>451<k1>वार्ताक<k2>वार्ताक
 vārtāka¦
 <div n="P"/>Solanum melongena Linn. (brinjal, eggplant).
 <LEND>
 
-<L>413<pc>451<k1>vidAriganDA<k2>vidAriganDA
+<L>413<pc>451<k1>विदारिगन्धा<k2>विदारिगन्धा
 vidārigandhā¦
 <div n="P"/>= śālaparṇī.
 <LEND>
 
-<L>414<pc>451<k1>vidArI<k2>vidArI
+<L>414<pc>451<k1>विदारी<k2>विदारी
 vidārī¦
 <div n="P"/>(1) Ipomoea digitata Linn. (Bpn, guḍūcyādivarga 180; KB 3, p. 1717-1719;
 <div n="lb"/>HK; Nadk. 1, nr. 1326; Raison; WIRM 5, p. 248; Usman S. Ali in JRIM 9, 4,
@@ -5496,12 +5496,12 @@ vidārī¦
 <div n="P"/>(10) Cycas circinalis Linn. (Usman S. Ali; K. Vasudevan Nair et al.).
 <LEND>
 
-<L>415<pc>452<k1>vIraRa<k2>vIraRa
+<L>415<pc>452<k1>वीरण<k2>वीरण
 vīraṇa¦
 <div n="P"/>= uśīra (Kai.Nigh., oṣadhivarga 1368; Rā.nigh. 12, 25).
 <LEND>
 
-<L>416<pc>452<k1>vetasa<k2>vetasa
+<L>416<pc>452<k1>वेतस<k2>वेतस
 vetasa¦
 <div n="P"/>(1) Calamus rotang Linn. (HK; Gul; Nadk. 1, nr. 413; KB 4, p. 2587-
 <div n="lb"/>2588);
@@ -5510,7 +5510,7 @@ vetasa¦
 <div n="P"/>(3) S. tetrasperma Roxb. (CD, p. 196-198).
 <LEND>
 
-<L>417<pc>452<k1>SatapatrikA<k2>SatapatrikA
+<L>417<pc>452<k1>शतपत्रिका<k2>शतपत्रिका
 śatapatrikā¦
 <div n="P"/>(1) Chrysanthemum coronarium Linn. (V. 3, p. 103);
 <div n="P"/>(2) Rosa centifolia Linn. (Nadk. 1, nr. 2149; AVI, p. 356; Bpn, puṣpa-
@@ -5519,7 +5519,7 @@ vetasa¦
 <div n="P"/>(4) R. damascena Mill. (Nadk. 1, nr. 2150; Chopra).
 <LEND>
 
-<L>418<pc>452<k1>SatAvarI<k2>SatAvarI
+<L>418<pc>452<k1>शतावरी<k2>शतावरी
 śatāvarī¦
 <div n="P"/>(1) Asparagus racemosus Willd. (HK; Dgv, nr. 325; Nadk. 1, nr. 264;
 <div n="lb"/>PA 1, 6, p. 43-53; Bpn, guḍūcyādivarga 184-185; CD, p. 132-134; Kai.Nigh.,
@@ -5532,7 +5532,7 @@ vetasa¦
 <LEND>
 [Page-453+ 31]
 
-<L>419<pc>453<k1>Sara<k2>Sara
+<L>419<pc>453<k1>शर<k2>शर
 śara¦
 <div n="P"/>Erianthus munja Jesw. (this is the correct name acc. to WIRM 9, p.
 <div n="lb"/>98) = Saccharum munja Roxb. (Bt.; Bpn, guḍūcyādivarga 158-159; DGV 2-3,
@@ -5540,12 +5540,12 @@ vetasa¦
 <div n="lb"/>Roxb. (Dutt; Vśs) = S. ciliare Anders. (DEP 6, 2, p. 2).
 <LEND>
 
-<L>420<pc>453<k1>SAka<k2>SAka
+<L>420<pc>453<k1>शाक<k2>शाक
 śāka¦
 <div n="P"/>Tectona grandis Linn. f.
 <LEND>
 
-<L>421<pc>453<k1>SArivA<k2>SArivA
+<L>421<pc>453<k1>शारिवा<k2>शारिवा
 śārivā,¦ sārivā
 <div n="P"/>(1) Hemidesmus indicus R. Br. (śvetasārivā: Dgv, nr. 216; Gul; Bpn,
 <div n="lb"/>guḍūcyādivarga 236-238; DWH 2, p. 446-449; Nadk. 1, nr. 1210; Bt.; KB 3,
@@ -5562,7 +5562,7 @@ vetasa¦
 <div n="lb"/>Vasudevan Nair et al.)
 <LEND>
 
-<L>422<pc>453<k1>SAlI<k2>SAlI
+<L>422<pc>453<k1>शाली<k2>शाली
 śālī¦
 <div n="P"/>I cannot find śālī in any text available to me. Acc. to the PW, it
 <div n="lb"/>is Nigella indica Roxb. (Rā.nigh. in Śkdr.). This plant is usually cal-
@@ -5571,7 +5571,7 @@ vetasa¦
 <div n="lb"/>some Mss. or early editions of the Rā.nigh.
 <LEND>
 
-<L>423<pc>453<k1>SiMSapA<k2>SiMSapA
+<L>423<pc>453<k1>शिंशपा<k2>शिंशपा
 śiṃśapā¦
 <div n="P"/>(1) Dalbergia sissoo Roxb. (KB 1, p. 818-819; HK; Gul; Na 1, nr. 136;
 <div n="lb"/>Nadk. 1, nr. 790; WIRM 3, p. 7; Dutt; Chopra; Bt.; Kai.Nigh., oṣadhivarga
@@ -5581,7 +5581,7 @@ vetasa¦
 <div n="P"/>(3) X. dolabriformis Benth. (Nadk. 1, nr. 2635).
 <LEND>
 
-<L>424<pc>454<k1>SitivAraka<k2>SitivAraka
+<L>424<pc>454<k1>शितिवारक<k2>शितिवारक
 śitivāraka¦
 <div n="P"/>(1) Celosia argentea Linn. (Bt.);
 <div n="P"/>(2) Blepharis edulis Pers. (Bpn, śākavarga 30; KB 3, p. 1872-1873;
@@ -5589,7 +5589,7 @@ vetasa¦
 <div n="P"/>(3) Marsilea quadrifolia Linn. (HK).
 <LEND>
 
-<L>425<pc>454<k1>SePAlikA<k2>SePAlikA
+<L>425<pc>454<k1>शेफालिका<k2>शेफालिका
 śephālikā¦
 <div n="P"/>(1) Nyctanthes arbor-tristis Linn. (HK; Nadk. 1, nr. 1721; WIRM 7, p.
 <div n="lb"/>69; Bt.; Chopra; KB 2, p. 1526-1528; DWH 2, p. 376-378; Bpn, guḍūcyādivarga
@@ -5599,7 +5599,7 @@ vetasa¦
 <div n="P"/>(3) V. trifolia Linn. (DWH 3, p. 73-75; KB 3, p. 1936-1937).
 <LEND>
 
-<L>426<pc>454<k1>SrIparRikA<k2>SrIparRikA
+<L>426<pc>454<k1>श्रीपर्णिका<k2>श्रीपर्णिका
 śrīparṇikā¦
 <div n="P"/>(1) = kaṭphala, Myrica nagi Thunb. (V. 2, p. 125; Bpn, harītakyādivar-
 <div n="lb"/>ga 180-181; Dha.nigh. 1, 73; Rā.nigh. 8, 101);
@@ -5607,7 +5607,7 @@ vetasa¦
 <div n="P"/>(3) = kāśmarya (Dha.nigh. 1, 117; Rā.nigh. 9, 146).
 <LEND>
 
-<L>427<pc>454<k1>SrIPala<k2>SrIPala
+<L>427<pc>454<k1>श्रीफल<k2>श्रीफल
 śrīphala¦
 <div n="P"/>(1) = bilva (HK; Dgv; Na 1, nr. 90; Nadk. 1, nr. 62; Bt.; Dha.nigh. 1,
 <div n="lb"/>106; Rā.nigh. 11, 34);
@@ -5615,7 +5615,7 @@ vetasa¦
 <div n="P"/>(3) = rājādana (Rā.nigh. 11, 146-147).
 <LEND>
 
-<L>428<pc>454<k1>SlezmAtaka<k2>SlezmAtaka
+<L>428<pc>454<k1>श्लेष्मातक<k2>श्लेष्मातक
 śleṣmātaka¦
 <div n="P"/>(1) Cordia dichotoma Forst. f. = C. myxa auct. non Linn. = C. myxa
 <div n="lb"/>Roxb. (Bt.; Kai.Nigh., oṣadhivarga 612cd-616; Bpn, āmrādiphalavarga
@@ -5626,28 +5626,28 @@ vetasa¦
 <div n="P"/>(4) C. rothii Roem. et Schult. (KB 3, p. 1678-1679).
 <LEND>
 
-<L>429<pc>455<k1>saptacCada<k2>saptacCada
+<L>429<pc>455<k1>सप्तच्छद<k2>सप्तच्छद
 saptacchada,¦ saptaparṇa
 <div n="P"/>Alstonia scholaris (Linn.) R.Br.
 <LEND>
 
-<L>430<pc>455<k1>sArivA<k2>sArivA
+<L>430<pc>455<k1>सारिवा<k2>सारिवा
 sārivā¦
 <div n="P"/>See śārivā.
 <LEND>
 
-<L>431<pc>455<k1>sita<k2>sita
+<L>431<pc>455<k1>सित<k2>सित
 sita,¦ neuter
 <div n="P"/>(1) = mūlaka (Rā. nigh. 7, 50);
 <div n="P"/>(2) = somavalka (Nś. 65).
 <LEND>
 
-<L>432<pc>455<k1>sitasarzapa<k2>sitasarzapa
+<L>432<pc>455<k1>सितसर्षप<k2>सितसर्षप
 sitasarṣapa¦
 <div n="P"/>= siddhārtha (Rā.nigh. 16, 68-69; Nś. 398: śvetasarṣapa = siddhārtha).
 <LEND>
 
-<L>433<pc>455<k1>sitA<k2>sitA
+<L>433<pc>455<k1>सिता<k2>सिता
 sitā¦
 <div n="P"/>(1) = kāṣṭhapāṭalā (Rā.nigh. 9, 152);
 <div n="P"/>(2) = śvetavacā (Indu on A.s.U. 42, 30 and 32 and 34);
@@ -5657,7 +5657,7 @@ sitā¦
 <div n="lb"/>and tejinī.
 <LEND>
 
-<L>434<pc>455<k1>sinduka<k2>sinduka
+<L>434<pc>455<k1>सिन्दुक<k2>सिन्दुक
 sinduka¦
 <div n="P"/>(1) = nirguṇḍī (Kai.Nigh., oṣadhivarga 124; Dha.nigh. 4, 81; Bpn,
 <div n="lb"/>guḍūcyādivarga 113; Nś. 184; Ma.nigh. 1, 162; Śivakoṣa 151);
@@ -5667,7 +5667,7 @@ sinduka¦
 <div n="P"/>(4) Vitex trifolia Linn. (KB 3, p. 1936-1937).
 <LEND>
 
-<L>435<pc>455<k1>sinduvAra<k2>sinduvAra
+<L>435<pc>455<k1>सिन्दुवार<k2>सिन्दुवार
 sinduvāra¦
 <div n="P"/>(1) Vitex negundo Linn. (Dgv; Nadk. 1, nr. 2603; Bpn, guḍūcyādivarga
 <div n="lb"/>113-114; Kai.Nigh., oṣadhivarga 124-127ab; DWH 3, p. 73-75; KB 3, p. 1937
@@ -5677,7 +5677,7 @@ sinduvāra¦
 <div n="P"/>(3) Symphorema polyandrum Wight (see sinduka).
 <LEND>
 
-<L>436<pc>456<k1>suraBI<k2>suraBI
+<L>436<pc>456<k1>सुरभी<k2>सुरभी
 surabhī̆¦
 <div n="P"/>(1) = śallakī, sallakī (HK; Na 1, nr. 103; Kai.Nigh., oṣadhivarga 861;
 <div n="lb"/>Dha.nigh. 3, 135; Rā.nigh. 11, 195; Nś. 151cd-152; Śivakoṣa 326);
@@ -5704,7 +5704,7 @@ surabhī̆¦
 <div n="P"/>(21) = navamallī (Śivakoṣa 326).
 <LEND>
 
-<L>437<pc>456<k1>sUryavallI<k2>sUryavallI
+<L>437<pc>456<k1>सूर्यवल्ली<k2>सूर्यवल्ली
 sūryavallī¦
 <div n="P"/>(1) = arkapuṣpī: Holostemma annulare K. Schum. (Bt.; V. 4, p. 48; KB
 <div n="lb"/>3, p. 1619-1620);
@@ -5715,7 +5715,7 @@ sūryavallī¦
 <LEND>
 [Page-457+ 30]
 
-<L>438<pc>457<k1>sErIyaka<k2>sErIyaka
+<L>438<pc>457<k1>सैरीयक<k2>सैरीयक
 sairīyaka¦ = saireyaka
 <div n="P"/>(1) Barleria cristata Linn. (Bpn, puṣpavarga 51-52; Kai.Nigh., oṣa-
 <div n="lb"/>dhivarga 1047cd-1050ab; DGV 5, p. 293-295; Bt.; KB 3, p. 1877-1879) (śveta-,
@@ -5726,7 +5726,7 @@ sairīyaka¦ = saireyaka
 <div n="lb"/>DGV 5, p. 293-295; KB 3, p. 1880-1881) (nīlapuṣpa).
 <LEND>
 
-<L>439<pc>457<k1>hastikarRa<k2>hastikarRa
+<L>439<pc>457<k1>हस्तिकर्ण<k2>हस्तिकर्ण
 hastikarṇa¦
 <div n="P"/>(1) = hastikarṇapalāśa:
 <div n="lb"/>a) Leea macrophylla Roxb. (CD, p. 89-91; Bt.; R.S. Singh and A.
@@ -5737,7 +5737,7 @@ hastikarṇa¦
 <div n="P"/>(3) = raktairaṇḍa (Indu on A.s.Ci. 19, 10).
 <LEND>
 
-<L>440<pc>457<k1>hintAla<k2>hintAla
+<L>440<pc>457<k1>हिन्ताल<k2>हिन्ताल
 hintāla¦
 <div n="P"/>Phoenix paludosa Roxb. (Nadk. 1, nr. 1880; DEP 6, 1, p. 207).
 <LEND>
@@ -5780,7 +5780,7 @@ hintāla¦
 ; ENTRIES, Additions and Corrections
 ;
 
-<L>441<pc>458<k1>atibalA<k2>atibalA
+<L>441<pc>458<k1>अतिबला<k2>अतिबला
 atibalā¦
 <div n="P"/>(1) Sida rhombifolia Linn. (DEP 6, 2, p. 681; Dutt; Chopra; HK; Kavi-
 <div n="lb"/>ratna; KB 1, p. 310-312; MW; PW; PA 1, 5, p. 81-84; Vśs; Rā.nigh., ed. Tri-
@@ -5814,7 +5814,7 @@ atibalā¦
 <div n="P"/>(6) Annona squamosa Linn. (MW).
 <LEND>
 
-<L>442<pc>459<k1>amilAta<k2>amilAta
+<L>442<pc>459<k1>अमिलात<k2>अमिलात
 amilāta(ka),¦ amlāṭana, amlāta(ka), amlāna(ka), amlāyana(ka)
 <div n="P"/>(1) = saireyaka = jhiṇṭī (Nś. 245-246: amilāta, amlāta);
 <div n="lb"/>a) the variety with red flowers is identical with kurabaka or
@@ -5838,7 +5838,7 @@ amilāta(ka),¦ amlāṭana, amlāta(ka), amlāna(ka), amlāyana(ka)
 <LEND>
 [Page-460+ 34]
 
-<L>443<pc>460<k1>Artagala<k2>Artagala
+<L>443<pc>460<k1>आर्तगल<k2>आर्तगल
 ārtagala¦
 <div n="P"/>(1) Barleria strigosa Willd. (Bpn, puṣpavarga 51-52; DGV 5, p. 293-
 <div n="lb"/>295; Kai.Nigh., oṣadhivarga 1049: B. strigosa Linn.; KB 3, p. 1880-1881)
@@ -5856,7 +5856,7 @@ amilāta(ka),¦ amlāṭana, amlāta(ka), amlāna(ka), amlāyana(ka)
 <div n="P"/>(7) = hintāla (Indu on A.s.Ci. 20, 4: according to some authorities).
 <LEND>
 
-<L>444<pc>460<k1>kuraRwa<k2>kuraRwa
+<L>444<pc>460<k1>कुरण्ट<k2>कुरण्ट
 kuraṇṭa(ka)¦
 <div n="P"/>(1) Add the following references: Bpn, puṣpavarga 51-52; Chopra; Dha.
 <div n="lb"/>nigh., ed. P.V. Sharma, 1, 268-269; Gul.; Dutt; HK: kuruṇṭaka; Forbes
@@ -5871,7 +5871,7 @@ kuraṇṭa(ka)¦
 <div n="P"/>(5) = kuṭaja (Vśs).
 <LEND>
 
-<L>445<pc>460<k1>kurabaka<k2>kurabaka
+<L>445<pc>460<k1>कुरबक<k2>कुरबक
 kurabaka¦ = kuravaka = kurubaka
 <div n="P"/>(1) Change to: Barleria cristata Linn. (Bpn, puṣpavarga 52; Dha.nigh.,
 <div n="lb"/>ed. P.V. Sharma, 1, 268-269; Dha.nigh., ed. Ojhā, 1, 278-279; DGV 5, p.
@@ -5886,12 +5886,12 @@ kurabaka¦ = kuravaka = kurubaka
 <div n="P"/>(4) = śvetamandāraka (Rā.nigh. 10, 31): unidentified.
 <LEND>
 
-<L>446<pc>461<k1>nAgaraNga<k2>nAgaraNga
+<L>446<pc>461<k1>नागरङ्ग<k2>नागरङ्ग
 nāgaraṅga,¦ nāraṅga
 <div n="P"/>(1) Instead of: Dgv, read: Dgv, nr. 71.
 <LEND>
 
-<L>447<pc>461<k1>balA<k2>balA
+<L>447<pc>461<k1>बला<k2>बला
 balā¦
 <div n="P"/>(1) Sida cordifolia Linn. (Bpn, guḍūcyādivarga 142-143; Bt.; CD, p.
 <div n="lb"/>214-215; Dgv, nr. 51; DGV 2-3, p. 654-655; DGV 5, p. 211; Dha.nigh., ed.
@@ -5935,7 +5935,7 @@ balā¦
 <div n="P"/>(9) = vanajaśaṇavṛkṣa (Vśs: unidentified).
 <LEND>
 
-<L>448<pc>462<k1>maDusrava<k2>maDusrava
+<L>448<pc>462<k1>मधुस्रव<k2>मधुस्रव
 madhusrava¦
 <div n="P"/>(1) = moraṭa (Dha.nigh. 1, 15; Rā.nigh. 3, 13);
 <div n="P"/>(2) = madhūka (Bpn, āmrādiphalavarga 95; Na 1, nr. 307; Nś. 110cd-
@@ -5943,7 +5943,7 @@ madhusrava¦
 <div n="P"/>(3) = mūrvā: Sansevieria zeylanica Willd. (MW; PW).
 <LEND>
 
-<L>449<pc>462<k1>maDusravA<k2>maDusravA
+<L>449<pc>462<k1>मधुस्रवा<k2>मधुस्रवा
 madhusravā¦
 <div n="P"/>(1) Maerua arenaria Hook.f. et Thoms. (Bt.);
 <div n="P"/>(2) = mūrvā (Hṛdayadīpaka 47; Ma.nigh. 1, 224; Rā.nigh. 3, 10-11; comm.
@@ -5963,7 +5963,7 @@ madhusravā¦
 <LEND>
 [Page-463+ 35]
 
-<L>450<pc>463<k1>mahAsahA<k2>mahAsahA
+<L>450<pc>463<k1>महासहा<k2>महासहा
 mahāsahā¦
 <div n="P"/>(1) = māṣaparṇī (Amarakośa 2, 4, 139; Bpn, guḍūcyādivarga 55; Ḍa. on
 <div n="lb"/>Su.Sū. 38, 4 and U.42, 113; Dha.nigh. 1, 136; Dgv, nr. 116; DGV 2-3, p. 651;
@@ -5988,7 +5988,7 @@ mahāsahā¦
 <div n="lb"/>Grah. (MW).
 <LEND>
 
-<L>451<pc>463<k1>mAzaparRI<k2>mAzaparRI
+<L>451<pc>463<k1>माषपर्णी<k2>माषपर्णी
 māṣaparṇī¦
 <div n="P"/>(1) Teramnus labialis (Linn.f.) Spreng. (Bpn, guḍūcyādivarga 55;
 <div n="lb"/>Bt.; Chopra; Dgv, nr. 116; DGV 5, p. 227-228; Dha.nigh., ed. Ojhā, 1, 136;
@@ -6024,7 +6024,7 @@ māṣaparṇī¦
 <div n="P"/>(9) Calopogonium mucunoides Desv. (PA 1, 7, p. 66).
 <LEND>
 
-<L>452<pc>464<k1>vandA<k2>vandA
+<L>452<pc>464<k1>वन्दा<k2>वन्दा
 vandā¦
 <div n="P"/>(1) Dendrophthoe falcata (Linn. f.) Ettingshausen (Bpn, guḍūcyādi-
 <div n="lb"/>varga 261; Chopra; WIRM 3, p. 34) = Loranthus falcatus Linn.f. (Chopra;
@@ -6036,7 +6036,7 @@ vandā¦
 <div n="P"/>(4) V. articulatum Burm.f. (KB 3, p. 2184-2185).
 <LEND>
 
-<L>453<pc>464<k1>haMsapAdI<k2>haMsapAdI
+<L>453<pc>464<k1>हंसपादी<k2>हंसपादी
 haṃsapā̆dī¦
 <div n="P"/>(1) Cayratia pedata (Wall.) Gagnep. = Vitis pedata Vahl ex Wall. (HK)
 <div n="lb"/>= Cissus pedata Lam. (HK);

@@ -4,12 +4,29 @@ import sys
 import os
 import re
 from indic_transliteration import sanscript
+from parseheadline import parseheadline
+
+def convert_metaline(dictcode):
+	filein = os.path.join('..', 'slp1', dictcode + '.txt')
+	fin = codecs.open(filein, 'r', 'utf-8')
+	data = fin.read()
+	fin.close()
+	result = []
+	lines = data.split('\n')
+	for lin in lines:
+		if lin.startswith('<L>'):
+			result.append(sanscript.transliterate(lin, 'devanagari', 'slp1'))
+		else:
+			result.append(lin)
+	fout = codecs.open(filein, 'w', 'utf-8')
+	fout.write('\n'.join(result))
+	fout.close()
 
 def convert_to_slp1(data):
 	result = []
 	lines = data.split('\n')
 	for lin in lines:
-		if lin.startswith('[Page') or lin.startswith('<H>') or lin.startswith('<L>') or lin.startswith('<LEND>'):
+		if lin.startswith('<L>') or lin.startswith('[Page') or lin.startswith('<H>') or lin.startswith('<LEND>'):
 			result.append(lin)
 		else:
 			result.append(sanscript.transliterate(lin, 'devanagari', 'slp1'))
@@ -55,4 +72,4 @@ def run_code(dictcode):
 if __name__ == "__main__":
 	dictcode = sys.argv[1]
 	run_code(dictcode)
-	
+	convert_metaline(dictcode)

@@ -4,12 +4,40 @@ import sys
 import os
 import re
 from indic_transliteration import sanscript
+from parseheadline import parseheadline
+
+
+def convert_metaline(dictcode):
+	filein = os.path.join('..', 'v02', dictcode, dictcode + '.txt')
+	fin = codecs.open(filein, 'r', 'utf-8')
+	data = fin.read()
+	fin.close()
+	result = []
+	lines = data.split('\n')
+	for lin in lines:
+		if lin.startswith('<L>'):
+			meta = parseheadline(lin)
+			devameta = []
+			for i in meta:
+				devameta.append('<' + i + '>')
+				if i in ['k1', 'k2']:
+					devameta.append(sanscript.transliterate(meta[i], 'slp1', 'devanagari'))
+				else:
+					devameta.append(meta[i])
+			print(devameta)
+			result.append(''.join(devameta))
+		else:
+			result.append(lin)
+	fout = codecs.open(filein, 'w', 'utf-8')
+	fout.write('\n'.join(result))
+	fout.close()
 
 def convert_to_devanagari(data):
 	result = []
 	lines = data.split('\n')
 	for lin in lines:
-		if lin.startswith('[Page') or lin.startswith('<H>') or lin.startswith('<L>') or lin.startswith('<LEND>'):
+		print(lin)
+		if lin.startswith('<L>') or lin.startswith('[Page') or lin.startswith('<H>') or lin.startswith('<LEND>'):
 			result.append(lin)
 		else:
 			result.append(sanscript.transliterate(lin, 'slp1', 'devanagari'))
@@ -53,4 +81,5 @@ def run_code(dictcode):
 if __name__ == "__main__":
 	dictcode = sys.argv[1]
 	run_code(dictcode)
+	convert_metaline(dictcode)
 	
