@@ -56,12 +56,9 @@ def run_code(dictcode):
 		data = convert_to_slp1(data)
 	elif dictcode in ['gra']:
 		data = convert_partially_to_slp1('{@', ',@}', 'iast', data)
-	elif dictcode in ['md']:
-		data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
-		data = convert_partially_to_slp1('{@', ',@}', 'iast', data)
 	elif dictcode in ['mw', 'krm']:
 		data = convert_partially_to_slp1('<s>', '</s>', 'slp1', data)
-	elif dictcode in ['ap90', 'mwe', 'bor', 'ae', 'pwg', 'pw', 'ccs', 'mw72', 'bop', 'inm', 'vei', 'pui', 'bhs', 'acc', 'ieg', 'snp', 'pe', 'pgn', 'mci', 'ben', 'bur', 'gst', 'lan']:
+	elif dictcode in ['ap90', 'mwe', 'bor', 'ae', 'pwg', 'pw', 'ccs', 'mw72', 'bop', 'inm', 'vei', 'pui', 'bhs', 'acc', 'ieg', 'snp', 'pe', 'pgn', 'mci', 'ben', 'bur', 'gst', 'lan', 'md']:
 		data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
 	else:
 		data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
