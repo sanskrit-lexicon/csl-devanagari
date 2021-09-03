@@ -1,8 +1,0 @@
-37032c37032
-< <L>4404<pc>167,1<k1>kanakapraBa<k2>kanakapraBa
----
-> <L>4404<pc>167,1<k1>kanakapraBa<k2>kanakapraBa 
-43789c43789
-< <L>5266<pc>196,1<k1>kOYcarA<k2>kOYcarA
----
-> <L>5266<pc>196,1<k1>kOYcarA<k2>kOYcarA 
