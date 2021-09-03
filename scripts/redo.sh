@@ -1,5 +1,5 @@
 echo "Convert to Devanagari."
-mkdir ../v02/$1
+mkdir -p ../v02/$1
 python3 to_devanagari.py $1
 echo "Convert back to SLP1."
 python3 to_slp1.py $1

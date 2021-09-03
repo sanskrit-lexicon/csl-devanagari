@@ -24,7 +24,6 @@ def convert_metaline(dictcode):
 					devameta.append(sanscript.transliterate(meta[i], 'slp1', 'devanagari'))
 				else:
 					devameta.append(meta[i])
-			print(devameta)
 			result.append(''.join(devameta))
 		else:
 			result.append(lin)
@@ -36,7 +35,6 @@ def convert_to_devanagari(data):
 	result = []
 	lines = data.split('\n')
 	for lin in lines:
-		print(lin)
 		if lin.startswith('<L>') or lin.startswith('[Page') or lin.startswith('<H>') or lin.startswith('<LEND>'):
 			result.append(lin)
 		else:
