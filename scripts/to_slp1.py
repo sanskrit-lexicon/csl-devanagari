@@ -87,11 +87,9 @@ def run_code(dictcode):
     # Apply appropriate function, startMark, endMark.
     if dictcode in ['vcp', 'skd', 'armh']:
         data = convert_to_slp1(data)
-    elif dictcode in ['gra']:
-        data = convert_partially_to_slp1('{@', ',@}', 'iast', data)
     elif dictcode in ['mw', 'krm']:
         data = convert_partially_to_slp1('<s>', '</s>', 'slp1', data)
-    elif dictcode in ['ap90', 'mwe', 'bor', 'ae', 'pwg', 'pw', 'ccs', 'mw72', 'bop', 'inm', 'vei', 'pui', 'bhs', 'acc', 'ieg', 'snp', 'pe', 'pgn', 'mci', 'ben', 'bur', 'gst', 'lan', 'md', 'sch', 'shs', 'stc', 'wil', 'yat']:
+    elif dictcode in ['ap90', 'mwe', 'bor', 'ae', 'pwg', 'pw', 'ccs', 'mw72', 'bop', 'inm', 'vei', 'pui', 'bhs', 'acc', 'ieg', 'snp', 'pe', 'pgn', 'mci', 'ben', 'bur', 'gst', 'lan', 'md', 'sch', 'shs', 'stc', 'wil', 'yat', 'gra']:
         data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
     else:
         data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
