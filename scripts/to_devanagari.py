@@ -3,8 +3,8 @@
     Author - Dr. Dhaval Patel
     email - drdhaval2785@gmail.com
     date - 03 September 2021
-    Usage - python3 to_slp1.py dictcode
-    e.g. - python3 to_slp1.py mw
+    Usage - python3 to_devanagari.py dictcode
+    e.g. - python3 to_devanagari.py mw
 """
 import codecs
 import sys
@@ -117,4 +117,5 @@ if __name__ == "__main__":
     # Run code
     run_code(dictcode)
     # Convert metalines key1 and key2 to Devanagari.
-    convert_metaline(dictcode)
+    if dictcode not in ['ae', 'bor', 'mwe', 'ieg']:
+        convert_metaline(dictcode)

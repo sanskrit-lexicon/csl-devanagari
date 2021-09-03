@@ -102,4 +102,5 @@ if __name__ == "__main__":
     # Apply appropriate code for transliteration.
     run_code(dictcode)
     # Convert metaline k1, k2 to SLP1.
-    convert_metaline(dictcode)
+    if dictcode not in ['mwe', 'bor', 'ae', 'ieg']:
+        convert_metaline(dictcode)
