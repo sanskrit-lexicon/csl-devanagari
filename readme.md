@@ -10,6 +10,11 @@
 8. Ideal situation should be that there is no difference between both files.
 
 
+# Dependencies
+
+https://pypi.org/project/indic-transliteration/
+
+
 # How to regenerate for a specific dictionary?
 
 `cd scripts; bash redo.sh dict` e.g. `cd scripts; bash redo.sh mw`
