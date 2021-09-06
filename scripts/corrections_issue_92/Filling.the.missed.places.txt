@@ -1,0 +1,945 @@
+acc.txt
+	Line 40826:	{#तैत्तिरीयोपनिषद्#}¦ pra{??}. 7--9 of the Taittirīyāraṇyaka.
+		{#तैत्तिरीयोपनिषद्#}¦ prap. 7--9 of the Taittirīyāraṇyaka.
+	Line 54294:	<HI1><symbol n="C.">C.</symbol> II, 629. 6079 ({??}ānanādaṭīkā).
+		<HI1><symbol n="C.">C.</symbol> II, 629. 6079 (Dānapādaṭīkā).
+	Line 55106:	<>1{??}85. 6034. 8062. II, 7393. 7621. 8883.
+		<>1885. 6034. 8062. II, 7393. 7621. 8883.
+	Line 63055:	<>{??} attributed to Śrīśuka Yatīndra.
+		<>but attributed to Śrīśuka Yatīndra.
+	Line 70850:	<L>16004<pc>1-407,2<k1>भावनोपषद्<k2>भावनोप{??}षद्
+		<L>16004<pc>1-407,2<k1>भावनोपनिषद्<k2>भावनोपनिषद्
+	Line 70851:	{#भावनोप{??}षद्#}¦ IO. 3183. B. 1, 112. Haug 44. Burnell
+		{#भावनोपनिषद्#}¦ IO. 3183. B. 1, 112. Haug 44. Burnell
+	Line 82302:	<L>18549<pc>1-474,1<k1>याचप्रन्ध<k2>याचप्र{??}न्ध
+		<L>18549<pc>1-474,1<k1>याचप्रबन्ध<k2>याचप्रबन्ध
+	Line 82303:	{#याचप्र{??}न्ध#}¦ biography of Yāca, a prince of the Veṅkaṭa-
+		{#याचप्रबन्ध#}¦ biography of Yāca, a prince of the Veṅkaṭa-
+	Line 91923:	<HI1>--Bhavānīsahasranāmayantra. Pet. {??}25. 727. 
+		<HI1>--Bhavānīsahasranāmayantra. Pet. 725. 727. 
+	Line 122654:	<>Hall p. 6. NW. 39{??}.
+		<>Hall p. 6. NW. 392.
+	Line 126709:	<L>28556<pc>1-729,1<k1>सुरोत्तआचार्य<k2>सुरोत्त{??} आचार्य
+		<L>28556<pc>1-729,1<k1>सुरोत्तम आचार्य<k2>सुरोत्तम आचार्य
+		%% Even the preceding entry <L>28555 should also be corrected as सुरोत्तम आचार्य!
+	Line 126710:	{#सुरोत्त{??} आचार्य#}¦
+		{#सुरोत्तम आचार्य#}¦
+	Line 130833:	<L>29411<pc>1-754,1<k1>हयग्रीव<k2>हयग्रीव{??}
+		<L>29411<pc>1-754,1<k1>हयग्रीव<k2>हयग्रीववध
+	Line 130834:	{#हयग्रीव{??}#}¦ a poem, by Bhartṛmeṇṭha. Rājataraṅgiṇī 
+		{#हयग्रीववध#}¦ a poem, by Bhartṛmeṇṭha. Rājataraṅgiṇī 
+	Line 134094:	{#आगमतत्त्वविलास#}¦ {??} tantr. by Raghunātha Tarkavāgīśa.
+		{#आगमतत्त्वविलास#}¦  tantr. by Raghunātha Tarkavāgīśa.
+	Line 134095:	<>L. 318{??} haṇḍa).
+		<>L. 3186 (first khaṇḍa).
+	Line 134098:	{#आगमदीपिका#}¦ {??}r. Mentioned in Āgamatattvavilāsa.
+		{#आगमदीपिका#}¦ tantr. Mentioned in Āgamatattvavilāsa.
+	Line 138699:	<>1883--84. By R. G. Bhandarka{??} Bombay 1887. 8.
+		<>1883--84. By R. G. Bhandarkar. Bombay 1887. 8.
+	Line 140019:	<L>31631<pc>2-008,1<k1>अहोबलशान्<k2>अहोबल शा{??}न्
+		<L>31631<pc>2-008,1<k1>अहोबलशास्त्रिन्<k2>अहोबल शास्त्रिन्
+	Line 140020:	{#अहोबल शा{??}न्#}¦
+		{#अहोबल शास्त्रिन्#}¦
+	Line 171459:	<HI1><symbol n="C.">C.</symbol> Viṣamapadoddyo{??} by Alaka. Peters. 4, 31
+		<HI1><symbol n="C.">C.</symbol> Viṣamapadoddyota by Alaka. Peters. 4, 31
+	Line 172803:	<HI1><symbol n="C.">C.</symbol> {??}adaprakāśikā. ibid.
+		<HI1><symbol n="C.">C.</symbol> Padaprakāśikā. ibid.
+	Line 183606:	<L>42050<pc>3-009,2<k1>आतवृत्ति<k2>आ{??}तवृत्ति
+		<L>42050<pc>3-009,2<k1>आख्यातवृत्ति<k2>आख्यातवृत्ति
+	Line 183607:	{#आ{??}तवृत्ति#}¦ gr. by Merutuṅga Sūri. Bd. 1360.
+		{#आख्यातवृत्ति#}¦ gr. by Merutuṅga Sūri. Bd. 1360.
+	Line 183609:	<L>42051<pc>3-009,2<k1>आगमकल्लतिका<k2>आगमकल्{??}लतिका
+		<L>42051<pc>3-009,2<k1>आगमकल्पलतिका<k2>आगमकल्पलतिका
+	Line 183610:	{#आगमकल्{??}लतिका#}¦ tantr. by Yadunātha. AS p. 16. Hr.
+		{#आगमकल्पलतिका#}¦ tantr. by Yadunātha. AS p. 16. Hr.
+	Line 197311:	{#भवानीभुजङ्ग#}¦ stotra by Śaṅkarācārya. AK 166. Śg. 2, 25{??}
+		{#भवानीभुजङ्ग#}¦ stotra by Śaṅkarācārya. AK 166. Śg. 2, 255
+------------------------
+ae.txt
+	Line 14:	{%Composition”%} {??}{%c.%} {??}{%c.,%}
+		{%Composition”%} {%&c.%} {%&c.,%}
+	Line 39391:	<div n="lb"/>{#????#}
+		%%This line is extraneous; to be removed altogether.
+	Line 89525:	Purvapithi{??}a,
+		Purvapithika, [properly, Pūrvapīṭhikā]
+	Line 89572:	-ber of the {??}antra
+		ber of the Tantra
+------------------------
+ap90.txt
+	Line 86652:	<><ab n="??">S. M.</ab> country. {4} a kind of tree. ({#--रा#})
+		<><ab n="South(ern) Marāṭhā (Mahārāshṭra)">S. M.</ab> country. {4} a kind of tree. ({#--रा#})
+------------------------
+ben.txt
+	Line 103:	<div n="lb">Spr{??}ce (Indian Sentences).
+		<div n="lb">Sprüce (Indian Sentences).
+	Line 150954:	<HI>709, B, 18 ({%mukula%}), Cf. {%hāsta,%} p. 11{??}
+		<HI>709, B, 18 ({%mukula%}), Cf. {%hāsta,%} p. 1113.
+------------------------
+bop.txt
+	Line 1504:	<div n="lb">{#कृत#} fact{??}is) non sui studiosus. IN. 4. 12.
+		<div n="lb">{#कृत#} factus) non sui studiosus. IN. 4. 12.
+	Line 7473:	{#उत्फुल्लनयन#}¦ ({%BAH.%} e praec. et {#नयन#} oculus) late di{??}ctos
+		{#उत्फुल्लनयन#}¦ ({%BAH.%} e praec. et {#नयन#} oculus) late diductos
+	Line 8588:	<div n="lb">nuato {#अ#} in {#उ,#} quâ in re ambae radices eandem ra{??}o-
+		<div n="lb">nuato {#अ#} in {#उ,#} quâ in re ambae radices eandem ratio-
+	Line 8589:	<div n="lb">nem inter se habent quam gothica Praeterita sing. {??} pl.
+		<div n="lb">nem inter se habent quam gothica Praeterita sing. et pl.
+	Line 8605:	{#उलूक#}¦ {%m.%} ulula (lat. {%ulula,%} germ. vet. {%uwila, ûla,%} {??}strum
+		{#उलूक#}¦ {%m.%} ulula (lat. {%ulula,%} germ. vet. {%uwila, ûla,%} nostrum
+	Line 8933:	<div n="lb">digito{??} habens. H. 2. 6.
+		<div n="lb">digitos habens. H. 2. 6.
+	Line 9891:	{#कंस्#}¦ 2. {%A.%} ({#गतिशातनयोः;#} scribitur {#कस्,#} gr. 110.{??}
+		{#कंस्#}¦ 2. {%A.%} ({#गतिशातनयोः;#} scribitur {#कस्,#} gr. 110^a).,
+	Line 35602:	<div n="lb">{%{??}tim in dial. Prâcrit.%} (v. Delii Radices Prâcr. p. 19.).
+		<div n="lb">{%tim in dial. Prâcrit.%} (v. Delii Radices Prâcr. p. 19.).
+	Line 41789:	{#रिक्थ#}¦ {%n.%} (r. {#रिच्#} s. {#थ#}) facultates, bona, divitiae, opesi {??}
+		{#रिक्थ#}¦ {%n.%} (r. {#रिच्#} s. {#थ#}) facultates, bona, divitiae, opes. MAN.
+	Line 47078:	{#वीतमत्सर#}¦ ({%BAH.%} e {#वीत#} qui abiit, profectus, et {??}
+		{#वीतमत्सर#}¦ ({%BAH.%} e {#वीत#} qui abiit, profectus, et {#मत्सर#} in-
+	Line 54514:	<div n="lb">{??} {%K.%} {#नाशे#} {%V.%}) finire, finem facere, occidere, destruere.
+		<div n="lb">{%K.%} {#नाशे#} {%V.%}) finire, finem facere, occidere, destruere.
+------------------------
+bor.txt
+	Line 36887:	<div n="lb"/>1.) (??). </div><div n="I">II To extricate, free q. v.: {#मोचयति।#}</div>
+		%% Borooah himself had it marked thus. However, this (??) should go with the prev. sense (I). 
+	Line 39708:	<div n="lb"/>{#अष्टापदक्रीडा#} (??), <div n="xe">{%d, -board:%}</div> <div n="xs">{#अष्टापदम्#}</div> (?).</div>
+		%% Borooah himself had it marked thus.
+	Line 51142:	<div n="lb"/>{@FLAMINGO:@}¦ {#पक्षिविशेषः; *शोणच्छदः, मरालः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 52924:	<div n="lb"/>(??). </div><div n="I">II Fig.: {#संहरति#} ({#हृ,#} c. 1.). v. To
+		%% Borooah himself had it marked thus. However, this (??) should go with the prev. sense (I). 
+	Line 56721:	<div n="lb"/>{@GILD@}¦ (v.): {#स्वर्णलं#} <div n="xe">{%or%}</div> <div n="xs">{#हेमलं#}</div> (f. {#लां#}) {#करोति#} (??);
+		%% Borooah himself had it marked thus.
+	Line 56726:	<div n="lb"/>{@GILDED, GILT:@}¦ {#स्वर्णलः#} <div n="xe">{%or%}</div> <div n="xs">{#हेमलः#}</div> ({#ला, लं#}) (??);
+		%% Borooah himself had it marked thus.
+	Line 56731:	<div n="lb"/>{@GILDER:@}¦ expr. by verb, {#स्वर्णरञ्जकः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 58045:	<div n="lb"/>business: {#प्रतिष्ठा#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 58056:	<div n="lb"/>{#हंसपत्रम्#} (??). <div n="xe">{%The ruddy g.:%}</div> <div n="xs">{#चक्रवाकः#}</div> <div n="xe">{%The striped%}
+		%% Borooah himself had it marked thus.
+	Line 60260:	<div n="lb"/>{@HAIRCLOTH:@}¦ {#लो(रो)मपटः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 61150:	<div n="lb"/>{@HARPY:@}¦ <div n="I">I A fabulous monster: {#क्षुधा#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 62112:	<div n="lb"/>{@HEDGE-SPARROW:@}¦ {#कलविङ्कः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 63002:	<div n="lb"/>{@HIGH-HEELED:@}¦ {#उच्चतलः#} ({#ला, लं#}) (??).
+		%% Borooah himself had it marked thus.
+	Line 63039:	<div n="lb"/>{@HIGH-SEASONED:@}¦ {#सुसंस्कृतः#} ({#ता, तं#}) (??).
+		%% Borooah himself had it marked thus.
+	Line 63378:	<div n="lb"/>{@HOBNAIL:@}¦ {#स्थूलकीलः#} and sim. co (??).
+		<div n="lb"/>{@HOBNAIL:@}¦ {#स्थूलकीलः#} and sim. comp.s. (?)
+	Line 63386:	<div n="lb"/>{@HOBSON'S CHOICE:@}¦ {#॥॥॥भृत्याभिरुचिः#} (??).
+		%% Borooah himself had it marked thus.
+		%% This clearly indicates the need for "taking out" all punctuations out of Devanagari strings. Here it is ellipsis that should be present.
+	Line 63901:	<div n="lb"/>carriage: {#शिरस्#} (n.) (??). </div><div n="I">III Of a serpent:
+		%% Borooah himself had it marked thus.
+	Line 64349:	<div n="lb"/>{@HOSTAGE:@}¦ {#बन्धकः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 64544:	<div n="lb"/>{@HOUSEKEEPING:@}¦ {#गृहरक्षा#} (??); {#गृहावेक्षणम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 64569:	<div n="lb"/>{@HOUSE-TAX:@}¦ {#गृहकरः#} (??); {#गृहशुल्कम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 65201:	<div n="lb"/>{@HYADS:@}¦ {#पञ्चतारम्, -कम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 65386:	<div n="lb"/>{@HYPOTHESIS:@}¦ {#अनुभवः#} (??); {#अनुमानम्#} (= inference).
+		%% Borooah himself had it marked thus.
+	Line 65395:	<div n="lb"/>{@HYPOTHETICALLY:@}¦ {#अनुभवेन#} <div n="xe">{%or%}</div> <div n="xs">{#अनुभवपूर्वकम्#}</div> (??).
+		%% Borooah himself had it marked thus.
+	Line 65403:	<div n="lb"/>{@HYSTERIA, HYSTERICS:@}¦ {#हर्षमूर्च्छा#} (??).
+		%% Borooah himself had it marked thus.
+	Line 65407:	<div n="lb"/>{@HYSTERIC, -AL;@}¦ {#हर्षभूर्च्छालः#} ({#ला, लं#}) (??).
+		%% Borooah himself had it marked thus.
+	Line 65427:	<div n="lb"/>{@IBIS:@}¦ {#पक्षिभेदः; क्रौञ्चः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 65497:	<div n="lb"/>{@IDEALIST:@}¦ {#बाह्यशून्यवादिन्#} (f. {#नी#}) (??).
+		%% Borooah himself had it marked thus.
+	Line 65539:	<div n="lb"/>{@IDIOM:@}¦ {#*वाकपद्धतिः, रीतिः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 65553:	<div n="lb"/>{@IDIOSYNCRASY:@}¦ {#व्यक्तिगतो भावः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 65629:	<div n="lb"/>{@IDYL, IDYLL:@}¦ {#गीतकाव्यम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 67168:	<div n="lb"/>(??).
+		%% Borooah himself had it marked thus.
+	Line 68109:	<div n="lb"/>{@INCONVERTIBLE:@}¦ {#अपरिवर्तनीयः#} ({#या, यं#}) (??);
+		%% Borooah himself had it marked thus.
+	Line 68248:	<div n="lb"/>{@INCRUST:@}¦ <div n="1">(1) expr. by subs; </div><div n="1">(2) {#तिरस्करोति#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 68252:	<div n="lb"/>{@INCRUSTATION:@}¦ <div n="1">(1) {#बाह्यपटलम्#} (??); </div><div n="1">(2) {#तिरस्कारः#}
+		%% Borooah himself had it marked thus.
+	Line 68487:	<div n="lb"/>Sent for: {#याचितः#} ({#ता, तं#}) (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 68491:	<div n="lb"/>{@INDENTURE:@}¦ {#नियमपत्रम्#} (??)
+		%% Borooah himself had it marked thus.
+	Line 68701:	<div n="lb"/>({%in Gram.%}): {#प्रथमपुरुषोक्तिः#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 69737:	<div n="lb"/>{@INGRAINED:@}¦ {#दृढरञ्जितः#} ({#ता, तं#}) (??).
+		%% Borooah himself had it marked thus.
+	Line 69959:	<div n="lb"/>{#वस्तिः#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 70545:	<div n="lb"/>{#दर्शकत्वम्#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 70690:	<div n="lb"/>{#सहजज्ञानम्#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 70703:	<div n="lb"/>{@INSTINCTIVELY:@}¦ <div n="1">(1) {#अन्तःप्रवृत्त्या#} (??); </div><div n="1">(2) {#स्वत #}
+		%% Borooah himself had it marked thus.
+	Line 71986:	<div n="lb"/>c. 7.) </div><div n="I">V Of money: {#प्रयोजयति#} (??), <div n="xe">{%i. your%}
+		%% Borooah himself had it marked thus.
+	Line 73410:	<div n="lb"/>{@JUDGMENT-DAY:@}¦ {#धर्मविचारदिनम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 73825:	<div n="lb"/>{@KERB-STONE:@}¦ {#निरोधोपलः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 73872:	<div n="lb"/>{@KEY-HOLE:@}¦ {#अङ्कुटच्छिद्रम्#} and sim. comp.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 74758:	<div n="lb"/>{@LAMINA:@}¦ {#शकलम्#} (??): v. Plate, scale.
+		%% Borooah himself had it marked thus.
+	Line 74789:	<div n="lb"/>{@LAMPREY:@}¦ {#कुञ्चिका#} (??): {#मत्स्यविशेषः।#}
+		%% Borooah himself had it marked thus.
+	Line 75097:	<div n="lb"/>{@LARVA:@}¦ {#कोषः#} ({#शः#}) (??).
+		%% Borooah himself had it marked thus.
+	Line 75189:	<div n="lb"/>{@LATCHET:@}¦ of a shoe: {#सूत्रम्#} (??); {#बन्धनी#} (??).
+		%% Borooah himself had it marked thus.
+	Line 75267:	<div n="lb"/>Laxity, freedom: {#गुरुलाघवम्#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 75795:	<div n="lb"/>{@LEAN@}¦ (subs.): {#मेदोहीनं मांसम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 76168:	<div n="lb"/>{@LEGISLATE:@}¦ {#विधिं विदधाति#} ({#धा,#} c. 3 (??).
+		%% Borooah himself had it marked thus.
+	Line 76172:	<div n="lb"/>{@LEGISLATION:@}¦ {#विधिविधानम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 76176:	<div n="lb"/>{@LEGISLATIVE:@}¦ {#विधिविधातृ#} (f. {#त्री#}) (??); {#व्यवस्थापक#}
+		%% Borooah himself had it marked thus.
+	Line 76181:	<div n="lb"/>{@LEGISLATOR:@}¦ {#विधिविधातृ#} (m (??); {#व्यवस्था-#}
+		%% Borooah himself had it marked thus.
+	Line 76182:	<div n="lb"/>{#कारकः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 76187:	<div n="lb"/>{#पकाः#} (m. pl (??).
+		%% Borooah himself had it marked thus.
+	Line 76191:	<div n="lb"/>{@LEGITIMACY:@}¦ <div n="I">I Legality: {#वैधता#} (??). </div><div n="I">II Of
+		%% Borooah himself had it marked thus.
+	Line 76192:	<div n="lb"/>birth: {#सुजन्मता#} (??). </div><div n="I">III Genuineness: {#यथार्थता।#}</div>
+		%% Borooah himself had it marked thus.
+	Line 76374:	<div n="lb"/>{@LESSOR@}¦ (v.): {#पट्टदातृ#} (f. {#त्री#}) (??).
+		%% Borooah himself had it marked thus.
+	Line 76653:	<div n="lb"/>-fully: {#मुक्तहस्तम्।#} </div><div n="I">III Not strictly: {#असंयतः#} (??);
+		%% Borooah himself had it marked thus.
+	Line 76706:	<div n="lb"/>(n. pl (?); {#पुस्तकसंग्रहः#} (??); etc. </div><div n="I">II The
+		%% Borooah himself had it marked thus.
+	Line 76863:	<div n="lb"/>{%governor:%}</div> <div n="xs">{#अनुशासकः#}</div> (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 76974:	<div n="lb"/>R. xi. 12. </div><div n="I">VII Of colours: {#लघु#} (f. {#ध्वी#}) (??).
+		%% Borooah himself had it marked thus.
+	Line 77219:	<div n="lb"/>{@LIMITEDLY:@}¦ {#निबद्धम्#} (??); {#परिमितम्#} (= modera-
+		%% Borooah himself had it marked thus.
+	Line 77379:	<div n="lb"/>{@LINK@}¦ (subs.): <div n="I">I As of a chain: {#सन्धिः#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 77408:	<div n="lb"/>{%of the day:%}</div> <div n="xs">{#तत्कालसिंहः#}</div> (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 77416:	<div n="lb"/>{@LION-METTLED:@}¦ {#सिंहसत्त्व#} (f. {#त्त्वा#}) (??) and sim.
+		%% Borooah himself had it marked thus.
+	Line 77873:	<div n="lb"/>{@LOCKER:@}¦ {#पेटिका#} (??).
+		%% Borooah himself had it marked thus.
+	Line 77882:	<div n="lb"/>{@LOCKSMITH:@}¦ {#तालकारः#} (?); {#तालककारः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 77902:	<div n="lb"/>{@LOCUST:@}¦ {#शलभः#} <div n="xe">{%or%}</div> <div n="xs">{#शरमः#}</div> (??).
+		%% Borooah himself had it marked thus.
+	Line 77996:	<div n="lb"/>{@LOGOMACHY:@}¦ {#वितण्डा#} (?); {#शब्दविवादः#} (??), Wil-
+		%% Borooah himself had it marked thus.
+	Line 78429:	<div n="lb"/>{@LOTTERY:@}¦ {#गुटिकापातः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 78853:	<div n="lb"/>{@LULLABY:@}¦ {#निद्राप्रदं गीतम्#} (??) and sim. comp.s.
+		%% Borooah himself had it marked thus.
+	Line 78865:	<div n="lb"/>{@LUMBER@}¦ (subs.): {#निरर्थकद्रव्यम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 79237:	<div n="lb"/>{@MACERATION:@}¦ perh. {#द्रावणम्, पाचनम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 79407:	<div n="lb"/>(??).
+		%% Borooah himself had it marked thus.
+	Line 79873:	<div n="lb"/>{@MALLEABILITY:@}¦ {#ताडनवर्धनीयता#} (??).
+		%% Borooah himself had it marked thus.
+	Line 79877:	<div n="lb"/>{@MALLEABLE:@}¦ {#ताडनवर्धनीयः#} ({#या, यं#}) (??).
+		%% Borooah himself had it marked thus.
+	Line 79881:	<div n="lb"/>{@MALLET:@}¦ <div n="1">(1) {#मुद्गरः;#} </div><div n="1">(2) {#घनः#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 80448:	<div n="lb"/>{@MARGRAVE:@}¦ {#सामन्तः#} (??). <div n="xe">{%M. ine:%}</div> <div n="xs">{#सामन्तवधूः#}</div> (?).
+		%% Borooah himself had it marked thus.
+	Line 80713:	<div n="lb"/>(??).
+		%% Borooah himself had it marked thus.
+	Line 80863:	<div n="lb"/>(??).
+		%% Borooah himself had it marked thus.
+	Line 81448:	<div n="lb"/><div n="1">(2) {#संस्कारचालितः#} ({#ता, तं#}) (??). </div><div n="I">III Belong-
+		%% Borooah himself had it marked thus.
+	Line 81455:	<div n="lb"/>{# तं#}) (??); </div><div n="1">(2) {#न बुद्धिपूर्वम्#} etc., (= not inten-
+		%% Borooah himself had it marked thus.
+	Line 81860:	<div n="lb"/>{@MEMORANDUM:@}¦ {#स्मरणम्,-पत्रम्, -लेखः,#} etc. (??).
+		%% Borooah himself had it marked thus.
+	Line 82038:	<div n="lb"/>(??).
+		%% Borooah himself had it marked thus.
+	Line 82328:	<div n="lb"/>(??).
+		%% Borooah himself had it marked thus.
+	Line 82373:	<div n="lb"/>{@METEOROLOGICAL:@}¦ {#आकाशीयः#} ({#या, यं#}) (??);
+		%% Borooah himself had it marked thus.
+	Line 82986:	<div n="lb"/>{@MINIM:@}¦ in music: {#अर्द्धस्वरः#} (??); {#दीर्धस्वरः,#}
+		%% Borooah himself had it marked thus.
+	Line 85516:	<div n="lb"/>{%m. ing (we) get%} (1/6): {#गुणिते जातम्#} (??), Li.; </div><div n="1">(2)
+		<div n="lb"/>{%m. ing (we) get%} (1/6): {#गुणिते जातम्#} {#१/६#}, Li.; </div><div n="1">(2)
+	Line 86924:	<div n="lb"/>{@NEGUS:@}¦ {#पानीयविशेषः; मैरेयम्;#} (??) {#*माधवं मधु।#}
+		%% Borooah himself had it marked thus.
+	Line 87250:	<div n="lb"/>pen: {#कलमाग्रम्#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 87254:	<div n="lb"/>{@NIB@}¦ (v.): {#तीक्ष्णीकरोति#} (= to sharpen) (??).
+		%% Borooah himself had it marked thus.
+	Line 87268:	<div n="lb"/>-dious, scrupulous: {#सूक्ष्मप्रियः#} ({#या, यं#}) (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 89486:	<div n="lb"/>{#सक्तासक्तम्#} (??); (b) <div n="xe">{%o. -hand:%}</div> <div n="xs">{#विना समाधानेन#}</div>
+		%% Borooah himself had it marked thus.
+	Line 89529:	<div n="lb"/>{%o.:%}</div> <div n="xs">{#परामियोगं करोति#}</div> (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 89577:	<div n="lb"/>{@OFFERTORY:@}¦ {#उपहारस्तोत्रम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 90603:	<div n="lb"/>(??). </div><div n="I">II The body of musical performers:
+		%% Borooah himself had it marked thus.
+	Line 90604:	<div n="lb"/>{#वादित्रवादकाः#} (m. pl (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 91269:	<div n="lb"/><div n="1">(2) {#प्रमथति#} ({#मथ्,#} c. 1.) (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 91540:	<div n="lb"/>{@OVERDUE:@}¦ {#अतीतशोधनकालः#} ({#ला, लं#}) (??) and
+		%% Borooah himself had it marked thus.
+	Line 91741:	<div n="lb"/>{@OVERSEER:@}¦ {#परिदर्शकः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 92061:	<div n="lb"/>{#पटलम्#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 92065:	<div n="lb"/>{@PACK@}¦ (v.): {#पटलीकरोति#} (??). <div n="xe">{%P. off:%}</div> <div n="xs">{#अपसारयति#}</div>
+		%% Borooah himself had it marked thus.
+	Line 92075:	<div n="lb"/>{@PACKET:@}¦ <div n="1">(1) {#पोट(ट्ट)लिका#} (?); </div><div n="1">(2) {#कूर्चः#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 92167:	<div n="lb"/>{@PAGE@}¦ (v.): {#पृष्ठाः अङ्कयति#} <div n="xe">{%or%}</div> <div n="xs">{#पृष्ठाङ्कनं करोति#}</div> (??).
+		%% Borooah himself had it marked thus.
+	Line 93458:	<div n="lb"/>comp.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 93528:	<div n="lb"/>{@PASQUINADE:@}¦ {#कौलीनगीतम्#} (??) and sim. comp.s.
+		%% Borooah himself had it marked thus.
+	Line 95578:	<div n="lb"/>{@PERSPECTIVE:@}¦ {#यथादृश्यचित्रालेखः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 95970:	<div n="lb"/>{@PHIAL:@}¦ {#काचकूपिका#} (??).
+		%% Borooah himself had it marked thus.
+	Line 96674:	<div n="lb"/>{@PINEAPPLE:@}¦ {#भूपनसः#} <div n="xe">{%or%}</div> <div n="xs">{#नानारसः#}</div> (??) (Use n. for
+		%% Borooah himself had it marked thus.
+	Line 96985:	<div n="lb"/>{@PITMAN:@}¦ {#आवटिक#} (f. {#की#} ??).
+		%% Borooah himself had it marked thus.
+	Line 97189:	<div n="lb"/>{#मन्त्रणा#} (= plot). </div><div n="I">II A sketch: {#चित्रलिपिः#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 97195:	<div n="lb"/><div n="I">II To design: {#चित्रलिपिं करोति#} (??,: with
+		%% Borooah himself had it marked thus.
+	Line 97284:	<div n="lb"/>{#चूर्णवालुलेपः#} (??). </div><div n="I">II For wounds: {#उपनाहः।#}</div>
+		%% Borooah himself had it marked thus.
+	Line 97749:	<div n="lb"/>{@PLUG@}¦ (subs.): {#रोधनी, अव-, सं-#} (??).
+		%% Borooah himself had it marked thus.
+	Line 97854:	<div n="lb"/>{@PLURALIST:@}¦ {#बहुवृत्तिभोगिन्#} (f. {#नी#}: ??).
+		%% Borooah himself had it marked thus.
+	Line 97890:	<div n="lb"/>{@POACHER:@}¦ {#जाङ्गलचौरः#} and sim. comp.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 98215:	<div n="lb"/>{#राज्यतन्त्राणि#} (??).
+		%% Borooah himself had it marked thus.
+	Line 98220:	<div n="lb"/>comp.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 98467:	<div n="lb"/>{@POP@}¦ (subs.): <div n="1">(1) perh. {#फुत्कारः;#} </div><div n="1">(2) {#पट्शब्दः#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 98696:	<div n="lb"/>{@PORTMANTEAU:@}¦ {#चर्मपेटिका#} (??) and sim. comp.s.
+		%% Borooah himself had it marked thus.
+	Line 99049:	<div n="lb"/>{#अवरोधः, -र्शाला#} (??).</div>
+		<div n="lb"/>{#अवरोधः, -शाला#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 100057:	<div n="lb"/>expr. (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 100263:	<div n="lb"/>comp.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 100285:	<div n="lb"/>{#वायवो भरः#} <div n="xe">{%or%}</div> <div n="xs">{#भारः#}</div> (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 100525:	<div n="lb"/>{@PRICE-CURRENT:@}¦ {#पण्यमूल्यनिर्धण्टः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 100887:	<div n="lb"/>{#विशेषाधिकारभाज्#} (mfn.) and sim. comp.s. (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 101459:	<div n="lb"/>{@PROGRAMME:@}¦ {#सूचिपत्रम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 103352:	<div n="lb"/>{#प्रान्तः#} (??). </div><div n="I">II A drink: no equiv.: {#मधु#} (n.)
+		%% Borooah himself had it marked thus.
+	Line 104091:	<div n="lb"/>(??). </div><div n="I">IV In Math.: <div n="xe">{%unknown q.:%}</div> <div n="xs">{#अव्यक्त-#}
+		%% Borooah himself had it marked thus.
+	Line 104096:	<div n="lb"/>{@QUARANTINE:@}¦ {#गमनागमन-#} <div n="xe">{%or%}</div> <div n="xs">{#संसर्ग- प्रतिषेधः#}</div> (??).
+		%% Borooah himself had it marked thus.
+	Line 104621:	<div n="lb"/>comp.s (??).
+		<div n="lb"/>comp.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 104795:	<div n="lb"/>{@RABBET:@}¦ {#सन्धिकाष्ठम्#} (??).
+		%% Borooah himself had it marked thus.
+	Line 107723:	<div n="lb"/>{@RELIQUARY:@}¦ {#शिष्टाधारः#} and sim. comp.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 108443:	<div n="lb"/>sim. comp. s (??). </div><div n="I">II Respite: {#विश्रामः।#} </div><div n="I">III
+		<div n="lb"/>sim. comp.s. (??). </div><div n="I">II Respite: {#विश्रामः।#} </div><div n="I">III
+		%% Borooah himself had it marked thus.
+	Line 108468:	<div n="lb"/>{@REPRISAL:@}¦ {#प्रत्यपहारः#} and sim. expr. s (??).
+		<div n="lb"/>{@REPRISAL:@}¦ {#प्रत्यपहारः#} and sim. expr.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 111987:	<div n="lb"/>(??).
+		%% Borooah himself had it marked thus.
+	Line 112068:	<div n="lb"/>{@SAFE-CONDUCT:@}¦ {#अभयपत्रम्#} and sim. comp. s (??).
+		<div n="lb"/>{@SAFE-CONDUCT:@}¦ {#अभयपत्रम्#} and sim. comp.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 112305:	<div n="lb"/>{@SALT@}¦ (v.): {#लवणीकरोति#} <div n="xe">{%or%}</div> <div n="xs">{#लवणयति#}</div> (nomi. ??).
+		%% Borooah himself had it marked thus.
+	Line 112514:	<div n="lb"/>{@SANDSTONE:@}¦ {#सिकतोपलः,#} and sim. comp. s. (??).
+		<div n="lb"/>{@SANDSTONE:@}¦ {#सिकतोपलः,#} and sim. comp.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 112737:	<div n="lb"/>(f. {#त्री#}), etc. (??).
+		<div n="lb"/>(f. {#त्री#}), etc. (??).
+		%% Borooah himself had it marked thus.
+	Line 112978:	<div n="lb"/>{@SAWPIT:@}¦ {#क्रकचगतिः#} and sim. comp. s (??).
+		<div n="lb"/>{@SAWPIT:@}¦ {#क्रकचगतिः#} and sim. comp.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 114062:	<div n="lb"/>(??).
+		%% Borooah himself had it marked thus.
+	Line 114547:	<div n="lb"/>(f. {#खी#} (?). Ph.: <div n="xe">{%s. life:%}</div> <div n="xs">{#विविक्तजीवनम्#}</div> (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 114940:	<div n="lb"/>{@SEMITONE:@}¦ {#स्वरावरोहः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 115499:	<div n="lb"/>-dant. </div><div n="I">II At Oxford: {#परिचारकः#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 115847:	<div n="lb"/>{@SEXTON:@}¦ {#समाधिखनकः#} and sim. comp. s. (??).
+		<div n="lb"/>{@SEXTON:@}¦ {#समाधिखनकः#} and sim. comp.s. (??).
+		%% Borooah himself had it marked thus.
+	Line 116773:	<div n="lb"/>(??).
+		%% Borooah himself had it marked thus.
+	Line 118294:	<div n="lb"/>A. </div><div n="I">II Fig., outline: {#गठनम्#} (??).</div>
+		%% Borooah himself had it marked thus.
+	Line 121426:	<div n="lb"/>{@SPELT:@}¦ a kind of corn: {#नीवारः#} (??).
+		%% Borooah himself had it marked thus.
+	Line 121509:	<div n="lb"/>{@SPIKE@}¦ (v.): {#कीलयति#} (nomi:??).
+		<div n="lb"/>{@SPIKE@}¦ (v.): {#कीलयति#} (nomi. ??).
+		%% Borooah himself had it marked thus.
+%% Three addl. corrections for {?} cases.
+	Line 14568:	<div n="lb"/>-ing: “{?}” ‘{#इत्याकारः संयोगचिह्नविशेष:#} </div><div n="I">IV A pair,
+		<div n="lb"/>-ing: “}” ‘{#इत्याकारः संयोगचिह्नविशेष:#} </div><div n="I">IV A pair,
+	Line 19875:	<div n="lb"/>{#पीठम्#} (=stool): </div><div n="1">(3) {#आसनम्#} (= any seat). </div><div n="I">II {?}
+		<div n="lb"/>{#पीठम्#} (=stool): </div><div n="1">(3) {#आसनम्#} (= any seat). </div><div n="I">II.
+	Line 96933: <div n="lb"/>{@PITHLESS:@}¦ <div n="1">(1) {#असारः#} <div n="xe">{%or%}</div> <div n="xs">{#निःसारः#}</div> ({#रा, {?}#}); </div><div n="1">(2)
+		<div n="lb"/>{@PITHLESS:@}¦ <div n="1">(1) {#असारः#} <div n="xe">{%or%}</div> <div n="xs">{#निःसारः#}</div> ({#रा, रं#}); </div><div n="1">(2)
+%% It is strongly suggested to change all these (??) cases after incorporating the corrections as indicated above to (?) which is actually the intended marking of doubtful cases [~2700 of (?) in this text, as against ~150 of (??)]. And this is mostly the norm across all the works, AFAIK.
+------------------------
+bur.txt
+	Line 21141:	[{%ś, ṣ, s, h, s,%} {??} devant {%k,%} {??} devant {%p,%} et l'<s1 slp1="anusvAra">anusvāra</s1>
+		[{%ś, ṣ, s, h, s,%} ᳲ devant {%k,%} ᳲ devant {%p,%} et l'<s1 slp1="anusvAra">anusvāra</s1>
+		%% The ᳲ character is ardhavisarga, u+1CF2
+	Line 28445:	choses, <ab>Vd.</ab>: {%brav{??}lu ya u tac ciketat,%} qu'il le dise, celui
+		choses, <ab>Vd.</ab>: {%bravitu ya u tac ciketat,%} qu'il le dise, celui
+	Line 40679:	{%t,%} à {??} et même à {%s.%} L'articulation palatale de {#च#}
+		{%t,%} à φ et même à {%s.%} L'articulation palatale de {#च#}
+		%% This φ character is Greek small phi, u+03C6
+		%% This entry shows that quite many Greek letters are mistakenly treated/marked as Sanskrit!! Needs a through checking throughout the text for such errors.
+	Line 52505:	{#तोटक#}¦ {%toṭaka%} <ab>n.</ab> rhythme qui se scande ainsi: {??}
+		{#तोटक#}¦ {%toṭaka%} <ab>n.</ab> rhythme qui se scande ainsi: ˘˘¯ ˘˘¯ ˘˘¯ ˘˘¯
+	Line 110277:	égale à 1{??}3 du {%lava%} ou à 100 {%truṭis%} [0”, 0266].
+		égale à 1/3 du {%lava%} ou à 100 {%truṭis%} [0”, 0266].
+	Line 117751:	les Jaenas, {??} || Trou fart à un mur dans un mauvais dessein.
+		les Jaenas, ❈ || Trou fart à un mur dans un mauvais dessein.
+		%% This ❈ character (u+2748) belongs to Dingbats block of Unicode, which is almost close to the symbol (but rotated by 45 degrees).
+		%% Probably it is better to have it as an embedded picture (cropped from the scan); this image is better than the one at WIL.
+	Line 132997:	augure {??} || Libertin.
+		augure 卐 || Libertin.
+		%% This 卐 character is u+5350.
+	Line 133262:	répond au {??} grec et au {??}, <ab>qqf.</ab> au {%c%} ou au {%g%} latin et au
+		répond au χ grec et au θ, <ab>qqf.</ab> au {%c%} ou au {%g%} latin et au
+		%% χ is Greek small chi, u+03C7; θ is Greek small theta, u+03B8.
+------------------------
+gra.txt
+	Line 48766:	{@bhid@}¦ [= <ab>lat.</ab> find-o (??) go. beit-a],1) {%spalten%} [<ab>A.</ab>]; 2) Wehren [<ab>A.</ab>] {%durchbrechen;%} 3) Bahnen <lbinfo n="3"/> [<ab>A.</ab>] {%brechen;%} 4) Gefässe, Behälter, <ab>u. s. w.</ab> [<ab>A.</ab>] {%zerschlagen, zerbrechen;%} 4) Burgen [<ab>A.</ab>] {%spalten, zertrümmern;%} 6) Thiere, Dämonen <lbinfo n="5"/> <ab>u. s. w.</ab> [<ab>A.</ab>] {%erschlagen;%} 7) {%verschmähen, abweisen%} [<ab>A.</ab>]; 8) <ab>Desid.</ab> {%zu erschlagen trachten%} <lbinfo n="5"/> [<ab>A.</ab>].
+		{@bhid@}¦ [= <ab>lat.</ab> find-o ⁓ <ab>go.</ab> beit-a],1) {%spalten%} [<ab>A.</ab>]; 2) Wehren [<ab>A.</ab>] {%durchbrechen;%} 3) Bahnen <lbinfo n="3"/> [<ab>A.</ab>] {%brechen;%} 4) Gefässe, Behälter, <ab>u. s. w.</ab> [<ab>A.</ab>] {%zerschlagen, zerbrechen;%} 4) Burgen [<ab>A.</ab>] {%spalten, zertrümmern;%} 6) Thiere, Dämonen <lbinfo n="5"/> <ab>u. s. w.</ab> [<ab>A.</ab>] {%erschlagen;%} 7) {%verschmähen, abweisen%} [<ab>A.</ab>]; 8) <ab>Desid.</ab> {%zu erschlagen trachten%} <lbinfo n="5"/> [<ab>A.</ab>].
+		%% There are 6 more places in the text, where this "go." should be marked as an abbr.
+		%% There are couple of such spl. characters in the text; for a sandhi-split (combining double breve below  ͜  , u+035C), for an ellipsis (wavy dash 〰, u+3030), … etc.
+		%% This '⁓' (swung dash, u+2053) character's significance needs to be found yet. Looks like "swung dash (a punctuation mark used in text to indicate the omission of a word)" is what it is for!
+------------------------
+gst.txt
+	Line 1487:	<div n="lb">and one Spondaeus ({??}), named also {#पङ्क्ति#} and {#हंस#}.
+		<div n="lb">and one Spondaeus (¯˘˘¯¯), named also {#पङ्क्ति#} and {#हंस#}.
+	Line 6389:	<div n="lb">from the Persian. {??}. E. {#अञ्ज्,#} aff. {#ईरन्#}.
+		<div n="lb">from the Persian انجیر. E. {#अञ्ज्,#} aff. {#ईरन्#}.
+		%% This might have to be appropriately tagged for the script.
+	Line 8258:	<div n="lb">in each line: {??} Also called
+		<div n="lb">in each line: ˘¯˘¯ | ˘˘˘˘¯˘¯˘¯. Also called
+	Line 8586:	<div n="lb">line: {??} Also called
+		<div n="lb">line: ˘˘¯˘˘¯˘¯˘¯ | ˘˘˘¯˘¯¯. Also called
+	Line 8837:	<div n="lb">line:{??} Also called
+		<div n="lb">line: ¯˘¯˘¯˘¯˘ | ¯˘¯˘¯˘¯˘. Also called
+	Line 10909:	<div n="lb">to each: {??},
+		<div n="lb">to each: ˘˘˘˘¯˘¯˘˘˘¯ । ˘¯˘˘˘¯˘¯˘˘˘¯.
+	Line 15728:	<div n="lb">each line: {??} E. {#अ#} neg. and {#अवसित#}.
+		<div n="lb">each line: ˘˘˘˘¯¯¯˘˘¯¯. E. {#अ#} neg. and {#अवसित#}.
+	Line 18390:	<div n="lb">following eleven syllables in each: {??}
+		<div n="lb">following eleven syllables in each: ¯˘˘¯¯ । ˘˘˘˘¯¯.
+	Line 22938:	<div n="lb">for {??} |. ({#‘यद्यपि छन्दःशास्त्रे सानुस्वारस्य गुरुत्वमनुशिष्टं#}
+		<div n="lb">for ˘¯˘ |. ({#‘यद्यपि छन्दःशास्त्रे सानुस्वारस्य गुरुत्वमनुशिष्टं#}
+	Line 33524:	<div n="lb">{??}, and the second: of the following
+		<div n="lb">˘˘˘˘˘˘¯˘¯˘¯, and the second: of the following
+	Line 33525:	<div n="lb">twelve: {??} ||. E. {#अपर#} and {#वक्त्र#}.
+		<div n="lb">twelve: ˘˘˘˘¯˘˘¯˘¯˘¯ ||. E. {#अपर#} and {#वक्त्र#}.
+	Line 33716:	<div n="lb">{??} | {??}. <sup>5</sup> The name of several
+		<div n="lb">˘˘˘˘˘˘¯ | ˘¯˘˘¯˘¯. <sup>5</sup> The name of several
+	Line 35056:	<div n="lb">{??}
+		<div n="lb">¯¯¯˘˘˘˘˘˘ । ˘˘˘˘˘˘ । ˘˘˘˘˘˘ । ˘˘¯¯¯.
+	Line 45501:	<>R{??} Q. C. G. Schroeter, edit. by J. Marshman. To which is pre-
+		%% Lines 45468-45655 are part of publisher's advertisement and should be deleted from the file.
+	Line 45502:	<>{??} Grammar of the Bhotanta language by Schroeter, edited by
+		%% Lines 45468-45655 are part of publisher's advertisement and should be deleted from the file.
+	Line 53977:	<div n="lb">{#दस्यून्प्र मृण कुत्स्येन प्र सूरश्च{??} वृहतादभीके#} ({%Sāy.:%} = {#समीपे#}
+		<div n="lb">{#दस्यून्प्र मृण कुत्स्येन प्र सूरश्चक्रं वृहतादभीके#} ({%Sāy.:%} = {#समीपे#}
+	Line 54258:	<div n="lb">mātrās and a Scolius ({??}), or of a Dactylus ({??}),
+		<div n="lb">mātrās and a Scolius (˘¯˘), or of a Dactylus (¯˘˘),
+	Line 54259:	<div n="lb">a Iambus ({??}) and a Scolius, or of a Scolius, a Tri-
+		<div n="lb">a Iambus (˘¯) and a Scolius, or of a Scolius, a Tri-
+	Line 54260:	<div n="lb">brachys ({??}) and a Scolius. E. {#ईर्#} with {#अभि,#} kṛt aff.
+		<div n="lb">brachys (˘˘˘) and a Scolius. E. {#ईर्#} with {#अभि,#} kṛt aff.
+------------------------
+ieg.txt
+	Line 14380:	<div n="lb">cash, the exact nature of which is not clear. Cf. {%veli-kku%}l13{??}-
+		<div n="lb">cash, the exact nature of which is not clear. Cf. {%veli-kkuḻ%}-
+	Line 30259:	{%śrī-raṅga,%}¦ cf. Tamil {%tiru{??}-araṅgu%} (SITI), same as {%raṅga-%}
+		{%śrī-raṅga,%}¦ cf. Tamil {%tiru-araṅgu%} (SITI), same as {%raṅga-%}
+------------------------
+inm.txt
+	Line 178:	<>where I have introduced more repetitions ({??}statements which are also found under other
+		<>where I have introduced more repetitions (i.e. statements which are also found under other
+	Line 279:	<HI>{@Nak.@} = {??}kula.
+		<HI>{@Nak.@} = Nakula.
+	Line 712:	<HI>§ 159, I, {@95,@} 75—82 (3827—3834). p. 287: id. (the Pāṇḍavas{??}
+		<HI>§ 159, I, {@95,@} 75—82 (3827—3834). p. 287: id. (the Pāṇḍavas'
+	Line 761:	<HI>§ 176, I, {@112,@} 1—13 (4412—4424). p. 3{??}2: Kuntī-vivāha.
+		<HI>§ 176, I, {@112,@} 1—13 (4412—4424). p. 332: Kuntī-vivāha.
+	Line 1484:	<HI>{@120,@} 1—32 (10259—10290). pp. 368—371: Vṛṣṇigam{??}ana
+		<HI>{@120,@} 1—32 (10259—10290). pp. 368—371: Vṛṣṇigamana
+	Line 1658:	<HI>{@188,@} 1—143 (12805—12949). pp. 556—{??}66: [Mārkaṇḍeya-
+		<HI>{@188,@} 1—143 (12805—12949). pp. 556—566: [Mārkaṇḍeya-
+	Line 4865:	<div n="lb">{??} Hydræ; v. Sūº Siº, p. 188). XIII, {@64,@} 3262 (C. has Aº,
+		<div n="lb">ε Hydræ; v. Sūº Siº, p. 188). XIII, {@64,@} 3262 (C. has Aº,
+	Line 5751:	<div n="lb">sciousness he turns him to flight).—§ {??}02 (Droṇavadhap.):
+		<div n="lb">sciousness he turns him to flight).—§ 602 (Droṇavadhap.):
+	Line 6980:	<F>*) Natus erat cum fratre Vasiṣtho semine Mitri et Varuni, q{??}
+		<F>*) Natus erat cum fratre Vasiṣtho semine Mitri et Varuni, quum nympham
+	Line 6981:	<div n="lb">Urvaśīm vidissent, amore incensorum in urceum profluente (Bṛ{??}
+		<div n="lb">Urvaśīm vidissent, amore incensorum in urceum profluente (Bṛhaddevatā,
+	Line 9319:	<div n="lb">{%tathāmbaṣṭhas,%} fights Arjuna), 33{??}9, 3402.—§ 604 (Karṇap.):
+		<div n="lb">{%tathāmbaṣṭhas,%} fights Arjuna), 3399, 3402.—§ 604 (Karṇap.):
+	Line 9673:	<div n="lb">three first chapters of {??}ambhavaparvan (vii), i.e. I, {@65—67.@}
+		<div n="lb">three first chapters of Sambhavaparvan (vii), i.e. I, {@65—67.@}
+	Line 10451:	<div n="lb">§ 595 (Rāma Dāśarathi): VII, {@59,@} 222{??} {%(pureva Tryambako%}
+		<div n="lb">§ 595 (Rāma Dāśarathi): VII, {@59,@} 2229 {%(pureva Tryambako%}
+	Line 17589:	<div n="lb">658, 662: To the ascetics who had come {??}om diverse regions
+		<div n="lb">658, 662: To the ascetics who had come from diverse regions
+	Line 17846:	<div n="lb">XIV, 2253, 2258, 244{??}.
+		<div n="lb">XIV, 2253, 2258, 2445.
+	Line 19024:	<div n="lb">3666 {%(ºśikharaṃ),%} 5530, 6058, 6059, 6221, 6257 {%(mahīdhara{??}%}
+		<div n="lb">3666 {%(ºśikharaṃ),%} 5530, 6058, 6059, 6221, 6257 {%(mahīdharaṃ%}
+	Line 19265:	<div n="lb">{%(mānuṣāº-bhogin{??}),%} 16579 {%(sadevāº-Gº).%}—§ 544 (do.):
+		<div n="lb">{%(mānuṣāº-bhoginaṃ),%} 16579 {%(sadevāº-Gº).%}—§ 544 (do.):
+	Line 19375:	<div n="lb">{%ranopamam):%} {@26,@} 1436 {%(Sahasrākṣa ivāºān).%}—§ 615{??}
+		<div n="lb">{%ranopamam):%} {@26,@} 1436 {%(Sahasrākṣa ivāºān).%}—§ 615{%j%}
+	Line 19394:	<div n="lb">{%vidadhe Varu{??} prabhuṃ).%}—§ 647 (Āpaddh.): XII, {@139,@}
+		<div n="lb">{%vidadhe Varunaṃ prabhuṃ).%}—§ 647 (Āpaddh.): XII, {@139,@}
+		%% this should've been Varuṇaṃ! (a printo)
+	Line 19530:	<div n="P">{@Vikṣara:@} I, 2677 {%(pravaro 'surah),%} 2678 {%({??}vitīyo%}
+		<div n="P">{@Vikṣara:@} I, 2677 {%(pravaro 'surah),%} 2678 {%(dvitīyo%}
+	Line 23402:	<div n="lb">14164 {%(Bhānur Aṅgiraso dhīraḥ pu{??}).%} § 493 (do.): III
+		<div n="lb">14164 {%(Bhānur Aṅgiraso dhīraḥ putro).%} § 493 (do.): III
+	Line 23404:	<div n="lb">Bṛhadbhānu), 14184 {%(Bhānor bhāryā suprajā tu Bṛhadbhasu {??}%}
+		<div n="lb">Bṛhadbhānu), 14184 {%(Bhānor bhāryā suprajā tu Bṛhadbhasā tu
+	Line 23765:	{@Bhārata@}<sup>3</sup>,¦ {@ºtī@} (adj.): I, 371 {%(ºṃ kulaṃ),%} 534 ({%ºt{??} senā%} = the
+		{@Bhārata@}<sup>3</sup>,¦ {@ºtī@} (adj.): I, 371 {%(ºṃ kulaṃ),%} 534 ({%ºtī senā%} = the
+	Line 26549:	<div n="lb">(Parvas.): I, {@2,@} 336 {%(par{??})%}
+		<div n="lb">(Parvas.): I, {@2,@} 336 {%(parva)%}
+	Line 27952:	<div n="lb">{??}tion of fire and wind only (XII, {@186@}). {%Bhṛgu's%} observations
+		<div n="lb">action of fire and wind only (XII, {@186@}). {%Bhṛgu's%} observations
+	Line 29619:	<div n="lb">{@34<lang n="greek"></lang>,@} 1964 {%(ºāṇam iva deveśc{??}).%}—§ 615<lang n="greek"></lang> (Saptasarasvatī):
+		<div n="lb">{@34<lang n="greek"></lang>,@} 1964 {%(ºāṇam iva deveśaṃ).%}—§ 615<lang n="greek"></lang> (Saptasarasvatī):
+	Line 30105:	<div n="lb">†7512 {%({??}rīraṃ),%} †7516 {%(praviśati Bº cāvyayaṃ).%}—§ 667
+		<div n="lb">†7512 {%(śarīraṃ),%} †7516 {%(praviśati Bº cāvyayaṃ).%}—§ 667
+	Line 30155:	<div n="lb">the Ved{??}).—§ 715 (Śuka-Nāradasaṃv.): XII, {@331,@} 12498
+		<div n="lb">the Vedas).—§ 715 (Śuka-Nāradasaṃv.): XII, {@331,@} 12498
+	Line 30381:	<div n="lb">IX, {@53,@} 3025. Cf. Brahmakṣetr{??}
+		<div n="lb">IX, {@53,@} 3025. Cf. Brahmakṣetra.
+	Line 32899:	<div n="lb">§ 279 (Arjuna): II, {@26,@} 1002 ({%sa Kirātaiś ca C{??}naiś ca%}
+		<div n="lb">§ 279 (Arjuna): II, {@26,@} 1002 ({%sa Kirātaiś ca Cīnaiś ca%}
+	Line 33006:	<div n="lb">{%C{??}raṃ,%} B. {%Mitraṃ,%} description of the candravrata).
+		<div n="lb">{%Citraṃ,%} B. {%Mitraṃ,%} description of the candravrata).
+	Line 33232:	<div n="lb">{%'bha{??}%} says the Gandharva, who, v. 6448, had named
+		<div n="lb">{%'bhavaṃ%} says the Gandharva, who, v. 6448, had named
+	Line 33877:	<div n="lb">{%{??}śaprabhavo mahāvaṃśaḥ Prajāpater,%} i.e. Śaśabindu's).
+		<div n="lb">{%vaṃśaprabhavo mahāvaṃśaḥ Prajāpater,%} i.e. Śaśabindu's).
+	Line 33884:	<div n="lb">{%{??} ca rājñaḥ,%} comparison).—§ 267 (Yamasabhāv.): II, {@8,@}
+		<div n="lb">{%Śoś ca rājñaḥ,%} comparison).—§ 267 (Yamasabhāv.): II, {@8,@}
+	Line 33894:	<div n="lb">9{??}8 {%(Caitrarathaṃ).%}—§ 665 (Mokṣadh.): XII, {@208,@} 7577
+		<div n="lb">998 {%(Caitrarathaṃ).%}—§ 665 (Mokṣadh.): XII, {@208,@} 7577
+	Line 34420:	<div n="lb">{@1,@} †163.—§ 340 (Indralokābhig.): III, {@48,@} 1915 ({%{??}gataṃ,%}
+		<div n="lb">{@1,@} †163.—§ 340 (Indralokābhig.): III, {@48,@} 1915 ({%ºgataṃ,%}
+	Line 35717:	<div n="lb">kinds of viands and drink{??} {%Śalya's%} younger brother &
+		<div n="lb">kinds of viands and drinks). {%Śalya's%} younger brother &
+	Line 37497:	<div n="lb">and the dishonest by honesty”) and declaring Śibi to b{??}
+		<div n="lb">and the dishonest by honesty”) and declaring Śibi to be
+	Line 41386:	{@Śvetaketu@}<sup>2</sup>¦ = Śvetaki: I, {@223,@} v. 69 (the ś{??} is wanting
+		{@Śvetaketu@}<sup>2</sup>¦ = Śvetaki: I, {@223,@} v. 69 (the śloka is wanting
+	Line 49318:	<div n="lb">8424 {%(ṛṣiḥ),%} 8426, (8427); {@233,@} 843{??}.
+		<div n="lb">8424 {%(ṛṣiḥ),%} 8426, (8427); {@233,@} 8434.
+	Line 50036:	<div n="lb">4547. Cf. Dṛḍha{??}.
+		<div n="lb">4547. Cf. Dṛḍha<sup>1</sup>.
+	Line 53235:	<div n="lb">raka, pl.; Gāndhari, {??}.
+		<div n="lb">raka, pl.; Gāndhari, pl.
+	Line 54594:	<div n="lb">§ 602 (Droṇavadhap.): VII, {@190<lang n="greek"></lang>,@} 872{??}
+		<div n="lb">§ 602 (Droṇavadhap.): VII, {@190<lang n="greek"></lang>,@} 8728.
+	Line 54762:	<div n="lb">{??}kṣaṇap.): VII, {@201,@} 9416 {%(ºānilaraṃhasaḥ).%}—§ 605
+		<div n="lb">mokṣaṇap.): VII, {@201,@} 9416 {%(ºānilaraṃhasaḥ).%}—§ 605
+	Line 54817:	<div n="lb">{%{??}arpāv iva Gºtā),%} 5805 {%(ºān ivākāśe prārthayan bhujagottamaṃ);%}
+		<div n="lb">{%sarpāv iva Gºtā),%} 5805 {%(ºān ivākāśe prārthayan bhujagottamaṃ);%}
+	Line 55429:	<div n="lb">{%sendraḥ),%} 3665, 3678, 3950, {??}93, 4114, 4149, 4153, 4231,
+		<div n="lb">{%sendraḥ),%} 3665, 3678, 3950, 4093, 4114, 4149, 4153, 4231,
+	Line 61119:	<div n="lb">1205 {%(nikāmavarṣī),%} 1624 {%(iva);%} III, 10012 {%(pravarṣe{??}%}
+		<div n="lb">1205 {%(nikāmavarṣī),%} 1624 {%(iva);%} III, 10012 {%(pravarṣet%}
+	Line 61319:	<div n="lb">(all. to Kuṇḍalāharaṇaparvan, v. Karṇa), 1660{??} {%(ºaḥ senāṃ),%}
+		<div n="lb">(all. to Kuṇḍalāharaṇaparvan, v. Karṇa), 16608 {%(ºaḥ senāṃ),%}
+	Line 61497:	<div n="lb">(Moks{??}adh.): XII, {@235,@} 8592 ({%Ātreyaḥ,%} attained to infinite
+		<div n="lb">(Mokṣādh.): XII, {@235,@} 8592 ({%Ātreyaḥ,%} attained to infinite
+	Line 62554:	<div n="lb">{??} Jalapradānikaparvan).
+		<div n="lb">i.e. Jalapradānikaparvan).
+	Line 63661:	<div n="lb">wished to give his own merits instead, but in va{??} then
+		<div n="lb">wished to give his own merits instead, but in vain then
+	Line 67550:	<div n="lb">282 ({%antare K{??} -Dvāparayoḥ,%} the great battle took place).—
+		<div n="lb">282 ({%antare Kº-Dvāparayoḥ,%} the great battle took place).—
+	Line 68811:	{@Kanyakāguṇa,@}¦ pl. {%(ºāḥ),%} a people. § 574 (Jambū{??}h.):
+		{@Kanyakāguṇa,@}¦ pl. {%(ºāḥ),%} a people. § 574 (Jambūkh.):
+	Line 70241:	<div n="lb">§ 604{??} THE NIGHT AFTER DROṆA'S DEATH, AND THE SIXTEENTH
+		<div n="lb">§ 604: THE NIGHT AFTER DROṆA'S DEATH, AND THE SIXTEENTH
+	Line 77966:	<div n="lb">and Dhūm{??}ākṣa by Hanūmat. The Rākṣasas fled and
+		<div n="lb">and Dhūmrākṣa by Hanūmat. The Rākṣasas fled and
+	Line 79840:	<div n="lb">XIII, 396, 3030, 3385, 7402; XIV, 369; XV, 2{??}.
+		<div n="lb">XIII, 396, 3030, 3385, 7402; XIV, 369; XV, 219.
+	Line 80667:	{@Lokabhāvana@}<sup>3</sup>¦ = Śiva: I, 8129 {%(Śaṅkaraḥ);%} III, 159{??}.
+		{@Lokabhāvana@}<sup>3</sup>¦ = Śiva: I, 8129 {%(Śaṅkaraḥ);%} III, 1594.
+	Line 84295:	<div n="lb">{%(iva).%}—§ 54{??}{%f%} (Durgā): IV, {@6,@} 191 {%(vibhrājase cābaddhena%}
+		<div n="lb">{%(iva).%}—§ 549{%f%} (Durgā): IV, {@6,@} 191 {%(vibhrājase cābaddhena%}
+	Line 87208:	<div n="lb">129{??} (Vyāsa had performed austerities on {%M.%}).—§ 734
+		<div n="lb">1297 (Vyāsa had performed austerities on {%M.%}).—§ 734
+	Line 88125:	<div n="lb">being all that then remains of it,” and quoting {%Man{??}%}
+		<div n="lb">being all that then remains of it,” and quoting {%Manu%}
+	Line 89503:	<div n="P">{@Baladeva:@} XVI, †117{??}
+		<div n="P">{@Baladeva:@} XVI, †117.
+	Line 91570:	<div n="lb">and {%N.%}); {@83<lang n="greek"></lang>,@} 3887 ({%ºḥ Parvataś caiva,%} sung).—§ 751{??}
+		<div n="lb">and {%N.%}); {@83<lang n="greek"></lang>,@} 3887 ({%ºḥ Parvataś caiva,%} sung).—§ 751{%b%}
+	Line 96568:	<div n="lb">5829, 5856, 5877, 6439, 6495, 6949, 7141, 7369, 753{??}, 7602;
+		<div n="lb">5829, 5856, 5877, 6439, 6495, 6949, 7141, 7369, 7530, 7602;
+	Line 96715:	{@Pāṇḍurāṣṭra,@}¦ pl. {%(ºāḥ)%} (VI, 3{??}1, B.), v. Pāṃśurāṣṭra, pl.
+		{@Pāṇḍurāṣṭra,@}¦ pl. {%(ºāḥ)%} (VI, 351, B.), v. Pāṃśurāṣṭra, pl.
+	Line 103745:	{@Puṣṭimati,@}¦ a fire. § 493 (Āṅgirasa): III, {@221,@} {??}
+		{@Puṣṭimati,@}¦ a fire. § 493 (Āṅgirasa): III, {@221,@} 14176
+	Line 106123:	<div n="lb">with his club, 1,000 with his {??}rd, 1,000 by hanging
+		<div n="lb">with his club, 1,000 with his sword, 1,000 by hanging
+	Line 107320:	<div n="lb">{%{??}rṇa-Dºau),%} 15898, 15904, 15915, 15920, 15927, 15928,
+		<div n="lb">{%karṇa-Dºau),%} 15898, 15904, 15915, 15920, 15927, 15928,
+	Line 112553:	{@Sarvabhūtāntarātman@}¦ = Śiva: XII, 10{??}63 (1000
+		{@Sarvabhūtāntarātman@}¦ = Śiva: XII, 10363 (1000
+	Line 115823:	<div n="lb">by {??}0,000 warriors equal to Rudra himself. {%Viṣṇu%} gave
+		<div n="lb">by 30,000 warriors equal to Rudra himself. {%Viṣṇu%} gave
+	Line 115937:	<div n="P">{@Kṛttikāsuta@} (do.): III, 1456{??}
+		<div n="P">{@Kṛttikāsuta@} (do.): III, 14568.
+	Line 116156:	<div n="lb">When {%Skanda%} was struck with the thunderbolt, a{??}number
+		<div n="lb">When {%Skanda%} was struck with the thunderbolt, a number
+	Line 117663:	{@Subhagā,@}¦ a mātṛ. § 615{%u%} (Skanda): IX, {@46<lang n="greek"></lang>,@} 26{??}.
+		{@Subhagā,@}¦ a mātṛ. § 615{%u%} (Skanda): IX, {@46<lang n="greek"></lang>,@} 2636.
+	Line 117995:	{@Sudarśana@}<sup>6</sup>,¦ the Jambu tree on Meru. § 574{??} (Jambū):
+		{@Sudarśana@}<sup>6</sup>,¦ the Jambu tree on Meru. § 574{%i%} (Jambū):
+	Line 119631:	{@Suragaṇa@}¦ = Śiva (1000 names{??}).
+		{@Suragaṇa@}¦ = Śiva (1000 names<sup>2</sup>).
+	Line 120214:	<div n="lb">Draupadī); [{@16,@} 462 ({%Arkena,%} do.)].—§ 56{??} (Gālavacarita):
+		<div n="lb">Draupadī); [{@16,@} 462 ({%Arkena,%} do.)].—§ 565 (Gālavacarita):
+	Line 124054:	<div n="lb">95{??} {%(ºsya vadhārthāya).%}—§ 606 (Tripurākhyāna): VIII,
+		<div n="lb">9570 {%(ºsya vadhārthāya).%}—§ 606 (Tripurākhyāna): VIII,
+	Line 125452:	<div n="lb">sabhāv.): II, {@11,@} 467 {%(Mahādevaḥ{??}nomaḥ).%}—§ 330 (Indra-
+		<div n="lb">sabhāv.): II, {@11,@} 467 {%(Mahādevaḥ sahomaḥ).%}—§ 330 (Indra-
+	Line 127933:	<div n="lb">483{??} (enumeration).—§ 574 (Jambūkh.): VI, {@3,@} 72 (omens).
+		<div n="lb">4830 (enumeration).—§ 574 (Jambūkh.): VI, {@3,@} 72 (omens).
+	Line 128294:	<div n="lb">{%sadane),%} 74{??} {%(Yº).%}
+		<div n="lb">{%sadane),%} 7486 {%(Yº).%}
+	Line 129237:	{@Vārāhāśva,@}¦ v. Va{??}
+		{@Vārāhāśva,@}¦ v. Varāha<sup>3</sup>.
+	Line 131098:	{@*Vasundh{??}a@}¦ (the earth, personif.): I, 2500; XII, 1676,
+		{@*Vasundharā@}¦ (the earth, personif.): I, 2500; XII, 1676,
+		%% the k1 and k2 fields should also be cahnged accordingly.
+	Line 132985:	<div n="lb">celestial: IX, {@40,@} 2296 (son of Gādhi), 2297, 2300, 230{??}
+		<div n="lb">celestial: IX, {@40,@} 2296 (son of Gādhi), 2297, 2300, 2306
+	Line 134084:	{@Vidyutstanitagarjita@}¦ = Śiva (1000 names{??})
+		{@Vidyutstanitagarjita@}¦ = Śiva (1000 names<sup>1</sup>).
+	Line 138967:	{@Yajñādhipa@}¦ = Śiva (1000 names{??}).
+		{@Yajñādhipa@}¦ = Śiva (1000 names<sup>1</sup>).
+	Line 139206:	<div n="lb">{%(Kuberaḥ…Yºair anug{??}aḥ),%} 1841 {%(Siadha-Cāraṇa-Yºeṣu),%}
+		<div n="lb">{%(Kuberaḥ…Yºair anugataḥ),%} 1841 {%(Siddha-Cāraṇa-Yºeṣu),%}
+	Line 139522:	<div n="lb">Draupadī was questioned if she{??} was a {%Y.%}).—§ 549 (Pāṇḍava-
+		<div n="lb">Draupadī was questioned if she was a {%Y.%}).—§ 549 (Pāṇḍava-
+	Line 139650:	<div n="lb">{%prabhāṃ,%} sc. {%śaktiṃ%}).—§ 574 (Jambūk{??}): VI, {@4,@} 158
+		<div n="lb">{%prabhāṃ,%} sc. {%śaktiṃ%}).—§ 574 (Jambūkh.): VI, {@4,@} 158
+	Line 141147:	{@Yogeśvara@}<sup>1</sup>¦ (“Yoga-lord”) = Śiva: III, 7{??}4 {%(Sthāṇuḥ);%}
+		{@Yogeśvara@}<sup>1</sup>¦ (“Yoga-lord”) = Śiva: III, 7034 {%(Sthāṇuḥ);%}
+	Line 142968:	<>6866 {%(vasudhādharaḥ).%} Cf. Phaṇīnd{??}
+		<>6866 {%(vasudhādharaḥ).%} Cf. Phaṇīndra.
+	Line 143142:	<>{??}hvaja (v. Add.), Dviyodha, Indraprabhava, Kaurava-
+		<>dhvaja (v. Add.), Dviyodha, Indraprabhava, Kaurava-
+	Line 143143:	<>{??}andana, º-rājaputra, º-rshabha, º-sattama, Kuntibhojāt-
+		<>nandana, º-rājaputra, º-rshabha, º-sattama, Kuntibhojāt-
+	Line 144168:	<>11{??}
+		<>118.
+	Line 144179:	<HI>{@Khāṇḍava,@}¦ add: § 595 (Sho{??}): VII, {@70,@} 2432 (only B.).
+		<HI>{@Khāṇḍava,@}¦ add: § 595 (Shoḍaśarāj.): VII, {@70,@} 2432 (only B.).
+------------------------
+krm.txt
+%% Too bad; the FNs are not properly marked for the pages; they seem to have "offset" somewhere and it continued throught.
+%% It is very difficult to locate the FNs with the present file status.
+%% And the file can definitely be 'treated' as a punishment for human reading, with the splits everywhere beginning with '<'.
+%% This is the biggest time comsuming work in my present excercise.
+%% Needs a global correction in the text.
+	Line 7729:	<F>A. <s>‘ऊर्ध्वप्रसर्बान्न तु चर्बिता मही दिक्कुंबितेऽर्के परिलुम्बि{??}ताम्बुजे ॥’ धा</s>. <s>का</s>. 1-55.</F>
+		<F>A. <s>‘ऊर्ध्वप्रसर्बान्न तु चर्बिता मही दिक्कुंबितेऽर्के परिलुम्बिताम्बुजे ॥’ धा</s>. <s>का</s>. 1-55.</F>
+	Line 9861:	<F>A. <s>‘श्लथ्यात्मनां क्राथयताऽच्युतेन किं नाङ्गजो नः क्लथयन् अच{??}नि ।’ धा</s>. <s>का</s>. 2-10.</F>
+		<F>A. <s>‘श्लथ्यात्मनां क्राथयताऽच्युतेन किं नाङ्गजो नः क्लथयन् अचानि ।’ धा</s>. <s>का</s>. 2-10.</F>
+	Line 10750:	<div n="lb"><s>परिक्लिश्य, परिक्लेश्य, परिचिक्लिशिष्य-परिचिक्लि{??}शिष्य-परिचिक्लिक्ष्य, परिचेक्लिश्य</s>;
+		<div n="lb"><s>परिक्लिश्य, परिक्लेश्य, परिचिक्लिशिष्य-परिचिक्लेशिष्य-परिचिक्लिक्ष्य, परिचेक्लिश्य</s>;
+	Line 16674:	<div n="lb"><s>शप् । ‘{??}पमितं व्याघ्रादिभिः—’</s> (2-1-56) <s>इति निर्देशात् संज्ञायाम् उपसृष्टेऽपि</s>
+		<div n="lb"><s>शप् । ‘उपमितं व्याघ्रादिभिः—’</s> (2-1-56) <s>इति निर्देशात् संज्ञायाम् उपसृष्टेऽपि</s>
+	Line 16696:	<F>5. <s>सन्नन्ते यङन्ते चाभ्यासे ‘कुहोश्चुः’</s> (7-4-62) <s>इत्यनेन च{??}र्गवञ्चमो ञकरो भवति</s></F>
+		<F>5. <s>सन्नन्ते यङन्ते चाभ्यासे ‘कुहोश्चुः’</s> (7-4-62) <s>इत्यनेन चवर्गपञ्चमो ञकरो भवति</s></F>
+	Line 17857:	<div n="lb">251 1 <s>र्कृ{??} कृवि</s>
+		<div n="lb">251 1 <s>र्कृि कृवि</s>
+	Line 20547:	<F>A. <s>‘मा जीवन् यः परावज्ञादुःखदग्धोऽपि जीवति ।’ शिशु{??}लवधे</s> 2. 45.</F>
+		<F>A. <s>‘मा जीवन् यः परावज्ञादुःखदग्धोऽपि जीवति ।’ शिशुपालवधे</s> 2. 45.</F>
+	Line 22575:	<F>C. <s>‘पराक्रपज्ञः प्रि{??}सन्ततिस्तं नम्रः क्षितीन्द्रोऽतुनितीषुरूचे ॥’ भ</s>. <s>का</s>. 2. 51.</F>
+		<F>C. <s>‘पराक्रमज्ञः प्रियसन्ततिस्तं नम्रः क्षितीन्द्रोऽतुनितीषुरूचे ॥’ भ</s>. <s>का</s>. 2. 51.</F>
+	Line 22747:	<div n="lb"><s>पृषोदरादित्वात्—</s> (6-3-109) <s>नुशब्दस्य{??} लोपः ।</s></F>
+		<div n="lb"><s>पृषोदरादित्वात्—</s> (6-3-109) <s>नुशब्दस्य लोपः ।</s></F>
+	Line 26753:	<F>B. <s>{??}</s></F>
+		<F>B. <s>‘हरामि रामसौमित्री मृगो भूत्वा मृगद्युवौ ।’  भ</s>. <s>का</s>. 5. 47.</F>
+		%% Cologne scan page is cut at the bottom for this FN.
+	Line 26759:	<F>C. <s>{??}</s></F>
+		<F>C. <s>‘आद्यूनः सद्गृहिण्येव प्रायो यष्ट्यावलम्बितः ॥’ भ</s>. <s>का</s>. 5. 47.</F>
+		%% Cologne scan page is cut at the bottom for this FN.
+	Line 28114:	<F>B. <s>‘निकाममुल्लाघतनोः समत्यगात् प्रद्राघिता श्{??}ध्यगुणस्य बर्तनी ॥’ धा</s>. <s>का</s>. 1. 16.</F>
+		<F>B. <s>‘निकाममुल्लाघतनोः समत्यगात् प्रद्राघिता श्लाघ्यगुणस्य वर्तनी ॥’ धा</s>. <s>का</s>. 1. 16.</F>
+	Line 28184:	<F><s>[अ] अग्न्यातप{??}ंयोगात् “द्रवति घृतम्” इत्यत्र अकर्मकः ।</s>
+		<F><s>[अ] अग्न्यातपसंयोगात् “द्रवति घृतम्” इत्यत्र अकर्मकः ।</s>
+	Line 28644:	<F>C. <s>{??} दित्वा करुणं सशब्दे गोत्रभिवायं सरितं समेत्य ।’ भ</s>. <s>का</s>. 3.50. </F>
+		<F>C. <s>‘चिरं रुदित्वा करुणं सशब्दे गोत्रभिवायं सरितं समेत्य ।’ भ</s>. <s>का</s>. 3.50. </F>
+	Line 30444:	<div n="lb"><s>‘आयादय आर्धधातुके वा’</s> (3-1-31) <s>इति आर्धधातुकेषु वि{??}ल्पेन भवति ।</s>
+		<div n="lb"><s>‘आयादय आर्धधातुके वा’</s> (3-1-31) <s>इति आर्धधातुकेषु विकल्पेन भवति ।</s>
+	Line 32876:	<F>B. <s>‘जघ{??}मलघुपीवरोरु कृच्छ्रादुरुनिबिरीसनितम्बभारखेदि ।’ शि</s>. <s>व</s>. 7. 20.</F>
+		<F>B. <s>‘जघनमलघुपीवरोरु कृच्छ्रादुरुनिबिरीसनितम्बभारखेदि ।’ शि</s>. <s>व</s>. 7. 20.</F>
+	Line 33852:	<F>C. <s>‘{??}लीहायितासुरभरक्षतिवेहितोर्वीभैषज्यजेहपरया निजबाहयैव ॥’ धा</s>. <s>का</s>. 1. 81.</F>
+		<F>C. <s>‘प्लीहायितासुरभरक्षतिवेहितोर्वीभैषज्यजेहपरया निजबाहयैव ॥’ धा</s>. <s>का</s>. 1. 81.</F>
+	Line 34727:	<F>A. <s>‘मामल्यमानं स्मितमल्लिकावलीमाभाल्यदैत्याधि{??} भल्लनोद्धुरम् ।’ धा</s>. <s>का</s>. 1. 64</F>
+		<F>A. <s>‘मामल्यमानं स्मितमल्लिकावलीमाभाल्यदैत्याधिप भल्लनोद्धुरम् ।’ धा</s>. <s>का</s>. 1. 64</F>
+	Line 41903:	<F>6. <s>‘रुशातिभ्यां क्रुन्’ (द</s>. <s>उ</s>. 1. 159) <s>इति {??}न्प्रत्ययः । रुरुः = मृयः ।</s></F>
+		<F>6. <s>‘रुशातिभ्यां क्रुन्’ (द</s>. <s>उ</s>. 1. 159) <s>इति त्रुन्प्रत्ययः । रुरुः = मृयः ।</s></F>
+	Line 48998:	<F>2. <s>भावे क्तिन् । संशीतिः = संशयः । ‘तितुत्र—’</s> (7-2-9) <s>इतीण्न्{??}एइषेधः ।</s></F>
+		<F>2. <s>भावे क्तिन् । संशीतिः = संशयः । ‘तितुत्र—’</s> (7-2-9) <s>इतीण्निषेधः ।</s></F>
+	Line 51906:	<F>5. <s>‘नमिकम्पिस्म्यजसकमहिंसदीपो रः’</s> (3-2-167) <s>इति ताच्छ{??} रप्रत्ययः ।</s></F>
+		<F>5. <s>‘नमिकम्पिस्म्यजसकमहिंसदीपो रः’</s> (3-2-167) <s>इति ताच्छीलिको रप्रत्ययः ।</s></F>
+	Line 53951:	<F>10. <s>‘नञि जहातेः’ (द</s>. <s>उ</s>. 6-52) <s>इति कनिन्प्रत्यये आकारलो{??} । अहः = दिनम् ।</s></F>
+		<F>10. <s>‘नञि जहातेः’ (द</s>. <s>उ</s>. 6-52) <s>इति कनिन्प्रत्यये आकारलोपः । अहः = दिनम् ।</s></F>
+	Line 54317:	<div n="lb"><s>जुह्नूषिता-त्री, जोह्नू{??}यिता-त्री; इत्यादिकानि रूपाणि क्नूञ्</s> (266) <s>धातुवत्</s>
+		<div n="lb"><s>जुह्नूषिता-त्री, जोह्नूयिता-त्री; इत्यादिकानि रूपाणि क्नूञ्</s> (266) <s>धातुवत्</s>
+------------------------
+mci.txt
+	Line 46766:	<div n="lb">ample water ({%bahumūlaphalodaka%}) 3. 8{??}.
+		<div n="lb">ample water ({%bahumūlaphalodaka%}) 3. 86.
+	Line 47256:	<div n="lb">as {@Śakraprastha@} (1. 213. 5{??}; 2. 25. 20; 16.
+		<div n="lb">as {@Śakraprastha@} (1. 213. 57; 2. 25. 20; 16.
+	Line 62158:	<div n="lb">({%kurūṇāṃ pāṇḍavānāṃ ca droṇadyū {??}am%}
+		<div n="lb">({%kurūṇāṃ pāṇḍavānāṃ ca droṇadyūtam%}
+	Line 72882:	<div n="lb">{??}; 12. 110. 1; 12. 116. 13; 12. 120. 2; 12.
+		<div n="lb">1; 12. 110. 1; 12. 116. 13; 12. 120. 2; 12.
+	Line 84777:	<>23; 8. 62. 34; 8. 62. 46; 1. {??}1. 38 (?); (2)
+		<>23; 8. 62. 34; 8. 62. 46; 1. 61. 38 (?); (2)
+------------------------
+mw72.txt
+	Line 782:	<>a horizontal stroke above, as in d{??} for the {%dh%} sound of {%the.%}
+		<>a horizontal stroke above, as in đ for the {%dh%} sound of {%the.%}
+		%% The character đ is u+0111
+	Line 927:	<F>‡) A hint might be taken from Anglo-Saxon d{??}, as before
+		<F>‡) A hint might be taken from Anglo-Saxon đ, as before
+		%% The character đ is u+0111
+	Line 131780:	<div n="lb"/>commonly {%cem{??}ura; (ā),%} f. a cricket; [cf. {%cīrikā%}
+		<div n="lb"/>commonly {%cem̐ura; (ā),%} f. a cricket; [cf. {%cīrikā%}
+------------------------
+mwe.txt
+	Line :	obscura, Cert{??}eate, Episcopacy, {%To%} Farm. Laymen, Lay, {%To%} Lease Navy, Parliament, Penitentiary,
+		obscura, Certificate, Episcopacy, {%To%} Farm. Laymen, Lay, {%To%} Lease Navy, Parliament, Penitentiary,
+------------------------
+pe.txt
+	Line 3811:	<div n="lb"/>The joy at her r{??}nion with husband, her shyness at
+		<div n="lb"/>The joy at her reunion with husband, her shyness at
+	Line 28077:	CEKITĀNA¦. (SĀTVATA, VĀR{??}ṆEYA).
+		CEKITĀNA¦. (SĀTVATA, VĀRṢṆEYA).
+	Line 31462:	<div n="lb"/>marrow of the bo{??}es, and liver and sperm in the fire.
+		<div n="lb"/>marrow of the bones, and liver and sperm in the fire.
+	Line 35198:	<div n="lb"/>When Dhyānakā{??}ha finished speaking the lion changed
+		<div n="lb"/>When Dhyānakāṣṭha finished speaking the lion changed
+	Line 36757:	<div n="lb"/>ed that her husband Dharmaputra might b{??} exempt-
+		<div n="lb"/>ed that her husband Dharmaputra might be exempt-
+	Line 61735:	<div n="lb"/>ual sons—Marīci, Aṅgiras, Atri, Pulastya, Pul{??}aha and
+		<div n="lb"/>ual sons—Marīci, Aṅgiras, Atri, Pulastya, Pulaha and
+	Line 62989:	<div n="lb"/>it is not wrong to {??}fer that the description of Pātāla
+		<div n="lb"/>it is not wrong to infer that the description of Pātāla
+	Line 82944:	<div n="lb"/>this Nārada answered ‘Yes, I too think so{??}. Parvata
+		<div n="lb"/>this Nārada answered ‘Yes, I too think so’. Parvata
+	Line 92213:	<div n="lb"/>Sutapas and his grandson Auśīnara. (Harivaṃ{??}a, 1,
+		<div n="lb"/>Sutapas and his grandson Auśīnara. (Harivaṃśa, 1,
+	Line 93621:	<div n="lb"/>name Hiraṇyakaśipu {??}umped up from his seat with
+		<div n="lb"/>name Hiraṇyakaśipu jumped up from his seat with
+	Line 108492:	<div n="lb"/>of emperor Puru, by Miśrake{??}ī, the apsarā woman. He,
+		<div n="lb"/>of emperor Puru, by Miśrakeśī, the apsarā woman. He,
+	Line 114428:	<div n="lb"/>Hara, Śambhu, T{??}ambaka, Aparājita, Īśāna and Tri-
+		<div n="lb"/>Hara, Śambhu, Tryambaka, Aparājita, Īśāna and Tri-
+	Line 117157:	<div n="lb"/>16, Sūkt{??} 132, there is a passage which says that the
+		<div n="lb"/>16, Sūkta 132, there is a passage which says that the
+	Line 117930:	<div n="lb"/>{??} all good wishes.
+		<div n="lb"/>her all good wishes.
+	Line 131058:	<div n="lb"/>Dūṣaṇa and Tri{??}iras. In the battle between Rāma and
+		<div n="lb"/>Dūṣaṇa and Triśiras. In the battle between Rāma and
+------------------------
+pgn.txt
+	Line 20:	<>Tej Ram Sharma ({%b.%} 1941-{??})
+		<>Tej Ram Sharma ({%b.%} 1941- )
+		%% He is still alive!!
+	Line 3013:	<P>24. Fz. p. 606, col. 2; Cf. Lith. sparane; H. Germ. varn, farn; A{??}
+		<P>24. Fz. p. 606, col. 2; Cf. Lith. sparane; H. Germ. varn, farn; Angl.
+	Line 12758:	<>{#शब्दार्थ-न्याय-लोकज्ञ{??}कवि{??}पाटलिपुन्नकः ॥#}
+		<>{#शब्दार्थ-न्याय-लोकज्ञᳲकविᳲपाटलिपुन्नकः ॥#}
+		%% The ᳲ character is ardhavisarga, u+1CF2
+------------------------
+pui.txt
+	Line 16982:	{%Kanyā%} (III)¦ — shrine of, south of Malaya {??}ills, visited by
+		{%Kanyā%} (III)¦ — shrine of, south of Malaya hills, visited by
+	Line 114607:	<div n="lb"/>Yami; see Vivasvan.<sup>1</sup> Presented Pṛthu with arrows from h{??}
+		<div n="lb"/>Yami; see Vivasvan.<sup>1</sup> Presented Pṛthu with arrows from his
+	Line 116291:	<F>5) Ib. I. 15. 2{??}-43.</F>
+		<F>5) Ib. I. 15. 23-43.</F>
+	Line 116356:	<F>4) Ib. II. 36. 181 and 18{??}; III. 72. 138-40.</F>
+		<F>4) Ib. II. 36. 181 and 185; III. 72. 138-40.</F>
+------------------------
+pwg.txt
+	Line 456414:	<ls>?14, 6, 9, 33. ĀŚV. GṚHY. 2, 3. KĀTY. ŚR. 4, 14, 5. ?? 15, 5. M. 2, 120.</ls> {#न चेहाजायते पुनः#} 
+		<ls>?14, 6, 9, 33. ĀŚV. GṚHY. 2, 3. KĀTY. ŚR. 4, 14, 5. 8. 15, 5. M. 2, 120.</ls> {#न चेहाजायते पुनः#} 
+	Line 543102:	<ls>HARIV. 956</ls> <ls>??? . HARIV. LANGL. I, 513.</ls> {#भीषक#} 
+		<ls>HARIV. 9561.</ls> <ls>HARIV. LANGL. I, 513.</ls> {#भीषक#} 
+	Line 1143949:	{#राणि#}¦, hier und in {#पैलादि#} ist der Haken über dem (??) abgebrochen.
+		{#राणि#}¦, hier und in {#पैलादि#} ist der Haken über dem ({#ि#}) abgebrochen.
+------------------------
+sch.txt
+	Line 964:	{#अक्षूण#} {%akṣūṇa%}¦  S II , 252 , 6; 294 , 22; 350 , 26 = {%akṣuṇṇa??%} {part=,seq=315,type=º,n=1}
+		{#अक्षूण#} {%akṣūṇa%}¦  S II , 252 , 6; 294 , 22; 350 , 26 = {%akṣuṇṇa ??%} {part=,seq=315,type=º,n=1}
+		%% Nothing to do with ??; Schmidt himself is doubtful.
+	Line 34910:	{#केलती#} {%kelatī%}¦  = Rati , Naiṣ. 18 , 98; Haravijaya (oder Hīrasaubhāgya??) 6 , 159. [Z.] {part=,seq=11467,type=,n=2}
+		{#केलती#} {%kelatī%}¦  = Rati , Naiṣ. 18 , 98; Haravijaya (oder Hīrasaubhāgya ??) 6 , 159. [Z.] {part=,seq=11467,type=,n=2}
+		%% Nothing to do with ??; Schmidt himself is doubtful.
+	Line 46810:	{#दन्तार#} {%dantāra%}¦  S II , 72 , 7 ??. {part=,seq=15376,type=º,n=1}
+		{#दन्तार#} {%dantāra%}¦  S II , 72 , 7 ??. {part=,seq=15376,type=º,n=1}
+		%% Nothing to do with ??; Schmidt himself is doubtful.
+	Line 53637:	{#नैवार्त#} {%naivārta%}¦  (??) traurig , Haravijaya 17 , 50. [Z.] {part=,seq=17617,type=,n=2}
+		{#नैवार्त#} {%naivārta%}¦  (??) traurig , Haravijaya 17 , 50. [Z.] {part=,seq=17617,type=,n=2}
+		%% Nothing to do with ??; Schmidt himself is doubtful.
+	Line 60440:	{#प्रविहारिन्#} {%pravihārin%}¦  S II , 400 , 25 sich vorwärts bewegend?? {part=,seq=19852,type=º,n=2}
+		{#प्रविहारिन्#} {%pravihārin%}¦  S II , 400 , 25 sich vorwärts bewegend?? {part=,seq=19852,type=º,n=2}
+		%% Nothing to do with ??; Schmidt himself is doubtful.
+	Line 73380:	{#विटपिन्#} {%viṭapin%}¦  m. S I , 30 , 5 ºHaus?? {%[viṭapināṃ gṛhāṇām%} Ko. Aber "Baum" paßt viel besser!] {part=,seq=24098,type=,n=3}
+		{#विटपिन्#} {%viṭapin%}¦  m. S I , 30 , 5 ºHaus?? {%[viṭapināṃ gṛhāṇām%} Ko. Aber "Baum" paßt viel besser!] {part=,seq=24098,type=,n=3}
+		%% Nothing to do with ??; Schmidt himself is doubtful.
+%% sch.txt has lot many double spaces!! (probably to be changed to single spaces)
+------------------------
+shs.txt
+	Line 14158:	<>affix: also with {#अन{??}यर्#} affix, {#अर्हणीय#}.
+		<>affix: also with {#अनीयर्#} affix, {#अर्हणीय#}.
+	Line 32987:	<>are MARICHI, ATRI, ANGIRAS, PULASTYA, Pula{??}a KRATU and
+		<>are MARICHI, ATRI, ANGIRAS, PULASTYA, PULAHA, KRATU and
+		%% The print has 'ulaha' in small letters by error; should be in small cap.s 'ULAHA'
+	Line 99072:	<>before, {#दि{??}#} to play, {#ण्वुल्#} aff.
+		<>before, {#दिव्#} to play, {#ण्वुल्#} aff.
+	Line 116072:	<L>27636<pc>500-a<k1>प्रस्फुटित<k2>प्रस्फ्{??}त
+		<L>27636<pc>500-a<k1>प्रस्फुरित<k2>प्रस्फुरित
+	Line 116073:	{#प्रस्फ्{??}त#}¦ mfn. ({#-तः-ता-तं#}) 1. Swollen. 2. Budded. 3. Quivering, tremb-
+		{#प्रस्फुरित#}¦ mfn. ({#-तः-ता-तं#}) 1. Swollen. 2. Budded. 3. Quivering, tremb-
+	Line 190288:	{#स्थूरिन्#}¦ m. ({#-री#}) A pack-horse or one carrying loads on his back. E. {#स्थू{??}#}
+		{#स्थूरिन्#}¦ m. ({#-री#}) A pack-horse or one carrying loads on his back. E. {#स्थूल#}
+------------------------
+skd.txt
+	Line 32589:	<>त्वात् ऋत्विगप्याग्नीग्र उ{??}) अग्नीध्रं । होतृगृहं ।
+		<>त्वात् ऋत्विगप्याग्नीग्र उच्यते) अग्नीध्रं । होतृगृहं ।
+	Line 47128:	<>मधुरस्तुवरो वर्{??} व्रणशोधनरोपणः” ॥
+		<>मधुरस्तुवरो वर्ण्यो व्रणशोधनरोपणः” ॥
+	Line 73440:	<>चक्रुर्व्वाद्यादि गन्धर्व्वा ननृतुश्चाप्सरोण{??}ः ।
+		<>चक्रुर्व्वाद्यादि गन्धर्व्वा ननृतुश्चाप्सरोगणः ।
+	Line 109095:	<>इष्टो भुजोऽस्माद्द्विगुणेष्ट{??}घ्ना-
+		<>इष्टो भुजोऽस्माद्द्विगुणेष्टनिघ्ना-
+	Line 137446:	<>{??} छिन्धि । इति भरतः ॥ समाहारः ।
+		<>खदिरांश्च छिन्धि । इति भरतः ॥ समाहारः ।
+	Line 190222:	<>{??} विजानीयात् प्रत्यन्तर्ग्रहवासरान् ॥
+		<>स्वाङ्कलब्धं विजानीयात् प्रत्यन्तर्ग्रहवासरान् ॥
+	Line 565860:	<>चतुरर्णौ य{??} वर्गौ सङ्ख्या वर्गेषु कीर्त्तिताः ॥
+		<>चतुरर्णौ यशौ वर्गौ सङ्ख्या वर्गेषु कीर्त्तिताः ॥
+	Line 566814:	<>अभिजि{??}त्तरापाढा पृथ्वीतत्त्वमुदाहृतम् ॥
+		<>अभिजिच्चोत्तराषाढा पृथ्वीतत्त्वमुदाहृतम् ॥
+	Line 568261:	<>कुश{??} रसगुणानाहारविकारांश्च पर्य्यायेले-
+		<>कुशला रसगुणानाहारविकारांश्च पर्य्यायेले-
+	Line 570112:	<>इति च तत्रैव ७ पटलः ॥ {??} ॥
+		<>इति च तत्रैव ७ पटलः ॥ * ॥
+	Line 572504:	<>अभ्यर्{??} भगवद्भक्त्या द्विजांश्च भगवद्धिया ।
+		<>अभ्यर्च्य भगवद्भक्त्या द्विजांश्च भगवद्धिया ।
+------------------------
+stc.txt
+	Line 20491:	{??} {%-tā-%} <ab>f.</ab> {%-tva-%} <ab>nt.</ab> orgueil.
+		(?) {%-tā-%} <ab>f.</ab> {%-tva-%} <ab>nt.</ab> orgueil.
+------------------------
+vei.txt
+	Line 1461:	<div n="lb"/>{??} 342, 500.</F>
+		<div n="lb"/>, 342, 500.</F>
+		%% should this comma have something before it (nothing is in the print page!) or is it there by error?
+	Line 64910:	<>O{??}aser, {%Zeitschrift der Deutschen Morgenländischen Gesellschaft,%}
+		<>Glaser, {%Zeitschrift der Deutschen Morgenländischen Gesellschaft,%}
+%% The main text and corrections end at L.65051
+%% Surprising!! The Index portion at 2-519 to 2-592 is also sincerely typed. Are these required?
+	Line 66758:	<HI>Tarya, a man(?), i. 3{??}
+		<HI>Tarya, a man(?), i. 301
+	Line 66759:	<HI>Talava, ‘musician,’ {??}
+		<HI>Talava, ‘musician,’ i. 302
+	Line 67785:	<HI>1. Pṛthuśravas Kānīta, a patron, i. {??}
+		<HI>1. Pṛthuśravas Kānīta, a patron, i. 147;
+	Line 68036:	<HI>Plā{??}i, ‘penis,’ ii. 361
+		<HI>Plāśi, ‘penis,’ ii. 361
+	Line 68877:	<HI>Rohit, ‘red ma{??}e,’ ‘red doe,’ ii. 228
+		<HI>Rohit, ‘red mare,’ ‘red doe,’ ii. 228
+	Line 69036:	<HI>Vājabandhu, a man(?), ii. 28{??}
+		<HI>Vājabandhu, a man(?), ii. 281
+	Line 69094:	<HI>Vārṣṇa, i. 238; ii. 61, 289, 393, 51{??}
+		<HI>Vārṣṇa, i. 238; ii. 61, 289, 393, 512
+	Line 69215:	<HI>Vis{??}vayasa, a teacher, ii. 60
+		<HI>Viśvavayasa, a teacher, ii. 60
+	Line 69665:	<HI>Śṛṅgavṛ{??}, a man, i. 161; ii. 393
+		<HI>Śṛṅgavṛṣ, a man, i. 161; ii. 393
+	Line 69670:	<HI>Śevṛdha and Śevṛdhaka, a snake, o{??}
+		<HI>Śevṛdha and Śevṛdhaka, a snake, or
+	Line 71082:	<HĪ>Prat{??}tāmaha (great grandfather),
+		<HĪ>Pratatāmaha (great grandfather),
+	Line 71096:	<HĪ>M{??}ula (maternal uncle), ii. 150
+		<HĪ>Mātula (maternal uncle), ii. 150
+	Line 72513:	<HĪ>Saṃgra{??}
+		<HĪ>Saṃgrāma, ii. 416-418
+------------------------
+wil.txt
+	Line 248530:	VIṢṆU or KṚṢṆA, and represented in delineations of him by {??}.
+		VIṢṆU or KṚṢṆA, and represented in delineations of him by ❈.
+		%% This ❈ character (u+2748) belongs to Dingbats block of Unicode, which is almost close to the symbol (but rotated by 45 degrees).
+		%% Probably it is better to have it as an embedded picture (cropped from the scan). BUR has a better image (see L.117751, p.661) than WIL.
+------------------------
