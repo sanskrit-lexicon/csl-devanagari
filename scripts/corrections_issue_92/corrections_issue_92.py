@@ -32,10 +32,15 @@ def update_missing():
 				new = ''
 			elif o:
 				new = o.group(1)
-				if dictcode == 'bor':
-					print(linenum)
-					print(data[linenum])
-					print(new)
+				print(linenum)
+				print(data[linenum])
+				print(new)
+				data[linenum] = new
+		if dictcode == 'acc':
+			fout = codecs.open('../../v02/' + dictcode + '/' + dictcode + '.txt', 'w', 'utf-8')
+			result = '\n'.join(data)
+			fout.write(result)
+			fout.close()
 
 if __name__ == "__main__":
 	update_missing()
