@@ -424,7 +424,7 @@ bor.txt
 		<div n="lb"/>-ing: “}” ‘{#इत्याकारः संयोगचिह्नविशेष:#} </div><div n="I">IV A pair,
 	Line 19875:	<div n="lb"/>{#पीठम्#} (=stool): </div><div n="1">(3) {#आसनम्#} (= any seat). </div><div n="I">II {?}
 		<div n="lb"/>{#पीठम्#} (=stool): </div><div n="1">(3) {#आसनम्#} (= any seat). </div><div n="I">II.
-	Line 96933: <div n="lb"/>{@PITHLESS:@}¦ <div n="1">(1) {#असारः#} <div n="xe">{%or%}</div> <div n="xs">{#निःसारः#}</div> ({#रा, {?}#}); </div><div n="1">(2)
+	Line 96933:	<div n="lb"/>{@PITHLESS:@}¦ <div n="1">(1) {#असारः#} <div n="xe">{%or%}</div> <div n="xs">{#निःसारः#}</div> ({#रा, {?}#}); </div><div n="1">(2)
 		<div n="lb"/>{@PITHLESS:@}¦ <div n="1">(1) {#असारः#} <div n="xe">{%or%}</div> <div n="xs">{#निःसारः#}</div> ({#रा, रं#}); </div><div n="1">(2)
 %% It is strongly suggested to change all these (??) cases after incorporating the corrections as indicated above to (?) which is actually the intended marking of doubtful cases [~2700 of (?) in this text, as against ~150 of (??)]. And this is mostly the norm across all the works, AFAIK.
 ------------------------
@@ -775,7 +775,7 @@ mw72.txt
 		<div n="lb"/>commonly {%cem̐ura; (ā),%} f. a cricket; [cf. {%cīrikā%}
 ------------------------
 mwe.txt
-	Line :	obscura, Cert{??}eate, Episcopacy, {%To%} Farm. Laymen, Lay, {%To%} Lease Navy, Parliament, Penitentiary,
+	Line 424:	obscura, Cert{??}eate, Episcopacy, {%To%} Farm. Laymen, Lay, {%To%} Lease Navy, Parliament, Penitentiary,
 		obscura, Certificate, Episcopacy, {%To%} Farm. Laymen, Lay, {%To%} Lease Navy, Parliament, Penitentiary,
 ------------------------
 pe.txt
