@@ -1484,7 +1484,7 @@
 <L>225<pc>007-a<k1>अक्षरपङ्क्ति<k2>अक्षरपङ्क्ति
 {#अक्षरपङ्क्ति#}¦ Tatpur. f. ({#-ङ्क्तिः#}) Name of a verse or metre con-
 <div n="lb">sisting of four lines, each of them containing one Dactylus
-<div n="lb">and one Spondaeus ({??}), named also {#पङ्क्ति#} and {#हंस#}.
+<div n="lb">and one Spondaeus (¯˘˘¯¯), named also {#पङ्क्ति#} and {#हंस#}.
 <div n="lb">E. {#अक्षर#} and {#पङ्क्ति#}.
 <LEND>
 
@@ -6386,7 +6386,7 @@
 <div n="lb">and {#काकोदुम्बरिका#}. In Bengal, the word derived from this
 [Page029-b+ 56]
 <div n="lb">implies the Guava; the term has, possibly, been borrowed
-<div n="lb">from the Persian. {??}. E. {#अञ्ज्,#} aff. {#ईरन्#}.
+<div n="lb">from the Persian انجیر. E. {#अञ्ज्,#} aff. {#ईरन्#}.
 <LEND>
 
 <L>1010<pc>029-b<k1>अट्<k2>अट्
@@ -8255,7 +8255,7 @@
 <div n="lb">{#चूडिका#} or {#चूलिका#}. <sup>2</sup> A metre regulated by number and
 <div n="lb">quantity; a variety of the metre {#अतिजगती#} (q. v.) and con-
 <div n="lb">sisting of a stanza of four lines with the following feet
-<div n="lb">in each line: {??} Also called
+<div n="lb">in each line: ˘¯˘¯ | ˘˘˘˘¯˘¯˘¯. Also called
 <div n="lb">{#रुचिरा#}. E. {#अति#} and {#रुचिर#}.
 <LEND>
 
@@ -8583,7 +8583,7 @@
 <div n="P">II. f. ({#-नी#}) A metre regulated by number and quantity;
 <div n="lb">a variety of the class called {#अत्यष्टि#} (q. v.) and consisting
 <div n="lb">of a stanza of four lines with the following feet in each
-<div n="lb">line: {??} Also called
+<div n="lb">line: ˘˘¯˘˘¯˘¯˘¯ | ˘˘˘¯˘¯¯. Also called
 <div n="lb">{#चित्रलेखा#}.
 <div n="P">III. n. ({#-नम्#}) used as adverb. Excessively. E. {#शी#} with
 <div n="lb">{#अति,#} kṛt aff. {#ल्युट्#}.
@@ -8834,7 +8834,7 @@
 <div n="P">II. m. ({#-रः#}) The name of a metre regulated by number
 <div n="lb">and quantity; a variety of the class called {#अष्टि,#} consisting
 <div n="lb">of a stanza of four lines with the following feet in each
-<div n="lb">line:{??} Also called
+<div n="lb">line: ¯˘¯˘¯˘¯˘ | ¯˘¯˘¯˘¯˘. Also called
 <div n="lb">{#चित्र, चित्रसङ्ग#} or {#चञ्चला#}. E. {#अति#} and {#सुन्दर#}.
 <LEND>
 
@@ -10906,7 +10906,7 @@
 <div n="lb">of the mountain Himālaya. <sup>2</sup> A metre regulated by number
 <div n="lb">and quantity; a variety of the class called {#विकृति#} q. v. It con-
 <div n="lb">sists of four lines, with the following twenty-three syllables
-<div n="lb">to each: {??},
+<div n="lb">to each: ˘˘˘˘¯˘¯˘˘˘¯ । ˘¯˘˘˘¯˘¯˘˘˘¯.
 <div n="lb">Also called {#अश्वललित#}. E. {#अद्रि#} and {#तनया#}.
 <LEND>
 [Page050-b+ 56]
@@ -15725,7 +15725,7 @@ III. {#अन#}¦ m. ({#-नः#}) Spiration; it is explained as the action
 <div n="P">II. f. ({#-ता#}) The name of a metre regulated by number and
 <div n="lb">quantity, a species of the class called Triṣṭubh (q. v.); it con-
 <div n="lb">sists of a stanza of four lines with the following eleven feet in
-<div n="lb">each line: {??} E. {#अ#} neg. and {#अवसित#}.
+<div n="lb">each line: ˘˘˘˘¯¯¯˘˘¯¯. E. {#अ#} neg. and {#अवसित#}.
 <LEND>
 
 <L>2445<pc>073-b<k1>अनवस्कर<k2>अनवस्कर
@@ -18387,7 +18387,7 @@ II. {#अनु#}¦ m. ({#-नुः#}) <sup>1</sup> (in the Vedas; esp. in the 
 <div n="lb">polyandrum). See {#दन्ती#}. <sup>2</sup> The name of a metre regulated
 <div n="lb">by number and quantity; it belongs to the class, called
 <div n="lb">{#त्रिष्टुभ्#} q. v. and consists of a stanza of four lines with the
-<div n="lb">following eleven syllables in each: {??}
+<div n="lb">following eleven syllables in each: ¯˘˘¯¯ । ˘˘˘˘¯¯.
 <div n="lb">Also called {#कुद्मलदन्ती, मौक्तिकमाला#} and {#श्री#}.
 <div n="P">4. n. ({#-लम्#}) (In Rhetoric.) An alaṅkāra or mode of writing
 <div n="lb">or speaking elegantly, viz. representing an act, unpleasant in
@@ -22935,7 +22935,7 @@ II. {#अनु#}¦ m. ({#-नुः#}) <sup>1</sup> (in the Vedas; esp. in the 
 <div n="lb">may be departed from at the end of a Pāda, as in the instance
 <div n="lb">of the following first Pāda of the Āryā verse: {#अथ लुलितप-#}
 <div n="lb">{#तत्रिमालं रुग्नासनवाणकेशरतमालम्#} &c. where {#त्रिमालं#} counts
-<div n="lb">for {??} |. ({#‘यद्यपि छन्दःशास्त्रे सानुस्वारस्य गुरुत्वमनुशिष्टं#}
+<div n="lb">for ˘¯˘ |. ({#‘यद्यपि छन्दःशास्त्रे सानुस्वारस्य गुरुत्वमनुशिष्टं#}
 <div n="lb">{#तथापि तथा पादान्तगोऽपि वेति वचनात्तस्य लघुत्वात्प्रथम-#}
 <div n="lb">{#पादे द्वादश मात्रा भवन्ति’#}.) E. {#स्वृ#} with {#अनु,#} kṛt aff. {#घञ्#}.
 <LEND>
@@ -33521,8 +33521,8 @@ II. {#अप#}¦ m. ({#-पः#}) A sea, an ocean. E. {#अप्#} taddh. aff. 
 <div n="lb">is composed of two equal and similar couplets but the
 <div n="lb">couplets of dissimilar verses; the first verse of the couplet
 <div n="lb">of the Aparavaktrā consists of the following eleven syllables:
-<div n="lb">{??}, and the second: of the following
-<div n="lb">twelve: {??} ||. E. {#अपर#} and {#वक्त्र#}.
+<div n="lb">˘˘˘˘˘˘¯˘¯˘¯, and the second: of the following
+<div n="lb">twelve: ˘˘˘˘¯˘˘¯˘¯˘¯ ||. E. {#अपर#} and {#वक्त्र#}.
 <LEND>
 
 <L>4738<pc>168-b<k1>अपरवत्<k2>अपरवत्
@@ -33713,7 +33713,7 @@ II. {#अप#}¦ m. ({#-पः#}) A sea, an ocean. E. {#अप्#} taddh. aff. 
 <div n="lb"><sup>4</sup> The name of a metre regulated by number and quantity,
 <div n="lb">a species of the metre called Śakvarī; it consists of a stanza
 <div n="lb">of four lines with the following fourteen syllables in each line:
-<div n="lb">{??} | {??}. <sup>5</sup> The name of several
+<div n="lb">˘˘˘˘˘˘¯ | ˘¯˘˘¯˘¯. <sup>5</sup> The name of several
 <div n="lb">plants: <sup>a.</sup> Clitoria ternatea; a species of a creeper with two
 <div n="lb">varieties, the one with white, the other with blue flowers (the
 <div n="lb">white variety described thus: {#लताविशेषः श्वेतापराजिता ।#}
@@ -35053,7 +35053,7 @@ II. {#अप#}¦ m. ({#-पः#}) A sea, an ocean. E. {#अप्#} taddh. aff. 
 <div n="lb">Utkṛti; it consists of a stanza of four lines with the fol-
 [Page177-b+ 56]
 <div n="lb">lowing twenty six syllables in each line:
-<div n="lb">{??}
+<div n="lb">¯¯¯˘˘˘˘˘˘ । ˘˘˘˘˘˘ । ˘˘˘˘˘˘ । ˘˘¯¯¯.
 <div n="P">2. m. pl. ({#-हाः#}) The name of a country or people;
 <div n="lb">also read {#उपवाह#} or {#प्रवाह#}. E. {#वह्#} with {#अप,#} kṛt aff. {#घञ्#}.
 <LEND>
@@ -53974,7 +53974,7 @@ II. {#अभीक#}¦ Tatpur. m. ({#-कः#}) (ved.) [occurs especially in the
 <div n="lb">perhaps also in reference to time: {%soon; Nirukta:%} = {#आ-#}
 <div n="lb">{#सन्न#}); e. g. {%Ṛgv.:%} {#को वां महश्चित्त्यजसो अभीक उरुष्यन्तं#}
 <div n="lb">{#माध्वी दस्रा न ऊती#} ({%Sāyaṇa:%} = {#आसन्नप्रदेशे#}); or {#सद्यो#}
-<div n="lb">{#दस्यून्प्र मृण कुत्स्येन प्र सूरश्च{??} वृहतादभीके#} ({%Sāy.:%} = {#समीपे#}
+<div n="lb">{#दस्यून्प्र मृण कुत्स्येन प्र सूरश्चक्रं वृहतादभीके#} ({%Sāy.:%} = {#समीपे#}
 <div n="lb">or {#संग्रामे,#} see the following); or {#परि वामश्वा वपुषः पतङ्गा#}
 <div n="lb">{#वयो वहन्त्वरुषा अभीके#} ({%Sāy.:%} = {#गृहसमीपे#}); or {#स्वर्वतीरित#}
 <div n="lb">{#ऊतीर्युवोरह चित्रा अभीके अभवन्नभिष्टयः#} ({%Sāy.:%} = {#समीपे#});
@@ -54255,9 +54255,9 @@ II. {#अभीति#}¦ Tatpur. f. ({#-तिः#}) Fearlessness; e. g. {%Hema
 <div n="lb">four lines with eleven {%mātrās%} in each line (the value of a
 <div n="lb">mātrā being a short syllable, and a long syllable equal to
 <div n="lb">two short), viz. each line being composed either of seven
-<div n="lb">mātrās and a Scolius ({??}), or of a Dactylus ({??}),
-<div n="lb">a Iambus ({??}) and a Scolius, or of a Scolius, a Tri-
-<div n="lb">brachys ({??}) and a Scolius. E. {#ईर्#} with {#अभि,#} kṛt aff.
+<div n="lb">mātrās and a Scolius (˘¯˘), or of a Dactylus (¯˘˘),
+<div n="lb">a Iambus (˘¯) and a Scolius, or of a Scolius, a Tri-
+<div n="lb">brachys (˘˘˘) and a Scolius. E. {#ईर्#} with {#अभि,#} kṛt aff.
 <div n="lb">{#अच्#} (according to several comm. of the {%Amarak.%}); but the
 <div n="lb">word is probably not of Sanskṛ4tic origin.
 <LEND>
