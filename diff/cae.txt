@@ -1,0 +1,4 @@
+85699c85699
+< 1 {#pu/MnAman#}¦ <lex>a.</lex> having a masculine name.
+---
+> 1 {#puM/nAman#}¦ <lex>a.</lex> having a masculine name.
