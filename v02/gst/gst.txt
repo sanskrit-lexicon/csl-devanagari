@@ -6386,7 +6386,7 @@
 <div n="lb">and {#काकोदुम्बरिका#}. In Bengal, the word derived from this
 [Page029-b+ 56]
 <div n="lb">implies the Guava; the term has, possibly, been borrowed
-<div n="lb">from the Persian انجیر. E. {#अञ्ज्,#} aff. {#ईरन्#}.
+<div n="lb">from the Persian <lang script="Arabic" n="Persian">انجیر</lang>. E. {#अञ्ज्,#} aff. {#ईरन्#}.
 <LEND>
 
 <L>1010<pc>029-b<k1>अट्<k2>अट्
@@ -12213,7 +12213,7 @@
 
 <L>1917<pc>056-b<k1>अधियज्ञ<k2>अधियज्ञ
 {#अधियज्ञ#}¦ I. Tatpur. m. ({#-ज्ञः#}) <sup>1</sup> The supreme sacrifice, the
-<div n="lb">sacrifice <lang n="greek"></lang>. <sup>2</sup> An influence superior to or pre-
+<div n="lb">sacrifice <lang n="greek">ϰατ᾽ἐξοχήν</lang>. <sup>2</sup> An influence superior to or pre-
 <div n="lb">siding over sacrifice.
 <div n="P">II. Avyayībh. ({#-ज्ञम्#}) Concerning or with respect to sa-
 <div n="lb">crifice. E. {#अधि#} and {#यज्ञ#}.
@@ -15122,7 +15122,7 @@ III. {#अन#}¦ m. ({#-नः#}) Spiration; it is explained as the action
 
 <L>2350<pc>070-b<k1>अनफा<k2>अनफा
 {#अनफा#}¦ f. ({#-फा#}) A certain configuration of the planets; a
-<div n="lb">transcription of the greek word <lang n="greek"></lang>.
+<div n="lb">transcription of the greek word <lang n="greek">ἀναφή</lang>.
 <LEND>
 
 <L>2351<pc>070-b<k1>अनभिज्ञ<k2>अनभिज्ञ
@@ -21214,8 +21214,8 @@ II. {#अनु#}¦ m. ({#-नुः#}) <sup>1</sup> (in the Vedas; esp. in the 
 <div n="lb">four, or according to a different reading, of three stars; its
 <div n="lb">chief and middlemost star is placed by the authorities in
 <div n="lb">3º or 2º or 1º 45'S. and in 224º or 224º 5'E., and must in-
-<div n="lb">tend the star near the head of the Scorpion (<lang n="greek"></lang> Scorpionis)
-<div n="lb">and the asterism probably comprises <lang n="greek"></lang> and <lang n="greek"></lang> Scorpionis.
+<div n="lb">tend the star near the head of the Scorpion (<lang n="greek">δ</lang> Scorpionis)
+<div n="lb">and the asterism probably comprises <lang n="greek">βδπ</lang> and <lang n="greek">ρ</lang> Scorpionis.
 <div n="lb">Also written {#अनूराधा#}. See {#राधानुराधा#} and {#विशाखानुराधा#}.
 <div n="lb">E. {#अनु#} and {#राधा,#} the name of the sixteenth Nakshatra.
 <div n="P">II. 1. m. f. n. ({#-धः-धा-धम्#}) Born under the constellation
@@ -21228,8 +21228,8 @@ II. {#अनु#}¦ m. ({#-नुः#}) <sup>1</sup> (in the Vedas; esp. in the 
 
 <L>3264<pc>100-a<k1>अनुराधग्राम<k2>अनुराधग्राम
 {#अनुराधग्राम#}¦ Tatpur. m. ({#-मः#}) The village (later the town)
-<div n="lb">Anurādha; the same as {#अनुराधपुर#} q. v. and the <lang n="greek"></lang>-
-<div n="lb"><lang n="greek"></lang> or <lang n="greek"></lang> of Ptolemæus. E. {#अनुराध#}
+<div n="lb">Anurādha; the same as {#अनुराधपुर#} q. v. and the <lang n="greek">Ἀνουρι</lang>-
+<div n="lb"><lang n="greek">γραμμον</lang> or <lang n="greek">Ανουρογραμμον</lang> of Ptolemæus. E. {#अनुराध#}
 <div n="lb">and {#ग्राम#}.
 <LEND>
 
@@ -26710,7 +26710,7 @@ II. {#अनु#}¦ m. ({#-नुः#}) <sup>1</sup> (in the Vedas; esp. in the 
 <div n="lb">or {#मीनराशि#}. See {#अन्त्यभ#}. <sup>3</sup> (In Astronomy.) The last or
 <div n="lb">twenty seventh mansion in the circumference of the moon's
 <div n="lb">periodical revolution, the Nakshatra Revatī, the Yoga star
-<div n="lb">of which is <lang n="greek"></lang> Piscium. See {#अन्त्यभ#}. E. {#अन्त,#} taddh. aff. {#यत्#}.
+<div n="lb">of which is <lang n="greek">ζ</lang> Piscium. See {#अन्त्यभ#}. E. {#अन्त,#} taddh. aff. {#यत्#}.
 <LEND>
 
 <L>3984<pc>129-a<k1>अन्त्यक<k2>अन्त्यक
@@ -26847,7 +26847,7 @@ II. {#अनु#}¦ m. ({#-नुः#}) <sup>1</sup> (in the Vedas; esp. in the 
 <div n="lb">of the Zodiac, the sign Pisces. <sup>2</sup> The last or twenty seventh
 <div n="lb">mansion in the circumference of the moon's periodical re-
 <div n="lb">volution, the Nakshatra Revatī, the Yoga star of which
-<div n="lb">is <lang n="greek"></lang> Piscium. Compare {#अन्त्य#} 4. E. {#अन्त्य#} and {#भ#}.
+<div n="lb">is <lang n="greek">ζ</lang> Piscium. Compare {#अन्त्य#} 4. E. {#अन्त्य#} and {#भ#}.
 <LEND>
 
 <L>3999<pc>130-a<k1>अन्त्यमूल<k2>अन्त्यमूल
@@ -31290,7 +31290,7 @@ II. {#अनु#}¦ m. ({#-नुः#}) <sup>1</sup> (in the Vedas; esp. in the 
 <div n="lb">1. 4. 12.); {#अपामीवम्#} of 2. 502-504. (= II. 4. 2. 7.); {#अपां निधिः#}
 <div n="lb">of 1. 151. (= I. 2. 2. 1. 7.); {#अपां सर्पम्#} of the Āraṇyagāna (of
 <div n="lb">the Sāmav.) II. 7. (not in the Sāmav.). <sup>2</sup> (ved.) The same as
-<div n="lb">{#अन्तरिक्ष#}. <sup>3</sup> (In Astronomy.) The star <lang n="greek"></lang> {%Virginis.%} [Com-
+<div n="lb">{#अन्तरिक्ष#}. <sup>3</sup> (In Astronomy.) The star <lang n="greek">δ</lang> {%Virginis.%} [Com-
 <div n="lb">pounds the latter part of which is {#अप्#} assume the samās. aff.
 <div n="lb">{#अ,#} e. g. {#प्र#} or {#परा#} and {#अप्#} form {#प्राप, पराप;#} but some-
 <div n="lb">times the word remains unchanged, if it is a Bahuvr. com-
@@ -38499,7 +38499,7 @@ I. {#अपूर्व#}¦ 1. Bahuvr. 1. m. f. n. ({#-र्वः-र्वा
 <div n="lb">{#नाटकविधिर्यः शिक्षितो दुर्जनैः ।#}. <sup>4</sup> Not having had before
 <div n="lb">(scil. a husband); used so in {%Pāṇini'%}s {%Sūtra:%} {#कौमारापूर्ववचने#}.
 <div n="P">2. n. ({#-र्वम्#}) <sup>1</sup> (In the Mīmānsā philosophy.) <sup>a.</sup> The
-<div n="lb">{%unseen or transcendental power%} (<lang n="greek"></lang>, = {#अदृष्टपूर्वम्#} or
+<div n="lb">{%unseen or transcendental power%} (<lang n="greek">δυναμις</lang>, = {#अदृष्टपूर्वम्#} or
 <div n="lb">{#अत्यन्तमदृष्टम्#} liter. which has not been seen before or
 <div n="lb">which is very invisible) of a {%religious or sacrificial%} act which
 <div n="lb">produces the desired result at another than the present or
@@ -40555,7 +40555,7 @@ II. {#अपूर्व#}¦ Bahuvr. m. f. n. ({#-र्वः-र्वा-र�
 <L>5459<pc>211-a<k1>अप्रतिसङ्क्रम<k2>अप्रतिसङ्क्रम
 {#अप्रतिसङ्क्रम#}¦ Bahuvr. m. f. n. ({#-मः-मा-मम्#}) Having no as-
 <div n="lb">sociations with, free from connexion with; as Purusha or
-<div n="lb">his <lang n="greek"></lang> (of the Yoga philosophy) who is immutable
+<div n="lb">his <lang n="greek">δυναμις</lang> (of the Yoga philosophy) who is immutable
 <div n="lb">and does not intermix with wordly objects; e. g. in the
 <div n="lb">{%Yoga Sūtra:%} {#चित्तेरप्रतिसंक्रमायास्तदाकारापत्तौ बुद्धिसंवेद-#}
 <div n="lb">{#नम्#} ({%Bhojadeva:%} {#पुरुषश्चिद्रूपत्वाच्चित्तिः । सा अप्रतिसंक्रमा ।#}
@@ -45465,194 +45465,7 @@ II. {#अबधा#}¦ Tatpur. (?) (In Geometry.) (Thus defined by
 <L>5972<pc>240-b<k1>अभिचैद्य<k2>अभिचैद्य
 {#अभिचैद्य#}¦ Tatpur. m. ({#-द्यः#}) A name of Śiśupāla. E. {#अभि#} and {#चैद्य#}.
 <LEND>
-[Page-I+ 1]
-;
-; BOOKS OF A. ASHER
-;
-<>blank
-[Page-II-a+ 84]
-<H>Books to be had of {@A. ASHER & Cº@} 20, Unter den Linden, Berlin.
-<HI>ARABIC GRAMMAR. Faris's Practical Grammar of the Arabic Language,
-<>with Interlineal Reading Lessons, Dialogues and Vocabulary, by
-<>Faris el-Shidiac, a Native of Mount Lebanon, formerly Professor
-<>of Arabic at the University of Malta. Svo. London 1856. cloth.
-<>1 Thlr. 20 Sgr.
-<HI>ARABIC DICTIONARY. An Arabic-English and English-Arabic Dictionary,
-<>by Joseph Catafago, Esq., of Aleppo, Syria; Secretary to Soli-
-<>man Pasha, Major-General of the Egyptian Army in Syria, 1839-1840;
-<>First Interpreter of the General Consulate of his Majesty the King
-<>of Prussia, at Beirut, 1842-1851; Secretary of the Imperial Grand
-<>Consulate of Russia, at Beirut, 1851-53; Corresponding Member of
-<>the Sociétés Asiatiques of Paris and Leipsic, also of the Syro-Egyptian
-<>Society of London; trauslator of the “Catechism of the Ansari”,
-<>presented to his Majesty the King of Prussia in 1845, and of other
-<>Arabic Manuscripts; 2 vols. sm. 8vo. London 1858. Vol. I. xii. &
-<>316 pp. Vol. II. viii. & 744 pp. double columns, much matter com-
-<>pressed into a small space, all the Arabic words with the pronun-
-<>ciation in Roman letters, cloth.
-<>13 Thlr. 10 Sgr.
-<HI>BENGALI AND ENGLISH DICTIONARY. Glossary Bengali and English
-<>to explain the Tota-Itihas, the Batris Singhasan, the History of
-<>Raja Krishna Chandra, the Purusha-Parikhya, the Hitopadesa (transl.
-<>by Mrityunjaya). 4to. London 1825.
-<>8 Thlr
-<HI>BHOTANTA DICTIONARY AND GRAMMAR. Dictionary of the Bhotanta
-<>or Boutan Language; printed from a Ms. copy, made by the late
-<>R{??} Q. C. G. Schroeter, edit. by J. Marshman. To which is pre-
-<>{??} Grammar of the Bhotanta language by Schroeter, edited by
-<>W. Carey. 4to. Serampore 1826.
-<>8 Thlr.
-<HI>CHINESE HOK-KEEN DIALECT DICTIONARY. Dictionary of the Hok-
-<>Keen Dialect of the Chinese Language, containing 12000 characters.
-<>By W. H. Medhurst. 4to. Macao 1832.
-<>20 Thlr.
-<HI>COCHINCHINE-LATIN DICTIONARY. Dictionarium Cochinchine-Latinum,
-<>primitus inceptum ab illustrissimo P. J. Pigneaux, episcopo etc.,
-<>dein absolutum et ed. a J. L. Taberd episcopo etc. 2 vol. 4to.
-<>Serampore 1838.
-<>21 Thlr. 20 Sgr.
-<HI>EGYPTIAN GRAMMAR. Champollion. Grammaire Egyptieune ou
-<>principes généraux de l'écriture sacrée Égyptienne, publ. par ordre
-<>de M. Guizot. fol. Paris 1836. {%Very scarce.%}
-<>24 Thlr.
-<HI>HINDEE AND HINDOOSTANEE SELECTIONS, to which are prefixed the
-<>Rudiments of Hindoostance and Bruj Bhakha Grammar also: Prem
-<>Sagur; or History of Krīṣnu in Hindee--A Vocabulary to the
-<>above in Khuree Bola and English Grammar in Nine Chapters--
-<>Articles of War and Military Terms--Betal Pucheesee, Selection
-<>from the Bhuktu Mal--Ditto from the Rekhtus of Khubeer--
-<>Ditto from the Ramayunn--Humorous Stories, in an easy Style--
-<>Popular Hindee Songs--A Descriptive List of the Popular Festi-
-<>vals of the Hindoos--A List of Hindoo Casts--Extracts from
-<>the Bagh-o-Buhar--Gooli Bukawulee--Araishi Mahfil--Ukhlaq
-<>Hindee--Sukontala, or the Fatal Ring--Pleasant Stories, in an
-<>easy Style--Poetical Extracts from Hindoostanee Authors--Po-
-<>pular Rekhtu Songs--Dialogues, 2 vols. royal 4to. about 1500 pp.
-<>(pub. at £ 2. 5 s. sd.) hf. bd. calf neat, 30 s. Calcutta 1828.
-<>10 Thlr.
-<HI>HINDI AND BRAJ BHAKHA GRAMMAR. Grammar of the Hindi and
-<>Braj Bhakha language, by Ballantyne. 4to. Edinburgh 1839.
-<>2 Thlr.
-<HI>HINDUSTANI GRAMMAR. Eastwick's concise Grammar of the Hin-
-<>dustani Language, to which are added Selections for Reading, new
-<>edition, enlarged with a Vocabulary, Dialogues, 12 facsimiles of
-<>Persian and Devanagari Writing, etc. by the Rev. G. Small, M. C. P.
-<>8vo. London 1858.
-<>3 Thlr. 10 Sgr.
-<HI>HINDOSTAN DIALECT. Hadley, G. A grammar of the Current Cor-
-<>rupt Dialect of the Jargon of Hindostan (commonly called Moors)
-<>with a Vocab. English and Moors, Moors and English. 8vo. London
-<>1804. {%Rare.%}
-<>2 Thlr. 20 Sgr.
-<HI>INDIAN TERMS GLOSSARY. Wilson, H. H. A glossary of terms re-
-<>lating to the administration of the Government of British India from
-<>the Arabic, Persian, Hindustani, Sanskrit, Bengali and other lan-
-<>guages. 4to. London 1855.
-<>13 Thlr. 10 Sgr.
-<HI>KAREN DICTIONARY. Thesaurus of Karen Knowledge compr. Legends,
-<>Fables, Poetry etc., alphabet. arranged; forming a complete Karen
-<>Dictionary. Written by Sau Kau-Too, and compiled by J. Wade.
-<>4 vol. 8vo. Tavoy. 1847.
-<>30 Thlr.
-<HI>MAHAVANSO. The Mahavanso in Roman characters, with the Transla-
-<>tion subjoined and an introductory essay on Pali Buddhistical litera-
-<>ture. By G. Turnour. Vol. I. (et seul.) 4to. Ceylon 1837. {%Very%}
-<>{%scarce.%}
-<>15 Thlr.
-[Page-II-b+ 91]
-<HI>MARATHI-ENGLISH VOCABULARY, compiled from Kennedy's and
-<>Molesworth's Dictionaries, with a preface containing rules as to
-<>the variations of the Marathi Orthography, and instructions as to
-<>the formation of derivative words. 8vo. cloth. Bombay 1851.
-<>1 Thlr. 20 Sgr.
-<HI>MURATHEE & ENGLISH DICTIONARY. Dictionary Murathee & English
-<>compiled for the Government of Bombay. By Capt. James T.
-<>Molesworth. Assisted by Lieuts. Thomas & George Candy.
-<>4to. Bombay 1831.
-<>12 Thlr.
-<HI>PERSIAN GRAMMAR. Grammar of the Persian Language, to which are
-<>subjoined several Dialogues with an alphabetical list of the English
-<>and Persian terms of grammar and an Appendix on the use of Arabic
-<>words, by Meerza Mohammad Ibraheem. Roy. 8vo. London
-<>1841.
-<>6 Thlr. 10 Sgr.
-<HI>PERSIAN GRAMMAR. A Grammar of the Persian Language, containing
-<>Dialogues, Reading Lessons, and a Vocabulary, by A. H. Bleeck.
-<>12mo. 288 pp. London 1857. cloth.
-<>2 Thlr. 15 Sgr.
-<HI>PERSIAN-ARABIC-ENGLISH DICTIONARY. Dictionary, Persian, Arabic,
-<>and English, by Francis Johnson. 4to. London 1852.
-<>24 Thlr.
-<HI>PERSIAN GUIDE. The Persian Guide exhibiting the Arabic Derivatives,
-<>by Fr. Gladwin. 4to. Calcutta 1800.
-<>9 Thlr. 10 Sgr.
-<HI>PERSIAN PROPHETS. The Desatir, or Sacred Writings of the Ancient
-<>Persian Prophets, in the Original Tongue, together with the Ancient
-<>Persian version and Commentary of the fifth Sasan; carefully published
-<>by Mulla Firuz Bin Kaus, who has subjoined a copious Glossary
-<>of the Obsolete and Technical Persian Terms; with an English Trans-
-<>lation of the Desatir and Commentary, 2 vols. in 1, impl. 8vo. hf.
-<>morocco, uncut. {%Very rare.%} Bombay 1818.
-<>10 Thlr.
-<HI>SANSKRIT GRAMMARS. Grammar of the Sungskrit Language with
-<>examples and a complete List of the Dhatoos, or Roots. By W.
-<>Carey. gr. 4to. Serampore 1806. (£4. 4ṣ.)
-<>10 Thlr.
-<HI>-- --Grammaire Sanscrite-Française, par Desgranges. 2 vol. 4to.
-<>Paris 1847.
-<>10 Thlr. 20 Sgr.
-<HI>-- --Grammar of the Sanskrit Language, by H. T. Colebrooke, Esq.
-<>Vol. I. (et seul). fol. Calcutta 1805.
-<>6 Thlr. 10 Sgr.
-<HI>-- --Grammar of the Sanskrit Language, by Professor H. H. Wilson.
-<>Second edition. 4to. London 1847.
-<>6 Thlr.
-<HI>-- --{@Grammar.@} First lessons in Sanskrit Grammar. Prepared for the
-<>use of the Benares College. (By J. R. Ballantyne.) 8vo. Mirzapore
-<>1851.
-<>1 Thlr. 5 Sgr.
-<HI>-- --{@Grammar@} of the Sanskrita Language, by Sir C. Wilkins. 4to.
-<>London 1808.
-<>6 Thlr.
-<HI>SANSKRIT DICTIONARY. Cosha or Dictionary of the Sanskrit Language
-<>by Amera Sindha. With an English Interpret. and Annotat. By
-<>H. T. Colebrooke. gr. 4to. Serampore 1808.
-<>9 Thlr. 10 Sgr.
-<HI>TELUGU DICTIONARY. Dictionary Telugu and English explaining the
-<>colloquial style used in business and the poetical dialect with ex-
-<>planation in English and in Telugu by Charles Ph. Brown. 4to.
-<>Madras 1852.
-<>12 Thlr.
-<HI>-- --{@Dictionary@} English and Telugu explaining the English idioms and
-<>phrases in Telugu with the pronunciation of English words. Pre-
-<>pared by Charles Ph. Brown. 4to. Madras 1852.
-<>12 Thlr.
-<HI>-- --Dictionary of the Teloogoo language commonly termed the Gentoo.
-<>By A. D. Campbell. 4to. Madras 1821.
-<>18 Thlr.
-<HI>TIBETAN GRAMMAR. Grammar of the Tibetan language, in English,
-<>prepared under the patronage of the Indian Government by A Csoma
-<>de Körös. 4to. Calcutta 1834.
-<>5 Thlr. 10 Sgr.
-<HI>TIBETAN DICTIONARY. Tibetan and English Dictionary prepared with
-<>the assistance of the Bandé Sangs-Rgyas Phin-Tshogs, a learned Lama
-<>of Zaṅgskār. By A. Csoma de Körös. 4to. Calcutta 1834.
-<>8 Thlr.
-<HI>TURKISH GRAMMAR. Barker's Reading Book of the Turkish Language,
-<>with a Grammar and Vocabulary; containing a selection of Original
-<>Tales, literally translated and accompanied by grammatical references;
-<>the pronunciation of each word given as now used in Constantinople.
-<>8vo. London 1854. cloth.
-<>1 Thlr. 20 Sgr.
-<HI>TURKISH DICTIONARY. Redhouse's English and Turkish Dictionary,
-<>in two parts, Part I. English and Turkish. Part II. Turkish-English;
-<>in which the Turkish words are represented in the Oriental character,
-<>as well as their correct pronunciation and accentuation shewn in
-<>English letters, by J. W. Redhouse, F. R. S. A., Member of the
-<>Imperial Academy of Science of Constantinople, &c. &c. in 1 stout
-<>vol. sm. sq. 8vo. xxvi. and 1151 pp. 1857. cloth, £ 2.
-<>10 Thlr.
-<HS>Berlin, printed by C. and F. Unger.
+
 [Page-III+ 23]
 ;
 ; TITLE PART 4
