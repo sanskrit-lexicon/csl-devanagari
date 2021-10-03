@@ -1,0 +1,12 @@
+46876,46877c46876,46877
+< <L>10207<pc>181-1<k1>dfMhaRa<k2>df/MhaRa
+< {#df/MhaRa#}¦ {%n.%} das Befestigen.
+---
+> <L>10207<pc>181-1<k1>dfMhaRa<k2>dfM/haRa
+> {#dfM/haRa#}¦ {%n.%} das Befestigen.
+46880,46881c46880,46881
+< <L>10208<pc>181-1<k1>dfMhita<k2>df/Mhita/
+< {#df/Mhita/#}¦ {%(s.%} {#darh)#}, {%n. = vor.%}
+---
+> <L>10208<pc>181-1<k1>dfMhita<k2>dfM/hita/
+> {#dfM/hita/#}¦ {%(s.%} {#darh)#}, {%n. = vor.%}
