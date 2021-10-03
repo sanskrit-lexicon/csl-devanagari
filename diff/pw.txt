@@ -1,8 +1,0 @@
-498235c498235
-< <div n="p">— Mit {#A#}, {} hierher wohl {#OSAna/#} {%begehrt.%}
----
-> <div n="p">— Mit {#A#}, {##} hierher wohl {#OSAna/#} {%begehrt.%}
-525438c525438
-< <div n="p">— Mit {#prati#}, {} ein <ab>adv.</ab> Comp.
----
-> <div n="p">— Mit {#prati#}, {##} ein <ab>adv.</ab> Comp.
