@@ -84,7 +84,9 @@ def convert_partially_to_devanagari(startMark, endMark, inputTranslit, data):
             result.append(splt[i])
         # If odd, it is to be converted to Devanagari.
         else:
-            result.append(sanscript.transliterate(splt[i], inputTranslit, 'devanagari'))
+            textToConvert = re.sub('^' + startMark, '', splt[i])
+            textToConvert = re.sub(endMark + '$', '', textToConvert)
+            result.append(startMark + sanscript.transliterate(textToConvert, inputTranslit, 'devanagari') + endMark)
     # Return the output
     return ''.join(result)
 

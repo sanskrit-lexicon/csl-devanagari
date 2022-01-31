@@ -68,8 +68,10 @@ def convert_partially_to_slp1(startMark, endMark, outputTranslit, data):
             result.append(splt[i])
         # If odd,
         else:
+            textToConvert = re.sub('^' + startMark, '', splt[i])
+            textToConvert = re.sub(endMark + '$', '', textToConvert)
             # Transliterate to SLP1
-            result.append(sanscript.transliterate(splt[i], 'devanagari', outputTranslit))
+            result.append(startMark + sanscript.transliterate(textToConvert, 'devanagari', outputTranslit) + endMark)
     # Return output
     return ''.join(result)
 
