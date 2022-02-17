@@ -37,7 +37,7 @@ def convert_metaline(dictcode):
                 devameta.append('<' + i + '>')
                 # Convert content of k1 and k2 into Devangari.
                 if i in ['k1', 'k2']:
-                    devameta.append(sanscript.transliterate(meta[i], 'slp1', 'devanagari'))
+                    devameta.append(sanscript.transliterate(meta[i], 'slp1_accented', 'devanagari'))
                 # Keep rest of content as they are.
                 else:
                     devameta.append(meta[i])
@@ -66,7 +66,7 @@ def convert_to_devanagari(data):
         # If manipulation is required,
         else:
             # Convert to Devanagari.
-            result.append(sanscript.transliterate(lin, 'slp1', 'devanagari'))
+            result.append(sanscript.transliterate(lin, 'slp1_accented', 'devanagari'))
     # Prepare result
     return '\n'.join(result)
 
@@ -105,9 +105,9 @@ def run_code(dictcode):
     if dictcode in ['vcp', 'skd', 'armh']:
         data = convert_to_devanagari(data)
     elif dictcode in ['mw', 'krm']:
-        data = convert_partially_to_devanagari('<s>', '</s>', 'slp1', data)
+        data = convert_partially_to_devanagari('<s>', '</s>', 'slp1_accented', data)
     else:
-        data = convert_partially_to_devanagari('{#', '#}', 'slp1', data)
+        data = convert_partially_to_devanagari('{#', '#}', 'slp1_accented', data)
     # Write to the output file.
     fout.write(data)
     fout.close()

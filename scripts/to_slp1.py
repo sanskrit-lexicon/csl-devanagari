@@ -27,7 +27,7 @@ def convert_metaline(dictcode):
         # If metaline,
         if lin.startswith('<L>'):
             # Convert to slp1
-            result.append(sanscript.transliterate(lin, 'devanagari', 'slp1'))
+            result.append(sanscript.transliterate(lin, 'devanagari', 'slp1_accented'))
         else:
             # If not metaline, keep it as it is.
             result.append(lin)
@@ -49,7 +49,7 @@ def convert_to_slp1(data):
         # If change required,
         else:
             # Convert to SLP1.
-            result.append(sanscript.transliterate(lin, 'devanagari', 'slp1'))
+            result.append(sanscript.transliterate(lin, 'devanagari', 'slp1_accented'))
     # Return the result
     return '\n'.join(result)
 
@@ -90,9 +90,9 @@ def run_code(dictcode):
     if dictcode in ['vcp', 'skd', 'armh']:
         data = convert_to_slp1(data)
     elif dictcode in ['mw', 'krm']:
-        data = convert_partially_to_slp1('<s>', '</s>', 'slp1', data)
+        data = convert_partially_to_slp1('<s>', '</s>', 'slp1_accented', data)
     else:
-        data = convert_partially_to_slp1('{#', '#}', 'slp1', data)
+        data = convert_partially_to_slp1('{#', '#}', 'slp1_accented', data)
     # Write result to output file.
     fout.write(data)
     fout.close()

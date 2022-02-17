@@ -1,0 +1,10 @@
+91456,91459c91456,91459
+< (1/M2) BAgAn SezAm SezAdapAsya aTavA BAgA-
+< (2/M9) pavAhaviDinA savarRite jAtam . (7/60)
+< (1/M4) anena 1 izwaguRite 63 dfzwe . Bakte jAtaM
+< (6/M10) dravyapramARam . 540 . idaM vilomasUtre-
+---
+> (1M/2) BAgAn SezAm SezAdapAsya aTavA BAgA-
+> (2M/9) pavAhaviDinA savarRite jAtam . (7/60)
+> (1M/4) anena 1 izwaguRite 63 dfzwe . Bakte jAtaM
+> (6M/10) dravyapramARam . 540 . idaM vilomasUtre-
