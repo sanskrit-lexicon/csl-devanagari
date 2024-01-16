@@ -1,0 +1,4 @@
+23689c23689
+< <div n="1">— 2) {%das Zeichen für den nasalen Nachklang%} ({#\~#}): {#niranunAsika, sAnunAsika#} 
+---
+> <div n="1">— 2) {%das Zeichen für den nasalen Nachklang%} ({#~\#}): {#niranunAsika, sAnunAsika#} 

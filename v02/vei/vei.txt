@@ -33170,7 +33170,7 @@ x. 39, 7) as the father of a maiden who wedded {@Vimada,@}
 apparently against her father's will.
 <LEND>
 
-<L>1874<pc>1-543<k1>पुरुमी|अ<k2>पुरुमी|अ
+<L>1874<pc>1-543<k1>पुरुमीळ्ह<k2>पुरुमीळ्ह
 {@Puru-mīḷha@}¦ is mentioned twice in the Rigveda<sup>1</sup> as an ancient
 sage, in which capacity he appears in the Atharvaveda<sup>2</sup> also.
 Perhaps the same<sup>3</sup> Purumīḷha is intended in an obscure hymn
@@ -61474,7 +61474,7 @@ family, are mentioned.
 <F>2) x. 69, 1, 7, 8. {%Cf.%} Ludwig, Translation of the Rigveda, 3, 133.</F>
 <LEND>
 
-<L>3618<pc>2-457<k1>सुमी|अ<k2>सुमी|अ
+<L>3618<pc>2-457<k1>सुमीळ्ह<k2>सुमीळ्ह
 {@Su-mīḷha@}¦ is the name of a patron in the Rigveda.<sup>1</sup>
 <F>1) vi. 63, 9. {%Cf.%} Ludwig, Translation of the Rigveda, 3, 158.</F>
 <LEND>

@@ -1,0 +1,12 @@
+60111c60111
+< <L>16582<pc>94,2<k1>alaMjuza<k2>ala/M-juza<h>a<e>1
+---
+> <L>16582<pc>94,2<k1>alaMjuza<k2>ala/M-juza<h>a<e>1 
+132461c132461
+< <L>37448.1<pc>218,2<k1>ulapya<k2>ulapya^<e>2B
+---
+> <L>37448.1<pc>218,2<k1>ulapya<k2>ulapya^<e>,ulapya/<e>2B
+162849c162849
+< <L>46547<pc>264,2<k1>kavikratu<k2>kavi/—kratu<e>3
+---
+> <L>46547<pc>264,2<k1>kavikratu<k2>kavi/—kratu<e>3 

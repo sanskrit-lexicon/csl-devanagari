@@ -1,0 +1,66 @@
+21357c21357
+< raM£ kzaM£ maM£ raM£ yaM£ OM£ UM£ . iti
+---
+> raꣳ kzaꣳ maꣳ raꣳ yaꣳ Oꣳ Uꣳ . iti
+181400c181400
+< “dIkzAyE rUpaM£SazpARi prAyaRIyasya
+---
+> “dIkzAyE rUpaꣳSazpARi prAyaRIyasya
+219867,219868c219867,219868
+< “sa tvamagniM£ svargyamaDyezi mftyo
+< prabrUhi taM£ SraddaDAnAya mahyam .
+---
+> “sa tvamagniꣳ svargyamaDyezi mftyo
+> prabrUhi taꣳ SraddaDAnAya mahyam .
+219887c219887
+< nicAyyemAM£ SAntimatyantameti ..
+---
+> nicAyyemAꣳ SAntimatyantameti ..
+219889c219889
+< ya evaM vidvAM£Scinute nAciketam .
+---
+> ya evaM vidvAꣳScinute nAciketam .
+299928c299928
+< 7 . 3 . “devAM£So yasmE tveqe tatsatyamupari
+---
+> 7 . 3 . “devAꣳSo yasmE tveqe tatsatyamupari
+334482c334482
+< puzpiRIH bfhaspatiprasUtAstA no muYcantaM£hasaH .
+---
+> puzpiRIH bfhaspatiprasUtAstA no muYcantaꣳhasaH .
+334521c334521
+< iti mantreRa niveSya o~ etonvindraM£stavAmaH
+---
+> iti mantreRa niveSya o~ etonvindraꣳstavAmaH
+334540c334540
+< pAstAn ApaH SaM£SyonA Bavantu .. iti paYca-
+---
+> pAstAn ApaH SaꣳSyonA Bavantu .. iti paYca-
+334891c334891
+< retAM£si jinnati svAhA . o~ agne vivasvaduzasa
+---
+> retAꣳsi jinnati svAhA . o~ agne vivasvaduzasa
+334909c334909
+< apAM£ retAM£si jinnati svAhA . idaM maNga-
+---
+> apAꣳ retAꣳsi jinnati svAhA . idaM maNga-
+334911c334911
+< zwApUrtte saM£sfjeTAmayaYca . asmin saDasTe
+---
+> zwApUrtte saꣳsfjeTAmayaYca . asmin saDasTe
+334916c334916
+< fta prajAta tadasmAmu draviRaM Dehi citraM£
+---
+> fta prajAta tadasmAmu draviRaM Dehi citraꣳ
+334919c334919
+< patiH . ftena satyamindriyaM vipAnaM£ Sukra-
+---
+> patiH . ftena satyamindriyaM vipAnaꣳ Sukra-
+335142c335142
+< CandAMsyaNgAni DizRiyAH SaPAH yajUM£zi nAma .
+---
+> CandAMsyaNgAni DizRiyAH SaPAH yajUꣳzi nAma .
+412881c412881
+< “lANgalaM pavIravatsuSevaM£somapitsaru ..”)
+---
+> “lANgalaM pavIravatsuSevaꣳsomapitsaru ..”)

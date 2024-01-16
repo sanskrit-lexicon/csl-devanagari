@@ -1043,7 +1043,7 @@ many.
 {@an-enás,@}¦ {%<ab>a.</ab>%} free from guilt. [{@énas,@}
 <ls n="wg,1304">1304a</ls>.]
 <LEND>
-<L>236<pc>116-b<k1>अन्ॐकृत<k2>अन्-ॐकृत
+<L>236<pc>116-b<k1>अनोंकृत<k2>अन्-ओंकृत
 {@an-oṃkṛta,@}¦ {%<ab>a.</ab>%} not having om uttered, {%<ab>i. e.</ab>%}
 unaccompanied by om. [see {@oṃkṛta.@}]
 <LEND>
@@ -1595,7 +1595,7 @@ relative. [{@amā́,@} <ls n="wg,1245">1245b</ls>.]
 {@amā-vāsa,@}¦ {%<ab>m.</ab>%} a dwelling (of the moon)
 at home ({%<ab>i. e.</ab>%} with the sun).
 <LEND>
-<L>356<pc>119-b<k1>अमावास्य<k2>अमावास्य^
+<L>356<pc>119-b<k1>अमावास्य<k2>अमावास्य᳡
 {@amāvāsyà,@}¦ {%<ab>a.</ab>%} of {@amāvāsa;@} {%<ab>f.</ab>%} {@-ā́,@} {%<ab>w.</ab> or%}
 {%without%} {@rātri,@} the night of {@amāvāsa,@} {%<ab>i. e.</ab>%}
 night of new moon. [<ls n="wg,1212">1212d</ls> 4.]
@@ -2299,7 +2299,7 @@ were {@a-sura@}--whence, by popular etymology, <lbinfo n="ety-mology,"/>
 <ls n="wg,1226">1226</ls> (<ab>cf.</ab> <ls n="wg,1188">1188f</ls>), and {@as-u@} <ab>fr.</ab> {@√1as,@}
 <ls n="wg,1178">1178b</ls>.]
 <LEND>
-<L>520<pc>123-b<k1>असुर्य<k2>असुर्य^
+<L>520<pc>123-b<k1>असुर्य<k2>असुर्य᳡
 {@asuryà,@}¦ {%<ab>a.</ab>%} godlike; {%as <ab>n.</ab> <ab>pl.</ab>%} godhead.
 [{@ásura,@} <ls n="wg,1212">1212d</ls> 4.]
 <LEND>
@@ -2556,7 +2556,7 @@ the mouth. [{@ācamana,@} <ls n="wg,1215">1215.</ls>]
 {@ācāra,@}¦ {%<ab>m.</ab>%} walk and conversation; conduct;
 usage; observance. [{@√car + ā.@}]
 <LEND>
-<L>584<pc>124-b<k1>आचार्य<k2>आचार्य^
+<L>584<pc>124-b<k1>आचार्य<k2>आचार्य᳡
 {@ācāryà,@}¦ {%<ab>m.</ab>%} teacher, {%<ab>esp.</ab>%} of the Veda.
 [perhaps, ‘the man of observances,’ <ab>fr.</ab>
 {@ācāra,@} <ls n="wg,1212">1212d</ls> 4.]
@@ -4683,7 +4683,7 @@ Indra and Brihaspati. [{@índrābṛ́haspáti,@}
 <L>982<pc>138-a<k1>ओकस्<k2>ओ꣡कस्
 {@ókas,@}¦ {%<ab>n.</ab>%} wonted place; home. [{@√uc.@}]
 <LEND>
-<L>983<pc>138-a<k1>ॐकृत<k2>ॐ-कृत
+<L>983<pc>138-a<k1>ओंकृत<k2>ओं-कृत
 {@oṃ-kṛta,@}¦ {%<ab>a.</ab>%} having an uttered om, accompanied  <lbinfo n="accom-panled"/>
 by om. [the natural order would
 require {@kṛtaum:@} order inverted to avoid
@@ -5241,7 +5241,7 @@ nourished by the Pleiads, {@kṛttikās@}): {%<ab>cf.</ab>%}
 {@kumāra@} {%and%} {@svāmikumāra@}. [kṛttikā,
 <ls n="wg,1216">1216.</ls>]
 <LEND>
-<L>1101<pc>141-a<k1>कार्य<k2>कार्य^
+<L>1101<pc>141-a<k1>कार्य<k2>कार्य᳡
 {@kāryà,@}¦ {%<ab>grdv.</ab>%} to be done, faciendus, {%<ab>w.</ab> the%}
 {%various shades of <ab>mg</ab> belonging to%} {@√1kṛ;@}
 requiring to be instituted, <ls n="lan,4,19">4<sup>19</sup></ls>; requiring
@@ -6069,7 +6069,7 @@ the distance of a Kos. [{@krośa-mātra +@}
 <L>1257<pc>146-a<k1>क्लेश<k2>क्लेश
 {@kleśa,@}¦ {%<ab>m.</ab>%} pain; trouble. [{@√kliś.@}]
 <LEND>
-<L>1258<pc>146-a<k1>क्व<k2>क्व^
+<L>1258<pc>146-a<k1>क्व<k2>क्व᳡
 {@kvà,@}¦ {%<ab>V.</ab>%} {@kúa,@} {%<ab>adv.</ab>%} <div n="2"/>{@—1.@} where ? whither ?
 {@kúa babhūvus,@} what has become of ? <div n="2"/>{@—2.@}
 {@kva@} cid: anywhere; in any case, ever,
@@ -7079,7 +7079,7 @@ the Soma.
 {@grāhá,@}¦ {%<ab>a.</ab> <ab>subst.</ab>%} grasping, grasper, {%in <ab>cpds.</ab>%}
 [{@√grah.@}]
 <LEND>
-<L>1428<pc>152-b<k1>ग्राह्य<k2>ग्राह्य^
+<L>1428<pc>152-b<k1>ग्राह्य<k2>ग्राह्य᳡
 {@grāhyà,@}¦ {%<ab>grdv.</ab>%} to be grasped; perceivable.
 [do.]
 <LEND>
@@ -7828,7 +7828,7 @@ end.]
 {@jaghána,@}¦ {%<ab>m.</ab> <ab>n.</ab>%} the hinder parts, the buttocks. <lbinfo n="but-tocks."/>
 
 <LEND>
-<L>1562<pc>157-b<k1>जघन्य<k2>जघन्य^
+<L>1562<pc>157-b<k1>जघन्य<k2>जघन्य᳡
 {@jaghanyà,@}¦ {%<ab>a.</ab>%} hindermost; last; lowest
 {%or%} worst. [{@jaghana,@} <ls n="wg,1212">1212d</ls> 4.]
 <LEND>
@@ -10252,7 +10252,7 @@ to {@pūrvaṃ dṛṣṭa,@} see <ls n="wg,1291">1291</ls>.]
 {%<ab>caus.</ab>%} make stable. [<ab>cf.</ab> Old <ab>Lat.</ab> {%forc-tis,%}
 <ab>Lat.</ab> {%fortis,%} ‘strong.’]
 <LEND>
-<L>2031<pc>172-a<k1>दृ|अ<k2>दृ|अ꣡
+<L>2031<pc>172-a<k1>दृळ्ह<k2>दृळ्ह꣡
 {@dṛḻhá,@}¦ {%same as%} {@dṛḍhá, √dṛh,@} <ls n="wg,54">Whitney 54</ls>.
 <LEND>
 <L>2032<pc>172-a<k1>देय<k2>दे꣡य
@@ -10490,7 +10490,7 @@ house and field), wealth. [{@√dru,@} <ls n="wg,1177">1177b</ls>.]
 thing, object; <div n="2"/>{@—3.@} {%<ab>esp.</ab>%} worthy object.
 [{@√dru:@} see {@draviṇa.@}]
 <LEND>
-<L>2081<pc>173-b<k1>द्रष्टव्य<k2>द्रष्टव्य^
+<L>2081<pc>173-b<k1>द्रष्टव्य<k2>द्रष्टव्य᳡
 {@draṣṭavyà,@}¦ {%<ab>grdv.</ab>%} to be seen. [{@√dṛś.@}]
 <LEND>
 <L>2082<pc>173-b<k1>द्रा<k2>द्रा<h>1
@@ -10966,7 +10966,7 @@ name of a deity, <ls n="lan,90,9">90<sup>9</sup></ls><ab>N.</ab> [{@√1dhā.@}]
 <L>2156<pc>176-b<k1>धाना<k2>धाना꣡
 {@dhānā́,@}¦ {%<ab>f.</ab> <ab>pl.</ab>%} corns, {%<ab>i. e.</ab>%} grain.
 <LEND>
-<L>2157<pc>176-b<k1>धान्य<k2>धान्य^
+<L>2157<pc>176-b<k1>धान्य<k2>धान्य᳡
 {@dhānyà,@}¦ {%<ab>a.</ab>%} cereal {%(<ab>adj.</ab>); as <ab>n.</ab>%} cereal
 ({%noun%}), grain. [{@dhānā́.@}]
 <LEND>
@@ -12239,7 +12239,7 @@ perhaps ‘the swimmer,’ {@√snū,@} <ab>cf.</ab> {@√snā.@}]
 tree. [‘downwards-growing’: {@nyañc@}
 (<ls n="wg,1249">1249a</ls>) {@+ rodha.@}]
 <LEND>
-<L>2393<pc>184-b<k1>न्यञ्च्<k2>न्य^ञ्च्
+<L>2393<pc>184-b<k1>न्यञ्च्<k2>न्य᳡ञ्च्
 {@nyàñc@}¦ [<ls n="wg,409">409b</ls>], {%<ab>a.</ab>%} directed downwards. [{@ni@}
 {@+ añc,@} <ls n="wg,407">407.</ls>]
 <LEND>
@@ -15085,7 +15085,7 @@ with, {%<ab>i. e.</ab>%}) studying sacred knowledge;
 observing chastity, <ls n="lan,64,14">64<sup>14</sup></ls>, <ls n="lan,100,21">100<sup>21</sup></ls>. [{@bráhman,@} <lbinfo n="[bráh-man,"/>
 <ls n="wg,1249">1249a<sup>2</sup></ls>.]
 <LEND>
-<L>2920<pc>202-a<k1>ब्रह्मण्य<k2>ब्रह्मण्य^
+<L>2920<pc>202-a<k1>ब्रह्मण्य<k2>ब्रह्मण्य᳡
 {@brahmaṇyà,@}¦ {%<ab>a.</ab>%} pertaining {%or%} attached
 to the holy life and study ({@bráhman@}), {%<ab>i. e.</ab>%}
 pious; attached {%or%} friendly to Brahmans
@@ -15583,7 +15583,7 @@ tells the story of Nala. [{@bharatá,@} <ls n="wg,1208">1208f</ls>.]
 <L>2989<pc>205-b<k1>भारिक<k2>भारिक
 {@bhārika,@}¦ {%<ab>m.</ab>%} carrier. [{@bhāra.@}]
 <LEND>
-<L>2990<pc>205-b<k1>भार्य<k2>भार्य^
+<L>2990<pc>205-b<k1>भार्य<k2>भार्य᳡
 {@bhāryà,@}¦ {%<ab>grdv.</ab>%} to be supported {%or%} maintained; <lbinfo n="main-tained;"/>
  {@-ā̀,@} {%<ab>f.</ab>%} wife. [{@√bhṛ,@} <ls n="wg,963">963b</ls>.]
 <LEND>
@@ -16084,7 +16084,7 @@ account of the g, <ls n="wg,1230">1230c</ls> end.]
 the eating; {%then%} ({%like <ab>Eng.</ab>%} eating), food.
 [{@√2bhuj,@} ‘enjoy,’ <ls n="wg,1150">1150.</ls> 1a.]
 <LEND>
-<L>3062<pc>209-a<k1>भोज्य<k2>भोज्य^
+<L>3062<pc>209-a<k1>भोज्य<k2>भोज्य᳡
 {@bhojyà,@}¦ {%<ab>grdv.</ab>%} to be eaten; {%as <ab>n.</ab>%} food,
 supply of food. [{@√2bhuj,@} ‘enjoy, eat,’
 <ls n="wg,963">963d</ls>.]
@@ -16496,7 +16496,7 @@ but the usual explanation of manu as
 {@manujendra,@}¦ {%<ab>m.</ab>%} (prince of men, {%<ab>i. e.</ab>%})
 prince, king, <ls n="lan,1,5">1<sup>5</sup></ls>. [{@manuja + indra,@} <ls n="wg,1264">1264.</ls>]
 <LEND>
-<L>3119<pc>212-a<k1>मनुष्य<k2>मनुष्य^
+<L>3119<pc>212-a<k1>मनुष्य<k2>मनुष्य᳡
 {@manuṣyà,@}¦ <div n="2"/>{@—1.@} {%<ab>a.</ab>%} human; <div n="2"/>{@—2.@} {%as <ab>m.</ab>%} man.
 [manus, <ls n="wg,1212">1212d</ls> 1: <ab>cf.</ab> {@mānuṣa:@} for <ab>mg</ab> 2,
 see {@mānava.@}]
@@ -17431,7 +17431,7 @@ fatness, bestow richly’ (see under {@mīḍhvā́ṃs@} <lbinfo n="mīḍh-vā
 {@mīmāṃsya,@}¦ {%<ab>grdv.</ab>%} to be called in question.
 [<ab>fr.</ab> <ab>desid.</ab> of {@√man,@} <ls n="wg,1028">1028e</ls>, <ls n="wg,963">963.</ls>]
 <LEND>
-<L>3295<pc>218-a<k1>मी|उषे<k2>मी|उ꣡षे
+<L>3295<pc>218-a<k1>मीळ्हुषे<k2>मीळ्हु꣡षे
 {@mīḻhúṣe,@}¦ {%see%} {@mīḍhvā́ṃs@} {%and%} <ls n="wg,54">Whitney 54</ls>.
 <LEND>
 <L>3296<pc>218-a<k1>मुक्तशाप<k2>मुक्त-शाप
@@ -18959,7 +18959,7 @@ sounds) hushed.
 [{@√ram,@} <ls n="wg,965">965,</ls> <ls n="wg,1215">1215.</ls>]
 <LEND>
 [Page229-a+ 50]
-<L>3503<pc>229-a<k1>रम्य<k2>रम्य^
+<L>3503<pc>229-a<k1>रम्य<k2>रम्य᳡
 {@ramyà,@}¦ {%<ab>grdv.</ab>%} enjoyable, pleasant. [{@√ram,@}
 <ls n="wg,963">963.</ls>]
 <LEND>
@@ -19083,7 +19083,7 @@ also <ab>Goth.</ab> {%reiks,%} <ab>AS.</ab> {%rīce,%} ‘powerful,’
 <ab>Eng.</ab> {%rich: rīce,%} ‘dominion,’ lives in <ab>Eng.</ab>
 {%bishop-ric.%}]
 <LEND>
-<L>3524<pc>229-b<k1>राजन्य<k2>राजन्य^
+<L>3524<pc>229-b<k1>राजन्य<k2>राजन्य᳡
 {@rājanyà,@}¦ {%<ab>a.</ab>%} royal, princely; {%as <ab>m.</ab>%} one of
 royal race, a noble, {%oldest designation of%}
 a man of the second caste; {%see%} {@kṣatriya.@}
@@ -19965,7 +19965,7 @@ pure in its {%or%} his {@vaṃśa,@}’ <ls n="wg,1265">1265</ls>: {@√śudh.@}
 {@√vak@}¦ ({@vāvakré@} [<ls n="wg,786">786,</ls> <ls n="wg,798">798a</ls>]). roll. [akin
 <ab>w.</ab> {@√vañc,@} <ab>q. v.</ab>]
 <LEND>
-<L>3655<pc>235-b<k1>वक्तव्य<k2>वक्तव्य^
+<L>3655<pc>235-b<k1>वक्तव्य<k2>वक्तव्य᳡
 {@vaktavyà,@}¦ {%<ab>grdv.</ab>%} to be said {%or%} spoken;
 {%see%} <ls n="wg,999">999</ls> end. [{@√vac,@} <ls n="wg,964">964.</ls>]
 <LEND>
@@ -20370,7 +20370,7 @@ personified as a god.]
 {@várūtha,@}¦ {%<ab>n.</ab>%} cover; {%and so, as in <ab>Eng.</ab>,%}
 protection. [{@√1vṛ,@} ‘cover,’ <ls n="wg,1163">1163c</ls>.]
 <LEND>
-<L>3716<pc>238-b<k1>वरूथ्य<k2>वरूथ्य^
+<L>3716<pc>238-b<k1>वरूथ्य<k2>वरूथ्य᳡
 {@varūthyà,@}¦ {%<ab>a.</ab>%} protecting. [{@varūtha,@}
 <ls n="wg,1212">1212d</ls> 4.]
 <LEND>
@@ -21021,7 +21021,7 @@ the night, sleeping-room.
 {@vāsin,@}¦ {%<ab>a.</ab>%} dwelling. [{@√3 vas,@} ‘dwell,’
 <ls n="wg,1183">1183<sup>3</sup></ls>.]
 <LEND>
-<L>3818<pc>243-a<k1>वास्तव्य<k2>वास्तव्य^
+<L>3818<pc>243-a<k1>वास्तव्य<k2>वास्तव्य᳡
 {@vāstavyà,@}¦ {%<ab>a.</ab>%} belonging to an abode;
 {%as <ab>m.</ab>%} inhabitant. [{@vā́stu,@} <ls n="wg,1212">1212d</ls> 2.]
 <LEND>
@@ -21970,7 +21970,7 @@ of Nishadha, {%like the Greek%} <lang n="greek">Ἡρό-στρατος</lang> {%
 {@vīra-senā́,@}¦ {%<ab>f.</ab>%} hero-army, army of heroes.
 [{@vīrá + sénā,@} <ls n="wg,1280">1280b</ls>: <ab>acct</ab>, <ls n="wg,1280">1280<sup>2</sup></ls>.]
 <LEND>
-<L>3983<pc>249-a<k1>वीर्य<k2>वीर्य^
+<L>3983<pc>249-a<k1>वीर्य<k2>वीर्य᳡
 {@vīryà,@}¦ {%<ab>n.</ab>%} <div n="2"/>{@—1.@} manliness, courage;
 strength; <div n="2"/>{@—2.@} {%concrete,%} heroic deed.
 [{@vīrá,@} <ls n="wg,1212">1212d</ls> 4.]
@@ -22509,7 +22509,7 @@ car called {@vimāna,@} {%<ab>q. v.</ab>%} [{@vimāna,@}
 <L>4049<pc>253-a<k1>वोच्<k2>वोच्
 {@voc,@}¦ {%quasi-root, see%} <ls n="wg,854">854</ls> {%and%} {@√vac.@}
 <LEND>
-<L>4050<pc>253-a<k1>व्यंस<k2>व्य^ंस
+<L>4050<pc>253-a<k1>व्यंस<k2>व्यं᳡स
 {@vyàṃsa,@}¦ {%<ab>a.</ab>%} having the shoulders apart,
 {%<ab>i. e.</ab>%} broad-shouldered; {%as <ab>m.</ab>%} Viansa,
 Broad-shoulder, name of a demon, slain
@@ -22554,7 +22554,7 @@ the name of (a person of high position).
 {@vyaya,@}¦ {%<ab>a.</ab>%} going asunder {%or%} to pieces,
 perishing, {%<ab>w.</ab>%} {@a-.@} [{@√i + vi,@} <ls n="wg,1148">1148.</ls> 1b.]
 <LEND>
-<L>4059<pc>253-a<k1>व्यल्कशा<k2>व्य^ल्कशा
+<L>4059<pc>253-a<k1>व्यल्कशा<k2>व्य᳡ल्कशा
 {@vyàlkaśā,@}¦ {%<ab>f.</ab>%} Vialkaśā, a certain plant.
 <LEND>
 <L>4060<pc>253-a<k1>व्यवसाय<k2>व्यवसाय
@@ -22675,7 +22675,7 @@ one of the three sacred and mystical
 exclamations, {@bhū́r, bhúvas,@} and {@svàr,@}
 {%which see.%} [{@√1hṛ + vy-ā.@}]
 <LEND>
-<L>4080<pc>254-a<k1>व्योमन्<k2>व्यो^मन्
+<L>4080<pc>254-a<k1>व्योमन्<k2>व्यो᳡मन्
 {@vyòman,@}¦ {%<ab>n.</ab>%} heaven, sky.
 <LEND>
 <L>4081<pc>254-a<k1>व्रज्<k2>व्रज्
@@ -25275,7 +25275,7 @@ victory; {@sahasā,@} {%<ab>adv.</ab>%} (with violence,
 <L>4532<pc>270-b<k1>सहस्त<k2>स-हस्त
 {@sa-hasta,@}¦ {%<ab>a.</ab>%} having hands.
 <LEND>
-<L>4533<pc>270-b<k1>सहस्य<k2>सहस्य^
+<L>4533<pc>270-b<k1>सहस्य<k2>सहस्य᳡
 {@sahasyà,@}¦ {%<ab>a.</ab>%} powerful. [{@sáhas,@} <ls n="wg,1212">1212d</ls> 1.]
 <LEND>
 <L>4534<pc>270-b<k1>सहस्र<k2>सह꣡स्र
@@ -25570,7 +25570,7 @@ sprinkle in token of consecration, {%and so%}
 <div n="p"/>{@+ ni,@} pour down {%or%} in; semen infundere
 feminae.
 <LEND>
-<L>4586<pc>272-b<k1>सिच्<k2>सि꣡ए
+<L>4586<pc>272-b<k1>सिच्<k2>सि꣡च्
 {@síc,@}¦ {%<ab>f.</ab>%} hem of a garment {%or%} robe.
 <LEND>
 <L>4587<pc>272-b<k1>सिद्ध<k2>सिद्ध
@@ -27142,7 +27142,7 @@ for <ab>mg</ab>, <ab>cf.</ab> the Dutch and the American
 sound. [<ab>cf.</ab> <lang n="greek">σῦρ-ιγξ</lang>, ‘pipe, flute’; <ab>Lat.</ab>
 {%su-sur-ru-s,%} ‘a humming’; Eng {%swar-<ab>m.</ab>%}]
 <LEND>
-<L>4827<pc>283-a<k1>स्वर्<k2>स्व^र्
+<L>4827<pc>283-a<k1>स्वर्<k2>स्व᳡र्
 {@svàr@}¦ [<ls n="wg,388">388d</ls>], {%pronounced%} {@súar@} {%in the Veda,%}
 {%<ab>n.</ab>%} <div n="2"/>{@—1.@} the sun, <ls n="lan,71,19">71<sup>19</sup></ls>; <div n="2"/>{@—2.@} sunlight, sunshine; <lbinfo n="sun-shine;"/>
  light, <ls n="lan,79,9">79<sup>9</sup></ls>, <div n="2"/>{@—3.@} (the place of the
@@ -27189,13 +27189,13 @@ heaven.
 {@svarga-loka,@}¦ {%<ab>m.</ab>%} the heavenly world,
 heaven, <ls n="lan,103,7">103<sup>7</sup></ls>.
 <LEND>
-<L>4833<pc>283-b<k1>स्वर्भानु<k2>स्व^र्-भानु
+<L>4833<pc>283-b<k1>स्वर्भानु<k2>स्व᳡र्-भानु
 {@svàr-bhānu,@}¦ {%<ab>m.</ab>%} Suarbhānu, name of a
 demon causing the eclipse of the sun,
 {%<ab>cf.</ab> the later%} {@rāhu.@} [<ab>poss.</ab> ‘having, {%<ab>i. e.</ab>%}
 with holding the sun's rays.’]
 <LEND>
-<L>4834<pc>283-b<k1>स्वर्य<k2>स्वर्य^
+<L>4834<pc>283-b<k1>स्वर्य<k2>स्वर्य᳡
 {@svaryà,@}¦ {%pronounced%} {@svaría,@} {%<ab>a.</ab>%} sounding;
 of a thunderbolt, whizzing. [{@√svar,@}
 <ls n="wg,1213">1213.</ls>]
