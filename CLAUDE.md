@@ -4,45 +4,43 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**csl-devanagari** converts the CDSL dictionary source files from SLP1 transliteration (as in `csl-orig`) to Devanagari script. It stores the Devanagari versions alongside diff files to verify that the conversion is fully invertible.
+**csl-devanagari** is a Sanskrit Lexicon **converter** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
 
-## Architecture
+## Repo Category
 
-| Directory/File | Purpose |
-|---|---|
-| `v02/` | Devanagari-encoded dictionary text files, mirroring `csl-orig/v02/` structure |
-| `scripts/` | Conversion scripts: `to_devanagari.py`, `to_slp1.py`, `redo.sh`, `redo_all.sh` |
-| `diff/` | Diff output comparing round-tripped SLP1 against `csl-orig` (should be empty/zero lines) |
+`converter` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
 
-### Conversion pipeline
+## GitHub Issue Conventions
 
-```
-csl-orig/v02/<dict>/<dict>.txt  →  to_devanagari.py  →  v02/<dict>/<dict>.txt
-v02/<dict>/<dict>.txt           →  to_slp1.py         →  slp1/<dict>.txt (not tracked)
-slp1/<dict>.txt vs csl-orig/v02/<dict>/<dict>.txt     →  diff/<dict>.txt
-```
+This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
+- **Exactly one type label** (9 options)
+- **Exactly one severity label** (4 levels)
+- **One milestone** (5 options)
 
-The `slp1/` directory is **not tracked** by git (intermediate verification only). The ideal state is that `diff/<dict>.txt` is empty for all dictionaries.
+### Type Labels
+- `bug` — Code defect (wrong output, broken contract)
+- `feature` — Net-new capability
+- `enhancement` — Improvement to existing capability
+- `performance` — Speed, memory, throughput optimization
+- `tech-debt` — Refactoring, cleanup, dependency updates
+- `security` — CVE, auth issue, credential exposure
+- `documentation` — Prose docs, API docs, comments
+- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
+- `question` — Research, proposals, open discussions
 
-### Invertibility requirement
+### Severity Labels
+- `trivial` — Cosmetic, < 1 hour
+- `minor` — Single function/component
+- `major` — Multiple files, design decision
+- `critical` — Blocks users, data loss/security CVE
 
-Every change to `csl-orig` source must survive the `to_devanagari.py` → `to_slp1.py` round-trip with zero diff. Non-zero diff entries in `diff/` indicate encoding issues in the source file.
+### Milestones
+- **API Stability** — performance, security, regressions
+- **User Experience** — bugs, features, enhancements
+- **Data Quality** — data-pipeline issues, integrity
+- **Developer Experience** — tech-debt, infrastructure, docs
+- **Community** — questions, proposals, discussions
 
-## Common Commands
+## Cross-Repo Coordination
 
-### Regenerate Devanagari for one dictionary (from `scripts/`)
-```bash
-bash redo.sh <dict>
-# e.g.: bash redo.sh mw
-```
-
-### Regenerate all dictionaries (from `scripts/`)
-```bash
-bash redo_all.sh
-```
-
-## Dependencies
-
-- **Python 3**
-- `pip install indic-transliteration` — the `indic_transliteration` package
-- **csl-orig** sibling repo — SLP1 source files
+The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
