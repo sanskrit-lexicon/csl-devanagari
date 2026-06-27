@@ -13,6 +13,22 @@ import re
 from indic_transliteration import sanscript
 from parseheadline import parseheadline
 
+XML_TAG_RE = re.compile(r'(<[^<>]*>)')
+
+
+def transliterate_text_preserving_xml_tags(text, inputTranslit):
+    """Transliterate text nodes while preserving XML-like tags."""
+    parts = XML_TAG_RE.split(text)
+    result = []
+    for part in parts:
+        if not part:
+            continue
+        if XML_TAG_RE.fullmatch(part):
+            result.append(part)
+        else:
+            result.append(sanscript.transliterate(part, inputTranslit, 'devanagari'))
+    return ''.join(result)
+
 
 def convert_metaline(dictcode):
     """Convert k1 and k2 from metaline to Devanagari."""
@@ -66,7 +82,7 @@ def convert_to_devanagari(data):
         # If manipulation is required,
         else:
             # Convert to Devanagari.
-            result.append(sanscript.transliterate(lin, 'slp1_accented', 'devanagari'))
+            result.append(transliterate_text_preserving_xml_tags(lin, 'slp1_accented'))
     # Prepare result
     return '\n'.join(result)
 
@@ -74,7 +90,7 @@ def convert_to_devanagari(data):
 def convert_partially_to_devanagari(startMark, endMark, inputTranslit, data):
     """Convert to Devanagari based on startMark and endMark."""
     # Prepare regex
-    reg = startMark + '.*?' + endMark
+    reg = re.escape(startMark) + '.*?' + re.escape(endMark)
     # Prepare split
     splt = re.split(r'(' + reg + ')', data)
     result = []
@@ -84,9 +100,8 @@ def convert_partially_to_devanagari(startMark, endMark, inputTranslit, data):
             result.append(splt[i])
         # If odd, it is to be converted to Devanagari.
         else:
-            textToConvert = re.sub('^' + startMark, '', splt[i])
-            textToConvert = re.sub(endMark + '$', '', textToConvert)
-            result.append(startMark + sanscript.transliterate(textToConvert, inputTranslit, 'devanagari') + endMark)
+            textToConvert = splt[i][len(startMark):-len(endMark)]
+            result.append(startMark + transliterate_text_preserving_xml_tags(textToConvert, inputTranslit) + endMark)
     # Return the output
     return ''.join(result)
 
