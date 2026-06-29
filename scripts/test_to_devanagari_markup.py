@@ -2,6 +2,7 @@
 import unittest
 
 from to_devanagari import (
+    ACCENTED_DICTS,
     convert_partially_to_devanagari,
     convert_to_devanagari,
     transliterate_text_preserving_xml_tags,
@@ -46,6 +47,21 @@ class ToDevanagariMarkupTest(unittest.TestCase):
             '<LEND>',
         ])
         self.assertEqual(convert_to_devanagari(data), data)
+
+    def test_plain_slash_not_converted_to_accent_for_non_accented_dict(self):
+        # In non-accented dicts (vcp, skd, bor) a bare '/' is a delimiter,
+        # not a Vedic svara marker.  Using 'slp1' (not 'slp1_accented') must
+        # leave it as '/'.
+        result = transliterate_text_preserving_xml_tags('gacCati / Agacwati', 'slp1')
+        self.assertIn('/', result)
+        self.assertNotIn('᳡', result)  # U+1CE1 Vedic tone mark
+
+    def test_accented_dicts_set_contains_vedic_dicts(self):
+        self.assertIn('gra', ACCENTED_DICTS)
+        self.assertIn('acc', ACCENTED_DICTS)
+        self.assertNotIn('vcp', ACCENTED_DICTS)
+        self.assertNotIn('skd', ACCENTED_DICTS)
+        self.assertNotIn('mw', ACCENTED_DICTS)
 
 
 if __name__ == '__main__':
