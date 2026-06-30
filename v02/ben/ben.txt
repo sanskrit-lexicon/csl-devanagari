@@ -70,7 +70,7 @@
 
 <L>11<pc>0001-b<k1>अंहस्<k2>अंहस्
 {#अंहस्#}¦ {%aṃhas%} ({%h%} instead of {%gh%}, <ab>cf.</ab> {%agha%}; from a lost <ab>vb.</ab> {%aṅgh%} = <lang n="greek">ἄγχω</lang>), <ab>n.</ab> {@1.@} Pain. {@2.@} Sin.
- --<ab>Cf.</ab> <lang n="greek">ἄχνυμαι</lang> <lang n="greek">ἄχος, ἀκαχεῖν, ἄγος</lang> and <lang n="greek">έγγύ</lang> corresponding to <ab>Ved.</ab> {%aṃhu%}; <ab>Goth.</ab> aggvus <ab>Lat.</ab> angustus, angere, anxius, <ab>etc.</ab>
+ --<ab>Cf.</ab> <lang n="greek">ἄχνυμαι, ἄχος, ἀκαχεῖν, ἄγος</lang> and <lang n="greek">έγγύ</lang> corresponding to <ab>Ved.</ab> {%aṃhu%}; <ab>Goth.</ab> aggvus <ab>Lat.</ab> angustus, angere, anxius, <ab>etc.</ab>
 <LEND>
 
 <L>12<pc>0001-b<k1>अंह्रि<k2>अंह्रि
@@ -75594,7 +75594,7 @@
 {#श्रा#}¦ {%ŚRĀ%}, † ii. 2, <ab>Par.</ab>, {#श्रै#} {%ŚRAI%} [Page0969-b + 42] († {#स्रै#} {%SRAI%}, † {#शै#} {%ŚAI%}), † i. 1, {%śrāya%}, <ab>Par.</ab> {@1.@} To boil, to cook, to mature, to ripen. {@2.@} † To sweat; <ab>cf.</ab> {%śrī%}.
  --<ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {@I.@} {%śrāṇa%}. {@1.@} Boiled, dressed. {@2.@} Moist, wet. <ab>f.</ab> {%ṇā%}, Rice-gruel. {@II.@} {%śrita%}, Cooked, <ab>ved.</ab> and <ls>Rām.</ls> 2, 56, 24, Schlegel (but <ls>Gorr.</ls> 2, 56, 26, {%śṛta%}). {@III.@} {%śṛta%}, Boiled, <ls>Man.</ls> 11, 147.
  --<ab>Caus.</ab> {%śrapaya%} and † {%śrāpaya%}, To cook, <ls>MBh.</ls> 3, 5038.
- --<ab>Cf.</ab> <lang n="greek">κρίϐανος, κρίϐανον, κλίϐανος, κριϐάνη, κράμϐος, καρτός, κάρϕω, κάρδοπος</lang>, perhaps <lang n="greek">κέραμος, κέρνον</lang>; <ab>Lat.</ab> cremare, carbo, probably calere, cinis; <ab>Goth.</ab> hauri, hlaibs; <ab>A.S.</ab> heordh, hláf, haerefaest, haerfest, Ripe.
+ --<ab>Cf.</ab> <lang n="greek">κρίϐανος, κρίϐανον, κλίϐανος, κριϐάνη, κράμϐος, καρτός, κάρϕω, κάρδοπος</lang>, probably <lang n="greek">κραῦρος</lang>, perhaps <lang n="greek">κέραμος, κέρνον</lang>; <ab>Lat.</ab> cremare, carbo, probably calere, cinis; <ab>Goth.</ab> hauri, hlaibs; <ab>A.S.</ab> heordh, hláf, haerefaest, haerfest, Ripe.
 <LEND>
 
 <L>14999<pc>0969-b<k1>श्राद्ध<k2>श्राद्ध
@@ -75668,7 +75668,7 @@
  --With {#संप्र#} {%sam-pra, saṃpraśrita%}, The same, <ls>Rām.</ls> 2, 70, 11.
  --With {#सम्#} {%sam%}, {@1.@} To unite, <ls>Mālat.</ls> 15, 2 (<ab>Ātm.</ab>). {@2.@} To go to, <ls>MBh.</ls> 3, 13053. {@3.@} To attain, to get, <ls>Man.</ls> 10, 60. {@4.@} To have recourse to, <ls>MBh.</ls> 2, 128; <ls>Pañc.</ls> 155, 21; to flee to, <ls>Hit.</ls> iii. <ab>d.</ab> 147. {@5.@} To seek, <ls>Rām.</ls> 1, 1, 6. {@6.@} To depend upon, <ls>Rām.</ls> 2, 60, 20. [Page0971-b + 42] {@7.@} To inhabit, <ls>Man.</ls> 2, 24. {%saṃśrita%}, {@1.@} Having gone for refuge to (<ab>acc.</ab>), <ls>Pañc.</ls> iii. <ab>d.</ab> 129. {@2.@} Come for refuge, <ls>Śāk.</ls> <ab>d.</ab> 104. {@3.@} Protected, supported. {@4.@} Joined, <ls>Rājat.</ls> 5, 335. <ab>m.</ab> An attendant, <ls>Man.</ls> 4, 179.
  --With {#अभि-सम्#} {%abhi-sam, abhisaṃśrita%}, Having gone to, <ls>Lass.</ls> <ab>2. ed.</ab> 76, 54 (went to).
- --<ab>Cf.</ab> {%śaraṇa%}, and <ab>Goth.</ab> hulth; <ab>A.S.</ab> hold; perhaps <ab>Goth.</ab> hail; <ab>A.S.</ab> hál; perhaps <ab>Lat.</ab> clemens; to the original signification seem to belong, <lang n="greek">κλίνω, κλισία, κλιτύς; <ab>Lat.</ab> in-clinare, clivus; <ab>Goth.</ab> hlains, hleithra, hlija; <ab>A.S.</ab> hlynian, hlidh.
+ --<ab>Cf.</ab> {%śaraṇa%}, and <ab>Goth.</ab> hulth; <ab>A.S.</ab> hold; perhaps <ab>Goth.</ab> hail; <ab>A.S.</ab> hál; perhaps <ab>Lat.</ab> clemens; to the original signification seem to belong, <lang n="greek">κλίνω, κλισία, κλιτύς</lang>; <ab>Lat.</ab> in-clinare, clivus; <ab>Goth.</ab> hlains, hleithra, hlija; <ab>A.S.</ab> hlynian, hlidh.
 <LEND>
 
 <L>15009<pc>0971-b<k1>श्रित्<k2>श्रित्
