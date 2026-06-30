@@ -6170,7 +6170,7 @@
 <L>1294<pc>0065-a<k1>असि<k2>असि
 {#असि#}¦ {%asi%}, <ab>m.</ab> A sword, <ls>Rām.</ls> 3, 50, 2.
  --<ab>Cf.</ab> <ab>Lat.</ab> ensis; <lang n="greek">ἄορ</lang>, <ab>cf.</ab> {%akṣan%} = {%akṣi%}, and <lang n="greek">πῖαρ</lang> = {%pīvan%}.
- <LEND>
+<LEND>
 
 <L>1295<pc>0065-a<k1>असु<k2>असु
 {#असु#}¦ {%asu%}, <ab>i. e.</ab> 1. {%as + u%}, <ab>m.</ab> <ab>plur.</ab> {@1.@} The five vital breaths, or airs of the body (<ab>cf.</ab> <ls>Vedāntas.</ls> in <ls>Chr.</ls> 207, 9). {@2.@} Life, <ls>Daśak.</ls> in <ls>Chr.</ls> 189, 6.
@@ -8166,6 +8166,10 @@
 ¦ {%Kṛtrima-%}, <ab>adj.</ab> feigning sorrow, <ls>Daśak.</ls> in <ls>Chr.</ls> 192, 3.
 <LEND>
 
+<L>1689.1<pc>0086-b<k1>आर्त्ति<k2>आर्त्ति
+{{Lbody=1689}}
+<LEND>
+
 <L>1690<pc>0086-b<k1>आर्द्र<k2>आर्द्र
 {#आर्द्र#}¦ {%ārdra%}, <ab>adj.</ab>, <ab>f.</ab> {%rā%}. {@1.@} Wet, <ls>Megh.</ls> 87. {@2.@} Fresh, <ls>Amar.</ls> 2. {@3.@} Mild, <ls>Pañc.</ls> 8, 19.
  --<ab>Comp.</ab>
@@ -8960,7 +8964,7 @@
  {@B.@} {#अय्#} {%AY%}, according to the grammarians, i. 1, <ab>Par.</ab> and <ab>Ātm.</ab> To go.
  {@C.@} {#ई#} {%Ī%}, i. 4, <ab>Ātm.</ab> (properly the <ab>pass.</ab> voice of {%I%}), To go, <ls>Chr.</ls> 287, 5 = <ls>Rigv.</ls> i. 48, 5. ii. 2, <ab>Par.</ab>, {@1.@} To go. {@2.@} To pervade. {@3.@} To conceive. {@4.@} To desire. {@5.@} To throw. {@6.@} To eat.
  --<ab>Comp.</ab> <ab>ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%durita%}, <ab>i. e.</ab> {%dus-%}, <ab>n.</ab> Sin, <ls>Hariv.</ls> 11059.
- --With the <ab>prep.</ab> {#अति#} {%ati%}, {@A.@} {@I@}, {@1.@} To pass over, <ls>Rām.</ls> 1, 21, 19; 3, 74, 7. {@2.@} To surpass, <ls>Man.</ls> 8, 151, also in the <ab>pass.</ab> voice or {%Ī%}, i. 4, <ab>Ātm.</ab>, <ls>MBh.</ls> 2, 1473. {@3.@} To conquer, <ls>Hit.</ls> i. <ab>d.</ab> 18. {@4.@} To pass into, to enter, <ls>Man.</ls> 4, 73. {@5.@} To avoid, <ls>Man.</ls> 12, 90. {@6.@} To trespass, <ls>Rām.</ls> 2, 112, 18. The <ab>partic.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%atīta%}, {@1.@} Passed, <ls>Man.</ls> 7, 178. {@2.@} Dead, <ls>Man.</ls> 5, 71. {@3.@} Having passed over, <ls>Megh.</ls> 30. {@4.@} Conquered, <ab>Vedāntas.</ab> in <ls>Chr.</ls> 202, 5. {@5.@} Having let pass away, <ls>Rām.</ls> 4, 28, 17. {@6.@} Sluggish, <ls>Rām.</ls> 4, 31, 8.
+ --With the <ab>prep.</ab> {#अति#} {%ati%}, {@A.@} {@I@}, {@1.@} To pass over, <ls>Rām.</ls> 1, 21, 19; 3, 74, 7. {@2.@} To surpass, <ls>Man.</ls> 8, 151, also in the <ab>pass.</ab> voice or {%Ī%}, i. 4, <ab>Ātm.</ab>, <ls>MBh.</ls> 2, 1473. {@3.@} To conquer, <ls>Hit.</ls> i. <ab>d.</ab> 18. {@4.@} To pass into, to enter, <ls>Man.</ls> 4, 73. {@5.@} To avoid, <ls>Man.</ls> 12, 90. {@6.@} To trespass, <ls>Rām.</ls> 2, 112, 18. The <ab>partic.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%atīta%}, {@1.@} Passed, <ls>Man.</ls> 7, 178. {@2.@} Dead, <ls>Man.</ls> 5, 71. {@3.@} Having passed over, <ls>Megh.</ls> 30. {@4.@} Conquered, <ls>Vedāntas.</ls> in <ls>Chr.</ls> 202, 5. {@5.@} Having let pass away, <ls>Rām.</ls> 4, 28, 17. {@6.@} Sluggish, <ls>Rām.</ls> 4, 31, 8.
  --With {#अभ्यति#} {%abhi-ati%}, {@1.@} To pass over, <ls>Rām.</ls> 2, 70, 27. {@2.@} To pass away, <ls>MBh.</ls> 3, 12547.
 ¦ {%abhyatīta%}, Dead, <ls>Man.</ls> 4, 252.
  --With {#व्यति#} {%vi-ati%}, {@1.@} To pass over, <ls>Rām.</ls> 2, 113, 4. {@2.@} To conquer, <ls>MBh.</ls> 1, 6257. {@3.@} To swerve (with the <ab>abl.</ab>), <ls>Rām.</ls> 4, 17, 32. {@4.@} To disregard, <ls>Naiṣ.</ls> 5, 113. {@5.@} To pass away, <ls>Rām.</ls> 2, 50, 37.
@@ -9083,7 +9087,7 @@
 <L>1847<pc>0098-b<k1>इच्छा<k2>इच्छा
 {#इच्छा#}¦ {%icchā%}, <ab>i. e.</ab> {%icch%}, base of the <ab>pres.</ab> of 2. {%iṣ%}, + {%a%}, <ab>f.</ab> Wish, desire, <ls>Vedāntas.</ls> in <ls>Chr.</ls> 203, 19; <ls>Bhag.</ls> 5, 28. Will, <ls>Daśak.</ls> in <ls>Chr.</ls> 191, 10. {%icchayā ātmanaḥ%}, Voluntarily, <ls>Man.</ls> 11, 73.
  --<ab>Comp.</ab>
-¦ {%An-%}, <ab>f.</ab> absence of intention; {%˚chhayā%}, involuntarily, <ls>Man.</ls> 11, 124.
+¦ {%An-%}, <ab>f.</ab> absence of intention; {%˚chayā%}, involuntarily, <ls>Man.</ls> 11, 124.
 ¦ {%Mahā-iccha%}, <ab>adj.</ab> 1. highminded. 2. liberal.
 ¦ {%Yatheccham%}, <ab>i. e.</ab> {%yathā-iccha + m%}, <ab>adv.</ab> according to one's wish, <ls>Daśak.</ls> in <ls>Chr.</ls> 189, 21.
 ¦ {%Sva-%}, <ab>f.</ab> wilfulness, following one's own inclination, <ls>Pañc.</ls> 87, 11.
@@ -23775,7 +23779,7 @@
 {#घुष्#}¦ {%GHUṢ%}, i. 1, <ab>Par.</ab> (<ab>Ātm.</ab> <ls>Rām.</ls> 5, 56, 139), To proclaim, <ls>Rām.</ls> 1. 1. 4, 10, 12.
  --<ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab>, {%ghuṣṭa%}, {@1.@} Loud, <ls>MBh.</ls> 13, 4557. {@2.@} Resounding, <ls>Hariv.</ls> 1125. {@3.@} Offered, <ls>Man.</ls> 4, 209.
  --<ab>Caus.</ab> {%ghoṣaya%}, To proclaim, <ls>Rām.</ls> 5, 49, 13.
- --With the <ab>prep.</ab> {#अव#} {%ava%}, To proclaim, <ab>Hariv.</ab> 3522. {%avaghuṣṭa%}, {@1.@} Summoned, <ls>Rām.</ls> 3, 47, 9. {@2.@} Resounding, <ls>MBh.</ls> 13, 522. {@3.@} Offered, <ls>MBh.</ls> 13, 1576.
+ --With the <ab>prep.</ab> {#अव#} {%ava%}, To proclaim, <ls>Hariv.</ls> 3522. {%avaghuṣṭa%}, {@1.@} Summoned, <ls>Rām.</ls> 3, 47, 9. {@2.@} Resounding, <ls>MBh.</ls> 13, 522. {@3.@} Offered, <ls>MBh.</ls> 13, 1576.
  --With {#आ#} {%ā%}, To proclaim, <ls>MBh.</ls> 3, 647.
  --With {#व्या#} {%vi-ā, vyāghuṣṭa%}, Loud sounding, <ls>MBh.</ls> 12, 3637.
  --<ab>Caus.</ab> To proclaim loud, <ls>Hariv.</ls> 10542.
@@ -23888,7 +23892,7 @@
  --With {#उद्#} {%ud%}, {@1.@} To rub out, <ls>Ragh.</ls> 17, 28. {@2.@} To strike, <ls>Rājat.</ls> 2, 99.
  --With {#नि#} {%ni%}, To grind, <ls>MBh.</ls> 8, 1797. {%nighṛṣṭa%}, Subdued, <ls>MBh.</ls> 12, 7318.
  --With {#निस्#} {%nis%}, To rub, <ls>Rām.</ls> 2, 96, 18.
- --With {#परि#} {%pari%}, To grind, <ab>Hariv.</ab> 5362.
+ --With {#परि#} {%pari%}, To grind, <ls>Hariv.</ls> 5362.
  --With {#प्र#} {%pra%}, To rub into, <ls>Suśr.</ls> 2, 193, 3.
  --With {#संप्र#} {%sam-pra%}, The same, <ls>Suśr.</ls> 2, 67, 2.
  --With {#वि#} {%vi%}, {%vighṛṣṭa%}, {@1.@} Ground. {@2.@} Sore, 2, 129, 6.
@@ -32934,7 +32938,7 @@
  --With {#परि#} {%pari%}, {@1.@} To burn violently, <ls>MBh.</ls> 6, 5779. {@2.@} To suffer pain, <ls>Rām.</ls> 2, 35, 34.
  --With {#प्र#} {%pra%}, {@1.@} To be consumed by fire, <ls>MBh.</ls> 13, 1800 (i. 4). {@2.@} To torment, <ls>Suśr.</ls> 1, 18, 5 (ii. 5).
  --With {#वि#} {%vi%}, To suffer pain, <ls>MBh.</ls> 1, 3289 (ii. 5, <ab>Ātm.</ab>); 2171 (i. 4, <ab>Par.</ab>).
- --<ab>Cf.</ab> {%dāva%}, <lang n="greek">δαύω, δεδαυμένος, δαυλός, δαίω, δαΐς, δᾳδίον, δᾳδόω, δαλός, δανόσ</lang>, [Page0405-a + 40] <ab>etc.</ab>, probably also <lang n="greek">δυή</lang>.
+ --<ab>Cf.</ab> {%dā̆va%}, <lang n="greek">δαύω, δεδαυμένος, δαυλός, δαίω, δαΐς, δᾳδίον, δᾳδόω, δαλός, δανόσ</lang>, [Page0405-a + 40] <ab>etc.</ab>, probably also <lang n="greek">δυή</lang>.
 <LEND>
 
 <L>6527<pc>0405-a<k1>दु<k2>दु
@@ -34546,7 +34550,7 @@
 <LEND>
 
 <L>6848<pc>0425-a<k1>द्रोहिन्<k2>द्रोहिन्
-{#द्रोहिन्#}¦ {%drohin%}, <ab>i. e.</ab> {@I.@} {%druh + in%}, latter part of <ab>comp. adj.</ab> Injuring, <ls>Rām.</ls> 3, 16, 34. {@II.@} {%droha + in%}, <ab>adj.</ab> Perfidious, <ls>Rājat.</ls> 1, 162.
+{#द्रोहिन्#}¦ {%drohin%}, <ab>i. e.</ab> {@I.@} {%druh + in%}, latter part of <ab>comp. adj.</ab> Injuring, <ls>Rām.</ls> 3, 16, 34. {@II.@} {%droha + in%}, <ab>adj.</ab> Perfidious, <ls>Rājat.</ls> 1, 1362.
 <LEND>
 
 <L>6849<pc>0425-b<k1>द्रौणायनि<k2>द्रौणायनि
@@ -35389,7 +35393,7 @@
 <LEND>
 
 <L>6999<pc>0439-a<k1>धार<k2>धार
-{#धार#}¦ {%dhāra%}, <ab>i. e.</ab> {@I.@} {%dhṛ + a%}, latter part of <ab>comp.</ab> words, Holding, bearing, <ab>e. g.</ab> {%chattra-%}, <ab>m.</ab> The bearer of the royal parasol, <ls>Pañc.</ls> 156, 22; {%daṇḍa-%}, <ab>adj.</ab> Holding the staff, as symbol of judicature, <ls>Rājat.</ls> 4, 108. {@II.@} {%dhārā + a%}. {@1.@} <ab>adj.</ab> Coming down in a shower, <ls>Suśr.</ls> 1, 170, 1. {@2.@} <ab>m.</ab> A shower, <ab>Hariv.</ab> 6333.
+{#धार#}¦ {%dhāra%}, <ab>i. e.</ab> {@I.@} {%dhṛ + a%}, latter part of <ab>comp.</ab> words, Holding, bearing, <ab>e. g.</ab> {%chattra-%}, <ab>m.</ab> The bearer of the royal parasol, <ls>Pañc.</ls> 156, 22; {%daṇḍa-%}, <ab>adj.</ab> Holding the staff, as symbol of judicature, <ls>Rājat.</ls> 4, 108. {@II.@} {%dhārā + a%}. {@1.@} <ab>adj.</ab> Coming down in a shower, <ls>Suśr.</ls> 1, 170, 1. {@2.@} <ab>m.</ab> A shower, <ls>Hariv.</ls> 6333.
  --<ab>Cf.</ab> {%dhārā%}.
 <LEND>
 
@@ -35678,7 +35682,7 @@
 ¦ {%Pāda-uddhīta%}, <ab>n.</ab> Kicking with the foot, <ls>MBh.</ls> 4, 353.
  --With {#समुद्#} {%sam-ud%}, {@1.@} To rouse, <ls>MBh.</ls> 1, 1336. {@2.@} To shake, <ls>MBh.</ls> 1, 3846.
  --With {#नि#} {%ni%}, [Page0444-a + 40] To move to and fro, <ls>Hariv.</ls> 14650. (probably to be changed into {%vi-%}).
- --With {#निस्#} {%nis%}, To shake off, <ls>Rām.</ls> 2, 95, 10. {@2.@} To remove, <ls>Bhag.</ls> 5, 17. {@3.@} To disown, <ls>Yājñ.</ls> 2, 71. {@4.@} To shake, <ls>Hariv.</ls> 6238. {@5.@} To torment, <ls>Rām.</ls> 5, 2, 26. {%nirdhūta%}, Deprived, <ab>Hariv.</ab> 3531.
+ --With {#निस्#} {%nis%}, To shake off, <ls>Rām.</ls> 2, 95, 10. {@2.@} To remove, <ls>Bhag.</ls> 5, 17. {@3.@} To disown, <ls>Yājñ.</ls> 2, 71. {@4.@} To shake, <ls>Hariv.</ls> 6238. {@5.@} To torment, <ls>Rām.</ls> 5, 2, 26. {%nirdhūta%}, Deprived, <ls>Hariv.</ls> 3531.
  --With {#विनिस्#} {%vi-nis%}, {@1.@} To shake off. <ls>Bhāg. P.</ls> 6, 5, 4. {@2.@} To expel, <ls>Rām.</ls> 6, 16, 89. {@3.@} To move to and fro, <ls>Rām.</ls> 2, 20, 4 <ls>Gorr.</ls>
  --With {#प्रविनिस्#} {%pra-vi-nis%}, To fling to, <ls>MBh.</ls> 12, 13417.
  --With {#परि#} {%pari%}, To shake to and fro, <ls>Bhāg. P.</ls> 3, 13, 33.
@@ -39201,7 +39205,7 @@
 
 <L>7776<pc>0487-b<k1>नी<k2>नी
 {#नी#}¦ {%NĪ%}, i. 1, <ab>Par.</ab>, <ab>Ātm.</ab> {@1.@} To conduct, to guide, <ls>Rām.</ls> 1, 9, 55. {@2.@} To leadaway, <ls>Rām.</ls> 1, 54, 8. {@3.@} To lead to (<ab>acc.</ab>, <ab>dat.</ab>), <ls>Man.</ls> 6, 88; <ls>MBh.</ls> 2, 2480; <ls>Rām.</ls> 5, 58, 21. {@4.@} To put a person or an object into a certain state or condition (with <ab>acc.</ab> and <ab>loc.</ab>), <ab>e. g.</ab> {%vaśam%}, To subdue, <ls>Ragh.</ls> 8, 19; {%ādhānam%}, To give in pledge, <ls>Yājñ.</ls> 2, 247; {%paritoṣam%}, To gladden, <ls>Pañc.</ls> 34, 12; {%sākṣyam%}, To admit as a witness, <ls>Man.</ls> 8, 197; {%śūdratām%}, To degrade to the state of a Śādra, 3, 15. With an <ab>adv.</ab> {%bhasmasāt%}, To turn into ashes, <ls>Pañc.</ls> 38, 18. {@5.@} With {%daṇḍam%}, To inflict a punishment, <ls>Man.</ls> 7, 30. {@6.@} To carry, <ls>Rām.</ls> 2, 83, 22 <ls>Gorr.</ls> {@7.@} To carry away, 5, 35, 35; to take away, <ls>Cāṇ.</ls> 5, in <ls>Berl. Monatsb.</ls> {@8.@} To bring to (<ab>acc.</ab>), Matsyop. 14. {@9.@} To pass (as time), <ls>Hit.</ls> 37, 20. {@10.@} To trace, <ls>Man.</ls> 8, 44. {@11.@} To ascertain, 245. <ab>Anomal.</ab> <ab>potent.</ab> {%nayīta%}; <ab>pf.</ab> {%nayāmāsa%}; <ab>fut.</ab> {%nayitā, nayiṣyati%}; [Page0488-a + 43] <ab>ptcple.</ab> of the <ab>fut.</ab> <ab>pass.</ab> {%nayitarya%}; and <ab>infin.</ab> {%nayitum%}, in epic poetry.
- --<ab>Comp.</ab> <ab>ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%durnīta%}, <ab>i. e.</ab> {%dus-%}, <ab>n.</ab> A foolish, a wicked action, <ab>Hariv.</ab> 7402; <ls>Pañc.</ls> ii. <ab>d.</ab> 21 (read {%durnītaṃ%}). {%su-%}, {@I.@} <ab>adj.</ab>, {@1.@} Well-behaved. {@2.@} Politic. {@II.@} <ab>n.</ab> {@1.@} Good conduct. {@2.@} Policy.
+ --<ab>Comp.</ab> <ab>ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%durnīta%}, <ab>i. e.</ab> {%dus-%}, <ab>n.</ab> A foolish, a wicked action, <ls>Hariv.</ls> 7402; <ls>Pañc.</ls> ii. <ab>d.</ab> 21 (read {%durnītaṃ%}). {%su-%}, {@I.@} <ab>adj.</ab>, {@1.@} Well-behaved. {@2.@} Politic. {@II.@} <ab>n.</ab> {@1.@} Good conduct. {@2.@} Policy.
  --<ab>Caus.</ab> {%nayaya%}, To cause to be carried, Man 5, 104. <ab>Desider.</ab> {%ninīṣa%}, {@1.@} To wish to carry, <ls>MBh.</ls> 7, 2617. {@2.@} To wish to trace, 11, 303. <ab>Frequent.</ab> {%nenīya%}, To rule, 12, 8989.
  --With the <ab>prep.</ab> {#अनु#} {%anu%}, {@1.@} To communicate, 1, 6481. {@2.@} To beg, 3528. {@3.@} To reconcile, <ls>Vikr.</ls> <ab>d.</ab> 61.
  --With {#पर्यनु#} {%pari-anu%}, To entreat urgently, <ls>Rām.</ls> 6, 112, 10.
@@ -39386,7 +39390,7 @@
 <LEND>
 
 <L>7806<pc>0491-a<k1>नु<k2>नु
-1. {#नु#}¦ {%nu%}, and {#नू#} {%nū%}, <ab>ved.</ab> (perhaps akin to {%nava%}, <ab>cf.</ab> {%nūtana%}), a particle, {@1.@} Now (<ab>ved.</ab>). {@2.@} A particle of interrogation in two or more interrogative sentences succeeding each other, <ls>Śāk.</ls> <ab>d.</ab> 137. {@3.@} Preceded by interrogatives, <ls>MBh.</ls> 5, 6003. {@4.@} {%nu--nu%}, Either... or, <ls>Rām.</ls> 2, 72, 27; {%nu--nu--nu... or...or, <ls>Kir.</ls> 5. 1. {@5.@} A <ab>part.</ab> of affirmation, Indeed, <ls>Chr.</ls> 291, 13 = <ls>Rigv.</ls> i. 64, 13.
+1. {#नु#}¦ {%nu%}, and {#नू#} {%nū%}, <ab>ved.</ab> (perhaps akin to {%nava%}, <ab>cf.</ab> {%nūtana%}), a particle, {@1.@} Now (<ab>ved.</ab>). {@2.@} A particle of interrogation in two or more interrogative sentences succeeding each other, <ls>Śāk.</ls> <ab>d.</ab> 137. {@3.@} Preceded by interrogatives, <ls>MBh.</ls> 5, 6003. {@4.@} {%nu--nu%}, Either... or, <ls>Rām.</ls> 2, 72, 27; {%nu--nu--nu%} ... or...or, <ls>Kir.</ls> 5. 1. {@5.@} A <ab>part.</ab> of affirmation, Indeed, <ls>Chr.</ls> 291, 13 = <ls>Rigv.</ls> i. 64, 13.
  --<ab>Cf.</ab> <lang n="greek">νύ</lang>; <ab>Goth.</ab> nu; <ab>A.S.</ab> nu; <lang n="greek">νῦν</lang>; <ab>Lat.</ab> nunc (<ab>i. e.</ab> num-ce = <lang n="greek">νῦν κεν</lang>); <ab>Goth.</ab> nuh.
 <LEND>
 
@@ -45056,8 +45060,8 @@
 {#पुरीषण#}¦ {%purīṣaṇa%}, <ab>i. e.</ab> {%purīṣaya%} (a <ab>denomin.</ab> derived from {%purīṣa%} with the <ab>aff.</ab> {%aya%}) + {%ana%}, <ab>n.</ab> {@1.@} Evacuation of excrements. {@2.@} Fæces.
 <LEND>
 
-<L>8988<pc>0561-b<k1>पुरीषधान<k2>पुरीषधान
-{#पुरीषधान#}¦ {%purīṣa-dhāna%}, <ab>n.</ab> The strait-gut, <ls>Yājñ.</ls> 3, 94.
+<L>8988<pc>0561-b<k1>पुरीषाधान<k2>पुरीषाधान
+{#पुरीषाधान#}¦ {%purīṣa-ā:dhāna%}, <ab>n.</ab> The strait-gut, <ls>Yājñ.</ls> 3, 94.
 <LEND>
 
 <L>8989<pc>0561-b<k1>पुरीषम<k2>पुरीषम
@@ -50071,7 +50075,7 @@
 <LEND>
 
 <L>10099<pc>0618-b<k1>प्रेङ्खोल्<k2>प्रेङ्खोल्
-{#प्रेङ्खोल्#}¦ {%PREṄKHOL%}, i. 10 (properly a <ab>denomin.</ab> akin to {%pra-īṅkh%}), To swing, <ls>Pañc.</ls> <ab>rec.</ab> <ab>orn.</ab> {%preṅkholita%}, Swung.
+{#प्रेङ्खोल्#}¦ {%PREṄKHOL%}, i. 10 (properly a <ab>denomin.</ab> akin to {%pra-īṅkh%}), To swing, <ls>Pañc.</ls> <ab>rec. orn.</ab> {%preṅkholita%}, Swung.
 <LEND>
 
 <L>10100<pc>0618-b<k1>प्रेङ्खोलन<k2>प्रेङ्खोलन
@@ -51533,7 +51537,7 @@
 <LEND>
 
 <L>10390<pc>0639-a<k1>भक्ष<k2>भक्ष
-{#भक्ष#}¦ {%bhakṣ + a%}, {@I.@} <ab>m.</ab>, <ab>f.</ab> {%ṣā%}, and <ab>n.</ab> (<ls>Pañc.</ls> <ab>rec.</ab> <ab>orn.</ab>), Eating food, <ls>Pañc.</ls> 53, 23. {@II.@} latter part of <ab>comp. adj.</ab> Devouring, <ls>Man.</ls> 9, 314 <ab>v. r.</ab>
+{#भक्ष#}¦ {%bhakṣ + a%}, {@I.@} <ab>m.</ab>, <ab>f.</ab> {%ṣā%}, and <ab>n.</ab> (<ls>Pañc.</ls> <ab>rec. orn.</ab>), Eating food, <ls>Pañc.</ls> 53, 23. {@II.@} latter part of <ab>comp. adj.</ab> Devouring, <ls>Man.</ls> 9, 314 <ab>v. r.</ab>
  --<ab>Comp.</ab>
 ¦ {%Vāyu-%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%ṣā%}. 1. feeding on air, <ls>Johns. Sel.</ls> 51, 1. 2. fasting, <ls>Chr.</ls> 46, 20. {@II.@} <ab>m.</ab> 1. an ascetic. 2. a snake.
 ¦ {%Sarva-%}, {@I.@} <ab>adj.</ab> omnivorous, eating all things, <ls>Hit.</ls> ii. <ab>d.</ab> 173. {@II.@} <ab>f.</ab> {%ṣā%}, a female goat.
@@ -79914,7 +79918,7 @@
 <LEND>
 
 <L>15904<pc>1027-b<k1>सहक<k2>सहक
-{#सहक#}¦ {%sah + aka%}, <ab>adj.</ab> Enduring, <ab>Nalod.</ab> 2, 14.
+{#सहक#}¦ {%sah + aka%}, <ab>adj.</ab> Enduring, <ls>Nalod.</ls> 2, 14.
 <LEND>
 
 <L>15905<pc>1027-b<k1>सहकार<k2>सहकार
@@ -80006,8 +80010,8 @@
 {#सहस्रधा#}¦ {%sahasra + dhā%}, <ab>adv.</ab> In a thousand ways, thousandfold, <ls>Kir.</ls> 5, 17; in a thousand pieces, <ls>Pañc.</ls> 190, 10.
 <LEND>
 
-<L>15926<pc>1028-b<k1>सहस्रमी|अ<k2>सहस्रमी|अ
-{#सहस्रमी|अ#}¦ {%sahasra-mīḷha%} (<ab>ved.</ab> for {%mīḍha%}, <ab>vb.</ab> {%mih%}), <ab>adj.</ab> Yielding a thousand treasures, <ls>Chr.</ls> 296, 10 = <ls>Rigv.</ls> i. 112, 10.
+<L>15926<pc>1028-b<k1>सहस्रमीळ्ह<k2>सहस्रमीळ्ह
+{#सहस्रमीळ्ह#}¦ {%sahasra-mīḷha%} (<ab>ved.</ab> for {%mīḍha%}, <ab>vb.</ab> {%mih%}), <ab>adj.</ab> Yielding a thousand treasures, <ls>Chr.</ls> 296, 10 = <ls>Rigv.</ls> i. 112, 10.
 <LEND>
 
 <L>15927<pc>1028-b<k1>सहस्रशस्<k2>सहस्रशस्
