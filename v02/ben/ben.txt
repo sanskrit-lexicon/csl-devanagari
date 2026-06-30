@@ -158,7 +158,7 @@
 2. {#अक्ष#}¦ {%akṣa%}, probably akin to {%aj%}, <ab>m.</ab> {@1.@} The axle of a wheel. {@2.@} A wheel. {@3.@} A car.
  --<ab>Comp.</ab>
 ¦ {%Eka-%}, <ab>adj.</ab> having one axle.
- --<ab>Cf.</ab> <lang n="greek">ὄξων</lang>; <ab>O.H.G.</ab> ahsa; <ab>A.S.</ab> eax; <ab>Lat.</ab> axis.
+ --<ab>Cf.</ab> <lang n="greek">ἄξων</lang>; <ab>O.H.G.</ab> ahsa; <ab>A.S.</ab> eax; <ab>Lat.</ab> axis.
 <LEND>
 
 <L>28<pc>0002-b<k1>अक्षन्<k2>अक्षन्
@@ -6523,7 +6523,7 @@
 <LEND>
 
 <L>1364<pc>0069-a<k1>आकूत<k2>आकूत
-{#आकूत#}¦ {%ā-kū + ta%} (<ab>vb.</ab> {%kū%}, has no correspondent signification, but <ab>cf.</ab> <lang n="greek">κο</lang> in <lang n="greek">ἔκομεν, κών, κοέω, κοᾷ, κοάσαι, ἐκοάϑή</lang> and <lang n="greek">ἀκούω</lang>), <ab>n.</ab> Intention, <ls>Amar.</ls> 4.
+{#आकूत#}¦ {%ā-kū + ta%} (<ab>vb.</ab> {%kū%}, has no correspondent signification, but <ab>cf.</ab> <lang n="greek">κο</lang> in <lang n="greek">ἔκομεν, κών, κοέω, κοᾷ, κοάσαι, ἐκοάϑη</lang> and <lang n="greek">ἀκούω</lang>), <ab>n.</ab> Intention, <ls>Amar.</ls> 4.
  --<ab>Comp.</ab>
 ¦ {%Sa-%}, <ab>adj.</ab> 1. intentional, <ls>Lass.</ls> 83, 2. 2. significant. 3. wanton. <ab>Acc.</ab> {%tam%}, <ab>adv.</ab> intentionally, <ls>Kathās.</ls> 6, 141.
 <LEND>
@@ -9530,7 +9530,7 @@
 <LEND>
 
 <L>1920<pc>0105-a<k1>ईम्<k2>ईम्
-{#ईम्#}¦ {%īm%} (an old <ab>acc.</ab> of {%ī%}, <ab>f.</ab> of {%i%}, see {%idam%}), a <ab>ved.</ab> <ab>part.</ab> which lays a stress upon the preceding word, <ls>Chr.</ls> 292, 11 = <ls>Rigv.</ls> i. 85, 11 (<ab>cf.</ab> <lang n="greek">ῑ́ν</lang> in <lang n="greek">οὑτοσῑ́ν</lang>, also <ab>ved.</ab> {%ī%} = <lang n="greek">ῑ́</lang> in <lang n="greek">οὑποσ-ῑ́</lang>, <ab>etc.</ab>).
+{#ईम्#}¦ {%īm%} (an old <ab>acc.</ab> of {%ī%}, <ab>f.</ab> of {%i%}, see {%idam%}), a <ab>ved.</ab> <ab>part.</ab> which lays a stress upon the preceding word, <ls>Chr.</ls> 292, 11 = <ls>Rigv.</ls> i. 85, 11 (<ab>cf.</ab> <lang n="greek">ῑ́ν</lang> in <lang n="greek">οὑτοσῑ́ν</lang>, also <ab>ved.</ab> {%ī%} = <lang n="greek">ῑ́</lang> in <lang n="greek">οὑτοσ-ῑ́</lang>, <ab>etc.</ab>).
 <LEND>
 
 <L>1921<pc>0105-a<k1>ईर्<k2>ईर्
@@ -12184,7 +12184,7 @@
 
 <L>2475<pc>0133-a<k1>उसर्<k2>उसर्
 {#उसर्#}¦ {%usar%}, <ab>i. e.</ab> 2. {%vas + ar%} ({%r%} for {%n%}, and originally for {%vasant%}, identic with {%uṣas%} for {%vasant%}), <ab>f.</ab> Dawn, morning; <ab>acc.</ab> <ab>pl.</ab> {%usras%}, <ls>Lass.</ls> 100, 15 = <ls>Rigv.</ls> vii. 15, 8.
- --<ab>Cf.</ab> <lang n="greek">ἦρι</lang> = <ab>loc.</ab> {%vasri%}, <lang n="greek">ἄμιστον</lang>, breakfast, <lang n="greek">αὔριον</lang>.
+ --<ab>Cf.</ab> <lang n="greek">ἦρι</lang> = <ab>loc.</ab> {%vasri%}, <lang n="greek">ἄριστον</lang>, breakfast, <lang n="greek">αὔριον</lang>.
 <LEND>
 
 <L>2476<pc>0133-a<k1>उस्र<k2>उस्र
@@ -12479,7 +12479,7 @@
  --<ab>Comparat.</ab> {%ṛjīyaṃs%}, and <ab>ved.</ab> also {%rajīyaṃs%}; <ab>superl.</ab> {%ṛjiṣṭha%}, and <ab>ved.</ab> also {%rajiṣṭha%}.
  --<ab>Comp.</ab>
 ¦ {%An-%}, <ab>adj.</ab> crooked, <ls>Man.</ls> 4, 177.
- --<ab>Cf.</ab> <lang n="greek">ὄρλυια</lang>, <ab>f.</ab> of <lang n="greek">ὀργυ</lang>, properly the measure of a tall upright man, <ab>i. e.</ab> six feet in general.
+ --<ab>Cf.</ab> <lang n="greek">ὄργυια</lang>, <ab>f.</ab> of <lang n="greek">ὀργυ</lang>, properly the measure of a tall upright man, <ab>i. e.</ab> six feet in general.
 <LEND>
 
 <L>2532<pc>0137-a<k1>ऋजुता<k2>ऋजुता
@@ -12522,7 +12522,7 @@
 ¦ {%An-%}, {@I.@} <ab>adj.</ab> untrue, <ls>Rām.</ls> 3, 53, 18; unjust, <ls>Man.</ls> 4, 170. {@II.@} <ab>n.</ab> 1. untruth, <ls>Rām.</ls> 3, 53, 16; a lie, <ls>Chr.</ls> 48, 12. 2. agriculture, <ls>Man.</ls> 4, 5.
 ¦ {%Apānṛta%}, <ab>i. e.</ab> {%apa-an-ṛta%}, <ab>adj.</ab> true, <ls>Rām.</ls> 2, 34, 38.
 ¦ {%Satya-an%}, {@I.@} <ab>adj.</ab> true and false at the same time, <ls>Pañc.</ls> 98, 17. {@II.@} <ab>n.</ab> commerce, traffic.
- --<ab>Cf.</ab> <ab>Lat.</ab> ratus, irritus; <lang n="greek">ἄρτις, ἀνάρτιος, ἀνάρσιος, ἀλιτέω, ἀλιταίνω, ἀλιτεύω, ἀλιτήμων</lang>.
+ --<ab>Cf.</ab> <ab>Lat.</ab> ratus, irritus; <lang n="greek">ἄρτιος, ἀνάρτιος, ἀνάρσιος, ἀλιτέω, ἀλιταίνω, ἀλιτεύω, ἀλιτήμων</lang>.
 <LEND>
 
 <L>2541<pc>0137-b<k1>ऋतंभर<k2>ऋतंभर
@@ -12856,7 +12856,7 @@
 {#एज्#}¦ {%EJ%}, i. 1, <ab>Par.</ab> {@1.@} To stir, <ls>MBh.</ls> 1, 800.
  --<ab>Ptcple.</ab> of the <ab>pres.</ab> Living, <ls>Bhāg. P.</ls> 7, 3, 22. {@2.@} To tremble, to quake, <ab>cf.</ab> {%ejatka%}. {@3.@} † i. 1, <ab>Ātm.</ab> To shine.
  --<ab>Caus.</ab> To move, to turn, <ls>Bhāg. P.</ls> 5, 2, 14.
- --<ab>Cf.</ab> <lang n="greek">ἐπ-ἑίλω, αἴγειρο, αἰγίς</lang>; <ab>Lat.</ab> aeger.
+ --<ab>Cf.</ab> <lang n="greek">ἐπ-είγω, αἴγειρος, αἰγίς</lang>; <ab>Lat.</ab> aeger.
 <LEND>
 
 <L>2618<pc>0141-b<k1>एजत्क<k2>एजत्क
@@ -14530,7 +14530,7 @@
 
 <L>2974<pc>0161-a<k1>करम्भ<k2>करम्भ
 {#करम्भ#}¦ {%karambha%}, {@I.@} <ab>m.</ab> {@1.@} A cake of flour or meal mixed with curds, <ls>Man.</ls> 12, 76. {@2.@} Mixture, <ls>Bhāg. P.</ls> 3, 26. 45 (a mixed smell). {@3.@} A proper name, <ls>Rām.</ls> 4, 39, 35. {@II.@} <ab>f.</ab> {%bhā%}, A proper name, <ls>MBh.</ls> 1, 3775.
- --<ab>Cf.</ab> perhaps <lang n="greek">κάραβος, ἔδεσμα ὠπτημένον ἐπ’ ἀνθρακων</lang>.
+ --<ab>Cf.</ab> perhaps <lang n="greek">κάραβος, ἔδεσμα ὠπτημένον ἐπ’ ἀνθράκων</lang>.
 <LEND>
 
 <L>2975<pc>0161-a<k1>करम्भक<k2>करम्भक
@@ -15013,7 +15013,7 @@
  --With {#परि#} {%pari%}, {@I.@} {%kālaya%}, To pursue, <ls>MBh.</ls> 15, 1060. {@II.@} {%kalaya%}, To reckon, <ls>Śiś.</ls> 8, 9. To perceive, <ls>Naiṣ.</ls> 2, 54.
  --With {#प्र#} {%pra, kālaya%}, {@1.@} To drive onwards, <ls>MBh.</ls> 1, 7178. {@2.@} To pursue, 3, 10778.
  --With {#सम्#} {%sam, kālaya%}, {@1.@} To drive, <ls>Hariv.</ls> 1191. {@2.@} To put to flight, <ls>MBh.</ls> 4, 1981.
- --<ab>Cf.</ab> <ab>Lat.</ab> celer, cello, procella; <lang n="greek">κέλλω, ὀκελλω, κέλης, κέλομαι, κελεύω, κολετράω</lang>; <ab>O.H.G.</ab> halôn, holôn, holên.
+ --<ab>Cf.</ab> <ab>Lat.</ab> celer, cello, procella; <lang n="greek">κέλλω, ὀκέλλω, κέλης, κέλομαι, κελεύω, κολετράω</lang>; <ab>O.H.G.</ab> halôn, holôn, holên.
 <LEND>
 
 <L>3070<pc>0167-a<k1>कल<k2>कल
@@ -16637,7 +16637,7 @@
  --Instead of the <ab>instr.</ab> may be used also the absolutive, {%kiṃ te sūryam nipātya%}, What matters it to you to bring down the sun? <ls>MBh.</ls> 13, 4628.
  --Joined with the <ab>demonstr. pron.</ab> {%idam%}, <ab>e. g.</ab> {%ko yam%}, Who there? <ls>Hit.</ls> 18, 11.
  --Doubled, <ab>e. g.</ab> {%kiṃkiṃ na karoti%}, What, what does he not? <ls>Pañc.</ls> i. <ab>d.</ab> 338.
- --It joins two questions in one sentence, <ab>e. g.</ab> {%kā vām kaṃ varam icchati%}, Who of you chooses the one and who the other boon? <ls>Rām.</ls> 1, 39, 12. {@II.@} <ab>Indefin. pron.</ab> {@1.@} Some, <ls>Bhag.</ls> 2, 21; generally followed by, {@a.@}, {%ca%}, <ls>Bhāg. P.</ls> 3, 3, 11; preceded by the relat. <ab>pron.</ab> {%yad%}, Whoever, whatever, <ls>Man.</ls> 12, 95. {@b.@} {%ca na%}, Anybody, <ls>Nal.</ls> 17, 44 (40); anything, <ls>Man.</ls> 8, 76; some, <ls>Bhāg. P.</ls> 5, 23, 4; doubled, {%kāṃścana-kāṃścana%}, Several, <ls>Rām.</ls> 2, 96, 34; preceded by the relat. <ab>pron.</ab> {%yad%}, Whatever, <ls>Nal.</ls> 4, 2. {@c.@} {%cid%}, Anybody, <ls>Man.</ls> 8, 212; any, 8, 232; whoever, <ls>Sāh. D.</ls> 7, 12 somebody, <ls>Nal.</ls> 14, 2. {%kaṃ cit kālam%}, Some time, <ls>Rām.</ls> 3, 21, 31. {%kaś cid--kaś cid%}, Some one--another, <ls>Rām.</ls> 1, 4, 18; preceded by the relat. <ab>pron.</ab> {%yad%}, <lang n="greek">α.</lang> Whatever, <ls>Man.</ls> 2, 7. <lang n="greek">β.</lang> Some trifle, <ls>Man.</ls> 9, 115. {@d.@} {%api%}, see {%api%}. {@2.@} Any, <ls>Yājñ.</ls> 3, 133. {@3.@} Joined with {%na%}, Nobody, <ls>Bhartṛ.</ls> 3, 99.
+ --It joins two questions in one sentence, <ab>e. g.</ab> {%kā vām kaṃ varam icchati%}, Who of you chooses the one and who the other boon? <ls>Rām.</ls> 1, 39, 12. {@II.@} <ab>Indefin. pron.</ab> {@1.@} Some, <ls>Bhag.</ls> 2, 21; generally followed by, {@a.@}, {%ca%}, <ls>Bhāg. P.</ls> 3, 3, 11; preceded by the relat. <ab>pron.</ab> {%yad%}, Whoever, whatever, <ls>Man.</ls> 12, 95. {@b.@} {%ca na%}, Anybody, <ls>Nal.</ls> 17, 44 (40); anything, <ls>Man.</ls> 8, 76; some, <ls>Bhāg. P.</ls> 5, 23, 4; doubled, {%kāṃścana-kāṃścana%}, Several, <ls>Rām.</ls> 2, 96, 34; preceded by the relat. <ab>pron.</ab> {%yad%}, Whatever, <ls>Nal.</ls> 4, 2. {@c.@} {%cid%}, Anybody, <ls>Man.</ls> 8, 212; any, 8, 232; whoever, <ls>Sāh. D.</ls> 7, 12 somebody, <ls>Nal.</ls> 14, 2. {%kaṃ cit kālam%}, Some time, <ls>Rām.</ls> 3, 21, 31. {%kaś cid--kaś cid%}, Some one--another, <ls>Rām.</ls> 1, 4, 18; preceded by the relat. <ab>pron.</ab> {%yad%}, <lang n="greek">α</lang> Whatever, <ls>Man.</ls> 2, 7. <lang n="greek">β</lang> Some trifle, <ls>Man.</ls> 9, 115. {@d.@} {%api%}, see {%api%}. {@2.@} Any, <ls>Yājñ.</ls> 3, 133. {@3.@} Joined with {%na%}, Nobody, <ls>Bhartṛ.</ls> 3, 99.
  --With {%ca na%} or {%na--ca na%}, Nothing, nobody, <ls>Nal.</ls> 15, 16; <ls>Man.</ls> 4, 134. {%mā kiṃ ca na%}, Not at all, <ls>Bhāg. P.</ls> 1, 13, 39. {%na hi kiṃ ca na%}, Never, <ls>MBh.</ls> 1, 6132.
  --With {%na--cid%}, Nobody, nothing, <ls>Nal.</ls> 3, 24; not any, <ls>Man.</ls> 1, 81.
  --With {%na--api%}, Nobody, <ls>Bhartṛ.</ls> 3, 99; not the least, <ls>Pañc.</ls> 157, 6. {@III.@} {%kim%} (<ab>acc.</ab> <ab>sing.</ab> <ab>ntr.</ab>) <ab>adv.</ab> {@1.@} Why, <ls>Nal.</ls> 11, 3. {@2.@} A particle of <ab>interrog.</ab>, <ab>e. g.</ab> {%sāmyam icchasi kim%}, Are you really desirous of readmission to equality? <ls>Man.</ls> 11, 195.
@@ -19378,7 +19378,7 @@
  --<ab>Caus.</ab> To cause to cry, <ls>Bhāg. P.</ls> 3, 14, 38.
  --With {#समा#} {%sam-ā%}, To cry miserably, <ls>MBh.</ls> 15, 1073.
  --With {#वि#} {%vi, vi-krandita%}, <ab>n.</ab> Lamenting, <ls>Rām.</ls> 2, 59, 30.
- --<ab>Cf.</ab> <lang n="greek">κέλαδος</lang>, <ab>etc.</ab>, <lang n="greek">κάλανδος, κρήνη</lang> (for <lang n="greek">κραδ-νη</lang>), <lang n="greek">κρουνός</lang>.
+ --<ab>Cf.</ab> <lang n="greek">κέλαδος</lang>, <ab>etc.</ab>, <lang n="greek">κάλανδρος, κρήνη</lang> (for <lang n="greek">κραδ-νη</lang>), <lang n="greek">κρουνός</lang>.
 <LEND>
 
 <L>3918<pc>0225-a<k1>क्रन्दन<k2>क्रन्दन
@@ -19882,7 +19882,7 @@
 <LEND>
 
 <L>3991<pc>0232-b<k1>क्लोमन्<k2>क्लोमन्
-{#क्लोमन्#}¦ {%kloman%}, <ab>m.</ab> and <ab>n.</ab> The right lobe of the lungs, <ls>Suśr.</ls> 2, 446, 19. If identical with <lang n="greek">πλεύμεν</lang>; <ab>Lat.</ab> pulmon, Sanskrit {%k%} stands for {%p%}; <ab>cf.</ab> {%kṣiv%}.
+{#क्लोमन्#}¦ {%kloman%}, <ab>m.</ab> and <ab>n.</ab> The right lobe of the lungs, <ls>Suśr.</ls> 2, 446, 19. If identical with <lang n="greek">πλεύμων</lang>; <ab>Lat.</ab> pulmon, Sanskrit {%k%} stands for {%p%}; <ab>cf.</ab> {%kṣiv%}.
 <LEND>
 
 <L>3992<pc>0232-b<k1>क्व<k2>क्व
@@ -20186,7 +20186,7 @@
 <L>4051<pc>0236-a<k1>क्षि<k2>क्षि
 1. {#क्षि#}¦ {%KṢI%}, i. 6, {%kṣiya%} (<ab>ved.</ab> ii. 2), <ab>Par.</ab> {@1.@} To dwell (<ab>ved.</ab>). 2. † To go.
  --With the <ab>prep.</ab> {#आ#} {%ā%}, ii. 2, To acquire, <ls>Chr.</ls> 291, 13 = <ls>Rigv.</ls> i. 64, 13.
- --<ab>Cf.</ab> <lang n="greek">κτι</lang> in <lang n="greek">ἐΰκιτος, ἐϋκτίμενος, κτίζω</lang>; perhaps <ab>Lat.</ab> civis, <ab>etc.</ab>, so-cius, <ab>cf.</ab> {%sakhi%}.
+ --<ab>Cf.</ab> <lang n="greek">κτι</lang> in <lang n="greek">ἐΰκτιτος, ἐϋκτίμενος, κτίζω</lang>; perhaps <ab>Lat.</ab> civis, <ab>etc.</ab>, so-cius, <ab>cf.</ab> {%sakhi%}.
 <LEND>
 
 <L>4052<pc>0236-b<k1>क्षि<k2>क्षि
@@ -21682,7 +21682,7 @@
  --With {#अभिसम्#} {%abhi-sam%}, {@1.@} To approach, <ls>Rām.</ls> 4, 1, 9. {@2.@} To unite, <ls>Rām.</ls> 2, 36, 8. {@3.@} To advance towards, <ls>Bhāg. P.</ls> 1, 13, 5.
  --With {#उपसम्#} {%upa-sam%}, {@1.@} To unite, <ls>MBh.</ls> 1, 6897. {@2.@} To approach, <ls>Bhag.</ls> 1, 2. {@3.@} To undergo, <ls>MBh.</ls> 13, 5697. ({%samatām%}, To become alike).
  --With {#सह#} {%saha%}, To accompany, <ls>Rām.</ls> 4, 8, 26.
- --<ab>Cf.</ab> <ab>Lat.</ab> venio for vemio (= {%gam%}, i. 4); <lang n="greek">βαίνω</lang> for <lang n="greek">βαιϳω, βασκο</lang> = {%gaccha%}; <ab>Goth.</ab> gaggan, an old <ab>frequent.</ab>, <ab>cf.</ab> the <ab>Sskr.</ab> <ab>frequent.</ab> {%jaṅgam%}; also <ab>Goth.</ab> gatvo, qviman; <ab>A.S.</ab> cuman; see also {%gati, gantṛ%}, and {%gā%}.
+ --<ab>Cf.</ab> <ab>Lat.</ab> venio for vemio (= {%gam%}, i. 4); <lang n="greek">βαίνω</lang> for <lang n="greek">βαμϳω, βασκο</lang> = {%gaccha%}; <ab>Goth.</ab> gaggan, an old <ab>frequent.</ab>, <ab>cf.</ab> the <ab>Sskr.</ab> <ab>frequent.</ab> {%jaṅgam%}; also <ab>Goth.</ab> gatvo, qviman; <ab>A.S.</ab> cuman; see also {%gati, gantṛ%}, and {%gā%}.
 <LEND>
 
 <L>4327<pc>0256-a<k1>गम<k2>गम
@@ -22399,7 +22399,7 @@
 
 <L>4471<pc>0264-b<k1>गुञ्ज्<k2>गुञ्ज्
 {#गुञ्ज्#}¦ {%GUÑJ%}, i. 1, <ab>Par.</ab> To buzz, <ls>Ṛt.</ls> 6, 14. {%guñjita%}, <ab>n.</ab> Buzzing.
- --<ab>Cf.</ab> <lang n="greek">γογγύξω</lang> (<ab>Frequentat.</ab>).
+ --<ab>Cf.</ab> <lang n="greek">γογγύζω</lang> (<ab>Frequentat.</ab>).
 <LEND>
 
 <L>4472<pc>0264-b<k1>गुञ्जा<k2>गुञ्जा
@@ -23537,7 +23537,7 @@
 
 <L>4681<pc>0281-a<k1>घ<k2>घ
 {#घ#}¦ {%gha%}, usually {%ghā%} (old <ab>instr.</ab> of a <ab>pronomin.</ab> base = <ab>Lat.</ab> ho, in ho-c, <ab>etc.</ab>), <ab>part.</ab>, <ab>ved.</ab> Indeed, <ls>Chr.</ls> 287, 5 = <ls>Rigv.</ls> i. 48, 5; <ls>Chr.</ls> 297, 19 = <ls>Rigv.</ls> i. 112, 19.
- --<ab>Cf.</ab> <lang n="greek">λέ</lang>, {%ha%}.
+ --<ab>Cf.</ab> <lang n="greek">γέ</lang>, {%ha%}.
 <LEND>
 
 <L>4682<pc>0281-a<k1>घंष्<k2>घंष्
@@ -23823,7 +23823,7 @@
 
 <L>4735<pc>0285-a<k1>घृ<k2>घृ
 † 2. {#घृ#}¦ {%ghṛ%}, ii. 3, {%jighṛ%}, <ab>Par.</ab> To shine.
- --<ab>Cf.</ab> <lang n="greek">χλιαίνω</lang>, <ab>etc.</ab>; <lang n="greek">θέρός, θέρω, θάλπω</lang>; <ab>Lat.</ab> fervor, fornax, and {%gharma%}.
+ --<ab>Cf.</ab> <lang n="greek">χλιαίνω</lang>, <ab>etc.</ab>; <lang n="greek">θέρος, θέρω, θάλπω</lang>; <ab>Lat.</ab> fervor, fornax, and {%gharma%}.
 <LEND>
 
 <L>4736<pc>0285-a<k1>घृ<k2>घृ
@@ -26019,7 +26019,7 @@
  --With the <ab>prep.</ab> {#अव#} {%ava%}, i. 1, To desire, <ls>MBh.</ls> 12, 7378.
  --With {#उप#} {%upa%}, <ab>Caus.</ab> {@1.@} To wait on, <ls>Ragh.</ls> 5, 58. {@2.@} To seduce, <ls>Prab.</ls> 101, 10.
  --With {#सम्#} {%sam%}, To wait on, to present, <ls>MBh.</ls> 3, 13507.
- --<ab>Cf.</ab> <ab>Lat.</ab> spons, spontis for spond + ti, spondeo; <lang n="greek">στένδειν</lang>.
+ --<ab>Cf.</ab> <ab>Lat.</ab> spons, spontis for spond + ti, spondeo; <lang n="greek">σπένδειν</lang>.
 <LEND>
 
 <L>5158<pc>0315-a<k1>छन्द<k2>छन्द
@@ -26431,7 +26431,7 @@
 
 <L>5243<pc>0320-b<k1>जठर<k2>जठर
 {#जठर#}¦ {%jaṭhara%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%rā%}. {@1.@} Hard, <ls>Śāntiś.</ls> 4, 13. {@2.@} Old, <ls>Śiś.</ls> 4, 29(?). {@II.@} <ab>m.</ab> {@1.@} The belly, <ls>Pañc.</ls> i. <ab>d.</ab> 27. {@2.@} The womb, <ls>Bhāg. P.</ls> 3, 33, 4. {@3.@} The interior, <ls>Rām.</ls> 3, 41, 26.
- --<ab>Cf.</ab> probably <ab>Lat.</ab> venter; <lang n="greek">λαστήρ</lang>; <ab>Goth.</ab> qvithra and in-kiltho.
+ --<ab>Cf.</ab> probably <ab>Lat.</ab> venter; <lang n="greek">γαστήρ</lang>; <ab>Goth.</ab> qvithra and in-kiltho.
 <LEND>
 
 <L>5244<pc>0320-b<k1>जड<k2>जड
@@ -28639,7 +28639,7 @@
  --<ab>Caus.</ab> {%tānaya%}, To cause to be performed, <ls>Bhāg. P.</ls> 4, 7, 16.
  --With {#अनुसम्#} {%anu-sam%}, {@1.@} To spread, <ls>Bhag.</ls> 15, 2. {@2.@} To cover, <ls>Rām.</ls> 5, 16, 8.
  --With {#अभि-सम्#} {%abhi-sam%}, To cover, <ls>Hariv.</ls> 4986.
- --<ab>Cf.</ab> <lang n="greek">τάνυμαι, ἔχ-τατος</lang> (= {%tata%}), <lang n="greek">τιταίνω</lang> (for <lang n="greek">τιτανϳω</lang>), <lang n="greek">τείνω</lang> (for <lang n="greek">τενϳω</lang>), <lang n="greek">ἐπιτηδές</lang> (for <lang n="greek">ταν</lang> + tvas); <ab>Lat.</ab> tenere, tendere, ostendere (for obs-), tenus, <ab>etc.</ab>; <ab>O.H.G.</ab> danjan; <ab>A.S.</ab> thenian; see also {%tanu%}.
+ --<ab>Cf.</ab> <lang n="greek">τάνυμαι, ἔκ-τατος</lang> (= {%tata%}), <lang n="greek">τιταίνω</lang> (for <lang n="greek">τιτανϳω</lang>), <lang n="greek">τείνω</lang> (for <lang n="greek">τενϳω</lang>), <lang n="greek">ἐπιτηδές</lang> (for <lang n="greek">ταν</lang> + tvas); <ab>Lat.</ab> tenere, tendere, ostendere (for obs-), tenus, <ab>etc.</ab>; <ab>O.H.G.</ab> danjan; <ab>A.S.</ab> thenian; see also {%tanu%}.
 <LEND>
 
 <L>5676<pc>0350-a<k1>तन्<k2>तन्
@@ -28667,7 +28667,7 @@
 ¦ {%Ardha-%}, <ab>f.</ab> half a body.
 ¦ {%Vāmana-%}, <ab>adj.</ab> dwarfbodied.
 ¦ {%Su-%}, {@I.@} <ab>adj.</ab> very delicate. {@II.@} <ab>f.</ab> a woman.
- --<ab>Cf.</ab> <ab>Lat.</ab> tenuis; <ab>O.H.G.</ab> dunni; <ab>A.S.</ab> thyn; <lang n="greek">τανεῖα</lang> (= {%tanvī%}), <lang n="greek">ταναός</lang> for <lang n="greek">ταναϝός</lang> (<ab>cf.</ab> <lang n="greek">ταναύπους</lang>), <ab>i. e.</ab> <lang n="greek">τανα + ο</lang>.
+ --<ab>Cf.</ab> <ab>Lat.</ab> tenuis; <ab>O.H.G.</ab> dunni; <ab>A.S.</ab> thyn; <lang n="greek">τανεῖα</lang> (= {%tanvī%}), <lang n="greek">ταναός</lang> for <lang n="greek">ταναϝός</lang> (<ab>cf.</ab> <lang n="greek">ταναύπους</lang>), <ab>i. e.</ab> <lang n="greek">τανυ + ο</lang>.
 <LEND>
 *********
 <L>5680<pc>0350-b<k1>तनुक<k2>तनुक
@@ -30100,7 +30100,7 @@
 {#तुल्#}¦ {%TUL%} (akin to {%tṝ%}), i. 10, {%tolaya%} and {%tulaya%}, <ab>Par.</ab> (also <ab>Ātm.</ab> <ls>Rām.</ls> 4, 9, 100), † i. 1, <ab>Par.</ab> {@1.@} To lift, <ls>Rām.</ls> 3, 4, 44. {@2.@} To weigh, <ls>MBh.</ls> 3, 10588. {@3.@} To ponder, <ls>MBh.</ls> 12, 2394. {@4.@} To suspect, <ls>Mṛcch.</ls> 33, 5. {@5.@} To compare, <ls>Bhāg. P.</ls> 5, 5, 23. {@6.@} To equal, <ls>Megh.</ls> 65, {@7.@} To attain, <ls>Ragh.</ls> 13, 75.
  --With the <ab>prep.</ab> {#आ#} {%ā%}, To lift, <ls>Rām.</ls> 1, 34, 10 <ls>Gorr.</ls>
  --With {#सम्#} {%sam%}, To weigh, together, <ls>MBh.</ls> 13, 2607.
- --<ab>Cf.</ab> <ab>Lat.</ab> tollo, tuli, latum (for tlatum); <lang n="greek">ταλάω, τάλας, τλῆσις, τάνταλος</lang> (<ab>Frequent.</ab>), <lang n="greek">ἀντλέω</lang> (for <lang n="greek">ταντέω</lang>, <ab>Frequent.</ab>), <lang n="greek">ὄτλος, τέλος</lang> (office), <lang n="greek">τέλλω, ἐντολή, τόλμα, τάλαντον</lang>; <ab>Goth.</ab> thulan; <ab>A.S.</ab> tholian, thyldian, athylgian.
+ --<ab>Cf.</ab> <ab>Lat.</ab> tollo, tuli, latum (for tlatum); <lang n="greek">ταλάω, τάλας, τλῆσις, τάνταλος</lang> (<ab>Frequent.</ab>), <lang n="greek">ἀντλέω</lang> (for <lang n="greek">ταντλέω</lang>, <ab>Frequent.</ab>), <lang n="greek">ὄτλος, τέλος</lang> (office), <lang n="greek">τέλλω, ἐντολή, τόλμα, τάλαντον</lang>; <ab>Goth.</ab> thulan; <ab>A.S.</ab> tholian, thyldian, athylgian.
 <LEND>
 
 <L>5980<pc>0368-b<k1>तुलन<k2>तुलन
@@ -30322,7 +30322,7 @@
 
 <L>6027<pc>0370-b<k1>तृतीय<k2>तृतीय
 {#तृतीय#}¦ {%tṛtīya%}, <ab>i. e.</ab> {%tri + tīya%}, <ab>f.</ab> {%yā%} {@1.@} ordinal number, Third, <ls>Man.</ls> 2, 35. {@2.@} <ab>adj.</ab> A third part, <ls>Man.</ls> 6, 33. {@3.@} {%˚yam%}, <ab>adv.</ab> Thirdly, <ls>Man.</ls> 8, 129.
- --<ab>Cf.</ab> <ab>Goth.</ab> thridja; <ab>A.S.</ab> thridda; <ab>Lat.</ab> tertius; <lang n="greek">τρίος</lang>.
+ --<ab>Cf.</ab> <ab>Goth.</ab> thridja; <ab>A.S.</ab> thridda; <ab>Lat.</ab> tertius; <lang n="greek">τρίτος</lang>.
 <LEND>
 
 <L>6028<pc>0370-b<k1>तृतीयक<k2>तृतीयक
@@ -30440,7 +30440,7 @@
  --With {#वि#} {%vi%}, {@1.@} To cross, <ls>Ragh.</ls> 6, 77. {@2.@} To grant, <ls>MBh.</ls> 1, 4498; to favour with (with <ab>acc.</ab>), <ls>Pañc.</ls> 127, 21; to allow, <ls>MBh.</ls> 3, 1681. {@3.@} To give (as medicine), <ls>Suśr.</ls> 2, 337, 9. {@4.@} To give away, <ls>Bhartṛ.</ls> 3, 86. {@5.@} To perform, <ls>Bhāg. P.</ls> 3, 15, 24; to fight (a battle), <ls>Rājat.</ls> 5, 135. {@6.@} To produce, <ls>Kir.</ls> 5, 31.
  --With {#सम्#} {%sam%}, To cross, <ls>MBh.</ls> 1, 5887. {@2.@} To overcome, <ls>MBh.</ls> 12, 11161. {@3.@} To attain, <ls>Rām.</ls> 5, 35, 5. {@4.@} To be saved, <ls>Rājat.</ls> 4, 528. {@5.@} To save, <ls>MBh.</ls> 13, 4155.
  --<ab>Caus.</ab> {@1.@} To [Page0373-a + 44] bring over, <ls>Rām.</ls> 2, 89, 8. {@2.@} To save, <ls>Man.</ls> 9, 139. {@3.@} To persuade, <ls>MBh.</ls> 14, 2310. {@4.@} To deceive, <ls>Kām. Nītis.</ls> 14, 4.
- --<ab>Cf.</ab> <lang n="greek">τερέω, τέρετρον, τορός, τόρος, τορέω, τορεύω, τιτράω, τετραίνω, τρῆμα, τρῦμα, τιτρώσκω, τρῶμα, τέλος</lang> (end), <lang n="greek">τέλλω</lang> (to rise), <lang n="greek">τηρέω</lang> (Causal), <lang n="greek">τρῡτάνη</lang> (<ab>i. e.</ab> <lang n="greek">ταρ + ῡταν + ο</lang> <ab>cf.</ab> <ab>ved.</ab> {%tarūtṛ%} and {%tul%}), <ab>etc.</ab>: <ab>Lat.</ab> terminus; <ab>cf.</ab> {%tul, trā%}.
+ --<ab>Cf.</ab> <lang n="greek">τερέω τέρετρον τορός, τόρος, τορέω, τορεύω, τιτράω, τετραίνω, τρῆμα, τρῦμα, τιτρώσκω, τρῶμα, τέλος</lang> (end), <lang n="greek">τέλλω</lang> (to rise), <lang n="greek">τηρέω</lang> (Causal), <lang n="greek">τρῡτάνη</lang> (<ab>i. e.</ab> <lang n="greek">ταρ + ῡταν + ο</lang> <ab>cf.</ab> <ab>ved.</ab> {%tarūtṛ%} and {%tul%}), <ab>etc.</ab>: <ab>Lat.</ab> terminus; <ab>cf.</ab> {%tul, trā%}.
 <LEND>
 
 <L>6044<pc>0373-a<k1>तेज्<k2>तेज्
@@ -31617,7 +31617,7 @@
  --<ab>Comp.</ab> [Page0386-b + 43] <ab>ptcple.</ab> of the <ab>fut.</ab> <ab>pass.</ab> {%a-dābhya%}, Not to be checked, <ls>Bhāg. P.</ls> 4, 23, 4.
  --† i. 10, {%dābhaya%}, and {%dambhaya%}, <ab>Par.</ab> To send, to impel.
  --† {%dambhaya%}, <ab>Ātm.</ab> To gather.
- --<ab>Cf.</ab> probably <lang n="greek">θάμβος, ἔραϕον, τέθηπα</lang>; <ab>O.H.G.</ab> tepjan or depjan.
+ --<ab>Cf.</ab> probably <lang n="greek">θάμβος, ἔταϕον, τέθηπα</lang>; <ab>O.H.G.</ab> tepjan or depjan.
 <LEND>
 
 <L>6290<pc>0386-b<k1>दभीति<k2>दभीति
@@ -31711,7 +31711,7 @@
  --<ab>Comp.</ab>
 ¦ {%Samudra-%}, <ab>f.</ab> {%tā%}, a river.
 ¦ {%Su-%}, <ab>adj.</ab> very dear, <ls>Chr.</ls> 38, 11.
- --<ab>Cf.</ab> <lang n="greek">δαίομαι, δαίνυμι, δαίς</lang>, 2. {%dā%} and {%de%}.
+ --<ab>Cf.</ab> <lang n="greek">δαίομαι, δαίνυμι, δαῖς</lang>, 2. {%dā%} and {%de%}.
 <LEND>
 
 <L>6307<pc>0387-b<k1>दया<k2>दया
@@ -32035,7 +32035,7 @@
 ¦ {%Dus-%}, <ab>adj.</ab> 1. puffed up, <ls>Bhartṛ.</ls> 2, 3. 2. stupid, <ls>Prab.</ls> 27, 8.
  --With {#सम्#} {%sam%}, To destroy, <ls>Rām.</ls> 1, 77, 12 <ls>Gorr.</ls> <ab>Pass.</ab> {@1.@} To burn, <ls>Bhāg. P.</ls> 3, 30, 8. {@2.@} To grieve, <ls>Ragh.</ls> 14, 56 <ab>Calc.</ab>
  --<ab>Caus.</ab> To cause to be consumed by fire, <ls>MBh.</ls> 1, 4954.
- --<ab>Cf.</ab> probably <lang n="greek">ρήγανον</lang>; <ab>Lat.</ab> lignum; <ab>O.H.G.</ab> tâht or dâht; perhaps <ab>Goth.</ab> dags; <ab>A.S.</ab> daeg.
+ --<ab>Cf.</ab> probably <lang n="greek">τήγανον</lang>; <ab>Lat.</ab> lignum; <ab>O.H.G.</ab> tâht or dâht; perhaps <ab>Goth.</ab> dags; <ab>A.S.</ab> daeg.
 <LEND>
 
 <L>6364<pc>0391-b<k1>दहन<k2>दहन
@@ -32093,7 +32093,7 @@
  --<ab>Caus.</ab> To cause to repay, <ls>Yājñ.</ls> 2, 61.
  --With {#वि#} {%vi%}, to divide, <ls>Rām.</ls> 1, 13, 39 <ls>Gorr.</ls>
  --With {#सम्#} {%sam%}, To grant, <ls>MBh.</ls> 7, 2618.
- --<ab>Cf.</ab> <lang n="greek">δίδωμι, δωτήρ, δάνο, δαπάνη</lang> (<ab>Caus.</ab>); <ab>Lat.</ab> dare.
+ --<ab>Cf.</ab> <lang n="greek">δίδωμι, δωτήρ, δοτήρ, δάνος, δαπάνη</lang> (<ab>Caus.</ab>); <ab>Lat.</ab> dare.
 <LEND>
 
 <L>6367<pc>0393-b<k1>दा<k2>दा
@@ -32934,7 +32934,7 @@
  --With {#परि#} {%pari%}, {@1.@} To burn violently, <ls>MBh.</ls> 6, 5779. {@2.@} To suffer pain, <ls>Rām.</ls> 2, 35, 34.
  --With {#प्र#} {%pra%}, {@1.@} To be consumed by fire, <ls>MBh.</ls> 13, 1800 (i. 4). {@2.@} To torment, <ls>Suśr.</ls> 1, 18, 5 (ii. 5).
  --With {#वि#} {%vi%}, To suffer pain, <ls>MBh.</ls> 1, 3289 (ii. 5, <ab>Ātm.</ab>); 2171 (i. 4, <ab>Par.</ab>).
- --<ab>Cf.</ab> {%dāva%}, <lang n="greek">δᾰ́υα, δαύω, δεδαυμένος, δαυλός, δαίω, δαΐς, δᾳδίον, δᾳδόω, δαλός, δανόσ</lang>, [Page0405-a + 40] <ab>etc.</ab>, probably also <lang n="greek">δνή</lang>.
+ --<ab>Cf.</ab> {%dāva%}, <lang n="greek">δαύω, δεδαυμένος, δαυλός, δαίω, δαΐς, δᾳδίον, δᾳδόω, δαλός, δανόσ</lang>, [Page0405-a + 40] <ab>etc.</ab>, probably also <lang n="greek">δυή</lang>.
 <LEND>
 
 <L>6527<pc>0405-a<k1>दु<k2>दु
@@ -33683,7 +33683,7 @@
  --With {#अभिप्र#} {%abhi-pra%}, <ab>pass.</ab> To be scattered, <ls>MBh.</ls> 8, 3976.
  --With {#वि#} {%vi%}, {@1.@} To tear, <ls>Rām.</ls> 3, 57, 24. <ab>Pass.</ab> {@1.@} To burst asunder, <ls>MBh.</ls> 1, 5347 {@2.@} To be tora, <ls>Rām.</ls> 2, 112, 15 <ls>Gorr.</ls> {@3.@} To be frightened, <ls>MBh.</ls> 7, 329. {%vidīrṇa%}, {@1.@} Torn, <ls>Kathās.</ls> 20, 109. {@2.@} Broken, <ls>Bhāg. P.</ls> 8, 16, 26. {@3.@} Pierced, <ls>Ragh.</ls> 12, 51. {@4.@} Opened, <ls>Ragh.</ls> 7, 37.
  --<ab>Caus.</ab> {@1.@} To tear, <ls>Rām.</ls> 3, 57, 24. {@2.@} To cleave, <ls>Rām.</ls> 3, 4, 17. {@3.@} To break open, <ls>Lass.</ls> 2, 10. {@4.@} To open, <ls>Ṛt.</ls> 1, 14. {@5.@} To scatter, <ls>Rām.</ls> 6, 36, 6.
- --<ab>Cf.</ab> {%dal%}, <ab>Goth.</ab> tairan; <ab>A.S.</ab> téran, torn, tirian; <ab>O.H.G.</ab> zala; <ab>A.S.</ab> tale, zâla, dolus; <ab>O.H.G.</ab> zalon, diripere; <ab>A.S.</ab> tellan; <ab>Lat.</ab> dolus; <lang n="greek">δόλος, δηγέομαι, δῆρις</lang>.
+ --<ab>Cf.</ab> {%dal%}, <ab>Goth.</ab> tairan; <ab>A.S.</ab> téran, torn, tirian; <ab>O.H.G.</ab> zala; <ab>A.S.</ab> tale, zâla, dolus; <ab>O.H.G.</ab> zalon, diripere; <ab>A.S.</ab> tellan; <ab>Lat.</ab> dolus; <lang n="greek">δόλος, δηλέομαι, δῆρις</lang>.
 <LEND>
 
 <L>6676<pc>0415-a<k1>दे<k2>दे
@@ -34462,7 +34462,7 @@
 
 <L>6832<pc>0424-a<k1>द्रु<k2>द्रु
 3. {#द्रु#}¦ {%dru%}. <ab>i. e.</ab> {%dṛ + u%}, {@I.@} <ab>m.</ab> and <ab>n.</ab> Wood, <ls>Man.</ls> 7, 131. {@II.@} <ab>m.</ab> A tree.
- --<ab>Cf.</ab> <lang n="greek">δρῦς, δρτη, δροίτη</lang>; <ab>Got.</ab> triu; <ab>A.S.</ab> tre, a tree.
+ --<ab>Cf.</ab> <lang n="greek">δρῦς, δρύτη, δροίτη</lang>; <ab>Got.</ab> triu; <ab>A.S.</ab> tre, a tree.
 <LEND>
 
 <L>6833<pc>0424-a<k1>द्रुड्<k2>द्रुड्
@@ -34587,7 +34587,7 @@
 {#द्वय#}¦ {%dvaya%}, <ab>i. e.</ab> {%dvi + a%}, {@I.@} <ab>adj.</ab>, <ab>f.</ab> {%yī%}, Of two different sorts, <ls>Bhartṛ.</ls> 2, 25. {@II.@} <ab>n.</ab> {@1.@} A pair, <ls>Yājñ.</ls> 1, 59. {@2.@} Two things, <ls>Bhartṛ.</ls> 1, 53. {@3.@} Both, <ls>MBh.</ls> 12, 6552.
  --<ab>Comp.</ab>
 ¦ {%A-%}, <ab>adj.</ab> without a second, <ls>Vedāntas.</ls> in <ls>Chr.</ls> 204, 10.
- --<ab>Cf.</ab> <lang n="greek">δοώς</lang>.
+ --<ab>Cf.</ab> <lang n="greek">δοιός</lang>.
 <LEND>
 
 <L>6858<pc>0426-a<k1>द्वा<k2>द्वा
@@ -34662,7 +34662,7 @@
 
 <L>6873<pc>0426-b<k1>द्वि<k2>द्वि
 {#द्वि#}¦ {%dvi%}, the base of the declension is {%dva%}, <ab>m.</ab> <ab>n.</ab>; {%dvā%}, <ab>f.</ab>; <ab>du.</ab> numeral, {@1.@} Two. {@2.@} Both, <ls>Rām.</ls> 6, 95, 44.
- --<ab>Cf.</ab> <lang n="greek">δύο, δύακις,</lang>, <ab>etc.</ab>, <lang n="greek">δεύτερος, δί-τυλος, διά, δίζω</lang>; <ab>Lat.</ab> duo, bi-farius, dubius, duellum, bellum, dis-; <ab>Goth.</ab> tvai; <ab>A.S.</ab> tvá, twi-, tweogan; <ab>Goth.</ab> tveifljan, tvi-standan, dis-dailjan.
+ --<ab>Cf.</ab> <lang n="greek">δύο, δυάκις,</lang>, <ab>etc.</ab>, <lang n="greek">δεύτερος, δί-τυλος, διά, δίζω</lang>; <ab>Lat.</ab> duo, bi-farius, dubius, duellum, bellum, dis-; <ab>Goth.</ab> tvai; <ab>A.S.</ab> tvá, twi-, tweogan; <ab>Goth.</ab> tveifljan, tvi-standan, dis-dailjan.
 <LEND>
 
 <L>6874<pc>0426-b<k1>द्विक<k2>द्विक
@@ -34755,7 +34755,7 @@
  --With {#प्र#} {%pra%}, {@1.@} To dislike, <ls>Bhag.</ls> 16, 18. {@2.@} To hate, <ls>MBh.</ls> 14, 789. {@3.@} To show one's hatred, <ls>MBh.</ls> 12, 8397.
  --With {#वि#} {%vi%}, To dislike, <ls>Hariv.</ls> 8395. {%vidviṣant%}, <ab>m.</ab> A foe, <ls>Bhartṛ.</ls> 3, 68. {%vi-dviṣṭa%}, {@1.@} Odious, <ls>Man.</ls> 2, 57. {@2.@} [Page0428-a + 43] Being in contradiction to, <ls>Rām.</ls> 2, 116, 46 <ls>Gorr.</ls>
  --With {#सम्#} {%sam, saṃdviṣṭa%}, Hated, <ls>MBh.</ls> 12. 53.
- --<ab>Cf.</ab> <lang n="greek">ὠδυσαμην, ὀδύσσομαι</lang> (<ab>frequent.</ab>), <lang n="greek">ὀδυσσάμενος</lang>, probably also <lang n="greek">δέδια, ἔδδεισα, δείδια, δείδοικα, δεῖος, δέος; δέαρ, δειδίσσομαι</lang> (<ab>frequent.</ab>), <lang n="greek">δεδίσσομι, δειλός, δεινός</lang>, <ab>etc.</ab>; <ab>Lat.</ab> in -vϊsus, dirus.
+ --<ab>Cf.</ab> <lang n="greek">ὠδυσάμην, ὀδύσσομαι</lang> (<ab>frequent.</ab>), <lang n="greek">ὀδυσσάμενος</lang>, probably also <lang n="greek">δέδια, ἔδδεισα, δείδια, δείδοικα, δεῖος, δέος; δέαρ, δειδίσσομαι</lang> (<ab>frequent.</ab>), <lang n="greek">δεδίσσομαι, δειλός, δεινός</lang>, <ab>etc.</ab>; <ab>Lat.</ab> in -vϊsus, dirus.
 <LEND>
 
 <L>6893<pc>0428-a<k1>द्विष्<k2>द्विष्
@@ -35729,7 +35729,7 @@
 {#धूम#}¦ {%dhūma%} (<ab>vb.</ab> {%dhū%}, or {%dhmā%}), <ab>m.</ab> Smoke, <ls>Man.</ls> 4, 69.
  --<ab>Comp.</ab>
 ¦ {%vi-%}, <ab>adj.</ab> smokeless; <ab>loc.</ab> {%˚me%}, at the time when there is no smoke in the kitchen, <ls>Man.</ls> 6, 56.
- --<ab>Cf.</ab> <ab>Lat.</ab> fumus; <lang n="greek">θψμός</lang> (originally breath), <ab>cf.</ab> {%dhmā%}.
+ --<ab>Cf.</ab> <ab>Lat.</ab> fumus; <lang n="greek">θυμός</lang> (originally breath), <ab>cf.</ab> {%dhmā%}.
 <LEND>
 
 <L>7057<pc>0444-b<k1>धूमक<k2>धूमक
@@ -36930,7 +36930,7 @@
  --With {#प्रवि#} {%pra-vi%}, To perish, <ls>Rām.</ls> 1, 56, 27 <ls>Gorr.</ls>
  --With {#सम्#} {%sam, saṃnaṣṭa%}, Perished, <ls>Rām.</ls> 5, 51, 13.
  --<ab>Cf.</ab> 1. {%naś%}, The original signification of 1. and 2. {%naś%}, has been probably, To hasten (<ab>cf.</ab> <ab>Lat.</ab> per-nix); then on the one side, To overtake, to attain (1. {%naś%}); on the other, To hasten out of view, to disappear, to vanish, to perish (2. {%naś%}).
- --<ab>Cf.</ab> <lang n="greek">νέκυς, νεκρός</lang>, <ab>etc.</ab>; <ab>Lat.</ab> per-nicies, necare, nocere, ve-nenum (for ve-nec + num); <ab>Goth.</ab> naus (for nahu + s = <lang n="greek">νἐκυς</lang>), navis.
+ --<ab>Cf.</ab> <lang n="greek">νέκυς, νεκρός</lang>, <ab>etc.</ab>; <ab>Lat.</ab> per-nicies, necare, nocere, ve-nenum (for ve-nec + num); <ab>Goth.</ab> naus (for nahu + s = <lang n="greek">νέκυς</lang>), navis.
 <LEND>
 
 <L>7271<pc>0462-a<k1>नश्वर<k2>नश्वर
@@ -39902,7 +39902,7 @@
 ¦ {%A-%}, <ab>adj.</ab> 1. uncooked. 2. unbaked (as a pot). 3. indigested. 4. immature. 5. imperfect, <ls>MBh.</ls> 12, 8440.
 ¦ {%An-ati-pakva%}, <ab>adj.</ab> rather immature (figuratively), <ls>Daśak.</ls> in <ls>Chr.</ls> 195, 13.
 ¦ {%Kāla-%}, <ab>adj.</ab> matured by time, <ls>Man.</ls> 6, 17.
- --<ab>Cf.</ab> <lang n="greek">πέπων</lang> (from which we may infer that {%pakva%} is curtailed {%pakvan%}), <lang n="greek">πεπανός</lang>, with <lang n="greek">ρ</lang> for <lang n="greek">ν</lang>, curtailed in <lang n="greek">δρνπεπής, δρύπεψ</lang>.
+ --<ab>Cf.</ab> <lang n="greek">πέπων</lang> (from which we may infer that {%pakva%} is curtailed {%pakvan%}), <lang n="greek">πεπανός</lang>, with <lang n="greek">ρ</lang> for <lang n="greek">ν</lang>, curtailed in <lang n="greek">δρυπεπής, δρύπεψ</lang>.
 <LEND>
 
 <L>7920<pc>0497-a<k1>पक्वण<k2>पक्वण
@@ -39933,7 +39933,7 @@
 ¦ {%Śukla-%}, <ab>m.</ab> the light half of the month, from new to full moon.
 ¦ {%Sa-%}, {@I.@} <ab>adj.</ab> 1. winged. 2. having a side or party. {@II.@} <ab>m.</ab> a similar instance, one in which the major term is found ({%sādhyavān%}), <ls>Bhāṣāp.</ls> 72. {@III.@} <ab>m.</ab> a partisan.
 ¦ {%Sva-%}, <ab>m.</ab> a friend, <ls>Pañc.</ls> iii. <ab>d.</ab> 55.
- --<ab>Cf.</ab> perhaps <lang n="greek">παξ</lang> in <lang n="greek">ἄπαξ</lang>.
+ --<ab>Cf.</ab> perhaps <lang n="greek">παξ</lang> in <lang n="greek">ἅπαξ</lang>.
 <LEND>
 
 <L>7924<pc>0497-b<k1>पक्षक<k2>पक्षक
@@ -40467,7 +40467,7 @@
  --With {#सम्#} {%sam%}, {@1.@} To meet, <ls>Indr.</ls> 1, 36. {@2.@} To fly to (<ab>acc.</ab>), <ls>Hariv.</ls> 12684. {@3.@} To hasten to, <ls>Rām.</ls> 5, 36, 43. {@4.@} To obtain, <ls>MBh.</ls> 12, 6737. {@5.@} To fly, 4, 1776. {@6.@} To walk, <ls>Rām.</ls> 2, 125, 20 <ls>Gorr.</ls> {@7.@} To fly down, <ls>MBh.</ls> 6, 3789. {@8.@} To fall down, 1, 1387. {@9.@} To happen, <ls>Hariv.</ls> 11739.
  --<ab>Caus.</ab> {@1.@} To throw, <ls>Rām.</ls> 6, 18, 50. {@2.@} To throw down, <ls>Bhāg. P.</ls> 5, 26, 28.
  --With {#अभिसम्#} {%abhi-sam%}, {@1.@} To hasten to, <ls>Rām.</ls> 5, 60, 16. {@2.@} To [Page0506-a + 42] assail, <ls>Hariv.</ls> 12545. {@3.@} To fly about, <ls>MBh.</ls> 7, 7295.
- --<ab>Cf.</ab> <lang n="greek">πέταμαι, πέτομαι, πέταλον, ποτή, ποτάομαι, ὑπερ-πωτάομαι, ἵπταμαι, ἰθυπτίων, πτῆμα</lang>; <ab>Lat.</ab> Penna (<ab>i. e.</ab> pet + na); <ab>O.H.G.</ab> fedara; <ab>cf.</ab> {%patra%}; also <lang n="greek">πίπτω</lang> (<ab>i. e.</ab> <ab>reduplicat.</ab> <lang n="greek">πετ</lang>), <lang n="greek">ἔπεσον, ἕπιτνον, πτῶμα, πότμος</lang>; <ab>Lat.</ab> petere, impetrare, <ab>etc.</ab>
+ --<ab>Cf.</ab> <lang n="greek">πέταμαι, πέτομαι, πέταλον, ποτή, ποτάομαι, ὑπερ-πωτάομαι, ἵπταμαι, ἰθυπτίων, πτῆμα</lang>; <ab>Lat.</ab> Penna (<ab>i. e.</ab> pet + na); <ab>O.H.G.</ab> fedara; <ab>cf.</ab> {%patra%}; also <lang n="greek">πίπτω</lang> (<ab>i. e.</ab> <ab>reduplicat.</ab> <lang n="greek">πετ</lang>), <lang n="greek">ἕπεσον, ἕπιτνον, πτῶμα, πότμος</lang>; <ab>Lat.</ab> petere, impetrare, <ab>etc.</ab>
 <LEND>
 
 <L>8021<pc>0506-a<k1>पत्<k2>पत्
@@ -40537,7 +40537,7 @@
 ¦ {%Kṣiti-%}, and {%Kṣmā-%}, <ab>m.</ab> a king, <ls>Pañc.</ls> ii. <ab>d.</ab> 22; <ls>Rājat.</ls> 5, 59.
 ¦ {%Gaṇa-%}, and {%Gaṇanā-%}, <ab>m.</ab> [Page0507-a + 47] a name of Gaṇeśa, <ls>Pañc.</ls> i. <ab>d.</ab> 175; <ls>Rājat.</ls> 5, 26.
 ¦ {%Gṛha-%}, <ab>m.</ab> a householder, <ls>Pañc.</ls> i. <ab>d.</ab> 410.
-¦ {%Go-%}, <ab>m.</ab> 1. a bull, <ls>Rām.</ls> 3, 51, 4. 2. the sun, <ls>Bhāg. P.</ls> 1, 12, 10. 3. a name of Kṛṣṇa (properly the cow-herd <lang n="greek">κατ̕ἐξοχήν </lang>), <ls>MBh.</ls> 13, 7002. 4. a name of Varuṇa, Śiva, and others.
+¦ {%Go-%}, <ab>m.</ab> 1. a bull, <ls>Rām.</ls> 3, 51, 4. 2. the sun, <ls>Bhāg. P.</ls> 1, 12, 10. 3. a name of Kṛṣṇa (properly the cow-herd <lang n="greek">κατ̕ἐξοχήν</lang>), <ls>MBh.</ls> 13, 7002. 4. a name of Varuṇa, Śiva, and others.
 ¦ {%Gaurī-%}, <ab>m.</ab> a name of Śiva, <ls>Kathās.</ls> 22, 16.
 ¦ {%Graha-%}, <ab>m.</ab> 1. the sun. 2. the moon.
 ¦ {%Camū-%}, <ab>m.</ab> the commander of an army.
@@ -41008,7 +41008,7 @@
 ¦ {%Daiva-%}, <ab>m.</ab> a fatalist, <ls>Kām. Nītis.</ls> 9, 36.
 ¦ {%Māna-%}, <ab>adj.</ab>, <ab>f.</ab> {%rā%}, arrogant, proud, <ls>Śiś.</ls> 9, 57.
 ¦ {%Vigraha-%}, <ab>adj.</ab> fighting, <ls>Pañc.</ls> 117, 9.
- --<ab>Cf.</ab> <lang n="greek">πέραν, πέρην, πέρα, πέρηθν, περαίτερος</lang>, <ab>etc.</ab>, <lang n="greek">περαῖος, πέρας, πεῖρας, ἄπειρος, ἀπείρεσιος</lang>, <ab>etc.</ab>; <ab>Lat.</ab> perendie, <ab>i. e.</ab> pere-m + die; see also {%pṛ%}.
+ --<ab>Cf.</ab> <lang n="greek">πέραν, πέρην, πέρα, πέρηθεν, περαίτερος</lang>, <ab>etc.</ab>, <lang n="greek">περαῖος, πέρας, πεῖρας, ἄπειρος, ἀπείρεσιος</lang>, <ab>etc.</ab>; <ab>Lat.</ab> perendie, <ab>i. e.</ab> pere-m + die; see also {%pṛ%}.
 <LEND>
 
 <L>8105<pc>0515-a<k1>परकीय<k2>परकीय
@@ -42904,7 +42904,7 @@
  --With {#परि#} {%pari%}, To drink up, <ls>Ṛt.</ls> 3, 6. {%paripīta%}, Imbibed.
  --With {#प्र#} {%pra%}, {@1.@} To begin to drink. {@2.@} To drink. {@3.@} To enjoy, <ls>Rām.</ls> 2, 45, 5.
  --With {#सम्#} {%sam%}, <ab>Caus.</ab> To cause to drink, <ls>Bhāg. P.</ls> 5, 26, 26. [Page0536-b + 41]
- --<ab>Cf.</ab> <ab>Lat.</ab> bibo, potare, poculum, <ab>etc.</ab>; <lang n="greek">πέπωκα, πῶθι, ποτος, ποταμόσ, πίνω</lang> (<ab>cf.</ab> {%pinv%}), <lang n="greek">πιπίσκω, πιστός</lang>.
+ --<ab>Cf.</ab> <ab>Lat.</ab> bibo, potare, poculum, <ab>etc.</ab>; <lang n="greek">πέπωκα, πῶθι, ποτός, ποταμόσ, πίνω</lang> (<ab>cf.</ab> {%pinv%}), <lang n="greek">πιπίσκω, πιστός</lang>.
 <LEND>
 
 <L>8547<pc>0536-b<k1>पा<k2>पा
@@ -44948,7 +44948,7 @@
 ¦ {%Śākhā-%}, <ab>n.</ab> a suburb.
 ¦ {%Śūra-%}, <ab>n.</ab> the name of a town.
 ¦ {%Hiraṇya-%}, <ab>n.</ab> the town of the Asuras, <ls>Arj.</ls> 10, 13.
- --<ab>Cf.</ab> <lang n="greek">πόλις, πρόλις</lang>, perhaps also <lang n="greek">πύργος</lang>.
+ --<ab>Cf.</ab> <lang n="greek">πόλις, πτόλις</lang>, perhaps also <lang n="greek">πύργος</lang>.
 <LEND>
 
 <L>8964<pc>0560-a<k1>पुरःसर<k2>पुरःसर
@@ -45001,7 +45001,7 @@
 {#पुरस्#}¦ {%pura + s%} (<ab>cf.</ab> {%purā%}), {@I.@} <ab>adv.</ab> {@1.@} Forward. {@2.@} Before, in front, in presence, <ls>Śāk.</ls> 29, 1; <ls>Pañc.</ls> i. <ab>d.</ab> 135. {@3.@} First, <ls>Śāk.</ls> <ab>d.</ab> 33. {@4.@} Eastward, from the east, <ls>MBh.</ls> 7, 2349. {@II.@} <ab>prep.</ab> with the <ab>gen.</ab>, Before, <ls>Megh.</ls> 3.
  --<ab>Comp.</ab>
 ¦ {%Dakṣiṇatas-puras%}, <ab>adv.</ab> south-eastward, <ls>MBh.</ls> 2, 1120.
- --<ab>Cf.</ab> <lang n="greek">πάρος, πρόσκε, πρόσθιος</lang>, <ab>etc.</ab>, perhaps <lang n="greek">πρες</lang>, in <lang n="greek">πρέσβυς</lang>.
+ --<ab>Cf.</ab> <lang n="greek">πάρος, πρόσθε, πρόσθιος</lang>, <ab>etc.</ab>, perhaps <lang n="greek">πρες</lang>, in <lang n="greek">πρέσβυς</lang>.
 <LEND>
 
 <L>8976<pc>0560-b<k1>पुरस्कार<k2>पुरस्कार
@@ -45424,7 +45424,7 @@
  --With the <ab>prep.</ab> {#निस्#} {%nis, niṣ-pū%}, To purify, <ls>Bhāg. P.</ls> 6, 1, 18.
  --With {#परि#} {%pari, paripūta%}, {@1.@} Purified completely, <ls>Mṛcch.</ls> 159, 2. {@2.@} Threshed (winnowed?), <ls>Man.</ls> 8, 331.
  --With {#वि#} {%vi%}, To purify, <ls>MBh.</ls> 2, 1150.
- --<ab>Cf.</ab> <ab>Lat.</ab> purus, pŭtus, putare (<ab>cf.</ab> the vedic use of {%pū%}), pius, ex-piare, piaculum, punio, poena; <lang n="greek">ποινή, ἄποινα, νηποινῆ</lang>; <ab>Goth.</ab> fon (fire, <ab>cf.</ab> {%pāvaka%}), probably for favan; with {%r%} for {%n%}; <ab>O.H.G.</ab> fiur; <ab>A.S.</ab> fyr; <lang n="greek">τῦρ, πυρός</lang>.
+ --<ab>Cf.</ab> <ab>Lat.</ab> purus, pŭtus, putare (<ab>cf.</ab> the vedic use of {%pū%}), pius, ex-piare, piaculum, punio, poena; <lang n="greek">ποινή, ἄποινα, νηποινῆ</lang>; <ab>Goth.</ab> fon (fire, <ab>cf.</ab> {%pāvaka%}), probably for favan; with {%r%} for {%n%}; <ab>O.H.G.</ab> fiur; <ab>A.S.</ab> fyr; <lang n="greek">πῦρ, πυρός</lang>.
 <LEND>
 
 <L>9061<pc>0566-a<k1>पूग<k2>पूग
@@ -45743,7 +45743,7 @@
  --<ab>Caus.</ab> and {%pār%}, i. 10, {%pāraya%}, {@1.@} To accomplish, <ls>Rām.</ls> 2, 55, 19. {@2.@} To keep one's ground, <ls>MBh.</ls> 9, 1074. {@3.@} To live, <ls>Man.</ls> 9, 178. {@4.@} To be able, <ls>Bhāg. P.</ls> 5, 10, 4.
  --With the <ab>prep.</ab> {#अति#} {%ati%}, To maintain, <ls>Bhāg. P.</ls> 3, 18, 12.
  --<ab>Caus.</ab> To save from (<ab>abl.</ab>), 3, 25, 40.
- --<ab>Cf.</ab> {%para%} and <lang n="greek">πείρω, πεῖρα, πόρος, πορεύσ, ἄπορος, ἀπορέω, πορίζω, πορσνω, πορθμός, παρών, πωιράτης, πεπαρεῖν</lang>; <ab>Lat.</ab> par, peritus, ex-pertus, ex-perior, parere, partus, parare, portus, porta, portare; <ab>Goth.</ab> farjan; <ab>O.H.G.</ab> and <ab>A.S.</ab> faran; <ab>O.H.G.</ab> furt; <ab>A.S.</ab> fyrd.
+ --<ab>Cf.</ab> {%para%} and <lang n="greek">πείρω, πεῖρα, πόρος, πορεύς, ἄπορος, ἀπορέω, πορίζω, πορσύνω, πορθμός, παρών, πειράτης, πεπαρεῖν</lang>; <ab>Lat.</ab> par, peritus, ex-pertus, ex-perior, parere, partus, parare, portus, porta, portare; <ab>Goth.</ab> farjan; <ab>O.H.G.</ab> and <ab>A.S.</ab> faran; <ab>O.H.G.</ab> furt; <ab>A.S.</ab> fyrd.
 <LEND>
 
 <L>9122<pc>0570-a<k1>पृ<k2>पृ
@@ -50279,7 +50279,7 @@
  --<ab>Caus.</ab> to divulge, to profane, Man 11, 198.
  --With {#सम्#} {%sam%}, {@1.@} To flow together, <ls>Utt. Rāmac.</ls> 97, 14. {@2.@} To fluctuate, <ls>Utt. Rāmac.</ls> 155, 9. {%saṃpluta%}, Overspread, <ls>Johns. Sel.</ls> 60, 188.
  --<ab>Caus.</ab> To inundate, <ls>Rām.</ls> 1, 44, 35.
- --<ab>Cf.</ab> <lang n="greek">πλέω, πλεύσομαι, πλύνω, πύελος</lang> [Page0621-b + 37] probably <lang n="greek">λοίω</lang>; <ab>Lat.</ab> pluere, plorare, fluere, probably lavare; <ab>O.H.G.</ab> flawjan, fluz; <ab>A.S.</ab> fleot; <ab>O.H.G.</ab> fliuzan; <ab>A.S.</ab> fleowan, aet-flowan, fleotan; <ab>O.H.G.</ab> flot; <ab>A.S.</ab> flód, also fleógan, fliógan, and fleón, flión.
+ --<ab>Cf.</ab> <lang n="greek">πλέω, πλεύσομαι, πλύνω, πύελος</lang> [Page0621-b + 37] probably <lang n="greek">λούω</lang>; <ab>Lat.</ab> pluere, plorare, fluere, probably lavare; <ab>O.H.G.</ab> flawjan, fluz; <ab>A.S.</ab> fleot; <ab>O.H.G.</ab> fliuzan; <ab>A.S.</ab> fleowan, aet-flowan, fleotan; <ab>O.H.G.</ab> flot; <ab>A.S.</ab> flód, also fleógan, fliógan, and fleón, flión.
 <LEND>
 
 <L>10144<pc>0621-b<k1>प्लुक्षि<k2>प्लुक्षि
@@ -51262,7 +51262,7 @@
  --With [Page0635-a + 41] {#सम्#} {%sam%}, i. 4, {@1.@} To know, <ls>MBh.</ls> 1, 2498. {@2.@} To be wise, 2, 2187 (<ab>Par.</ab>).
  --<ab>Caus.</ab> {@1.@} To cause to agree, <ls>Pañc.</ls> 101, 11. {@2.@} To exhort, <ls>Pañc.</ls> 84, 1; to admonish, <ls>Pañc.</ls> 103, 2. {@3.@} With {%parasparam%}, To come to an explanation with each other, <ls>Pañc.</ls> 101, 11. {@4.@} To ask, <ls>MBh.</ls> 1, 3521.
  --With {#प्रतिसम्#} {%prati-sam, pratisaṃbuddha%}, Recovered, <ls>MBh.</ls> 3, 12519.
- --<ab>Cf.</ab> <lang n="greek">πυθμήν, πψνθάνομαι, πεύθομαι</lang>; <ab>Lat.</ab> puteus (<ab>cf.</ab> {%rudhira%} and {%bandh%}), putare; <ab>Goth.</ab> biudan; <ab>A.S.</ab> beodan, boda, bodian, bodare, and look to the beginning of this article.
+ --<ab>Cf.</ab> <lang n="greek">πυθμήν, πυνθάνομαι, πεύθομαι</lang>; <ab>Lat.</ab> puteus (<ab>cf.</ab> {%rudhira%} and {%bandh%}), putare; <ab>Goth.</ab> biudan; <ab>A.S.</ab> beodan, boda, bodian, bodare, and look to the beginning of this article.
 <LEND>
 
 <L>10333<pc>0635-a<k1>बुध<k2>बुध
@@ -51668,7 +51668,7 @@
  --With {#नि#} {%ni%}, To break, <ls>Bhaṭṭ.</ls> 15, 117.
  --With {#विनिस्#} {%vi-nis, vinirbhagna%}, Broken down, <ls>MBh.</ls> 3, 12477.
  --With {#प्र#} {%pra%}, To break down, <ls>MBh.</ls> 3, 11121. The original form has been probably {%bhrañj%}.
- --<ab>Cf.</ab> <ab>Lat.</ab> frango; <ab>Goth.</ab> brikan; <ab>A.S.</ab> bracan, brecan; <lang n="greek">ῥαγή, ῥηγνυμι, ῥηυμίν</lang>.
+ --<ab>Cf.</ab> <ab>Lat.</ab> frango; <ab>Goth.</ab> brikan; <ab>A.S.</ab> bracan, brecan; <lang n="greek">ῥαγή, ῥήγνυμι, ῥηγμίν</lang>.
 <LEND>
 
 <L>10412<pc>0641-a<k1>भञ्जन<k2>भञ्जन
@@ -51978,7 +51978,7 @@
  --<ab>Comp.</ab>
 ¦ {%Atra-%}, <ab>adj.</ab>, <ab>f.</ab> {%ati%}, respectable, <ls>Kir.</ls> 11, 18. {@II.@} <ab>m.</ab>, <ab>f.</ab> {%atī%}, used to denote in a respectful manner third persons who are present, <ls>Śāk.</ls> 16, 20.
 ¦ {%Tatra-%}, <ab>m.</ab>, <ab>f.</ab> {%atī%}, used to denote in a respectful manner persons who are absent, <ls>Śāk.</ls> 9, 12.
- --<ab>Cf.</ab> <lang n="greek">ϕώς, ϕωτύς</lang>.
+ --<ab>Cf.</ab> <lang n="greek">ϕώς, ϕωτός</lang>.
 <LEND>
 
 <L>10470<pc>0645-b<k1>भवन्त<k2>भवन्त
@@ -53761,7 +53761,7 @@
 {#मख#}¦ {%makha%}, <ab>m.</ab> {@1.@} A warrior, <ls>Chr.</ls> 290, 11 = <ls>Rigv.</ls> i. 64, 11. {@2.@} Sacrifice, oblation, <ls>Draup.</ls> 2, 10.
  --<ab>Comp.</ab>
 ¦ {%Sa-%}, <ab>adj.</ab> probably well fighting, a powerful warrior, <ls>Chr.</ls> 291, 5 = <ls>Rigv.</ls> i. 85, 5. [Page0673-b + 39]
- --<ab>Cf.</ab> <lang n="greek">μάχομαι, μάχαιρα, μάκελον, μαῖμαξ</lang> (from a <ab>frequent.</ab>), <lang n="greek">μαιμάκτης, μαιμακτήραι</lang>; <ab>Lat.</ab> macellum, mactare, mucro, maceria; <ab>A.S.</ab> méce; <ab>O.N.</ab> moekir.
+ --<ab>Cf.</ab> <lang n="greek">μάχομαι, μάχαιρα, μάκελον, μαῖμαξ</lang> (from a <ab>frequent.</ab>), <lang n="greek">μαιμάκτης, μαιμακτήρια</lang>; <ab>Lat.</ab> macellum, mactare, mucro, maceria; <ab>A.S.</ab> méce; <ab>O.N.</ab> moekir.
 <LEND>
 
 <L>10792<pc>0673-b<k1>मङ्ख्<k2>मङ्ख्
@@ -54180,7 +54180,7 @@
  --<ab>Caus.</ab> {%māthaya%}, To annoy, <ls>MBh.</ls> 3, 8769. {%pramāthita%}, Ravished, violated, forcibly carried off.
  --With {#संप्र#} {%sam-pra%}, To agitate, <ls>MBh.</ls> 1, 4876.
  --With {#वि#} {%vi%}, To destroy, <ls>MBh.</ls> 3, 12258.
- --<ab>Cf.</ab> <lang n="greek">μάτος, ματεύω, μανθάνω, Προμνθεύς, μόθος</lang>, and see {%mathin%}.
+ --<ab>Cf.</ab> <lang n="greek">μάτος, ματεύω, μανθάνω, Προμηθεύς, μόθος</lang>, and see {%mathin%}.
 <LEND>
 
 <L>10871<pc>0679-a<k1>मथन<k2>मथन
@@ -54505,7 +54505,7 @@
 <LEND>
 
 <L>10928<pc>0684-b<k1>मनाक्<k2>मनाक्
-{#मनाक्#}¦ {%manāk%}, probably *{%mana-%} (for {%mā + na%}, <ab>ptcple.</ab> <ab>pf.</ab> <ab>pass.</ab> of {%mā%}; <ab>cf.</ab> <lang n="greek">μανός</lang> and <lang n="greek">μινυν</lang> in <lang n="greek">μινυνθα, μινυ</lang> in <lang n="greek">μινύθω</lang>; <ab>Lat.</ab> minu in minuo; <ab>Goth.</ab> mins, minz, minniza, minnists, which are also derived from {%mā%}) {%-añc%}, <ab>adv.</ab> A little, <ls>Hit.</ls> ii. <ab>d.</ab> 138.
+{#मनाक्#}¦ {%manāk%}, probably *{%mana-%} (for {%mā + na%}, <ab>ptcple.</ab> <ab>pf.</ab> <ab>pass.</ab> of {%mā%}; <ab>cf.</ab> <lang n="greek">μανός</lang> and <lang n="greek">μινυν</lang> in <lang n="greek">μίνυνθα, μινυ</lang> in <lang n="greek">μινύθω</lang>; <ab>Lat.</ab> minu in minuo; <ab>Goth.</ab> mins, minz, minniza, minnists, which are also derived from {%mā%}) {%-añc%}, <ab>adv.</ab> A little, <ls>Hit.</ls> ii. <ab>d.</ab> 138.
  --<ab>Comp.</ab>
 ¦ {%A-%}, <ab>adv.</ab> much.
 <LEND>
@@ -55104,7 +55104,7 @@
 ¦ {%Vi-%}, {@I.@} <ab>adj.</ab> 1. clean, spotless, <ls>Chr.</ls> 40, 12. 2. pure, <ls>Pañc.</ls> v. <ab>d.</ab> 36; <ls>Śiś.</ls> 9, 13. 3. clear, <ls>Pañc.</ls> iii. <ab>d.</ab> 147 = day, <ls>Chr.</ls> 37, 31. 4. transparent. 5. white. 6. beautiful. {@II.@} <ab>n.</ab> silvergilt.
 ¦ {%Śānta-%}, <ab>adj.</ab> exempt from soil, literally and figuratively.
 ¦ {%Sa-%}, {@I.@} <ab>adj.</ab> 1. dirty. 2. sinful. {@II.@} <ab>n.</ab> fæces, ordure.
- --<ab>Cf.</ab> <lang n="greek">μέλας</lang> (<ab>cf.</ab> {%malina%}), <lang n="greek">μόρον, μάρμαρος, μαρμαάιρω</lang>; <ab>A.S.</ab> smere, smerian, smerwian, smyrian.
+ --<ab>Cf.</ab> <lang n="greek">μέλας</lang> (<ab>cf.</ab> {%malina%}), <lang n="greek">μόρον, μάρμαρος, μαρμάιρω</lang>; <ab>A.S.</ab> smere, smerian, smerwian, smyrian.
 <LEND>
 
 <L>11048<pc>0691-a<k1>मलपङ्किन्<k2>मलपङ्किन्
@@ -55279,7 +55279,7 @@
 
 <L>11087<pc>0692-b<k1>मह्<k2>मह्
 {#मह्#}¦ {%MAH%}, i. 1, and i. 10, <ab>Par.</ab> To adore, to honour <ls>Pañc.</ls> ii. <ab>d.</ab> 72; <ls>Kir.</ls> 5, 24. The original form was {%magh%} and the original signification ‘To be great, powerful.’
- --<ab>Cf.</ab> {%magha%}, [Page0693-a + 45] {%mahant%}, and <ab>Goth.</ab> and <ab>A.S.</ab> magan; <ab>Goth.</ab> magu, mavi, mahts; <ab>A.S.</ab> maeht, meaht, miht; <ab>Goth.</ab> mahteig; <ab>O.H.G.</ab> magan, great, heavy; <ab>A.S.</ab> maegn, meagn, strength; <ab>Goth.</ab> magus, a boy; <ab>A.S.</ab> mag, maeg, maegen, macian; <ab>Goth.</ab> magaths; <ab>A.S.</ab> maegdh; <ab>O.H.G.</ab> machôn; <ab>A.S.</ab> macian; <lang n="greek">μόγος, μόχθος, μόγις</lang> (for <lang n="greek">μόγλοις</lang>), <lang n="greek">μέγαρον</lang> (<ab>cf.</ab> <ab>O.H.G.</ab> ga-mah; <ab>N.G.</ab> Gemach), <lang n="greek">μηχανή, μηχανάομαι</lang>; <ab>Lat.</ab> magnus, mactus.
+ --<ab>Cf.</ab> {%magha%}, [Page0693-a + 45] {%mahant%}, and <ab>Goth.</ab> and <ab>A.S.</ab> magan; <ab>Goth.</ab> magu, mavi, mahts; <ab>A.S.</ab> maeht, meaht, miht; <ab>Goth.</ab> mahteig; <ab>O.H.G.</ab> magan, great, heavy; <ab>A.S.</ab> maegn, meagn, strength; <ab>Goth.</ab> magus, a boy; <ab>A.S.</ab> mag, maeg, maegen, macian; <ab>Goth.</ab> magaths; <ab>A.S.</ab> maegdh; <ab>O.H.G.</ab> machôn; <ab>A.S.</ab> macian; <lang n="greek">μόγος, μόχθος, μόλις</lang> (for <lang n="greek">μόγλοις</lang>), <lang n="greek">μέγαρον</lang> (<ab>cf.</ab> <ab>O.H.G.</ab> ga-mah; <ab>N.G.</ab> Gemach), <lang n="greek">μηχανή, μηχανάομαι</lang>; <ab>Lat.</ab> magnus, mactus.
 <LEND>
 
 <L>11088<pc>0693-a<k1>मह<k2>मह
@@ -55449,7 +55449,7 @@
  --<ab>Comp.</ab>
 ¦ {%Mṛtyu-%}, <ab>adj.</ab> death-like, <ls>Chr.</ls> 35, 6.
 ¦ {%Veda-%}, <ab>adj.</ab> made up of the Vedas, <ls>Johns. Sel.</ls> 94, 53.
- --<ab>Cf.</ab> <lang n="greek">μάρις, μανός, μέτρον, ἄ-μοτον, μοτόν, μίρις, μῖμος, μιμέομαι, μάτιον, μόδιος, μέδιμνος, μέδομαι, μῆδος</lang>; <ab>Lat.</ab> im-mânis, metior (a <ab>denomin.</ab> of an old <ab>ptcple.</ab> <ab>pres.</ab>, <ab>cf.</ab> mensus), mētare, manus, materia, maturus, imitari, mos, modus, meditari; [Page0695-b + 40] <ab>O.H.G.</ab> mez; <ab>O.N.</ab> met; <ab>Goth.</ab> mitan; <ab>A.S.</ab> metan, maedhian.
+ --<ab>Cf.</ab> <lang n="greek">μάρις, μανός, μέτρον, ἄ-μοτον, μοτόν, μίτος, μῖμος, μιμέομαι, μάτιον, μόδιος, μέδιμνος, μέδομαι, μῆδος</lang>; <ab>Lat.</ab> im-mânis, metior (a <ab>denomin.</ab> of an old <ab>ptcple.</ab> <ab>pres.</ab>, <ab>cf.</ab> mensus), mētare, manus, materia, maturus, imitari, mos, modus, meditari; [Page0695-b + 40] <ab>O.H.G.</ab> mez; <ab>O.N.</ab> met; <ab>Goth.</ab> mitan; <ab>A.S.</ab> metan, maedhian.
 <LEND>
 
 <L>11120<pc>0695-b<k1>मा<k2>मा
@@ -56458,7 +56458,7 @@
  --With the <ab>prep.</ab> {#उद्#} {%ud%}, {@1.@} To open one's eyes, <ls>Bhag.</ls> 5, 9; <ls>Kumāras.</ls> 5, 25. {@2.@} To flash, <ls>Daśak.</ls> in <ls>Chr.</ls> 186, 16.
  --With {#प्रत्युद्#} {%prati-ud%}, To break forth, <ls>Daśak.</ls> in <ls>Chr.</ls> 184, 4.
  --With {#नि#} {%ni%}, [Page0708-a + 39] To shut one's eyes, to wink, <ls>MBh.</ls> 3, 10649.
- --<ab>Cf.</ab> <ab>Lat.</ab> miser; <lang n="greek">μῖσος</lang>, probably also <lang n="greek">μύω</lang>, <ab>cf.</ab> <lang n="greek">ὄμματα, σψμ-μεμυκότα, ἀναμεμυκότα</lang>; <ab>Lat.</ab> micare.
+ --<ab>Cf.</ab> <ab>Lat.</ab> miser; <lang n="greek">μῖσος</lang>, probably also <lang n="greek">μύω</lang>, <ab>cf.</ab> <lang n="greek">ὄμματα, συμ-μεμυκότα, ἀναμεμυκότα</lang>; <ab>Lat.</ab> micare.
 <LEND>
 
 <L>11321<pc>0708-a<k1>मिष<k2>मिष
@@ -56481,7 +56481,7 @@
 ¦ {%Puru-%}, <ab>m.</ab> a proper name.
  --With the <ab>prep.</ab> {#प्र#} {%pra%}, {%pramīḍha%}, {@1.@} Passed, as urine. {@2.@} Thick.
  --With {#सम्#} {%sam%}, {@1.@} To sprinkle, to give, <ls>Chr.</ls> 288, 16 = <ls>Rigv.</ls> i. 48, 16. ({%mimikṣva%}, <ab>imperat.</ab> ii. 3, <ab>Ātm.</ab> or <ab>anomal.</ab> <ab>desider.</ab>). <ab>Desider.</ab> {%mimikṣa%}, To wish to mix, to unite one's self, <ls>Chr.</ls> 293, 6 = <ls>Rigv.</ls> i. 87, 6 ({%mimikṣire%}, <ab>anomal.</ab> <ab>pf.</ab> <ab>red.</ab>).
- --<ab>Cf.</ab> <ab>Lat.</ab> mingere, mejere; <ab>A.S.</ab> mígan; <ab>Goth.</ab> maihstus; <ab>A.S.</ab> meox, miox, mist; <lang n="greek">ὁμίχλη, ὀμιχεΐν, μοιχός, μιαίνω, μιαρός</lang>.
+ --<ab>Cf.</ab> <ab>Lat.</ab> mingere, mejere; <ab>A.S.</ab> mígan; <ab>Goth.</ab> maihstus; <ab>A.S.</ab> meox, miox, mist; <lang n="greek">ὁμίχλη, ὀμιχεῖν, μοιχός, μιαίνω, μιαρός</lang>.
 <LEND>
 
 <L>11325<pc>0708-a<k1>मिहिर<k2>मिहिर
@@ -57503,7 +57503,7 @@
  --With {#वि#} {%vi%}, {@1.@} To rub to pieces, <ls>Rām.</ls> 2, 88, 8. {@2.@} To break, <ls>Man.</ls> 4, 70. {@3.@} To destroy, <ls>MBh.</ls> 1, 5504.
  --<ab>Caus.</ab> To grind, <ls>Rām.</ls> 2, 88, 2.
  --With {#सम्#} {%sam%}, <ab>Caus.</ab> To rub, to clean, <ls>Pañc.</ls> 121, 13.
- --<ab>Cf.</ab> <ab>Lat.</ab> mordere; <ab>A.S.</ab> malt; <ab>O.H.G.</ab> malz; <ab>A.S.</ab> meltan, miltan; <ab>O.H.G.</ab> smelzan; <ab>A.S.</ab> smeortan; <ab>O.H.G.</ab> smerzan; <ab>A.S.</ab> smilt, smylt, smolt; <lang n="greek">ἀμέρδω, ἀμαγλδύνω, μέλδω</lang>.
+ --<ab>Cf.</ab> <ab>Lat.</ab> mordere; <ab>A.S.</ab> malt; <ab>O.H.G.</ab> malz; <ab>A.S.</ab> meltan, miltan; <ab>O.H.G.</ab> smelzan; <ab>A.S.</ab> smeortan; <ab>O.H.G.</ab> smerzan; <ab>A.S.</ab> smilt, smylt, smolt; <lang n="greek">ἀμέρδω, ἀμαλδύνω, μέλδω</lang>.
 <LEND>
 
 <L>11511<pc>0722-b<k1>मृद्<k2>मृद्
@@ -57533,7 +57533,7 @@
 
 <L>11517<pc>0723-a<k1>मृदु<k2>मृदु
 {#मृदु#}¦ {%mṛd + u%}, <ab>adj.</ab>, <ab>f.</ab> {%dvī%} (<ls>Rām.</ls> 4, 2, 2), <ab>comparat.</ab> {%mradīyaṃs%}, <ab>superl.</ab> {%mradiṣṭha%}. {@1.@} Soft, <ls>Pañc.</ls> i. <ab>d.</ab> 303; iii. <ab>d.</ab> 253; <ls>Johns. Sel.</ls> 56, 153 ({%-pūrvam%}, <ab>adv.</ab> At first mildly). {@2.@} Mild, <ls>Vikr.</ls> <ab>d.</ab> 85. {@3.@} Weak, <ls>Hit.</ls> 81, 22. {@4.@} Blunt. {@5.@} Slow, <ls>Sāv.</ls> 4, 33.
- --<ab>Cf.</ab> <ab>Goth.</ab> and <ab>A.S.</ab> mild; <ab>Lat.</ab> mollis; probably <lang n="greek">βραδς</lang>; <ab>Lat.</ab> bardus; <lang n="greek">ἀϐλαδέως</lang>; <ab>Lat.</ab> blandus.
+ --<ab>Cf.</ab> <ab>Goth.</ab> and <ab>A.S.</ab> mild; <ab>Lat.</ab> mollis; probably <lang n="greek">βραδύς</lang>; <ab>Lat.</ab> bardus; <lang n="greek">ἀϐλαδέως</lang>; <ab>Lat.</ab> blandus.
 <LEND>
 
 <L>11518<pc>0723-a<k1>मृदुता<k2>मृदुता
@@ -58642,7 +58642,7 @@
 ¦ {%Pṛthu-%}, {@I.@} <ab>adj.</ab> widely renowned, <ls>MBh.</ls> 7, 2783. {@II.@} a proper name.
 ¦ {%Mahā-%}, <ab>adj.</ab> illustrious, <ls>Rām.</ls> 3, 55, 38.
 ¦ {%Su-%}, <ab>adj.</ab> renowned.
- --<ab>Cf.</ab> <ab>Lat.</ab> decere, docere; <lang n="greek">δοκέω, δόξω, δόγμα, δοκεύω, διδάσκω, δάκτνλος</lang>; probably <ab>A.S.</ab> ta, tah; <ab>O.H.G.</ab> zêha.
+ --<ab>Cf.</ab> <ab>Lat.</ab> decere, docere; <lang n="greek">δοκέω, δόξω, δόγμα, δοκεύω, διδάσκω, δάκτυλος</lang>; probably <ab>A.S.</ab> ta, tah; <ab>O.H.G.</ab> zêha.
 <LEND>
 
 <L>11740<pc>0737-b<k1>यशस्कर<k2>यशस्कर
@@ -59182,7 +59182,7 @@
  --With {#प्रति#} {%prati%}, To oppose, <ls>MBh.</ls> 1, 7103.
  --<ab>Caus.</ab> The same, 1, 7116.
  --With {#सम्#} {%sam%}. The same, 1, 3477 [Page0748-a + 39] <ab>Caus.</ab> The same, 1, 7098.
- --<ab>Cf.</ab> <lang n="greek">ὑσμίνη, ὐσμίν</lang> (<ab>cf.</ab> {%yudhma%}).
+ --<ab>Cf.</ab> <lang n="greek">ὑσμίνη, ὑσμίν</lang> (<ab>cf.</ab> {%yudhma%}).
 <LEND>
 
 <L>11824<pc>0748-a<k1>युध्<k2>युध्
@@ -59247,7 +59247,7 @@
 
 <L>11838<pc>0748-b<k1>युष्मद्<k2>युष्मद्
 {#युष्मद्#}¦ {%yuṣmad%}, pronoun of the second person, Thou; the bases of the cases are {%tva, tu, yuva, yu, yuṣma%}, <ab>i. e.</ab> {%yu + sma%}, and {%ta, va%}. <ab>Ved.</ab> <ab>nom.</ab> <ab>du.</ab> {%yuvam%}, <ls>Chr.</ls> 295, 17 = <ls>Rigv.</ls> i. 92, 17; <ab>gen.</ab>, <ab>abl.</ab> {%yuvos%}, 296, 2 = <ls>Rigv.</ls> i. 112, 2.
- --<ab>Cf.</ab> <ab>Lat.</ab> tu, te, vos; <lang n="greek">τούν, τ, σύ, τέ, σέ, σϕῶι, ὔμμες</lang>; <ab>Goth.</ab> thu, jus, izvis; <ab>A.S.</ab> thu, gyt, eow.
+ --<ab>Cf.</ab> <ab>Lat.</ab> tu, te, vos; <lang n="greek">τούν, τύ, σύ, τέ, σέ, σϕῶι, ὔμμες</lang>; <ab>Goth.</ab> thu, jus, izvis; <ab>A.S.</ab> thu, gyt, eow.
 <LEND>
 
 <L>11839<pc>0748-b<k1>युष्मादृश्<k2>युष्मादृश्
@@ -60299,7 +60299,7 @@
  --With the <ab>prep.</ab> {#वि#} {%vi%}, {@1.@} To abandon, <ls>Rām.</ls> 3, 51, 17. {@2.@} With <ab>instr.</ab> To separate from, <ls>Vikr.</ls> <ab>d.</ab> 114. {%virahita%}, {@1.@} Abandoned, left, <ls>Śiś.</ls> 9, 75. {@2.@} Deprived of, without, <ls>Vikr.</ls> <ab>d.</ab> 33; <ls>Nal.</ls> 10, 23.
  --<ab>Comp.</ab>
 ¦ {%A-%}, <ab>adj.</ab> 1. not separated, <ls>Vikr.</ls> 86, 11. {@2.@} abounding in, <ls>Kir.</ls> 5, 52.
- --<ab>Cf.</ab> <lang n="greek">γανθάνω, ἔλαθον, ἀλήθης</lang>, probably <lang n="greek">ἔρημος</lang>; <ab>Lat.</ab> latere (<ab>cf.</ab> {%rudhira%}); also perhaps <lang n="greek">λόχος, λέχος</lang> (<ab>cf.</ab> {%rahas%}); <ab>Lat.</ab> lectum, legere; <ab>Goth.</ab> ligan, lagjan; <ab>A.S.</ab> lecgan, licgan.
+ --<ab>Cf.</ab> <lang n="greek">λανθάνω, ἔλαθον, ἀλήθης</lang>, probably <lang n="greek">ἔρημος</lang>; <ab>Lat.</ab> latere (<ab>cf.</ab> {%rudhira%}); also perhaps <lang n="greek">λόχος, λέχος</lang> (<ab>cf.</ab> {%rahas%}); <ab>Lat.</ab> lectum, legere; <ab>Goth.</ab> ligan, lagjan; <ab>A.S.</ab> lecgan, licgan.
 <LEND>
 
 <L>12024<pc>0763-b<k1>रहस्<k2>रहस्
@@ -61148,7 +61148,7 @@
  --† i. 4 and i. 10, <ab>Par.</ab> To be angry.
  --<ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%ruṣṭa%} (<ls>Pañc.</ls> 223, 9; <ls>Śṛṅgārat.</ls> 7), {%ruṣita%} (<ls>Man.</ls> 9, 83), and {%roṣita%}, Enraged.
  --<ab>Caus.</ab> To irritate, <ls>Pañc.</ls> 163, 4. {%roṣita%}, Irritated, <ls>Daśak.</ls> in <ls>Chr.</ls> 186, 16.
- --<ab>Cf.</ab> probably <lang n="greek">λύσσα</lang>, perhaps <lang n="greek">ἀλυσταίνη, ἀλυκταίνω, ἀλαλύκτημαι</lang>; <ab>Goth.</ab> in-rauhtjan.
+ --<ab>Cf.</ab> probably <lang n="greek">λύσσα</lang>, perhaps <lang n="greek">ἀλυσταίνω, ἀλυκταίνω, ἀλαλύκτημαι</lang>; <ab>Goth.</ab> in-rauhtjan.
 <LEND>
 
 <L>12173<pc>0775-a<k1>रुष्<k2>रुष्
@@ -61869,7 +61869,7 @@
  --<ab>Comp.</ab>
 ¦ {%A-%}, <ab>adj.</ab> 1. heavy, <ls>Śiś.</ls> 9, 78. 2. powerful, <ab>ib.</ab> 9, 38. 3. long, as a vowel, <ls>Śrut.</ls> 44.
 ¦ {%Pari-%}, <ab>adj.</ab> 1. very small, <ls>Utt. Rāmac.</ls> 107, 9. 2. very pure, <ls>Megh.</ls> 13. 3. very indifferent, <ls>Utt. Rāmac.</ls> 100, 4.
- --<ab>Cf.</ab> <lang n="greek">ἐλαχς, ἐλαϕρός, λαγώς</lang>; <ab>Lat.</ab> lepus (for old lephus; <ab>cf.</ab> formus for old phormus, <ab>s.v.</ab> {%gharma%}, and {%rudhira%}, and {%skandha%}); <ab>Lat.</ab> levis; <ab>Goth.</ab> leihts; <ab>O.H.G.</ab> lîhti; <ab>A.S.</ab> lîht.
+ --<ab>Cf.</ab> <lang n="greek">ἐλαχύς, ἐλαϕρός, λαγώς</lang>; <ab>Lat.</ab> lepus (for old lephus; <ab>cf.</ab> formus for old phormus, <ab>s.v.</ab> {%gharma%}, and {%rudhira%}, and {%skandha%}); <ab>Lat.</ab> levis; <ab>Goth.</ab> leihts; <ab>O.H.G.</ab> lîhti; <ab>A.S.</ab> lîht.
 <LEND>
 
 <L>12297<pc>0785-b<k1>लघुता<k2>लघुता
@@ -61929,7 +61929,7 @@
  --<ab>Comp.</ab> <ab>ptcple.</ab> of the <ab>fut.</ab> <ab>pass.</ab> {%an-ullaṅghanīya%}, <ab>adj.</ab> Not to be neglected, <ls>Pañc.</ls> 247, 19.
  --With {#परि#} {%pari%}, i. 10, To trespass, to leave, <ls>Pañc.</ls> iv. <ab>d.</ab> 75.
  --With {#वि#} {%vi%}, i. 10, {@1.@} To overstep, <ls>Kir.</ls> 5, 1. {@2.@} To violate, <ls>Ragh.</ls> 9 74. {@3.@} To neglect, <ls>Ragh.</ls> 3, 4 (<ab>Calc.</ab>).
- --<ab>Cf.</ab> <ab>O.H.G.</ab> langên, ga-lingan, ga-langôn; <ab>Goth.</ab> laggs; <ab>A.S.</ab> lang, <ab>etc.</ab>; <ab>Lat.</ab> longus, languere, <ab>etc.</ab>; <lang n="greek">λαγγάζω, λογγάζω, λαγζάνω, λάχος, λόγχη, ἐλέγχω</lang>; probably also <ab>Goth.</ab> laikan, <ab>etc.</ab> The original signification of this <ab>vb.</ab> was probably, ‘To overtake by jumping,’ then, ‘To attain.’
+ --<ab>Cf.</ab> <ab>O.H.G.</ab> langên, ga-lingan, ga-langôn; <ab>Goth.</ab> laggs; <ab>A.S.</ab> lang, <ab>etc.</ab>; <ab>Lat.</ab> longus, languere, <ab>etc.</ab>; <lang n="greek">λαγγάζω, λογγάζω, λαγχάνω, λάχος, λόγχη, ἐλέγχω</lang>; probably also <ab>Goth.</ab> laikan, <ab>etc.</ab> The original signification of this <ab>vb.</ab> was probably, ‘To overtake by jumping,’ then, ‘To attain.’
 <LEND>
 
 <L>12309<pc>0786-b<k1>लङ्घन<k2>लङ्घन
@@ -62302,7 +62302,7 @@
 <L>12378<pc>0791-b<k1>लष्<k2>लष्
 {#लष्#}¦ {%LAṢ%} (akin to 1. {%las%}, <ab>cf.</ab> {%lālasa%}), i. 1 and 4, <ab>Par.</ab> To desire; <ab>cf.</ab> 2. {%las%}.
  --With the <ab>prep.</ab> {#अभि#} {%abhi%}, {@1.@} To desire, <ls>Vikr.</ls> 13, 20; to covet, <ls>Hit.</ls> 69, 5; <ls>MBh.</ls> 1, 6580. {@2.@} To take, <ls>Vikr.</ls> <ab>d.</ab> 107. {%abhilaṣita%}, <ab>n.</ab> Desire, <ls>Hit.</ls> 95, 4, <ab>M.M.</ab>
- --<ab>Cf.</ab> <lang n="greek">λῶ, λῆμα, λαρός, λωΐων, λίαν, λιλαίομαι, λήλαντος</lang>, probably <lang n="greek">λαμία, λάμος, λάρυγξ, λαιμός, λαίτμα,</lang>, <ab>etc.</ab>; <ab>Lat.</ab> lascivus; <ab>Goth.</ab> luston, lustus; <ab>A.S.</ab> lust, lyst, lystan.
+ --<ab>Cf.</ab> <lang n="greek">λῶ, λῆμα, λαρός, λωΐων, λίαν, λιλαίομαι, λήλαντος</lang>, probably <lang n="greek">λαμία, λάμος, λάρυγξ, λαιμός, λαίτμα</lang>, <ab>etc.</ab>; <ab>Lat.</ab> lascivus; <ab>Goth.</ab> luston, lustus; <ab>A.S.</ab> lust, lyst, lystan.
 <LEND>
 
 <L>12379<pc>0791-b<k1>लष्व<k2>लष्व
@@ -62839,7 +62839,7 @@
  --<ab>Caus.</ab> To allure, <ls>MBh.</ls> 3, 10044.
  --With {#वि#} {%vi%}, To disturb. {%vilubhita%}, {@1.@} Bewildered. {@2.@} Shaken (by wind).
  --<ab>Caus.</ab> {@1.@} To allure, to seduce, <ls>Vikr.</ls> 8, 16; <ls>Daśak.</ls> in <ls>Chr.</ls> 191, 10. {@2.@} To beguile, <ls>Rām.</ls> 2, 94, 1. {@3.@} To enchant, <ls>Śāk.</ls> 81, 17.
- --<ab>Cf.</ab> <ab>Lat.</ab> lubet, libet, libido, līber, ‘free’ and ‘son’; <lang n="greek">ἐλευθερος</lang> (based on an old <ab>frequent.</ab>); <ab>Goth.</ab> liubs, us-laubjan; <ab>A.S.</ab> leóf, lyfan, lufian, lóf, leaf, left.
+ --<ab>Cf.</ab> <ab>Lat.</ab> lubet, libet, libido, līber, ‘free’ and ‘son’; <lang n="greek">ἐλευθερός</lang> (based on an old <ab>frequent.</ab>); <ab>Goth.</ab> liubs, us-laubjan; <ab>A.S.</ab> leóf, lyfan, lufian, lóf, leaf, left.
 <LEND>
 
 <L>12471<pc>0799-a<k1>लुम्ब्<k2>लुम्ब्
@@ -63453,7 +63453,7 @@
  --With {#संप्र#} {%sam-pra%}, To explain comprehensively, <ls>Man.</ls> 8, 61.
  --With {#प्रति#} {%prati%}, To answer (with two <ab>acc.</ab>), <ls>Rām.</ls> 2, 68, 1. {%pratyukta%}, <ab>n.</ab> Answer, <ls>Megh.</ls> 112.
  --With {#सम्#} {%sam%}, To address, <ls>Pañc.</ls> 97, 12.
- --<ab>Cf.</ab> <ab>Lat.</ab> vocare, vox; <ab>O.H.G.</ab> ga-wahan, memo-rare; [Page0807-a + 41] <lang n="greek">ἔπος; εἶπον</lang> (<ab>i. e.</ab> <lang n="greek">ἐϝέϝεπον</lang> and <lang n="greek">ϝεϝεπον</lang>), <lang n="greek">θεό-προτος, πέπρξται, ὄψ, ὄσσα</lang>.
+ --<ab>Cf.</ab> <ab>Lat.</ab> vocare, vox; <ab>O.H.G.</ab> ga-wahan, memo-rare; [Page0807-a + 41] <lang n="greek">ἔπος; εἶπον</lang> (<ab>i. e.</ab> <lang n="greek">ἐϝέϝεπον</lang> and <lang n="greek">ϝεϝεπον</lang>), <lang n="greek">θεό-προπος, πέπρωται, ὄψ, ὄσσα</lang>.
 <LEND>
 
 <L>12590<pc>0807-a<k1>वच<k2>वच
@@ -64013,7 +64013,7 @@
  --With {#प्र#} {%pra%}, {@1.@} To sow, <ls>MBh.</ls> 3, 15725. {@2.@} To cast, <ab>ib.</ab> 3, 1931.
  --With {#प्रति#} {%prati%}, To inlay, to stud, to adorn, <ls>Daśak.</ls> in <ls>Chr.</ls> 198, 16. {%pratyupta%}, Shut(?), <ls>Utt. Rāmac.</ls> 87, 3.
  --With {#वि#} {%vi, vyupta%}, Disordered, dishevelled, <ls>Bhāg. P.</ls> 4, 2, 14.
- --<ab>Cf.</ab> <lang n="greek">ὀπυίω</lang> and <lang n="greek">ὄιϕεω</lang>; <ab>A.S.</ab> wíf; probably also <lang n="greek">ὅπλον</lang>; <ab>Goth.</ab> vêpn; <ab>A.S.</ab> waepen. <ab>Cf.</ab> {%ve%}.
+ --<ab>Cf.</ab> <lang n="greek">ὀπυίω</lang> and <lang n="greek">ὄιϕω, ὄιϕεω</lang>; <ab>A.S.</ab> wíf; probably also <lang n="greek">ὅπλον</lang>; <ab>Goth.</ab> vêpn; <ab>A.S.</ab> waepen. <ab>Cf.</ab> {%ve%}.
 <LEND>
 
 <L>12701<pc>0813-b<k1>वप<k2>वप
@@ -64532,7 +64532,7 @@
 <LEND>
 
 <L>12801<pc>0820-b<k1>वर्वर<k2>वर्वर
-{#वर्वर#}¦ {%varvara%}, {@I.@} (probably borrowed from <lang n="greek">βαϐαρος</lang>, <ab>cf.</ab> {%barbara%}), <ab>m.</ab> {@1.@} A barbarian, an outcaste. {@2.@} The country inhabited by barbarians. {@II.@} <ab>m.</ab> {@1.@} Woolly or curly hair. {@2.@} A sort of worm. {@3.@} The clash of weapons. {@4.@} A mode of dancing. {@III.@} <ab>f.</ab> {%rā%} and {%ri%}, A small bee. {@IV.@} <ab>n.</ab> Vermilion.
+{#वर्वर#}¦ {%varvara%}, {@I.@} (probably borrowed from <lang n="greek">βάρϐαρος</lang>, <ab>cf.</ab> {%barbara%}), <ab>m.</ab> {@1.@} A barbarian, an outcaste. {@2.@} The country inhabited by barbarians. {@II.@} <ab>m.</ab> {@1.@} Woolly or curly hair. {@2.@} A sort of worm. {@3.@} The clash of weapons. {@4.@} A mode of dancing. {@III.@} <ab>f.</ab> {%rā%} and {%ri%}, A small bee. {@IV.@} <ab>n.</ab> Vermilion.
 <LEND>
 
 <L>12802<pc>0820-b<k1>वर्वरीक<k2>वर्वरीक
@@ -64976,7 +64976,7 @@
  --With {#वि#} {%vi%}, {@1.@} To dwell, to pass, <ls>Rām.</ls> 1, 23, 23. {@2.@} To pass away, <ls>Pañc.</ls> 130, 7.
  --<ab>Caus.</ab> {@1.@} To dismiss, <ls>MBh.</ls> 3, 8277. {@2.@} To banish, <ls>Man.</ls> 8, 123.
  --With {#सम्#} {%sam%}, {@1.@} To dwell, or to live with (with the <ab>acc.</ab>), <ls>Man.</ls> 11, 190. {@2.@} To cohabit (<ab>acc.</ab>), <ls>Man.</ls> 9, 77.
- --<ab>Cf.</ab> <ab>Goth.</ab> visan; <ab>A.S.</ab> wesan, ed-wist, werig; <ab>O.H.G.</ab> wesan and werên, wonên; <ab>A.S.</ab> wunian; <ab>Lat.</ab> Vesta, vestibulum, verna; <lang n="greek">ἄστυ, ἀστοός, ἑστία, ὑπερ-ῷον</lang>, probably <lang n="greek">εὐνή, ἰαύω, αὐλή, αὖλις</lang>.
+ --<ab>Cf.</ab> <ab>Goth.</ab> visan; <ab>A.S.</ab> wesan, ed-wist, werig; <ab>O.H.G.</ab> wesan and werên, wonên; <ab>A.S.</ab> wunian; <ab>Lat.</ab> Vesta, vestibulum, verna; <lang n="greek">ἄστυ, ἀστός, ἑστία, ὑπερ-ῷον</lang>, probably <lang n="greek">εὐνή, ἰαύω, αὐλή, αὖλις</lang>.
 <LEND>
 
 <L>12888<pc>0826-a<k1>वस्<k2>वस्
@@ -64993,7 +64993,7 @@
  --With {#प्र#} {%pra%}, To put on, <ls>Rām.</ls> 2, 100, 30.
  --With {#प्रति#} {%prati%}, <ab>Caus.</ab> To dress, <ls>MBh.</ls> 2, 2502.
  --With {#वि#} {%vi%}, <ab>Caus.</ab> To put on, <ls>MBh.</ls> 2, 2520.
- --<ab>Cf.</ab> <ab>Goth.</ab> vasjan (to wear), vasti; <ab>A.S.</ab> werian; <ab>Lat.</ab> vestis; <lang n="greek">ἔννψμι, εἷμα</lang> (= <ab>ved.</ab> {%vasman%}, <ls>Rigv.</ls> iv. 13, 4), <lang n="greek">ἐσθής</lang>.
+ --<ab>Cf.</ab> <ab>Goth.</ab> vasjan (to wear), vasti; <ab>A.S.</ab> werian; <ab>Lat.</ab> vestis; <lang n="greek">ἔννυμι, εἷμα</lang> (= <ab>ved.</ab> {%vasman%}, <ls>Rigv.</ls> iv. 13, 4), <lang n="greek">ἐσθής</lang>.
 <LEND>
 
 <L>12890<pc>0826-a<k1>वस्<k2>वस्
@@ -65787,7 +65787,7 @@
 
 <L>13040<pc>0837-a<k1>वार्<k2>वार्
 {#वार्#}¦ {%vār%}, <ab>n.</ab> Water, <ls>Nalod.</ls> 3, 51.
- --<ab>Cf.</ab> <lang n="greek">οὖρον, οὐπέω, οὐρία</lang>, perhaps <lang n="greek">ὑρτήρ, ὔρχη</lang>; <ab>Lat.</ab> urina, urceus, urna.
+ --<ab>Cf.</ab> <lang n="greek">οὖρον, οὐρέω, οὐρία</lang>, perhaps <lang n="greek">ὑρτήρ, ὔρχη</lang>; <ab>Lat.</ab> urina, urceus, urna.
 <LEND>
 
 <L>13041<pc>0837-a<k1>वार<k2>वार
@@ -67153,7 +67153,7 @@
  --With {#संप्रति#} {%sam-prati%}, <ab>Caus.</ab> To report, to tell, <ls>MBh.</ls> 1, 3627.
  --With {#सम्#} {%sam%}, ii. 2, <ab>Ātm.</ab> {@1.@} To know, to meditate, <ls>Bhaṭṭ.</ls> 8, 17. {@2.@} To teach, <ls>MBh.</ls> 1, 2114. {%saṃvidita%}, {@1.@} Known. {@2.@} Agreed, promised. <ab>n.</ab> Agreement, concurrence, <ls>Mālav.</ls> 45, 17. {%sva-saṃvedya%}, {@1.@} To be known only by one's self, <ls>Daśak.</ls> in <ls>Chr.</ls> 182, 14. {@2.@} To be understood by themselves, <ls>Rājat.</ls> 5, 366.
  --<ab>Caus.</ab> To perceive, <ls>Bhaṭṭ.</ls> 17, 63.
- --<ab>Cf.</ab> <ab>Lat.</ab> videre, vitrum; <ab>Goth.</ab> vitan; <ab>A.S.</ab> wítan; <ab>Goth.</ab> veitvods (= {%vidvat, vidvaṃs%}); <ab>A.S.</ab> wíta, gnarus, ge-wit, ge-wittig; <ab>O.H.G.</ab> weizian, To show; <ab>A.S.</ab> wisian, ge-wis; <ab>Goth.</ab> vitôth, in-veitan; <ab>A.S.</ab> witan, imputare, wite, poena, witnian, punire; <ab>O.H.G.</ab> wîzago, propheta, wîzagôn; <ab>A.S.</ab> wítegian; <lang n="greek">ἴδον, εἶδον</lang> (<ab>i. e.</ab> <lang n="greek">ἔϝιδον</lang>), <lang n="greek">ἴνδαλμα, ἀειδής, ἀϊδής, ἄϊστος, οἶδα</lang> (= {%veda%}), <lang n="greek">εἰδώς</lang> (= {%vidvān[s]%}), <lang n="greek">ἴδμων, ἴστωρ, ἱστορέω, ὕδνης, ὕδω, ὑδεω, ἀείδω</lang> (<ab>cf.</ab> the <ab>Zend.</ab> use).
+ --<ab>Cf.</ab> <ab>Lat.</ab> videre, vitrum; <ab>Goth.</ab> vitan; <ab>A.S.</ab> wítan; <ab>Goth.</ab> veitvods (= {%vidvat, vidvaṃs%}); <ab>A.S.</ab> wíta, gnarus, ge-wit, ge-wittig; <ab>O.H.G.</ab> weizian, To show; <ab>A.S.</ab> wisian, ge-wis; <ab>Goth.</ab> vitôth, in-veitan; <ab>A.S.</ab> witan, imputare, wite, poena, witnian, punire; <ab>O.H.G.</ab> wîzago, propheta, wîzagôn; <ab>A.S.</ab> wítegian; <lang n="greek">ἴδον, εἶδον</lang> (<ab>i. e.</ab> <lang n="greek">ἔϝιδον</lang>), <lang n="greek">ἴνδαλμα, ἀειδής, ἀϊδής, ἄϊστος, οἶδα</lang> (= {%veda%}), <lang n="greek">εἰδώς</lang> (= {%vidvān[s]%}), <lang n="greek">ἴδμων, ἴστωρ, ἱστορέω, ὕδνης, ὕδω, ὑδέω, ἀείδω</lang> (<ab>cf.</ab> the <ab>Zend.</ab> use).
 <LEND>
 
 <L>13307<pc>0854-a<k1>विद्<k2>विद्
@@ -69528,7 +69528,7 @@
 1. {#वी#}¦ {%VĪ%}, ii. 2, <ab>Par.</ab> (<ab>ved.</ab>), {@1.@} To go. {@2.@} To approach. {@3.@} To pervade, to obtain. {@4.@} To conceive, to grow pregnant. {@5.@} To desire, to love, <ls>Chr.</ls> 287, 6 = <ls>Rigv.</ls> i. 48, 6. {@6.@} To eat, to enjoy. {@7.@} It is used as substitute for [Page0884-a + 39] the <ab>vb.</ab> {%aj%}, To drive, to move. {@8.@} To throw.
  --<ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%vita%}, Tranquil, quiet, tame.
  --<ab>Caus.</ab> {%vāyaya%} and {%vāpaya%}, To cause to conceive (see {%vap%}).
- --<ab>Cf.</ab> <lang n="greek">οἴσω, οἴζω, οἰήϊον</lang>; <ab>Lat.</ab> in-vîtus (Not liking), in-vitare, To invite.
+ --<ab>Cf.</ab> <lang n="greek">οἴσω, οἴαξ, οἰήϊον</lang>; <ab>Lat.</ab> in-vîtus (Not liking), in-vitare, To invite.
 <LEND>
 
 <L>13818<pc>0884-a<k1>वी<k2>वी
@@ -69689,7 +69689,7 @@
 ¦ {%Eka-%}, <ab>m.</ab> an unparalleled hero, <ls>MBh.</ls> 4, 1912.
 ¦ {%Mahā-%}, <ab>m.</ab> 1. a hero. 2. a lion. 3. a white horse. 4. a sort of hawk. 5. Garuḍa. 6. Indra's thunderbolt. 7. Viṣṇu. 8. Agni. 9. sacrificial fire.
 ¦ {%Su-%}, {@I.@} <ab>adj.</ab> abounding in heroes. {@II.@} <ab>m.</ab> <ab>pl.</ab> the name of a people, <ls>Draup.</ls> 8, 9.
- --<ab>Cf.</ab> <ab>Lat.</ab> vir; <ab>Goth.</ab> vair; <ab>A.S.</ab> wer; probably <lang n="greek">ἥρως, Ἥρα, Ἡρακλῆς, εὶρήν</lang>.
+ --<ab>Cf.</ab> <ab>Lat.</ab> vir; <ab>Goth.</ab> vair; <ab>A.S.</ab> wer; probably <lang n="greek">ἥρως, Ἥρα, Ἡρακλῆς, εἰρήν</lang>.
 <LEND>
 
 <L>13849<pc>0885-b<k1>वीरजयन्तिका<k2>वीरजयन्तिका
@@ -69824,7 +69824,7 @@
 ¦ {%Sa-%}, <ab>adj.</ab> decently dressed, <ls>Man.</ls> 2, 193 (<ab>v. r.</ab>).
  --<ab>Caus.</ab> To keep off, <ls>MBh.</ls> 3, 14994.
  --With {#अभिसम्#} {%abhi-sam%}, To cover, <ls>Chr.</ls> 36, 23 (<ab>imperf.</ab> without augment).
- --<ab>Cf.</ab> <ab>O.H.G.</ab> wara; <ab>A.S.</ab> ware, heed; <ab>O.H.G.</ab> wâr, verus; <ab>Goth.</ab> varjan; <ab>A.S.</ab> wreon, To cover; warian, werian, arcere; <ab>O.H.G.</ab> wari, depulsio; werna; <ab>A.S.</ab> wearne, obstaculum; <ab>O.H.G.</ab> warnôn; <ab>A.S.</ab> warnian, wearnian, cavere, prohibere; <ab>Goth.</ab> viljan; <ab>A.S.</ab> willan, velle; <ab>Goth.</ab> valjan; <ab>O.H.G.</ab> weljan, eligere; <ab>Lat.</ab> perhaps aperio, operio; probably velum, velare; verus, valeo, valor; velle; <lang n="greek">ἐρύω, ἀρνέομαι, ὄρομαι, ὤρα, εὑρίσκω, ἀρά, ἀρείων, ἄριστος, ἦρα, βούλομαι, βουλή, βελτίων, βελτιστος</lang>.
+ --<ab>Cf.</ab> <ab>O.H.G.</ab> wara; <ab>A.S.</ab> ware, heed; <ab>O.H.G.</ab> wâr, verus; <ab>Goth.</ab> varjan; <ab>A.S.</ab> wreon, To cover; warian, werian, arcere; <ab>O.H.G.</ab> wari, depulsio; werna; <ab>A.S.</ab> wearne, obstaculum; <ab>O.H.G.</ab> warnôn; <ab>A.S.</ab> warnian, wearnian, cavere, prohibere; <ab>Goth.</ab> viljan; <ab>A.S.</ab> willan, velle; <ab>Goth.</ab> valjan; <ab>O.H.G.</ab> weljan, eligere; <ab>Lat.</ab> perhaps aperio, operio; probably velum, velare; verus, valeo, valor; velle; <lang n="greek">ἐρύω, ἀρνέομαι, ὄρομαι, ὤρα, εὑρίσκω, ἀρά, ἀρείων, ἄριστος, ἦρα, βούλομαι, βουλή, βελτίων, βέλτιστος</lang>.
 <LEND>
 
 <L>13868<pc>0888-b<k1>वृंह्<k2>वृंह्
@@ -70102,7 +70102,7 @@
 
 <L>13899<pc>0895-a<k1>वृथा<k2>वृथा
 {#वृथा#}¦ {%vṛthā%}, <ab>i. e.</ab> {%vara + thā%}, <ab>adv.</ab> {@1.@} Without pain (to one's own pleasure), <ls>Chr.</ls> 294, 6 = <ls>Rigv.</ls> i. 88, 6. {@2.@} Without necessity, <ls>Man.</ls> 11, 144 ({%vṛthā-ālambha%}, <ab>m.</ab> Cutting or plucking unnecessarily). {@3.@} In vain, <ls>Man.</ls> 4, 63; vain, <ls>Pañc.</ls> i. <ab>d.</ab> 62. {@4.@} Useless, fruitless, <ls>Pañc.</ls> iii. <ab>d.</ab> 31. {@5.@} Foolishly, <ls>Vikr.</ls> 55, 20, {@6.@} Wrongly, incorrectly, <ls>Śṛṅgārat.</ls> 21. {@7.@} Without being sacrificed, <ls>Man.</ls> 5, 34; 4, 213.
- --<ab>Cf.</ab> <lang n="greek">ῥεῖα, ῥρᾶ, ῥᾷ, ῥάϊστος, ῥᾷδιος</lang>, <ab>etc.</ab>
+ --<ab>Cf.</ab> <lang n="greek">ῥεῖα, βρᾶ, ῥᾷ, ῥάϊστος, ῥᾷδιος</lang>, <ab>etc.</ab>
 <LEND>
 
 <L>13900<pc>0895-a<k1>वृथासंकरजात<k2>वृथासंकरजात
@@ -70159,7 +70159,7 @@
  --With {#संवि#} {%sam-vi%}, To increase, <ls>MBh.</ls> 1, 4977.
  --With {#सम्#} {%sam%}, To grow up, <ls>Sāv.</ls> 2, 10. {%saṃvṛddha%}, Increased, <ls>Rājat.</ls> 5, 382.
  --<ab>Caus.</ab> {@1.@} To cause to grow, to plant, <ls>Pañc.</ls> i. <ab>d.</ab> 275. {@2.@} To augment, <ls>Vikr.</ls> <ab>d.</ab> 158; <ls>MBh.</ls> 2, 1601. {@3.@} To cherish, <ls>Rām.</ls> 1, 39, 18; to bring up, <ls>Pañc.</ls> 182, 13. {@4.@} To nourish, <ls>Hit.</ls> 58, 10, <ab>M.M.</ab> {%saṃvardhita%}, Cherished, brought up, <ls>Daśak.</ls> in <ls>Chr.</ls> 189, 4.
- --<ab>Cf.</ab> <ab>Goth.</ab> valdan; <ab>A.S.</ab> waldan, and at least as akin, <ab>Goth.</ab> vaurts; <ab>O.H.G.</ab> uurza; <lang n="greek">βραδινός, ῥαδινός, ῥίζα, βλαστός, βλασταίνω, βλωθτός</lang> (<lang n="greek">βλωθ</lang> = <ab>ved.</ab> {%vrādh%} in {%vrādhant%}); <ab>A.S.</ab> weald; <lang n="greek">ἄλσος</lang>.
+ --<ab>Cf.</ab> <ab>Goth.</ab> valdan; <ab>A.S.</ab> waldan, and at least as akin, <ab>Goth.</ab> vaurts; <ab>O.H.G.</ab> uurza; <lang n="greek">βραδινός, ῥαδινός, ῥίζα, βλαστός, βλασταίνω, βλωθρός</lang> (<lang n="greek">βλωθ</lang> = <ab>ved.</ab> {%vrādh%} in {%vrādhant%}); <ab>A.S.</ab> weald; <lang n="greek">ἄλσος</lang>.
 <LEND>
 
 <L>13907<pc>0896-b<k1>वृधु<k2>वृधु
@@ -72192,7 +72192,7 @@
 <L>14324<pc>0923-a<k1>व्रश्च्<k2>व्रश्च्
 {#व्रश्च्#}¦ {%VRAŚC%}, i. 6, {%vṛśca%}, <ab>Par.</ab> {@1.@} To tear. {@2.@} To cut, <ls>Bhaṭṭ.</ls> 9, 41. {@3.@} To wound.
  --<ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%vṛkṇa%}, Broken, <ls>Bhaṭṭ.</ls> 12, 75.
- --<ab>Cf.</ab> <lang n="greek">ἕλκος, ῥςκος, λακίς, λακερός</lang>; <ab>Lat.</ab> lacerare, ulcus.
+ --<ab>Cf.</ab> <lang n="greek">ἕλκος, ῥάκος, λακίς, λακερός</lang>; <ab>Lat.</ab> lacerare, ulcus.
 <LEND>
 
 <L>14325<pc>0923-a<k1>व्रश्चन<k2>व्रश्चन
@@ -72525,7 +72525,7 @@
 ¦ {%Saṃdhyā-%}, <ab>m.</ab> the conch proclaiming (by its sounding) the evening hour, <ls>Mālat.</ls> 41, 16.
 ¦ {%Sthūla-%}, <ab>adj.</ab>, <ab>f.</ab> {%khā%}, having a large vulva, <ls>Lass. Pentap.</ls> 65, 16.
 ¦ {%Hema-%}, <ab>m.</ab> Viṣṇu (<ab>cf.</ab> <ls>Pañc.</ls> 44, 15, <ab>sqq.</ab>).
- --<ab>Cf.</ab> <lang n="greek">κόλχη, κόλχος, κόχλος, κάλχη</lang>.
+ --<ab>Cf.</ab> <lang n="greek">κόγχη, κόλχος, κόχλος, κάλχη</lang>.
 <LEND>
 
 <L>14387<pc>0928-b<k1>शङ्खक<k2>शङ्खक
@@ -72909,7 +72909,7 @@
 <LEND>
 
 <L>14463<pc>0934-a<k1>शम्बूक<k2>शम्बूक
-{#शम्बूक#}¦ {%śambūka%} (borrowed from <lang n="greek">σαμϐύκν</lang>), {@I.@} <ab>m.</ab> (and <ab>f.</ab> {%kā%}), A bivalve shell. {@II.@} <ab>m.</ab> {@1.@} A conch-shell. {@2.@} A snail. {@3.@} The edge of the frontal protuberance of an elephant. {@4.@} The name of a Daitya. {@5.@} A proper name, <ls>Utt. Rāmac.</ls> 42, 1.
+{#शम्बूक#}¦ {%śambūka%} (borrowed from <lang n="greek">σαμϐύκη</lang>), {@I.@} <ab>m.</ab> (and <ab>f.</ab> {%kā%}), A bivalve shell. {@II.@} <ab>m.</ab> {@1.@} A conch-shell. {@2.@} A snail. {@3.@} The edge of the frontal protuberance of an elephant. {@4.@} The name of a Daitya. {@5.@} A proper name, <ls>Utt. Rāmac.</ls> 42, 1.
 <LEND>
 
 <L>14464<pc>0934-a<k1>शम्भु<k2>शम्भु
@@ -73117,7 +73117,7 @@
 <LEND>
 
 <L>14506<pc>0936-a<k1>शरु<k2>शरु
-{#शरु#}¦ {%śaru%}, <ab>i. e.</ab> {%śṝ + u%} (or rather {%śar + van%}, <ab>cf.</ab> <lang n="greek">κεραψν + ός</lang>), <ab>m.</ab> {@1.@} An arrow. {@2.@} The thunderbolt of Indra. {@3.@} Any weapon. {@4.@} Passion, anger.
+{#शरु#}¦ {%śaru%}, <ab>i. e.</ab> {%śṝ + u%} (or rather {%śar + van%}, <ab>cf.</ab> <lang n="greek">κεραυν + ός</lang>), <ab>m.</ab> {@1.@} An arrow. {@2.@} The thunderbolt of Indra. {@3.@} Any weapon. {@4.@} Passion, anger.
  --<ab>Cf.</ab> <ab>Goth.</ab> hairus.
 <LEND>
 
@@ -75689,7 +75689,7 @@
 
 <L>15013<pc>0971-b<k1>श्री<k2>श्री
 1. {#श्री#}¦ {%ŚRĪ%} (<ab>cf.</ab> {%śrā%}), ii. 9, {%śrīṇā, ṇī%}, <ab>Par.</ab> <ab>Ātm.</ab> {@1.@} To cook, to burn. {@2.@} To mix.
- --<ab>Cf.</ab> probably <lang n="greek">κίρνμι, κεράω, κεράννυμι, κικράω</lang>, <ab>etc.</ab>; <ab>Lat.</ab> pin-cerna.
+ --<ab>Cf.</ab> probably <lang n="greek">κίρνημι, κεράω, κεράννυμι, κικράω</lang>, <ab>etc.</ab>; <ab>Lat.</ab> pin-cerna.
 <LEND>
 
 <L>15014<pc>0971-b<k1>श्री<k2>श्री
@@ -76184,7 +76184,7 @@
  --<ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%śūna%}. {@1.@} Swelled, swollen, <ls>Suśr.</ls> 2, 134, 3. {@2.@} Increased. {@3.@} Morbidly swollen.
  --With the <ab>prep.</ab> {#उद्#} {%ud, uc-chūna%}, {@1.@} Swollen, <ls>Megh.</ls> 82; <ls>Rājat.</ls> 5, 271; turgid. {@2.@} Lofty, high. {@3.@} Fat, bulky.
  --With {#प्रोद्#} {%pra-ud, proc-chūna%}, Swelled, swollen.
- --<ab>Cf.</ab> <lang n="greek">κίων, κίω, κινέω; κύω, κῦμα, ἐγ-κισσάω, κίσσα, κύαμος, κοῖλος, κύλα, κύτίς, κύαθος, κῶνος, κηκίς</lang> and <lang n="greek">κίκυς</lang> (based on the <ab>frequent.</ab>); <ab>Lat.</ab> cuneus, cumulus, super-cilia, crescere; <ab>Goth.</ab> us-hulon; <ab>A.S.</ab> hol; see {%śūnya%}.
+ --<ab>Cf.</ab> <lang n="greek">κίων, κίω, κινέω; κύω, κῦμα, ἐγ-κισσάω, κίσσα, κύαμος, κοῖλος, κύλα, κύτος, κυτίς, κύαθος, κῶνος, κηκίς</lang> and <lang n="greek">κίκυς</lang> (based on the <ab>frequent.</ab>); <ab>Lat.</ab> cuneus, cumulus, super-cilia, crescere; <ab>Goth.</ab> us-hulon; <ab>A.S.</ab> hol; see {%śūnya%}.
 <LEND>
 
 <L>15111<pc>0978-b<k1>श्वित्<k2>श्वित्
@@ -76394,7 +76394,7 @@
  --With the <ab>prep.</ab> {#नि#} {%ni%}, To spit, <ls>Man.</ls> 5, 145. {%niṣṭhyūta%}, Spit out, <ls>Rājat.</ls> 5, 462 ({%kūrca-ābhāṣaṇa-%}, spit out, <ab>i. e.</ab> uttered, with boasting words); ejected, <ab>ib.</ab> 96. <ab>n.</ab> Saliva, <ls>Man.</ls> 4, 132.
  --With {#अवनि#} {%ava-ni%}, To spit on, <ls>Man.</ls> 8, 282.
  --With {#निस्#} {%nis%}, To sketch, <ls>Daśak.</ls> in <ls>Chr.</ls> 199, 18. {%niḥṣṭhyūta%}, Distilled, <ls>Śāk.</ls> <ab>d.</ab> 80.
- --<ab>Cf.</ab> probably <lang n="greek">σίαλος, σίαλος, στυγέω, στύξ</lang>, <ab>etc.</ab>, <lang n="greek">σπῖλος, σπιλόω, ψύττω, πτύω, ἐπι-ϕθύζω</lang>; <ab>Lat.</ab> spuere; <ab>Goth.</ab> speivan; <ab>A.S.</ab> spíwan; <ab>O.H.G.</ab> spîchilla; <ab>cf.</ab> {%kṣiv%}.
+ --<ab>Cf.</ab> probably <lang n="greek">σίαλον, σίαλος, στυγέω, στύξ</lang>, <ab>etc.</ab>, <lang n="greek">σπῖλος, σπιλόω, ψύττω, πτύω, ἐπι-ϕθύζω</lang>; <ab>Lat.</ab> spuere; <ab>Goth.</ab> speivan; <ab>A.S.</ab> spíwan; <ab>O.H.G.</ab> spîchilla; <ab>cf.</ab> {%kṣiv%}.
 <LEND>
 
 <L>15152<pc>0981-a<k1>ष्ठीवन<k2>ष्ठीवन
@@ -77785,7 +77785,7 @@
 
 <L>15439<pc>1000-b<k1>सदस्<k2>सदस्
 {#सदस्#}¦ {%sad + as%}, <ab>n.</ab> {@1.@} Seat, abode, <ls>Chr.</ls> 291, 2 = <ls>Rigv.</ls> i. 85, 2. {@2.@} (and <ab>m.</ab>), Assembly, <ls>Hit.</ls> i. <ab>d.</ab> 32, <ab>M.M.</ab>
- --<ab>Cf.</ab> <lang n="greek">ἕεος</lang>.
+ --<ab>Cf.</ab> <lang n="greek">ἕδος</lang>.
 <LEND>
 
 <L>15440<pc>1001-a<k1>सदसदात्मक<k2>सदसदात्मक
@@ -80083,7 +80083,7 @@
 {#सह्य#}¦ {%sahya%}, {@A.@} See {%sah%}.
  {@B.@} <ab>i. e.</ab> {%saha + ya%}, {@I.@} <ab>adj.</ab> Powerful, strong. {@II.@} <ab>n.</ab> {@1.@} Health, convalescence. {@2.@} Assistance, <ls>Rām.</ls> 6, 3, 26.
  {@C.@} <ab>m.</ab> The name of a range of mountains, <ls>Kir.</ls> 18, 5.
- --<ab>Cf.</ab> perhaps <lang n="greek">σαο</lang> and <lang n="greek">σω</lang> in <lang n="greek">σαώτεπος, σῶος, σωτήρ, σώζω, σῶκος</lang>; <ab>Lat.</ab> sanus, but questionable on account of <ab>A.S.</ab> sund; <ab>O.H.G.</ab> ga-sunt (perhaps = {%saha + vant%}).
+ --<ab>Cf.</ab> perhaps <lang n="greek">σαο</lang> and <lang n="greek">σω</lang> in <lang n="greek">σαώτερος, σῶος, σωτήρ, σώζω, σῶκος</lang>; <ab>Lat.</ab> sanus, but questionable on account of <ab>A.S.</ab> sund; <ab>O.H.G.</ab> ga-sunt (perhaps = {%saha + vant%}).
 <LEND>
 
 <L>15941<pc>1029-b<k1>सांयात्रिक<k2>सांयात्रिक
@@ -81683,7 +81683,7 @@
 <L>16274<pc>1051-b<k1>सू<k2>सू
 2. {#सू#}¦ {%SŪ%}, i. 6, <ab>Par.</ab> {@1.@} To cast, to send. {@2.@} To incite, to impel.
  --<ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab> {%sūta%}. {@1.@} Sent, dispatched. {@2.@} Gone, departed, <ls>Pañc.</ls> 176, 4; see <ab>s. v.</ab>; see 1. {%su%} with {%ud%}.
- --<ab>Cf.</ab> perhaps <lang n="greek">σύω, σοῦμαι</lang>; <ab>Lat.</ab> sævus.
+ --<ab>Cf.</ab> perhaps <lang n="greek">σεύω, σοῦμαι</lang>; <ab>Lat.</ab> sævus.
 <LEND>
 
 <L>16275<pc>1051-b<k1>सू<k2>सू
@@ -82098,7 +82098,7 @@
  --With {#प्र#} {%pra%}, To proceed, <ls>Pañc.</ls> 120, 9. {%prasṛpta%}, Come forth, <ls>Utt. Rāmac.</ls> 27, 6.
  --With {#वि#} {%vi%}, {@1.@} To sneak about, <ls>Pañc.</ls> ii. <ab>d.</ab> 48; to fly about, <ls>Hit.</ls> 16, 3, <ab>M.M.</ab> {@2.@} To spread, <ls>Mālat.</ls> 32, 4. {@3.@} To disperse, <ls>Nal.</ls> 1, 25. {@4.@} To flow to and fro on (<ab>acc.</ab>), <ls>Utt. Rāmac.</ls> 18, 7. {@5.@} To wind, to meander, <ls>Rām.</ls> 1, 44, 17. {@6.@} To run away, <ls>MBh.</ls> 1, 8286.
  --With {#सम्#} {%sam%}, [Page1058-b + 36] {@1.@} To flow, <ls>Megh.</ls> 29. {@2.@} To glide, to move, <ls>Megh.</ls> 52.
- --<ab>Cf.</ab> <ab>Lat.</ab> serpere; <lang n="greek">ἔρ[ω</lang>; <ab>A.S.</ab> slipan.
+ --<ab>Cf.</ab> <ab>Lat.</ab> serpere; <lang n="greek">ἔρπω</lang>; <ab>A.S.</ab> slipan.
 <LEND>
 
 <L>16349<pc>1058-b<k1>सृपाट<k2>सृपाट
@@ -83070,7 +83070,7 @@
 
 <L>16547<pc>1071-b<k1>स्तुम्भ्<k2>स्तुम्भ्
 † {#स्तुम्भ्#}¦ {%STUMBH%}, ii. 5, {%stubhnu%}, and 9, {%stubhnā, nī%} (<ab>cf.</ab> {%stambh%}), <ab>Par.</ab> {@1.@} To stop (<ab>cf.</ab> <ls>Rigv.</ls> v. 54, 1). {@2.@} To stupify. {@3.@} To expel.
- --<ab>Cf.</ab> <lang n="greek">στῡ́ϕω, στῦϕενός, στυμνός, στυϕεδανός</lang>, and <lang n="greek">τυϕεδανός</lang>, probably <lang n="greek">τυϕλός, τυϕώδης</lang>; perhaps <ab>O.H.G.</ab> stumph, stumbal; <ab>A.S.</ab> stypel; <ab>Goth.</ab> and <ab>A.S.</ab> dumb.
+ --<ab>Cf.</ab> <lang n="greek">στῡ́ϕω, στῦϕελός, στυμνός, στυϕεδανός</lang>, and <lang n="greek">τυϕεδανός</lang>, probably <lang n="greek">τυϕλός, τυϕώδης</lang>; perhaps <ab>O.H.G.</ab> stumph, stumbal; <ab>A.S.</ab> stypel; <ab>Goth.</ab> and <ab>A.S.</ab> dumb.
 <LEND>
 
 <L>16548<pc>1071-b<k1>स्तूप्<k2>स्तूप्
@@ -83095,7 +83095,7 @@
 ¦ {%Su-vistīrṇa%}, <ab>adj.</ab> very large, <ls>Hit.</ls> 79, 13.
  --<ab>Caus.</ab> {@1.@} To cause to spread, <ls>Pañc.</ls> 171, 3. {@2.@} To extend, <ls>Man.</ls> 7, 188. [Page1072-a + 39]
  --With {#सम्#} {%sam%}, {@1.@} To spread, <ls>MBh.</ls> 1, 7163. {@2.@} To cover, <ls>MBh.</ls> 2, 1774.
- --<ab>Cf.</ab> <lang n="greek">στΟρνυμι, στορεΥΣ, στρώννυμι, στλεγγίς</lang>; <ab>Lat.</ab> sternere, strages, struere, stringo; <ab>O.H.G.</ab> sturm; <ab>A.S.</ab> stearm, storm; strene, lectus; <ab>Goth.</ab> straujan; <ab>A.S.</ab> streowian, sternere; <ab>A.S.</ab> strion, thesaurus, strionan; <ab>O.H.G.</ab> sterbjan (old <ab>Caus.</ab>), interficere, sterban; <ab>A.S.</ab> stearfian, steorfan, mori; strec; <ab>O.H.G.</ab> strac; <ab>A.S.</ab> streccan, a-stregdan, a-strican, probably stregan, stredan; ge-strangian, To strengthen, <ab>etc.</ab>
+ --<ab>Cf.</ab> <lang n="greek">στόρνυμι, στορεύς, στρώννυμι, στλεγγίς</lang>; <ab>Lat.</ab> sternere, strages, struere, stringo; <ab>O.H.G.</ab> sturm; <ab>A.S.</ab> stearm, storm; strene, lectus; <ab>Goth.</ab> straujan; <ab>A.S.</ab> streowian, sternere; <ab>A.S.</ab> strion, thesaurus, strionan; <ab>O.H.G.</ab> sterbjan (old <ab>Caus.</ab>), interficere, sterban; <ab>A.S.</ab> stearfian, steorfan, mori; strec; <ab>O.H.G.</ab> strac; <ab>A.S.</ab> streccan, a-stregdan, a-strican, probably stregan, stredan; ge-strangian, To strengthen, <ab>etc.</ab>
 <LEND>
 
 <L>16551<pc>1072-a<k1>स्तृ<k2>स्तृ
@@ -83404,7 +83404,7 @@
 ¦ {%Su-%}, 1. [Page1078-b + 43] very contiguous (to each other), <ls>Rām.</ls> 3, 52, 28. 2. well situated. 3. being well. 4. well defined, circumscribed.
  --<ab>Caus.</ab> {@1.@} To collect, to compose, <ls>Vikr.</ls> 29, 15 (one's self.) {@2.@} To place, <ls>Pañc.</ls> 174, 21. {@3.@} To subject, <ls>Man.</ls> 9, 2. {@4.@} To restrain, to stop. {@5.@} To kill, <ls>MBh.</ls> 1, 4610. {%saṃsthāpita%}, {@1.@} Accumulated. {@2.@} Restrained. {@3.@} Fixed, established.
  --With {#परिसम्#} {%pari-sam, parisaṃsthita%}, Standing together round about, <ls>MBh.</ls> 1, 4827.
- --<ab>Cf.</ab> <lang n="greek">ἵστημι, ἔστην, σταμίν, στῆμα, στήμων, στάμνος, ἱστός, ἐπίσταμαι, στήλη, σταθερός, σταθμός, στῆθος, σθένος, τόπος</lang> (from the <ab>Caus.</ab>); <ab>Lat.</ab> stare, sistere, stamen, stupere (<ab>Caus.</ab>), stupidus; <ab>cf.</ab> {%sthūla%}; <ab>O.H.G.</ab> stân, stên; <ab>Goth.</ab> and <ab>A.S.</ab> standan (<ab>frequent.</ab>); <ab>O.H.G.</ab> standa; <ab>A.S.</ab> stidh, stand, cupellus; stadhelian; <ab>O.H.G.</ab> stat, locus; stat, stad, ripa; tur-studil; <ab>A.S.</ab> studu, postis; <ab>O.H.G.</ab> stunt; <ab>A.S.</ab> stund; <ab>A.S.</ab> staef (based on the <ab>Caus.</ab>), stif, stifian (or to {%styai%} ?). On nouns like {%sthavi%}, <ab>etc.</ab>, are based <lang n="greek">σταυρος, στύω, στῦλος, στόα</lang>; <ab>Goth.</ab> staujan, stôjan; <ab>O.H.G.</ab> stauuan; <ab>cf.</ab> also <ab>A.S.</ab> stow, <ab>etc.</ab>
+ --<ab>Cf.</ab> <lang n="greek">ἵστημι, ἔστην, σταμίν, στῆμα, στήμων, στάμνος, ἱστός, ἐπίσταμαι, στήλη, σταθερός, σταθμός, στῆθος, σθένος, τόπος</lang> (from the <ab>Caus.</ab>); <ab>Lat.</ab> stare, sistere, stamen, stupere (<ab>Caus.</ab>), stupidus; <ab>cf.</ab> {%sthūla%}; <ab>O.H.G.</ab> stân, stên; <ab>Goth.</ab> and <ab>A.S.</ab> standan (<ab>frequent.</ab>); <ab>O.H.G.</ab> standa; <ab>A.S.</ab> stidh, stand, cupellus; stadhelian; <ab>O.H.G.</ab> stat, locus; stat, stad, ripa; tur-studil; <ab>A.S.</ab> studu, postis; <ab>O.H.G.</ab> stunt; <ab>A.S.</ab> stund; <ab>A.S.</ab> staef (based on the <ab>Caus.</ab>), stif, stifian (or to {%styai%} ?). On nouns like {%sthavi%}, <ab>etc.</ab>, are based <lang n="greek">σταυρός, στύω, στῦλος, στόα</lang>; <ab>Goth.</ab> staujan, stôjan; <ab>O.H.G.</ab> stauuan; <ab>cf.</ab> also <ab>A.S.</ab> stow, <ab>etc.</ab>
 <LEND>
 
 <L>16601<pc>1078-b<k1>स्थाणु<k2>स्थाणु
@@ -83453,7 +83453,7 @@
 ¦ {%Sura-%}, <ab>n.</ab> a temple, <ls>Hit.</ls> iii. <ab>d.</ab> 36.
 ¦ {%Siddhi-%}, <ab>n.</ab> name of a country, <ls>Lass.</ls> 40, 19.
 ¦ {%Hṛdaya-%}, <ab>n.</ab> the breast.
- --<ab>Cf.</ab> <lang n="greek">δύστηνος</lang> (<ab>i. e.</ab> <lang n="greek">δυσ-στηνος</lang>), <lang n="greek">ἄ-στηνος, ἀ-στήν, ἀσταίνω, δυσταίνη</lang>.
+ --<ab>Cf.</ab> <lang n="greek">δύστηνος</lang> (<ab>i. e.</ab> <lang n="greek">δυσ-στηνος</lang>), <lang n="greek">ἄ-στηνος, ἀ-στήν, ἀσταίνω, δυσταίνω</lang>.
 <LEND>
 
 <L>16606<pc>1079-b<k1>स्थानक<k2>स्थानक
@@ -84133,7 +84133,7 @@
  --With {#प्र#} {%pra%}, To tremble, <ls>MBh.</ls> 3, 11498. {%prasphurita%}, {@1.@} Trembling, <ls>Johns. Sel.</ls> 22, 112. {@2.@} Swollen, <ls>Pañc.</ls> 220, 1. {@3.@} [Page1089-a + 41] Budded.
  --With {#वि#} {%vi%}, {@1.@} To tremble, <ls>MBh.</ls> 3, 15639. {@2.@} To struggle, <ls>MBh.</ls> 1, 6001. {@3.@} To glitter, <ls>Kathās.</ls> 26, 283. {%visphurita%}, {@1.@} Tremulous, shaken, <ls>Utt. Rāmac.</ls> 117, 10. {@2.@} Swollen, enlarged.
  --<ab>Caus.</ab> {%sphāraya%}, {@1.@} To draw (a bow), <ls>Rām.</ls> 3, 30, 28; <ls>Kir.</ls> 17, 24. {@2.@} To cause to flash, <ls>MBh.</ls> 3, 404. {%visphārita%}, {@1.@} Trembling. {@2.@} Flashing, <ls>Rām.</ls> 1, 54, 19. {@3.@} Twanged or drawn, as a bowstring, <ls>Kir.</ls> 14, 31. {@4.@} Evident.
- --<ab>Cf.</ab> <lang n="greek">σπαίρω</lang> (<ab>i. e.</ab> <lang n="greek">σπαρ + ϳω</lang>; the <ab>Sskr.</ab> {%ph%} is produced by the influence of {%s%}), <lang n="greek">ἀ-απαίρω</lang>, probably <lang n="greek">σπείρω, σπέρμα, σποράς</lang>; the <ab>ved.</ab> use shows that hither belong also <ab>A.S.</ab> spurnan; <lang n="greek">σϕυρόν</lang>; <ab>A.S.</ab> spura; probably <ab>Lat.</ab> sperno. <ab>Cf.</ab> {%skhal%}.
+ --<ab>Cf.</ab> <lang n="greek">σπαίρω</lang> (<ab>i. e.</ab> <lang n="greek">σπαρ + ϳω</lang>; the <ab>Sskr.</ab> {%ph%} is produced by the influence of {%s%}), <lang n="greek">ἀ-σπαίρω</lang>, probably <lang n="greek">σπείρω, σπέρμα, σποράς</lang>; the <ab>ved.</ab> use shows that hither belong also <ab>A.S.</ab> spurnan; <lang n="greek">σϕυρόν</lang>; <ab>A.S.</ab> spura; probably <ab>Lat.</ab> sperno. <ab>Cf.</ab> {%skhal%}.
 <LEND>
 
 <L>16744<pc>1089-a<k1>स्फुर<k2>स्फुर
@@ -84268,7 +84268,7 @@
  --<ab>Comp.</ab>
 ¦ {%Su-%}, <ab>adj.</ab> much surprised, <ls>Pañc.</ls> 41, 21.
  --<ab>Caus.</ab> {%smāpaya%}, To cause to be surprised, <ls>Ragh.</ls> 2, 33.
- --<ab>Cf.</ab> {%smera%} and <ab>O.H.G.</ab> smielan; <ab>A.S.</ab> smaerc, smirk; [Page1091-a + 41] <ab>Lat.</ab> mirari; probably <lang n="greek">σμοιός, μἑμϕομαι</lang> (<ab>Caus.</ab>), <lang n="greek">μῶμος</lang>.
+ --<ab>Cf.</ab> {%smera%} and <ab>O.H.G.</ab> smielan; <ab>A.S.</ab> smaerc, smirk; [Page1091-a + 41] <ab>Lat.</ab> mirari; probably <lang n="greek">σμοιός, μέμϕομαι</lang> (<ab>Caus.</ab>), <lang n="greek">μῶμος</lang>.
 <LEND>
 
 <L>16771<pc>1091-a<k1>स्मिट्<k2>स्मिट्
@@ -84687,7 +84687,7 @@
  --With {#प्र#} {%pra%}, To fall asleep, <ls>Hit.</ls> 50, 2. {%prasupta%}, {@1.@} Beginning to sleep, <ls>Pañc.</ls> 134, 6; gone to bed, <ls>Pañc.</ls> 117, 12. {@2.@} Fallen asleep, <ls>Chr.</ls> 38, 6. {@3.@} Slept, <ls>Sāv.</ls> 5, 65. {@4.@} Sleeping, <ls>Daśak.</ls> in <ls>Chr.</ls> 199, 6.
  --With {#संप्र#} {%sam-pra%}, To sleep, <ls>MBh.</ls> 1, 955.
  --With {#सम्#} {%sam%}, To sleep, <ls>MBh.</ls> 1, 5967.
- --<ab>Cf.</ab> <ab>Lat.</ab> sopire (<ab>Caus.</ab>); <ab>A.S.</ab> swefian; <ab>O.H.G.</ab> suabjan, suebjan; <lang n="greek">ὔπαρ</lang>; see {%svapna%}, also with {%l%} for {%v%} (<ab>cf.</ab> {%śvas%}); <ab>Goth.</ab> slêpan; <ab>A.S.</ab> slápan.
+ --<ab>Cf.</ab> <ab>Lat.</ab> sopire (<ab>Caus.</ab>); <ab>A.S.</ab> swefian; <ab>O.H.G.</ab> suabjan, suebjan; <lang n="greek">ὕπαρ</lang>; see {%svapna%}, also with {%l%} for {%v%} (<ab>cf.</ab> {%śvas%}); <ab>Goth.</ab> slêpan; <ab>A.S.</ab> slápan.
 <LEND>
 
 <L>16853<pc>1096-a<k1>स्वपन<k2>स्वपन
@@ -85298,7 +85298,7 @@
 
 <L>16974<pc>1105-a<k1>हनु<k2>हनु
 {#हनु#}¦ {@I.@} {%hanu%} (<ab>vb.</ab> 1. {%hā?%} <ab>cf.</ab> <ab>A.S.</ab> goma, the jaws), <ab>m.</ab>, <ab>f.</ab> also {#नू#} {%nū%} (and <ab>n.</ab>), The jaw. {@II.@} {%han + u%}, <ab>f.</ab> {@1.@} A weapon. {@2.@} Sickness. {@3.@} Death. {@4.@} A sort of vegetable perfume.
- --<ab>Cf.</ab> <lang n="greek">γένψς</lang>; <ab>Lat.</ab> gena; <ab>Goth.</ab> kinnus; <ab>A.S.</ab> cinn, cyn.
+ --<ab>Cf.</ab> <lang n="greek">γένυς</lang>; <ab>Lat.</ab> gena; <ab>Goth.</ab> kinnus; <ab>A.S.</ab> cinn, cyn.
 <LEND>
 
 <L>16975<pc>1105-a<k1>हनुमन्त्<k2>हनुमन्त्
@@ -85491,7 +85491,7 @@
 
 <L>17016<pc>1107-b<k1>हर्य्<k2>हर्य्
 {#हर्य्#}¦ {%HARY%}, i. 1, <ab>Par.</ab> {@1.@} To take, <ab>ved.</ab>, <ab>cf.</ab> {%hṛ%}. {@2.@} † To go. {@3.@} † To desire. {@4.@} † To be weary.
- --<ab>Cf.</ab> <lang n="greek">χαίρω, χέγως, γελάω</lang>; <ab>Goth.</ab> gailjan, gôljan; <ab>A.S.</ab> gal, gagol; see {%hṛ%}, and <ab>cf.</ab> {%hṛṣ%}.
+ --<ab>Cf.</ab> <lang n="greek">χαίρω, γέλως, γελάω</lang>; <ab>Goth.</ab> gailjan, gôljan; <ab>A.S.</ab> gal, gagol; see {%hṛ%}, and <ab>cf.</ab> {%hṛṣ%}.
 <LEND>
 
 <L>17017<pc>1107-b<k1>हर्यत<k2>हर्यत
@@ -86616,7 +86616,7 @@
 <LEND>
 
 <L>17235<pc>1123-a<k1>हेलि<k2>हेलि
-{#हेलि#}¦ {%hel + i%}, <ab>m.</ab> {@1.@} The sun (borrowed from <lang n="greek">ῆλιος</lang>), <ls>Bhaviṣyap.</ls>, see Aufrecht, <ls>Ujjvalad.</ls> 267, <ab>n.</ab> {@2.@} Embracing.
+{#हेलि#}¦ {%hel + i%}, <ab>m.</ab> {@1.@} The sun (borrowed from <lang n="greek">ἥλιος</lang>), <ls>Bhaviṣyap.</ls>, see Aufrecht, <ls>Ujjvalad.</ls> 267, <ab>n.</ab> {@2.@} Embracing.
 <LEND>
 
 <L>17236<pc>1123-a<k1>हेलुदिण्ण<k2>हेलुदिण्ण
