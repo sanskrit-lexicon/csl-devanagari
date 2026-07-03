@@ -13,9 +13,29 @@ import re
 from indic_transliteration import sanscript
 from parseheadline import parseheadline
 
+XML_TAG_RE = re.compile(r'(<[^<>]*>)')
+
+# Only Vedic dictionaries carry svara accent marks; all others use plain SLP1.
+ACCENTED_DICTS = {'acc', 'gra'}
+
+
+def transliterate_text_preserving_xml_tags(text, inputTranslit):
+    """Transliterate text nodes while preserving XML-like tags."""
+    parts = XML_TAG_RE.split(text)
+    result = []
+    for part in parts:
+        if not part:
+            continue
+        if XML_TAG_RE.fullmatch(part):
+            result.append(part)
+        else:
+            result.append(sanscript.transliterate(part, inputTranslit, 'devanagari'))
+    return ''.join(result)
+
 
 def convert_metaline(dictcode):
     """Convert k1 and k2 from metaline to Devanagari."""
+    scheme = 'slp1_accented' if dictcode in ACCENTED_DICTS else 'slp1'
     # Read data
     filein = os.path.join('..', 'v02', dictcode, dictcode + '.txt')
     fin = codecs.open(filein, 'r', 'utf-8')
@@ -37,7 +57,7 @@ def convert_metaline(dictcode):
                 devameta.append('<' + i + '>')
                 # Convert content of k1 and k2 into Devangari.
                 if i in ['k1', 'k2']:
-                    devameta.append(sanscript.transliterate(meta[i], 'slp1_accented', 'devanagari'))
+                    devameta.append(sanscript.transliterate(meta[i], scheme, 'devanagari'))
                 # Keep rest of content as they are.
                 else:
                     devameta.append(meta[i])
@@ -52,7 +72,7 @@ def convert_metaline(dictcode):
     fout.close()
 
 
-def convert_to_devanagari(data):
+def convert_to_devanagari(data, inputTranslit='slp1'):
     """Convert to Devanagari generically."""
     result = []
     # Read into lines
@@ -66,7 +86,7 @@ def convert_to_devanagari(data):
         # If manipulation is required,
         else:
             # Convert to Devanagari.
-            result.append(sanscript.transliterate(lin, 'slp1_accented', 'devanagari'))
+            result.append(transliterate_text_preserving_xml_tags(lin, inputTranslit))
     # Prepare result
     return '\n'.join(result)
 
@@ -74,7 +94,7 @@ def convert_to_devanagari(data):
 def convert_partially_to_devanagari(startMark, endMark, inputTranslit, data):
     """Convert to Devanagari based on startMark and endMark."""
     # Prepare regex
-    reg = startMark + '.*?' + endMark
+    reg = re.escape(startMark) + '.*?' + re.escape(endMark)
     # Prepare split
     splt = re.split(r'(' + reg + ')', data)
     result = []
@@ -84,9 +104,8 @@ def convert_partially_to_devanagari(startMark, endMark, inputTranslit, data):
             result.append(splt[i])
         # If odd, it is to be converted to Devanagari.
         else:
-            textToConvert = re.sub('^' + startMark, '', splt[i])
-            textToConvert = re.sub(endMark + '$', '', textToConvert)
-            result.append(startMark + sanscript.transliterate(textToConvert, inputTranslit, 'devanagari') + endMark)
+            textToConvert = splt[i][len(startMark):-len(endMark)]
+            result.append(startMark + transliterate_text_preserving_xml_tags(textToConvert, inputTranslit) + endMark)
     # Return the output
     return ''.join(result)
 
@@ -101,13 +120,15 @@ def run_code(dictcode):
     # Initialize output file
     fileout = os.path.join('..', 'v02', dictcode, dictcode + '.txt')
     fout = codecs.open(fileout, 'w', 'utf-8')
+    # Pick SLP1 scheme: accented only for Vedic dictionaries (GRA, ACC).
+    scheme = 'slp1_accented' if dictcode in ACCENTED_DICTS else 'slp1'
     # Depending on the dictcode; apply various startMark, endMark and functions
     if dictcode in ['vcp', 'skd', 'armh']:
-        data = convert_to_devanagari(data)
+        data = convert_to_devanagari(data, scheme)
     elif dictcode in ['mw', 'krm']:
-        data = convert_partially_to_devanagari('<s>', '</s>', 'slp1_accented', data)
+        data = convert_partially_to_devanagari('<s>', '</s>', scheme, data)
     else:
-        data = convert_partially_to_devanagari('{#', '#}', 'slp1_accented', data)
+        data = convert_partially_to_devanagari('{#', '#}', scheme, data)
     # Write to the output file.
     fout.write(data)
     fout.close()
