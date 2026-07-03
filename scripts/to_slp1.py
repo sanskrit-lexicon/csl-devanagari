@@ -12,6 +12,22 @@ import os
 import re
 from indic_transliteration import sanscript
 
+XML_TAG_RE = re.compile(r'(<[^<>]*>)')
+
+
+def transliterate_text_preserving_xml_tags(text, outputTranslit):
+    """Transliterate text nodes while preserving XML-like tags."""
+    parts = XML_TAG_RE.split(text)
+    result = []
+    for part in parts:
+        if not part:
+            continue
+        if XML_TAG_RE.fullmatch(part):
+            result.append(part)
+        else:
+            result.append(sanscript.transliterate(part, 'devanagari', outputTranslit))
+    return ''.join(result)
+
 
 def convert_metaline(dictcode):
     """Convert metaline k1 and k2 to SLP1."""
@@ -27,7 +43,7 @@ def convert_metaline(dictcode):
         # If metaline,
         if lin.startswith('<L>'):
             # Convert to slp1
-            result.append(sanscript.transliterate(lin, 'devanagari', 'slp1_accented'))
+            result.append(transliterate_text_preserving_xml_tags(lin, 'slp1_accented'))
         else:
             # If not metaline, keep it as it is.
             result.append(lin)
@@ -49,7 +65,7 @@ def convert_to_slp1(data):
         # If change required,
         else:
             # Convert to SLP1.
-            result.append(sanscript.transliterate(lin, 'devanagari', 'slp1_accented'))
+            result.append(transliterate_text_preserving_xml_tags(lin, 'slp1_accented'))
     # Return the result
     return '\n'.join(result)
 
@@ -71,7 +87,7 @@ def convert_partially_to_slp1(startMark, endMark, outputTranslit, data):
             textToConvert = re.sub('^' + startMark, '', splt[i])
             textToConvert = re.sub(endMark + '$', '', textToConvert)
             # Transliterate to SLP1
-            result.append(startMark + sanscript.transliterate(textToConvert, 'devanagari', outputTranslit) + endMark)
+            result.append(startMark + transliterate_text_preserving_xml_tags(textToConvert, outputTranslit) + endMark)
     # Return output
     return ''.join(result)
 
