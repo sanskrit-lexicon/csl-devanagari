@@ -1,6 +1,6 @@
 # csl-devanagari
 
-_Created: 26-11-2019 · Last updated: 05-07-2026_
+_Created: 02-09-2021 · Last updated: 11-07-2026_
 
 ## Why this repo exists
 
