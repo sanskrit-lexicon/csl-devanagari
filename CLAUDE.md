@@ -44,3 +44,12 @@ This repository uses the **Cologne tooling-repo taxonomy**. All issues must have
 ## Cross-Repo Coordination
 
 The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
+
+## Operational hazard notes
+
+Destructive-risk facts for this repo (do-not-rerun scripts, decoys, traps) are
+registered centrally in an org-private hub
+([Uprava DANGER_FACTS.md](https://github.com/gasyoun/Uprava/blob/main/DANGER_FACTS.md),
+org members only); the public-safe subset is mirrored in the generated block of
+[AGENTS.md](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/AGENTS.md). Check them
+before running anything that writes.
