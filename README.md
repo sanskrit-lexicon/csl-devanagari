@@ -17,7 +17,7 @@ script, without needing to mentally decode SLP1.
 2. The data from the csl-orig repository is processed via [to_devanagari.py](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/scripts/to_devanagari.py) and stored in a `v02/<dict>/<dict>.txt` file in this repository — e.g. [v02/mw/mw.txt](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/v02/mw/mw.txt).
 3. To ensure the conversion is reversible, [to_slp1.py](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/scripts/to_slp1.py) converts the Devanagari output back to SLP1.
 4. After one round-trip through `to_devanagari.py` and `to_slp1.py`, the result is stored in a `slp1/<dict>.txt` file.
-5. `slp1/<dict>.txt` is compared with the original [csl-orig/v02/<dict>/<dict>.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt).
+5. `slp1/<dict>.txt` is compared with the original [csl-orig/v02/<dict>/<dict>.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/mw/mw.txt).
 6. The `slp1/` folder is not tracked in this repository — it only holds intermediate files for comparison.
 7. If any differences are found, they're written to a `diff/<dict>.txt` file — e.g. [diff/mw.txt](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/diff/mw.txt).
 8. The ideal outcome is that there is no difference between the two files — a clean round-trip proves the Devanagari mirror is faithful to the SLP1 source.
