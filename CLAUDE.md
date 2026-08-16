@@ -1,55 +1,68 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+_Created: 15-05-2026 · Last updated: 16-08-2026_
 
-## Project Overview
+`csl-devanagari` is a **converter** that mirrors every CDSL dictionary source
+from SLP1 ([`csl-orig`](https://github.com/sanskrit-lexicon/csl-orig)) into
+Devanagari so a proofreader can read the native script instead of mentally
+decoding SLP1. It is not a place to correct dictionary text.
 
-**csl-devanagari** is a Sanskrit Lexicon **converter** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
+Org conventions live in [`../CLAUDE.md`](https://github.com/gasyoun/github-spine/blob/main/CLAUDE.md).
+Before encodings or corpus data, read the
+[Sanskrit context primer](https://github.com/gasyoun/github-spine/blob/main/SANSKRIT_CONTEXT_PRIMER.md).
 
-## Repo Category
+## How to run
 
-`converter` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
+One dictionary (needs `indic-transliteration`):
 
-## GitHub Issue Conventions
+```bash
+cd scripts
+bash redo.sh mw
+```
 
-This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
-- **Exactly one type label** (9 options)
-- **Exactly one severity label** (4 levels)
-- **One milestone** (5 options)
+All dictionaries:
 
-### Type Labels
-- `bug` — Code defect (wrong output, broken contract)
-- `feature` — Net-new capability
-- `enhancement` — Improvement to existing capability
-- `performance` — Speed, memory, throughput optimization
-- `tech-debt` — Refactoring, cleanup, dependency updates
-- `security` — CVE, auth issue, credential exposure
-- `documentation` — Prose docs, API docs, comments
-- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
-- `question` — Research, proposals, open discussions
+```bash
+cd scripts
+bash redo_all.sh
+```
 
-### Severity Labels
-- `trivial` — Cosmetic, < 1 hour
-- `minor` — Single function/component
-- `major` — Multiple files, design decision
-- `critical` — Blocks users, data loss/security CVE
+Pipeline (do not invent a second one):
 
-### Milestones
-- **API Stability** — performance, security, regressions
-- **User Experience** — bugs, features, enhancements
-- **Data Quality** — data-pipeline issues, integrity
-- **Developer Experience** — tech-debt, infrastructure, docs
-- **Community** — questions, proposals, discussions
+1. [`scripts/to_devanagari.py`](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/scripts/to_devanagari.py)
+   writes `v02/<dict>/<dict>.txt` (Devanagari mirror, one line per source line).
+2. [`scripts/to_slp1.py`](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/scripts/to_slp1.py)
+   round-trips that file back to SLP1 under untracked `slp1/<dict>.txt`.
+3. Compare `slp1/<dict>.txt` with
+   [`csl-orig/v02/<dict>/<dict>.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/mw/mw.txt).
+   Differences land in `diff/<dict>.txt`. A clean round-trip is the success
+   criterion.
 
-## Cross-Repo Coordination
+Example committed output: `v02/mw/mw.txt` is 880,516 lines.
 
-The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
+CI is Dependabot auto-merge only. There is no test suite; the gate is a clean
+round-trip.
 
-## Operational hazard notes
+## Do not touch
 
-Destructive-risk facts for this repo (do-not-rerun scripts, decoys, traps) are
-registered centrally in an org-private hub
-([Uprava DANGER_FACTS.md](https://github.com/gasyoun/Uprava/blob/main/DANGER_FACTS.md),
-org members only); the public-safe subset is mirrored in the generated block of
-[AGENTS.md](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/AGENTS.md). Check them
-before running anything that writes.
+- Do **not** hand-edit `v02/<dict>/<dict>.txt` — regenerate from `csl-orig`
+  via `redo.sh`.
+- Do **not** commit `slp1/` (intermediate comparison files).
+- Do **not** correct dictionary wording here. Corrections belong in
+  [`csl-corrections`](https://github.com/sanskrit-lexicon/csl-corrections)
+  and ship to `csl-orig` via `/cologne-correction-queue` +
+  `/cologne-batch-pr`.
+- **Never commit or push to `csl-orig`.**
+- `sanskrit-util iast_to_devanagari` is broken — this repo's `to_devanagari.py`
+  is the converter; do not replace it with the broken helper.
+
+Issues use the Cologne tooling taxonomy — see
+[`/cologne-issue-runbook`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-issue-runbook.md).
+Do not recopy type/severity/milestone tables into this file.
+
+Danger facts:
+[Uprava DANGER_FACTS.md](https://github.com/gasyoun/Uprava/blob/main/DANGER_FACTS.md)
+and the generated block of
+[AGENTS.md](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/AGENTS.md).
+
+_Dr. Mārcis Gasūns_
