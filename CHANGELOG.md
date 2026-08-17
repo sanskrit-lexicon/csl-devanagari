@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+
+- **H2820 — CLAUDE.md truth-pass** (Grok 4.6 `grok-4.6`, 16-08-2026). What this
+  repo is (Devanagari mirror of `csl-orig` SLP1), how to run (`bash redo.sh mw`
+  / `redo_all.sh`), do-not-touch (hand-edit `v02/`, commit `slp1/`, push
+  `csl-orig`). Taxonomy tables removed. AGENTS.md twin regenerated.
+
 ## [0.1.1] - 2026-08-04
 
 ### Fixed
