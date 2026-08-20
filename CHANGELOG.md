@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Changed
+
+- [CLAUDE.md](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/CLAUDE.md): dated header (`_Created: 15-05-2026 · Last updated: 20-08-2026_`), How to run (`redo.sh` / unit tests), and what-not-to-touch for generated `v02/` (H3041).
+
 ## [0.1.1] - 2026-08-04
 
 ### Fixed
