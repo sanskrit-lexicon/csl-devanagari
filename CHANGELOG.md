@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.2] - 2026-08-30
 ### Changed
 
 - [CLAUDE.md](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/CLAUDE.md): dated header (`_Created: 15-05-2026 · Last updated: 20-08-2026_`), How to run (`redo.sh` / unit tests), and what-not-to-touch for generated `v02/` (H3041).
