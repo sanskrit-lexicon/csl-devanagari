@@ -1,3 +1,5 @@
+_Created: 03-07-2026 · Last updated: 05-09-2026_
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
@@ -68,3 +70,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - None
 
 [0.1.0]: https://github.com/sanskrit-lexicon/csl-devanagari/releases/tag/v0.1.0
+
+_Dr. Mārcis Gasūns_
