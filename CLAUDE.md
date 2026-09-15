@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 15-05-2026 · Last updated: 05-09-2026_
+_Created: 15-05-2026 · Last updated: 15-09-2026_
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
@@ -25,6 +25,8 @@ All dictionaries:
 cd scripts
 bash redo_all.sh
 ```
+
+`redo_all.sh` stops if `../../csl-orig` is missing or `git pull --ff-only origin main` fails there (see README).
 
 Converter unit tests (from repo root):
 

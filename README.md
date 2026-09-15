@@ -1,6 +1,6 @@
 # csl-devanagari
 
-_Created: 02-09-2021 · Last updated: 11-07-2026_
+_Created: 02-09-2021 · Last updated: 15-09-2026_
 
 ## Why this repo exists
 
@@ -51,6 +51,12 @@ To regenerate all dictionaries at once:
 cd scripts
 bash redo_all.sh
 ```
+
+`redo_all.sh` first updates the sibling `../../csl-orig` clone. Since 15-09-2026
+([#66](https://github.com/sanskrit-lexicon/csl-devanagari/pull/66)) it does so with
+`git pull --ff-only origin main` (csl-orig has no `master` branch) and stops if the folder is
+missing or the pull fails, instead of converting stale data. Fix the folder or pull csl-orig
+by hand, then rerun.
 
 ## Dependencies
 
