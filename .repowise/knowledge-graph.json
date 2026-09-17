@@ -1,0 +1,663 @@
+{
+  "version": "1.0.0",
+  "schema_version": 1,
+  "project": {
+    "name": "csl-devanagari",
+    "is_monorepo": false,
+    "total_files": 19,
+    "entry_points": [],
+    "tech_stack": [],
+    "entry_candidates": [],
+    "graph_mode": "flow"
+  },
+  "nodes": [
+    {
+      "id": "file:.ai_state.md",
+      "type": "document",
+      "filePath": ".ai_state.md",
+      "language": "markdown",
+      "symbolCount": 0,
+      "lineCount": 32,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 1,
+      "tags": [],
+      "summary": "Documentation: .ai_state.md."
+    },
+    {
+      "id": "file:.githooks/pre-commit",
+      "type": "file",
+      "filePath": ".githooks/pre-commit",
+      "language": "shell",
+      "symbolCount": 0,
+      "lineCount": 53,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 2,
+      "tags": [],
+      "summary": "Config module pre-commit."
+    },
+    {
+      "id": "file:.github/dependabot.yml",
+      "type": "config",
+      "filePath": ".github/dependabot.yml",
+      "language": "yaml",
+      "symbolCount": 0,
+      "lineCount": 5,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 3,
+      "tags": [
+        "config"
+      ],
+      "summary": "Configuration file: dependabot.yml."
+    },
+    {
+      "id": "file:.github/workflows/dependabot-auto-merge.yml",
+      "type": "pipeline",
+      "filePath": ".github/workflows/dependabot-auto-merge.yml",
+      "language": "yaml",
+      "symbolCount": 0,
+      "lineCount": 33,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 4,
+      "tags": [
+        "config",
+        "ci"
+      ],
+      "summary": "GitHub Actions CI/CD workflow definition."
+    },
+    {
+      "id": "file:AGENTS.md",
+      "type": "document",
+      "filePath": "AGENTS.md",
+      "language": "markdown",
+      "symbolCount": 0,
+      "lineCount": 60,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 5,
+      "tags": [],
+      "summary": "Documentation: AGENTS.md."
+    },
+    {
+      "id": "file:CHANGELOG.md",
+      "type": "document",
+      "filePath": "CHANGELOG.md",
+      "language": "markdown",
+      "symbolCount": 0,
+      "lineCount": 27,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 6,
+      "tags": [],
+      "summary": "Release history and notable changes."
+    },
+    {
+      "id": "file:CLAUDE.md",
+      "type": "document",
+      "filePath": "CLAUDE.md",
+      "language": "markdown",
+      "symbolCount": 0,
+      "lineCount": 58,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 7,
+      "tags": [],
+      "summary": "Repository instructions and context for AI coding agents."
+    },
+    {
+      "id": "file:CODE_OF_CONDUCT.md",
+      "type": "document",
+      "filePath": "CODE_OF_CONDUCT.md",
+      "language": "markdown",
+      "symbolCount": 0,
+      "lineCount": 3,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 8,
+      "tags": [],
+      "summary": "Community code of conduct."
+    },
+    {
+      "id": "file:CONTRIBUTING.md",
+      "type": "document",
+      "filePath": "CONTRIBUTING.md",
+      "language": "markdown",
+      "symbolCount": 0,
+      "lineCount": 14,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 9,
+      "tags": [],
+      "summary": "How to contribute: workflow, standards, and review process."
+    },
+    {
+      "id": "file:README.md",
+      "type": "document",
+      "filePath": "README.md",
+      "language": "markdown",
+      "symbolCount": 0,
+      "lineCount": 69,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 10,
+      "tags": [],
+      "summary": "Project overview and entry point for new readers."
+    },
+    {
+      "id": "file:scripts/carry_changes_to_cslorig.sh",
+      "type": "file",
+      "filePath": "scripts/carry_changes_to_cslorig.sh",
+      "language": "shell",
+      "symbolCount": 0,
+      "lineCount": 9,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 11,
+      "tags": [],
+      "summary": "Docs & Tooling module carry_changes_to_cslorig.",
+      "primaryOwner": "drdhaval2785"
+    },
+    {
+      "id": "file:scripts/corrections_issue_92/corrections_issue_92.py",
+      "type": "file",
+      "filePath": "scripts/corrections_issue_92/corrections_issue_92.py",
+      "language": "python",
+      "symbolCount": 1,
+      "lineCount": 34,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 12,
+      "tags": [],
+      "summary": "Docs & Tooling module corrections_issue_92 defining update_missing.",
+      "primaryOwner": "drdhaval2785"
+    },
+    {
+      "id": "file:scripts/parseheadline.py",
+      "type": "file",
+      "filePath": "scripts/parseheadline.py",
+      "language": "python",
+      "symbolCount": 2,
+      "lineCount": 35,
+      "complexity": "simple",
+      "pagerank": 0.115499,
+      "communityId": 0,
+      "tags": [],
+      "summary": "Docs & Tooling module parseheadline defining parseheadline, test.",
+      "primaryOwner": "drdhaval2785"
+    },
+    {
+      "id": "file:scripts/redo.sh",
+      "type": "file",
+      "filePath": "scripts/redo.sh",
+      "language": "shell",
+      "symbolCount": 0,
+      "lineCount": 6,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 13,
+      "tags": [],
+      "summary": "Docs & Tooling module redo.",
+      "primaryOwner": "drdhaval2785"
+    },
+    {
+      "id": "file:scripts/redo_all.sh",
+      "type": "file",
+      "filePath": "scripts/redo_all.sh",
+      "language": "shell",
+      "symbolCount": 0,
+      "lineCount": 11,
+      "complexity": "simple",
+      "pagerank": 0.044899,
+      "communityId": 14,
+      "tags": [],
+      "summary": "Docs & Tooling module redo_all.",
+      "primaryOwner": "drdhaval2785"
+    },
+    {
+      "id": "file:scripts/test_to_devanagari_markup.py",
+      "type": "file",
+      "filePath": "scripts/test_to_devanagari_markup.py",
+      "language": "python",
+      "symbolCount": 8,
+      "lineCount": 58,
+      "complexity": "moderate",
+      "pagerank": 0.044899,
+      "communityId": 0,
+      "tags": [
+        "test"
+      ],
+      "summary": "Tests for to_devanagari_markup.",
+      "primaryOwner": "M\u0101rcis Gas\u016bns"
+    },
+    {
+      "id": "file:scripts/test_to_slp1_markup.py",
+      "type": "file",
+      "filePath": "scripts/test_to_slp1_markup.py",
+      "language": "python",
+      "symbolCount": 8,
+      "lineCount": 52,
+      "complexity": "moderate",
+      "pagerank": 0.044899,
+      "communityId": 15,
+      "tags": [
+        "test"
+      ],
+      "summary": "Tests for to_slp1_markup.",
+      "primaryOwner": "M\u0101rcis Gas\u016bns"
+    },
+    {
+      "id": "file:scripts/to_devanagari.py",
+      "type": "file",
+      "filePath": "scripts/to_devanagari.py",
+      "language": "python",
+      "symbolCount": 7,
+      "lineCount": 125,
+      "complexity": "moderate",
+      "pagerank": 0.083062,
+      "communityId": 0,
+      "tags": [],
+      "summary": "Docs & Tooling module to_devanagari defining transliterate_text_preserving_xml_tags, convert_metaline, convert_to_devanagari.",
+      "primaryOwner": "drdhaval2785"
+    },
+    {
+      "id": "file:scripts/to_slp1.py",
+      "type": "file",
+      "filePath": "scripts/to_slp1.py",
+      "language": "python",
+      "symbolCount": 6,
+      "lineCount": 99,
+      "complexity": "moderate",
+      "pagerank": 0.083062,
+      "communityId": 15,
+      "tags": [],
+      "summary": "Docs & Tooling module to_slp1 defining transliterate_text_preserving_xml_tags, convert_metaline, convert_to_slp1.",
+      "primaryOwner": "drdhaval2785"
+    },
+    {
+      "id": "function:scripts/parseheadline.py:parseheadline",
+      "type": "function",
+      "filePath": "scripts/parseheadline.py",
+      "name": "parseheadline",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    },
+    {
+      "id": "function:scripts/parseheadline.py:test",
+      "type": "function",
+      "filePath": "scripts/parseheadline.py",
+      "name": "test",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    },
+    {
+      "id": "function:scripts/to_devanagari.py:convert_metaline",
+      "type": "function",
+      "filePath": "scripts/to_devanagari.py",
+      "name": "convert_metaline",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    },
+    {
+      "id": "function:scripts/to_devanagari.py:convert_partially_to_devanagari",
+      "type": "function",
+      "filePath": "scripts/to_devanagari.py",
+      "name": "convert_partially_to_devanagari",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    },
+    {
+      "id": "function:scripts/to_devanagari.py:convert_to_devanagari",
+      "type": "function",
+      "filePath": "scripts/to_devanagari.py",
+      "name": "convert_to_devanagari",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    },
+    {
+      "id": "function:scripts/to_devanagari.py:run_code",
+      "type": "function",
+      "filePath": "scripts/to_devanagari.py",
+      "name": "run_code",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    },
+    {
+      "id": "function:scripts/to_devanagari.py:transliterate_text_preserving_xml_tags",
+      "type": "function",
+      "filePath": "scripts/to_devanagari.py",
+      "name": "transliterate_text_preserving_xml_tags",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    },
+    {
+      "id": "function:scripts/to_slp1.py:convert_metaline",
+      "type": "function",
+      "filePath": "scripts/to_slp1.py",
+      "name": "convert_metaline",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    },
+    {
+      "id": "function:scripts/to_slp1.py:convert_partially_to_slp1",
+      "type": "function",
+      "filePath": "scripts/to_slp1.py",
+      "name": "convert_partially_to_slp1",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    },
+    {
+      "id": "function:scripts/to_slp1.py:convert_to_slp1",
+      "type": "function",
+      "filePath": "scripts/to_slp1.py",
+      "name": "convert_to_slp1",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    },
+    {
+      "id": "function:scripts/to_slp1.py:run_code",
+      "type": "function",
+      "filePath": "scripts/to_slp1.py",
+      "name": "run_code",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    },
+    {
+      "id": "function:scripts/to_slp1.py:transliterate_text_preserving_xml_tags",
+      "type": "function",
+      "filePath": "scripts/to_slp1.py",
+      "name": "transliterate_text_preserving_xml_tags",
+      "language": "python",
+      "tags": [],
+      "summary": ""
+    }
+  ],
+  "edges": [
+    {
+      "source": "file:scripts/parseheadline.py",
+      "target": "function:scripts/parseheadline.py:parseheadline",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/parseheadline.py",
+      "target": "function:scripts/parseheadline.py:test",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/test_to_devanagari_markup.py",
+      "target": "file:scripts/to_devanagari.py",
+      "type": "tested_by",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/test_to_slp1_markup.py",
+      "target": "file:scripts/to_slp1.py",
+      "type": "tested_by",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/to_devanagari.py",
+      "target": "file:scripts/parseheadline.py",
+      "type": "imports",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/to_devanagari.py",
+      "target": "function:scripts/to_devanagari.py:convert_metaline",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/to_devanagari.py",
+      "target": "function:scripts/to_devanagari.py:convert_partially_to_devanagari",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/to_devanagari.py",
+      "target": "function:scripts/to_devanagari.py:convert_to_devanagari",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/to_devanagari.py",
+      "target": "function:scripts/to_devanagari.py:run_code",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/to_devanagari.py",
+      "target": "function:scripts/to_devanagari.py:transliterate_text_preserving_xml_tags",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/to_slp1.py",
+      "target": "function:scripts/to_slp1.py:convert_metaline",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/to_slp1.py",
+      "target": "function:scripts/to_slp1.py:convert_partially_to_slp1",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/to_slp1.py",
+      "target": "function:scripts/to_slp1.py:convert_to_slp1",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/to_slp1.py",
+      "target": "function:scripts/to_slp1.py:run_code",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    },
+    {
+      "source": "file:scripts/to_slp1.py",
+      "target": "function:scripts/to_slp1.py:transliterate_text_preserving_xml_tags",
+      "type": "contains",
+      "direction": "forward",
+      "weight": 1.0
+    }
+  ],
+  "layers": [
+    {
+      "id": "layer:application",
+      "name": "Application",
+      "description": "",
+      "nodeIds": [
+        "file:.ai_state.md",
+        "file:AGENTS.md",
+        "file:CHANGELOG.md",
+        "file:CLAUDE.md",
+        "file:CODE_OF_CONDUCT.md",
+        "file:CONTRIBUTING.md",
+        "file:README.md"
+      ],
+      "display_order": 0,
+      "order_basis": "canonical"
+    },
+    {
+      "id": "layer:config",
+      "name": "Config",
+      "description": "",
+      "nodeIds": [
+        "file:.githooks/pre-commit",
+        "file:.github/dependabot.yml",
+        "file:.github/workflows/dependabot-auto-merge.yml"
+      ],
+      "display_order": 1,
+      "order_basis": "canonical"
+    },
+    {
+      "id": "layer:docs-tooling",
+      "name": "Docs & Tooling",
+      "description": "",
+      "nodeIds": [
+        "file:scripts/carry_changes_to_cslorig.sh",
+        "file:scripts/corrections_issue_92/corrections_issue_92.py",
+        "file:scripts/parseheadline.py",
+        "file:scripts/redo.sh",
+        "file:scripts/redo_all.sh",
+        "file:scripts/to_devanagari.py",
+        "file:scripts/to_slp1.py"
+      ],
+      "display_order": 2,
+      "order_basis": "canonical"
+    },
+    {
+      "id": "layer:test",
+      "name": "Test",
+      "description": "",
+      "nodeIds": [
+        "file:scripts/test_to_devanagari_markup.py",
+        "file:scripts/test_to_slp1_markup.py"
+      ],
+      "display_order": 3,
+      "order_basis": "canonical"
+    }
+  ],
+  "tour": [
+    {
+      "order": 1,
+      "target_path": "README.md",
+      "page_type": "repo_overview",
+      "title": "README.md",
+      "depth": 0,
+      "kind": "overview",
+      "reason": "Start here for the end-to-end picture before diving into the code.",
+      "layer_id": "layer:application"
+    },
+    {
+      "order": 2,
+      "target_path": "scripts/to_devanagari.py",
+      "page_type": "file_page",
+      "title": "to_devanagari.py",
+      "depth": 0,
+      "kind": "code",
+      "reason": "The walk's anchor \u2014 its imports fan out the widest in a repo with no single entry point.",
+      "layer_id": "layer:docs-tooling"
+    },
+    {
+      "order": 3,
+      "target_path": "scripts/parseheadline.py",
+      "page_type": "file_page",
+      "title": "parseheadline.py",
+      "depth": 1,
+      "kind": "code",
+      "reason": "Directly imported by the anchor above; a core collaborator.",
+      "layer_id": "layer:docs-tooling"
+    },
+    {
+      "order": 4,
+      "target_path": "scripts/to_slp1.py",
+      "page_type": "file_page",
+      "title": "to_slp1.py",
+      "depth": 2,
+      "kind": "code",
+      "reason": "Off the import paths walked above \u2014 a standalone or supporting file.",
+      "layer_id": "layer:docs-tooling"
+    },
+    {
+      "order": 5,
+      "target_path": "scripts/corrections_issue_92/corrections_issue_92.py",
+      "page_type": "file_page",
+      "title": "corrections_issue_92.py",
+      "depth": 2,
+      "kind": "code",
+      "reason": "Off the import paths walked above \u2014 a standalone or supporting file.",
+      "layer_id": "layer:docs-tooling"
+    },
+    {
+      "order": 6,
+      "target_path": "scripts/test_to_devanagari_markup.py",
+      "page_type": "file_page",
+      "title": "test_to_devanagari_markup.py",
+      "depth": 3,
+      "kind": "code",
+      "reason": "The test suite \u2014 how the system's behavior is verified.",
+      "layer_id": "layer:test"
+    }
+  ],
+  "modules": [
+    {
+      "id": "module:application",
+      "name": "Application",
+      "path": "",
+      "layerId": "layer:application",
+      "nodeIds": [
+        "file:.ai_state.md",
+        "file:AGENTS.md",
+        "file:CHANGELOG.md",
+        "file:CLAUDE.md",
+        "file:CODE_OF_CONDUCT.md",
+        "file:CONTRIBUTING.md",
+        "file:README.md"
+      ],
+      "wholeLayer": true,
+      "language": "markdown"
+    },
+    {
+      "id": "module:config",
+      "name": "Config",
+      "path": "",
+      "layerId": "layer:config",
+      "nodeIds": [
+        "file:.githooks/pre-commit",
+        "file:.github/dependabot.yml",
+        "file:.github/workflows/dependabot-auto-merge.yml"
+      ],
+      "wholeLayer": true,
+      "language": "yaml"
+    },
+    {
+      "id": "module:scripts",
+      "name": "Docs & Tooling",
+      "path": "scripts",
+      "layerId": "layer:docs-tooling",
+      "nodeIds": [
+        "file:scripts/carry_changes_to_cslorig.sh",
+        "file:scripts/corrections_issue_92/corrections_issue_92.py",
+        "file:scripts/parseheadline.py",
+        "file:scripts/redo.sh",
+        "file:scripts/redo_all.sh",
+        "file:scripts/to_devanagari.py",
+        "file:scripts/to_slp1.py"
+      ],
+      "wholeLayer": true,
+      "language": "python"
+    }
+  ]
+}
