@@ -91,4 +91,8 @@ before running anything that writes.
 - `slp1/` is an untracked intermediate for the round-trip; do not commit it.
 - Do **not** commit or PR into [csl-orig](https://github.com/sanskrit-lexicon/csl-orig) from here. Source corrections go through the queued monthly batch-PR path.
 
+## Memory store
+
+This repo keeps a committed memory store at [`.claude/projects/csl-devanagari/memory/`](https://github.com/sanskrit-lexicon/csl-devanagari/tree/main/.claude/projects/csl-devanagari/memory) per the org Memory-routing rule ([`/danger-memory`](https://github.com/gasyoun/claude-config/blob/main/commands/danger-memory.md)) — write dangerous/durable facts there and index each in its `MEMORY.md` (H4547).
+
 _Dr. Mārcis Gasūns_
