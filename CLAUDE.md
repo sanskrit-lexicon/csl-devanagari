@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 15-05-2026 · Last updated: 15-09-2026_
+_Created: 15-05-2026 · Last updated: 06-10-2026_
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
@@ -36,6 +36,12 @@ python -m py_compile scripts/to_devanagari.py scripts/to_slp1.py
 ```
 
 Direct converter (same as `redo.sh` first step): `python3 scripts/to_devanagari.py mw`. Reverse: `python3 scripts/to_slp1.py mw`.
+
+## Local git hooks
+
+This clone wires `git config core.hooksPath .githooks` (hook exec bit is load-bearing — #69):
+- `pre-commit` — shared-main-tree guard: refuses commits made directly in the canonical main-tree checkout; work from a git worktree. Escape hatch: `ALLOW_MAIN_TREE_COMMIT=1 git commit`.
+- `pre-push` — stale-base silent-revert block, CRLF-in-blob gate, CHANGELOG `[Unreleased]` queue + conflict-marker gate; runs `scripts/pre_push_stale_base_check.py`. Escape hatch: `ALLOW_STALE_BASE_PUSH=1 git push`.
 
 ## Repo Category
 
@@ -74,7 +80,7 @@ This repository uses the **Cologne tooling-repo taxonomy**. All issues must have
 
 ## Cross-Repo Coordination
 
-The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
+The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories. [.github/CODEOWNERS](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/.github/CODEOWNERS) routes everything to @gasyoun (#68).
 
 ## Operational hazard notes
 
