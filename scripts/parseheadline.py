@@ -34,7 +34,8 @@ def test():
   ntest = idx+1
   try:
    result = parseheadline(line)
-  except:
+  except Exception as e:
+   sys.stderr.write('parseheadline: error at py line %s: %s: %s\n' % (sys.exc_info()[2].tb_lineno,type(e).__name__,e))
    result = 'Error from parseheadline'
   # generate array of lines for output
   outarr =[]
