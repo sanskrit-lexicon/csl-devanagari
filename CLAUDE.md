@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 15-05-2026 · Last updated: 15-09-2026_
+_Created: 15-05-2026 · Last updated: 09-10-2026 (H5885 truth refresh: label tables → runbook pointer, guard hooks + CODEOWNERS facts)_
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
@@ -43,38 +43,26 @@ Direct converter (same as `redo.sh` first step): `python3 scripts/to_devanagari.
 
 ## GitHub Issue Conventions
 
-This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
-- **Exactly one type label** (9 options)
-- **Exactly one severity label** (4 levels)
-- **One milestone** (5 options)
+This repository uses the **Cologne tooling-repo taxonomy**.
 
-### Type Labels
-- `bug` — Code defect (wrong output, broken contract)
-- `feature` — Net-new capability
-- `enhancement` — Improvement to existing capability
-- `performance` — Speed, memory, throughput optimization
-- `tech-debt` — Refactoring, cleanup, dependency updates
-- `security` — CVE, auth issue, credential exposure
-- `documentation` — Prose docs, API docs, comments
-- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
-- `question` — Research, proposals, open discussions
+### Labels and milestones
 
-### Severity Labels
-- `trivial` — Cosmetic, < 1 hour
-- `minor` — Single function/component
-- `major` — Multiple files, design decision
-- `critical` — Blocks users, data loss/security CVE
-
-### Milestones
-- **API Stability** — performance, security, regressions
-- **User Experience** — bugs, features, enhancements
-- **Data Quality** — data-pipeline issues, integrity
-- **Developer Experience** — tech-debt, infrastructure, docs
-- **Community** — questions, proposals, discussions
+All issues carry exactly one type label (9 options), one severity label
+(4 levels), and one milestone (5 options). The canonical definitions live in
+the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md)
+and are applied mechanically by
+[`/cologne-tooling-runbook`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-tooling-runbook.md)
+— do not recopy the label tables into this file.
 
 ## Cross-Repo Coordination
 
 The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
+
+Recent state (09-10-2026): shared-tree guard hooks `.githooks/pre-commit` +
+`post-checkout` carry exec bits (fix #69); `CODEOWNERS` defaults to @gasyoun
+(#68); the root `AGENTS.md` is regenerated weekly from Uprava
+`context_facts.yaml` by the agentsctx twin loop — edit the generator, not the
+generated block.
 
 ## Operational hazard notes
 
