@@ -15,17 +15,30 @@
 # Install once per clone:  git config core.hooksPath .githooks
 # Escape hatch (solo quick fix, no concurrent-session risk):
 #   ALLOW_MAIN_TREE_COMMIT=1 git commit ...
+#
+# Canonical-checkout detection (bughunt 26-10-2026, finding 1): until then only
+# the retired Windows path was compared, so on every macOS/Linux clone the guard
+# silently passed — the "inert guard" class (§263/§333). The $HOME twin is the
+# live box; both are compared, and CANONICAL_MAIN_TREE overrides either for a
+# non-standard layout (same shape as Uprava's crossbox twin of 26-09-2026 and
+# csl-observatory's portable default). Worktrees still never match.
 
 if [ -n "${ALLOW_MAIN_TREE_COMMIT:-}" ]; then
     exit 0
 fi
 
-CANONICAL_MAIN_TREE="C:/Users/user/Documents/GitHub/csl-devanagari"
+CANONICAL_MAIN_TREE="${CANONICAL_MAIN_TREE:-C:/Users/user/Documents/GitHub/csl-devanagari}"
+CANONICAL_MAIN_TREE_HOME="${CANONICAL_MAIN_TREE_HOME:-${HOME:-}/Documents/GitHub/csl-devanagari}"
 toplevel="$(git rev-parse --show-toplevel 2>/dev/null || true)"
 norm_toplevel="$(printf '%s' "$toplevel" | tr 'A-Z' 'a-z' | tr '\\' '/')"
 norm_canonical="$(printf '%s' "$CANONICAL_MAIN_TREE" | tr 'A-Z' 'a-z' | tr '\\' '/')"
+norm_canonical_home="$(printf '%s' "$CANONICAL_MAIN_TREE_HOME" | tr 'A-Z' 'a-z' | tr '\\' '/')"
 
-if [ "$norm_toplevel" = "$norm_canonical" ]; then
+is_canonical=0
+[ -n "$norm_toplevel" ] && [ "$norm_toplevel" = "$norm_canonical" ] && is_canonical=1
+[ -n "$norm_toplevel" ] && [ "$norm_toplevel" = "$norm_canonical_home" ] && is_canonical=1
+
+if [ "$is_canonical" -eq 1 ]; then
     echo "" >&2
     echo "BLOCKED: direct commit in the shared main tree of this repo." >&2
     echo "" >&2
