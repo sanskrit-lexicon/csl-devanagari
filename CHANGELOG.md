@@ -1,4 +1,4 @@
-_Created: 03-07-2026 · Last updated: 05-09-2026_
+_Created: 03-07-2026 · Last updated: 26-10-2026_
 
 # Changelog
 
@@ -8,6 +8,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+### Added
+
+- Bug hunt [BUGHUNT-FINDINGS-csl-devanagari-26.10.2026.md](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/BUGHUNT-FINDINGS-csl-devanagari-26.10.2026.md): no HIGH; 3 MEDIUM + 3 LOW — the shared-main-tree commit guard is inert on macOS (hardcoded Windows path only), the vendored pre-push stale-base checker is 1,854 lines behind its canonical copy, and `carry_changes_to_cslorig.sh` overwrites canonical `csl-orig` with no diff/freshness gate. Converter round-trip re-verified byte-identical on 5 dictionaries (`acsj`, `acph`, `snp`, `abch`, `gra`).
 
 ## [0.1.2] - 2026-08-30
 ### Changed
