@@ -139,6 +139,6 @@ Today's marks (`<s>`/`</s>`, `{#`/`#}`) are regex-inert, so nothing is broken no
 3. **Decide `carry_changes_to_cslorig.sh`**: retire it or gate it (`ALLOW_CARRY`, clean/fresh csl-orig, empty diffs) (finding 3).
 4. **Converter hardening** — in-place `k1`/`k2` conversion, `re.escape` in `to_slp1`, plus a CI job running the 14 tests (findings 4–6).
 
-Per the skill's fix-lane contract these are minted as GTD `@DO` rows rather than silently left in this file.
+Per the skill's fix-lane contract these are registered in [Uprava/GTD_NEXT_ACTIONS.md](https://github.com/gasyoun/Uprava/blob/main/GTD_NEXT_ACTIONS.md) rather than silently left in this file: **Y0A** (guard sweep, `@DO`), **Y0B** (checker resync, `@DO`), **Y0C** (carry-script decision — `@DECIDE`, MG), **Y0D** (converter hardening + CI tests, `@DO`) — all `since 26-10-2026`.
 
 _Dr. Mārcis Gasūns_
