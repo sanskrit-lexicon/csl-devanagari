@@ -11,12 +11,15 @@ import sys
 import os
 import re
 from indic_transliteration import sanscript
-from parseheadline import parseheadline
 
 XML_TAG_RE = re.compile(r'(<[^<>]*>)')
 
 # Only Vedic dictionaries carry svara accent marks; all others use plain SLP1.
 ACCENTED_DICTS = {'acc', 'gra'}
+
+# Metaline fields whose values are Sanskrit text; every other field is kept byte
+# for byte (numbers, `<pc>`, `<h>` class letters, unknown future tags).
+METALINE_TEXT_KEYS = ('k1', 'k2')
 
 
 def transliterate_text_preserving_xml_tags(text, inputTranslit):
@@ -30,6 +33,31 @@ def transliterate_text_preserving_xml_tags(text, inputTranslit):
             result.append(part)
         else:
             result.append(sanscript.transliterate(part, inputTranslit, 'devanagari'))
+    return ''.join(result)
+
+
+def transliterate_metaline_keys(line, inputTranslit):
+    """Transliterate only the <k1>/<k2> values of ONE metaline, in place.
+
+    Buys what the old parseheadline -> dict -> reserialise round trip lost: a
+    metaline may repeat a tag (`<e>,ulapya/<e>2B` in MW), and a dict keeps only
+    the last value, so every earlier duplicate vanished from the mirror (bughunt
+    26-10-2026 finding 4). Everything outside the two text fields — tag order,
+    duplicates, trailing spaces, unknown tags — is returned untouched.
+    """
+    parts = XML_TAG_RE.split(line)
+    result = []
+    current = None
+    for part in parts:
+        if not part:
+            continue
+        if XML_TAG_RE.fullmatch(part):
+            current = part[1:-1]
+            result.append(part)
+        elif current in METALINE_TEXT_KEYS:
+            result.append(sanscript.transliterate(part, inputTranslit, 'devanagari'))
+        else:
+            result.append(part)
     return ''.join(result)
 
 
@@ -47,24 +75,10 @@ def convert_metaline(dictcode):
     lines = data.split('\n')
     # For each line
     for lin in lines:
-        # If metaline,
+        # If metaline, convert its k1/k2 values; every other line is unchanged.
         if lin.startswith('<L>'):
-            # parse the metaline
-            meta = parseheadline(lin)
-            devameta = []
-            for i in meta:
-                # meta tag
-                devameta.append('<' + i + '>')
-                # Convert content of k1 and k2 into Devangari.
-                if i in ['k1', 'k2']:
-                    devameta.append(sanscript.transliterate(meta[i], scheme, 'devanagari'))
-                # Keep rest of content as they are.
-                else:
-                    devameta.append(meta[i])
-            # Prepare result line
-            result.append(''.join(devameta))
+            result.append(transliterate_metaline_keys(lin, scheme))
         else:
-            # If not metaline, no change is affected.
             result.append(lin)
     # Write the result to the output file (the same as input file.)
     fout = codecs.open(filein, 'w', 'utf-8')

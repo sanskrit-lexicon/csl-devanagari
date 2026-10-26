@@ -12,6 +12,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Bug hunt [BUGHUNT-FINDINGS-csl-devanagari-26.10.2026.md](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/BUGHUNT-FINDINGS-csl-devanagari-26.10.2026.md): no HIGH; 3 MEDIUM + 3 LOW — the shared-main-tree commit guard is inert on macOS (hardcoded Windows path only), the vendored pre-push stale-base checker is 1,854 lines behind its canonical copy, and `carry_changes_to_cslorig.sh` overwrites canonical `csl-orig` with no diff/freshness gate. Converter round-trip re-verified byte-identical on 5 dictionaries (`acsj`, `acph`, `snp`, `abch`, `gra`).
+- New `Unit tests` workflow runs the converter suite on every push/PR (no CI job ran the 14 tests before).
+
+### Fixed
+
+- Shared-main-tree commit guard now also matches the `$HOME` canonical checkout (`CANONICAL_MAIN_TREE` / `CANONICAL_MAIN_TREE_HOME` overridable): until now only the retired `C:/Users/user/...` path was compared, so on every macOS/Linux clone the guard passed silently (bughunt finding 1, pinned by `scripts/test_pre_commit_guard.py`).
+- Metaline `<k1>`/`<k2>` are converted in place instead of being reserialised through the tag-keyed `parseheadline` dict, so a metaline that repeats a tag no longer loses all but the last value, and trailing whitespace survives (bughunt finding 4; identical output on all 1,506,456 current metalines except the 22 lines whose trailing blank the old `.strip()` deleted).
+- `to_slp1.convert_partially_to_slp1` regex-escapes its start/end marks like the forward converter does (bughunt finding 5).
 
 ## [0.1.2] - 2026-08-30
 ### Changed

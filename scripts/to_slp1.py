@@ -72,8 +72,12 @@ def convert_to_slp1(data):
 
 def convert_partially_to_slp1(startMark, endMark, outputTranslit, data):
     """Convert to SLP1 based on startMark, endMark."""
-    # Preprare regex.
-    reg = startMark + '.*?' + endMark
+    # Prepare regex. The marks are DATA, not patterns: escape them exactly as the
+    # forward converter does (bughunt 26-10-2026 finding 5) — today's `<s>`/`{#`
+    # are regex-inert, a mark carrying + ( ) \ or { would silently mis-split.
+    start_re = re.escape(startMark)
+    end_re = re.escape(endMark)
+    reg = start_re + '.*?' + end_re
     # Split
     splt = re.split(r'(' + reg + ')', data)
     result = []
@@ -84,8 +88,8 @@ def convert_partially_to_slp1(startMark, endMark, outputTranslit, data):
             result.append(splt[i])
         # If odd,
         else:
-            textToConvert = re.sub('^' + startMark, '', splt[i])
-            textToConvert = re.sub(endMark + '$', '', textToConvert)
+            textToConvert = re.sub('^' + start_re, '', splt[i])
+            textToConvert = re.sub(end_re + '$', '', textToConvert)
             # Transliterate to SLP1
             result.append(startMark + transliterate_text_preserving_xml_tags(textToConvert, outputTranslit) + endMark)
     # Return output
