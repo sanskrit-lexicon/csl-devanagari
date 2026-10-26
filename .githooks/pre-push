@@ -83,6 +83,14 @@ if [ -z "$PY" ]; then
 fi
 
 TOPLEVEL="$(git rev-parse --show-toplevel 2>/dev/null || true)"
+# Gate (1) checker. VENDORED — re-sync from the canonical pair, never edit here:
+#   Uprava/scripts/pre_push_stale_base_check.py  @ 1c8bd84 (26-10-2026)
+#   Uprava/tools/_msk.py                         @ 616930c (26-10-2026)
+# The local copy was 2,072 lines from 08-09-2026 until 26-10-2026, i.e. gate (1)
+# ran the stale rule set on every update push (bughunt 26-10-2026, finding 2).
+# python puts scripts/ on sys.path, so the vendored `from _msk import which_bin`
+# resolves to scripts/_msk.py; missing optional helpers (git_net,
+# generated_artifact_paths, guard_firing_log) degrade fail-open by design.
 CHECKER="$TOPLEVEL/scripts/pre_push_stale_base_check.py"
 # Uprava keeps the census in tools/; cologne_batch_deploy ships it to the other
 # guarded repos as scripts/eol_census.py, beside the stale-base checker. Probe

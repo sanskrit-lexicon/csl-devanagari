@@ -19,6 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Shared-main-tree commit guard now also matches the `$HOME` canonical checkout (`CANONICAL_MAIN_TREE` / `CANONICAL_MAIN_TREE_HOME` overridable): until now only the retired `C:/Users/user/...` path was compared, so on every macOS/Linux clone the guard passed silently (bughunt finding 1, pinned by `scripts/test_pre_commit_guard.py`).
 - Metaline `<k1>`/`<k2>` are converted in place instead of being reserialised through the tag-keyed `parseheadline` dict, so a metaline that repeats a tag no longer loses all but the last value, and trailing whitespace survives (bughunt finding 4; identical output on all 1,506,456 current metalines except the 22 lines whose trailing blank the old `.strip()` deleted).
 - `to_slp1.convert_partially_to_slp1` regex-escapes its start/end marks like the forward converter does (bughunt finding 5).
+- Pre-push gate (1) runs the canonical stale-base checker again: `scripts/pre_push_stale_base_check.py` re-vendored from Uprava `1c8bd84` (2,072 → 3,983 lines) together with its `_msk.py` helper; the local copy was seven weeks and the whole rule/credit exemption layer behind (bughunt finding 2).
+- `scripts/carry_changes_to_cslorig.sh` refuses by default: needs `ALLOW_CARRY=1`, a clean `csl-orig` at `origin/main`, an empty round-trip diff per dictionary, and a mirror not older than the source; prints its plan and supports `--dry-run` (bughunt finding 3). Pinned by `scripts/test_carry_gate.py`.
 
 ## [0.1.2] - 2026-08-30
 ### Changed
