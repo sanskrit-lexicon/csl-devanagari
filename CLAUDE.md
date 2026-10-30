@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 15-05-2026 · Last updated: 09-10-2026 (H5885 truth refresh: label tables → runbook pointer, guard hooks + CODEOWNERS facts)_
+_Created: 15-05-2026 · Last updated: 30-10-2026 (H7474 truth refresh: guard-hook facts corrected to `.githooks/pre-commit` + `pre-push`; commands, paths, CI verified)_
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
@@ -59,7 +59,7 @@ and are applied mechanically by
 The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
 
 Recent state (09-10-2026): shared-tree guard hooks `.githooks/pre-commit` +
-`post-checkout` carry exec bits (fix #69); `CODEOWNERS` defaults to @gasyoun
+`pre-push` carry exec bits (fix #69); `CODEOWNERS` defaults to @gasyoun
 (#68); the root `AGENTS.md` is regenerated weekly from Uprava
 `context_facts.yaml` by the agentsctx twin loop — edit the generator, not the
 generated block.
