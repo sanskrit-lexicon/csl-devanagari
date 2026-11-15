@@ -26,6 +26,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - [CLAUDE.md](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/CLAUDE.md): dated header (`_Created: 15-05-2026 · Last updated: 20-08-2026_`), How to run (`redo.sh` / unit tests), and what-not-to-touch for generated `v02/` (H3041).
+### Changed
+
+- **H2820 — CLAUDE.md truth-pass** (Grok 4.6 `grok-4.6`, 16-08-2026). What this
+  repo is (Devanagari mirror of `csl-orig` SLP1), how to run (`bash redo.sh mw`
+  / `redo_all.sh`), do-not-touch (hand-edit `v02/`, commit `slp1/`, push
+  `csl-orig`). Taxonomy tables removed. AGENTS.md twin regenerated.
 
 ## [0.1.1] - 2026-08-04
 
