@@ -39,6 +39,12 @@ Direct converter (same as `redo.sh` first step): `python3 scripts/to_devanagari.
 
 CI ([unit-tests.yml](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/.github/workflows/unit-tests.yml)) runs the same unittest discovery plus `py_compile scripts/*.py` on Python 3.11 with pinned `indic-transliteration==2.3.82`; re-ran green locally — 32 tests OK (14-11-2026).
 
+## Local git hooks
+
+This clone wires `git config core.hooksPath .githooks` (hook exec bit is load-bearing — #69):
+- `pre-commit` — shared-main-tree guard: refuses commits made directly in the canonical main-tree checkout; work from a git worktree. Escape hatch: `ALLOW_MAIN_TREE_COMMIT=1 git commit`.
+- `pre-push` — stale-base silent-revert block, CRLF-in-blob gate, CHANGELOG `[Unreleased]` queue + conflict-marker gate; runs `scripts/pre_push_stale_base_check.py`. Escape hatch: `ALLOW_STALE_BASE_PUSH=1 git push`.
+
 ## Repo Category
 
 `converter` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
