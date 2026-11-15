@@ -70,8 +70,6 @@ generated block.
 
 This repo keeps a committed memory store at [`.claude/projects/csl-devanagari/memory/`](https://github.com/sanskrit-lexicon/csl-devanagari/tree/main/.claude/projects/csl-devanagari/memory) per the org Memory-routing rule ([`/danger-memory`](https://github.com/gasyoun/claude-config/blob/main/commands/danger-memory.md)) — write dangerous/durable facts there and index each in its `MEMORY.md` (H4547).
 
-_Dr. Mārcis Gasūns_
-
 ## Operational hazard notes
 
 Destructive-risk facts for this repo (do-not-rerun scripts, decoys, traps) are
