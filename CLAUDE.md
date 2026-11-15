@@ -91,4 +91,12 @@ before running anything that writes.
 - `slp1/` is an untracked intermediate for the round-trip; do not commit it.
 - Do **not** commit or PR into [csl-orig](https://github.com/sanskrit-lexicon/csl-orig) from here. Source corrections go through the queued monthly batch-PR path. The single sanctioned write-back is the carry gate [scripts/carry_changes_to_cslorig.sh](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/scripts/carry_changes_to_cslorig.sh) (bughunt 26-10-2026, #82): only with `ALLOW_CARRY=1`, a CLEAN csl-orig at `origin/main`, every `diff/<dict>.txt` empty, and a non-stale mirror — preview with `--dry-run`, never bypass the gates.
 
+## Repo guards
+
+The shared main tree is guarded: `.githooks/pre-commit` blocks main-tree commits
+(escape `ALLOW_MAIN_TREE_COMMIT=1`, solo only) and `.githooks/post-checkout`
+auto-reverts a foreign branch-switch back to `main` (shared-tree branch-switch guard,
+03-10-2026, PR #72; escape `ALLOW_MAIN_TREE_CHECKOUT=1`). Work in a session-unique
+worktree; `core.hooksPath=.githooks`.
+
 _Dr. Mārcis Gasūns_
